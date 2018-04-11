@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">เพิ่มเครื่องดื่ม</string>
+<string name="add_favorite">เพิ่มในรายการโปรด</string>
+<string name="age">อายุของคุณ</string>
+<string name="all_units">ตัวเลขทั้งหมดในหน่วยเครื่องดื่มมาตรฐาน</string>
+<string name="app_name">เนื้อหาของแอลกอฮอล์ในเลือด</string>
+<string name="avg_consumption">การบริโภคเฉลี่ยต่อวัน</string>
+<string name="bac_graph">แผนภูมิระดับของเครื่องดื่มแอลกอฮอล์ของคุณ</string>
+<string name="bar_chart">กราฟแท่ง</string>
+<string name="cancel">ยกเลิก</string>
+<string name="change_time">เวลาที่มีการเปลี่ยนแปลง</string>
+<string name="charts">ระดับปัจจุบันของเครื่องดื่มแอลกอฮอล์</string>
+<string name="clear_all">ล้างและเริ่มต้นรีจิสทรีใหม่</string>
+<string name="config">องค์ประกอบ</string>
+<string name="consumption">บริโภคของคุณ</string>
+<string name="consumption_time">เวลาของการบริโภค</string>
+<string name="current_alc">ระดับปัจจุบันของเครื่องดื่มแอลกอฮอล์</string>
+<string name="default_name">ชื่อเริ่มต้น</string>
+<string name="default_percent">ร้อยละค่าเริ่มต้น</string>
+<string name="del_item">คุณต้องการที่จะลบรายการ?</string>
+<string name="diary">รีจิสทรีของการบริโภค</string>
+<string name="diary_added">เครื่องดื่มที่เพิ่มเข้ามาในรีจิสทรีของคุณ</string>
+<string name="diary_graph">สถิติรายเดือน</string>
+<string name="diary_items">รีจิสทรีของคุณในปัจจุบันของการบริโภค</string>
+<string name="dont_drive">ไม่เคยขับรถหลังจากดื่มเครื่องดื่มแอลกอฮอล์!</string>
+<string name="drink_label">ฉลากของเครื่องดื่ม</string>
+<string name="edit_name">แก้ไขชื่อ</string>
+<string name="exit">ทางออก</string>
+<string name="favorites">รายการโปรด</string>
+<string name="favorite_hint">ค้นหาในรายการโปรด</string>
+<string name="fav_added">เครื่องดื่มเพิ่มในรายการโปรด</string>
+<string name="feedback">ให้ความคิดเห็นของคุณ</string>
+<string name="feedback_prompt">สวัสดีคุณต้องการที่จะให้ความคิดเห็นบางอย่างเพื่อให้เราสามารถปรับปรุงโปรแกรมนี้สำหรับคุณ?</string>
+<string name="female">หญิง</string>
+<string name="fully_sober">คุณเป็นคนเงียบขรึมอย่างเต็มที่</string>
+<string name="go_to_menu">ยอมรับและปิด</string>
+<string name="height">ความสูงของคุณ</string>
+<string name="help">ช่วย</string>
+<string name="help_translate">ช่วยแปลโปรแกรมนี้</string>
+<string name="high_calory">ระดับสูง (เหนือกฎหมาย)</string>
+<string name="info">ข้อมูล</string>
+<string name="information_1">ไปที่การตั้งค่าการป้อนข้อมูลของคุณ: น้ำหนักเพศและเนื้อหาทางกฎหมายของเครื่องดื่มแอลกอฮอล์ในเลือดในขณะขับรถในประเทศหรือจังหวัดของคุณ บันทึกและปิด</string>
+<string name="information_2">ทุกครั้งเมื่อคุณกินเครื่องดื่มคุณควรเพิ่มให้รีจิสทรีของการบริโภคของคุณ คุณสามารถตั้งค่าชนิดปริมาณและร้อยละของเครื่องดื่มแอลกอฮอล์สำหรับแต่ละเครื่องดื่ม นอกจากนี้คุณยังสามารถป้อนเวลาของการบริโภคโดยเริ่มต้นมีการตั้งค่ากับเวลาปัจจุบัน สำหรับเครื่องดื่มค็อกเทลที่คุณควรจะใส่เพียงปริมาณของวอดก้า (หรือเหล้าอื่น ๆ ) ซึ่งมีอยู่ในเครื่องดื่ม</string>
+<string name="information_3">เร่งกระบวนการคุณสามารถบันทึกเครื่องดื่มในโฟลเดอร์รายการโปรดภายใต้ชื่อที่คุณเลือก หลังจากที่เครื่องดื่มจะถูกบันทึกในรายการโปรดของคุณสามารถเพิ่มไปยังรีจิสทรีของการบริโภคของคุณโดยการคลิกเพียงครั้งเดียว</string>
+<string name="information_4">ที่นี่คุณสามารถตรวจสอบและแก้ไขรีจิสทรีของคุณในปัจจุบันของการบริโภค โดยคลิกที่ปุ่ม "ข้อมูล" คุณจะสามารถตรวจสอบรายละเอียดของเครื่องดื่มได้รับการแต่งตั้งและเพิ่มในรีจิสทรีของคุณอีกครั้ง</string>
+<string name="information_5">ระดับปัจจุบันของเครื่องดื่มแอลกอฮอล์โดยจะปรากฏขึ้นและปรับปรุงในเวลาจริงพร้อมกับช่วงเวลาที่จำเป็นเพื่อให้ได้สติอย่างเต็มที่และถูกต้องตามกฎหมายมีสติ (ตามระดับทางกฎหมายของเครื่องดื่มแอลกอฮอล์ขณะขับรถในประเทศหรือจังหวัดของคุณ) แผนภูมิ visualizes เนื้อหาของคุณจากเครื่องดื่มแอลกอฮอล์ในช่วงอดีตที่ผ่านมาและที่จะเกิดขึ้นไม่กี่ชั่วโมง (ป้ายที่ด้านล่างแสดงถึงชั่วโมงเต็ม) เส้นสีแดงบ่งบอกถึงระดับทางกฎหมายของเครื่องดื่มแอลกอฮอล์ คุณสามารถเลือกระหว่างกราฟเส้นและกราฟแท่ง</string>
+<string name="information_6">คุณสามารถติดตามการบริโภคประจำวันของคุณของเครื่องดื่มแอลกอฮอล์ (ที่เก็บรวบรวมจากประวัติที่ผ่านมา) และตรวจทานสถิติเช่นการบริโภครวมและค่าเฉลี่ย ในแต่ละวันจะถูกแทนด้วยแถบหนึ่งของแผนภูมิป้ายด้านซ้ายระบุหน่วยของเครื่องดื่มแอลกอฮอล์บริโภค (1 หน่วย = 10 มิลลิลิตรของแอลกอฮอล์บริสุทธิ์) ลูกศรจะช่วยให้คุณไปที่เดือนอื่น ๆ</string>
+<string name="information_7">สีของจุดที่ตั้งอยู่ใกล้กับระดับของเครื่องดื่มแอลกอฮอล์และสีของบาร์ในกราฟแท่งจะได้รับการเปลี่ยนแปลงตามระดับปัจจุบันของเครื่องดื่มแอลกอฮอล์ ความหมายของสีที่มีการอธิบายไว้ด้านล่าง</string>
+<string name="information_8">โปรแกรมนี้ไม่ได้ให้เกิดขึ้นจริง (จริง) ระดับของแอลกอฮอล์ในเลือดของคุณ แต่การประเมินขึ้นอยู่กับสูตรทางคณิตศาสตร์ เนื้อหาของแอลกอฮอล์ในเลือดขึ้นอยู่กับปัจจัยหลายประการซึ่งจะไม่รวมอยู่ในสูตร ระดับที่แท้จริงของคุณของแอลกอฮอล์ในเลือดอาจแตกต่างจากค่าที่ระบุโดยโปรแกรมนี้</string>
+<string name="legal_alc">ระดับทางกฎหมายของเครื่องดื่มแอลกอฮอล์ในเลือดในประเทศ / จังหวัดที่ของคุณ</string>
+<string name="legal_sober">คุณเป็นคนเงียบขรึมถูกต้องตามกฎหมาย</string>
+<string name="legal_time">คุณจะถูกต้องตามกฎหมายที่มีสติ</string>
+<string name="line_chart">กราฟเส้น</string>
+<string name="low_calory">ระดับต่ำ (ต่ำกว่ากฎหมาย)</string>
+<string name="male">ชาย</string>
+<string name="medium_calory">ระดับปานกลาง (ประมาณกฎหมาย)</string>
+<string name="menu_title">เมนู</string>
+<string name="month">เดือน</string>
+<string name="month_graph_title">การบริโภครายเดือน</string>
+<string name="month_stats">สถิติรายเดือน</string>
+<string name="new_record">คุณต้องการที่จะล้างรายการทั้งหมดและเริ่มต้นรีจิสทรีใหม่?</string>
+<string name="no_data">ไม่มีข้อมูลที่สามารถใช้ได้ในเดือนที่เลือก</string>
+<string name="num_days">จำนวนวันที่มีการบริโภคเครื่องดื่มแอลกอฮอล์</string>
+<string name="ok">ถูก</string>
+<string name="opinion">ความคิดเห็น</string>
+<string name="percent_alcohol">ร้อยละของเครื่องดื่มแอลกอฮอล์</string>
+
+<string name="pick_amount">เลือกไดรฟ์</string>
+<string name="pick_type">เลือกประเภทของเครื่องดื่ม</string>
+<string name="rate_app">คะแนนโปรแกรมนี้!</string>
+<string name="save_close">บันทึกและปิด</string>
+<string name="settings">การตั้งค่า</string>
+<string name="sex">เพศของคุณ</string>
+<string name="sober_time">คุณจะมีสติอย่างเต็มที่ที่</string>
+<string name="standard_unit">(หน่วย = 10 กรัมของแอลกอฮอล์บริสุทธิ์)</string>
+<string name="that_is">ที่อยู่ใน</string>
+<string name="total_consumption">การบริโภครวม</string>
+<string name="type_name">ฉลากของเครื่องดื่ม</string>
+<string name="unit">หน่วยของปริมาณ</string>
+<string name="veryhigh_calory">ระดับที่สูงมาก (มากเหนือกฎหมาย)</string>
+<string name="warning">คำเตือน!</string>
+<string name="weight">น้ำหนักของคุณ</string>
+<string-array name="beer_amounts">
+<item>กระจกขนาดเล็กมาก</item>
+<item>แก้วขนาดเล็ก</item>
+<item>แก้วกลาง</item>
+<item>กระจกขนาดใหญ่</item>
+<item>แก้วขนาดใหญ่มาก</item>
+</string-array>
+<string-array name="units">
+<item>ตัวชี้วัด - มิลลิลิตร (มล)</item>
+<item>ออนซ์อเมริกัน (ออนซ์)</item>
+<item>ออนซ์จักรวรรดิ (ออนซ์)</item>
+</string-array>
+<string-array name="drink_types">
+<item>เบียร์</item>
+<item>ไวน์</item>
+<item>วอดก้าหรือเหล้า</item>
+<item>ค็อกเทล</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>กระจกขนาดเล็กมาก</item>
+<item>แก้วขนาดเล็ก</item>
+<item>แก้วกลาง</item>
+<item>กระจกขนาดใหญ่</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>แก้วขนาดเล็ก</item>
+<item>แก้วกลาง</item>
+<item>กระจกขนาดใหญ่</item>
+</string-array>
+</resources>

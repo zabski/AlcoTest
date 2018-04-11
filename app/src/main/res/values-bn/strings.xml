@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+<string name="add_drink">পানীয় যোগ করুন</string>
+<string name="add_favorite">ফেভারিটে যোগ করুন</string>
+<string name="age">আপনার বয়স</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">মান পানীয় ইউনিট সমস্ত সংখ্যা</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">রক্তে অ্যালকোহলের বিষয়বস্তু</string>
+<string name="avg_consumption">গড় দৈনিক খরচ</string>
+<string name="bac_graph">এলকোহল আপনার স্তর চার্ট</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">নকশা</string>
+<string name="cancel">বাতিল</string>
+<string name="change_time">পরিবর্তনের সময়</string>
+<string name="charts">এলকোহল আপনার বর্তমান স্তর</string>
+<string name="clear_all">সব সাফ করুন এবং নতুন রেজিস্ট্রি শুরু</string>
+<!-- Short from Configuration -->
+<string name="config">কনফিগারেশন</string>
+<string name="consumption">আপনার খরচ</string>
+<string name="consumption_time">খরচ সময়</string>
+<string name="current_alc">এলকোহল আপনার বর্তমান স্তর</string>
+<string name="default_name">নাম ডিফল্ট সেট</string>
+<string name="default_percent">ডিফল্ট শতাংশ</string>
+<string name="del_item">আপনি আইটেম মুছে ফেলতে চান?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">খরচ রেজিস্ট্রি</string>
+<string name="diary_added">আপনার রেজিস্ট্রি যোগ পান</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">মাসিক পরিসংখ্যান</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">খরচ আপনার বর্তমান রেজিস্ট্রি</string>
+<string name="dont_drive">অ্যালকোহল পান পরে ড্রাইভ না!</string>
+<string name="drink_label">পানীয় লেবেল</string>
+<string name="edit_name">নাম সম্পাদনা করুন</string>
+<string name="exit">প্রস্থান</string>
+<string name="favorites">প্রিয়</string>
+<string name="favorite_hint">ফেভারিটে অনুসন্ধান</string>
+<string name="fav_added">পানীয় ফেভারিটে যোগ</string>
+<string name="feedback">আপনার মতামত দিন</string>
+<string name="feedback_prompt">হ্যালো, আমরা আপনার জন্য এই অ্যাপ্লিকেশন উন্নত করতে পারে, যাতে আমাদের আপনার মতামত পাঠাতে চান?</string>
+<string name="female">মহিলা</string>
+<string name="fully_sober">আপনি সম্পূর্ণরূপে প্রশান্ত হয়</string>
+<string name="go_to_menu">এবং স্বীকার বন্ধ</string>
+<string name="height">আপনার উচ্চতা</string>
+<string name="help">সাহায্য</string>
+<!-- app being short for application -->
+<string name="help_translate">এই অ্যাপ্লিকেশন অনুবাদ সাহায্য</string>
+<string name="high_calory">উচ্চ স্তরের (আইনি উপরে)</string>
+<string name="info">তথ্য</string>
+<string name="information_1">যদি আপনার দেশ অথবা প্রদেশের যখন ড্রাইভিং ওজন, লিঙ্গ এবং রক্তে অ্যালকোহলের আইনি বিষয়বস্তু: সেটিংস এ যান এবং আপনার তথ্য লিখুন. সংরক্ষণ করুন এবং বন্ধ.</string>
+<string name="information_2">প্রতিটি সময়, আপনি একটি পানীয় গ্রাস যখন, আপনি খরচ আপনার রেজিস্ট্রি এটা যোগ করা উচিত. আপনি প্রতিটি পান করার জন্য টাইপ, ভলিউম এবং এলকোহল শতাংশ সেট করতে পারেন. এটি বর্তমান সময় সেট করা হয় ডিফল্টরূপে এছাড়াও আপনি খরচ সময় প্রবেশ করতে পারেন. ককটেল, যদি আপনি পান থাকা ভদকা (অথবা অন্যান্য মদ), শুধুমাত্র পরিমাণ লিখুন উচিত.</string>
+<string name="information_3">প্রক্রিয়া দ্রুত চলা করার জন্য, আপনি আপনার পছন্দের একটি নামে, ফেভারিটে ফোল্ডারে পানীয় সংরক্ষণ করতে পারবেন. একটি পানীয় ফেভারিটে মধ্যে সংরক্ষিত হয়, আপনি মাত্র এক ক্লিক করে, খরচ আপনার রেজিস্ট্রি এটি যোগ করতে পারেন.</string>
+<string name="information_4">এখানে আপনি পর্যালোচনা এবং খরচ আপনার বর্তমান রেজিস্ট্রি পরিবর্তন করতে পারেন. বাটন \ "\ তথ্য" ক্লিক করে, আপনি নির্বাচিত পানীয় বিবরণ পর্যালোচনা এবং আবার আপনার রেজিস্ট্রি থেকে এটি যোগ করতে হবে.</string>
+<string name="information_5">মদ আপনার বর্তমান স্তর দ্বারা (যদি আপনার দেশ অথবা প্রদেশের যখন ড্রাইভিং মদ আইনি স্তর অনুযায়ী) প্রদর্শন এবং সম্পূর্ণরূপে প্রশান্ত এবং আইনত প্রশান্ত পেতে প্রয়োজন সময় সময়কালের সঙ্গে বরাবর, বাস্তব সময়ে আপডেট করা হবে. চার্ট সাম্প্রতিক অতীতে এবং কয়েক আসন্ন ঘন্টা (নীচে লেবেল পূর্ণ ঘন্টা ইঙ্গিত করে) সময় অ্যালকোহল আপনার কন্টেন্ট, visualizes. লাল লাইন মদ আইনি মাত্রা নির্দেশ করে. আপনি লাইন চার্ট এবং বার চার্ট মধ্যে নির্বাচন করতে পারবেন.</string>
+<string name="information_6">আপনার যেমন মোট এবং গড় খরচ হিসেবে (অতীত রেকর্ড থেকে সংগৃহীত) এলকোহল এবং পর্যালোচনা পরিসংখ্যান আপনার দৈনন্দিন খরচ ট্রেস করতে পারেন. প্রতিটি দিন চার্ট এক বার দ্বারা প্রতিনিধিত্ব করা হয়, বাম লেবেল মদ খাওয়া (1 ইউনিট = বিশুদ্ধ অ্যালকোহল 10 মিলিলিটার) একক নির্দেশ করে. তীরচিহ্ন আপনি অন্যান্য মাস নেভিগেট দেওয়া হবে.</string>
+<string name="information_7">এলকোহল এবং চিত্রটি বার রং স্তর বন্ধ অবস্থিত বিন্দু, রঙ, অ্যালকোহল আপনার বর্তমান স্তর অনুযায়ী, পরিবর্তন করা হবে. রং মানে নীচের ব্যাখ্যা করা হয়.</string>
+<string name="information_8">এই অ্যাপ্লিকেশনটি আপনার প্রকৃত (বাস্তব) রক্তে অ্যালকোহলের মাত্রা, কিন্তু একটি গাণিতিক সূত্র উপর ভিত্তি করে অনুমানের উপলব্ধ করা হয় না. রক্তে অ্যালকোহলের বিষয়বস্তু সূত্র মধ্যে অন্তর্ভুক্ত করা হয়, যা কারণের, বিভিন্ন উপর নির্ভর করে. রক্তে অ্যালকোহলের আপনার প্রকৃত স্তরের এই অ্যাপ্লিকেশন দ্বারা উপলব্ধ মান থেকে ভিন্ন হতে পারে.</string>
+<string name="legal_alc">আপনার দেশ / প্রদেশে আইনগত রক্তের অ্যালকোহল কনটেন্ট</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">আপনি আইনত প্রশান্ত হয়</string>
+<string name="legal_time">আপনি আইনত প্রশান্ত হবে</string>
+<!-- chart made of lines -->
+<string name="line_chart">লাইন চার্ট</string>
+<string name="low_calory">নিম্ন স্তরের (আইনি নীচে)</string>
+<string name="male">পুরুষ</string>
+<string name="medium_calory">মাঝারি স্তরের (আইনি কাছাকাছি)</string>
+<string name="menu_title">মেনু</string>
+<string name="month">মাস</string>
+<string name="month_graph_title">মাসিক খরচ</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">মাসিক পরিসংখ্যান</string>
+<string name="new_record">আপনি সমস্ত এন্ট্রি মুছে ফেলা এবং নতুন রেজিস্ট্রি শুরু করতে চান?</string>
+<string name="no_data">নির্বাচিত মাসের জন্য উপলব্ধ কোন তথ্য</string>
+<string name="num_days">মদ খরচ এর সাথে দিন সংখ্যা</string>
+<string name="ok">ঠিক আছে</string>
+<string name="opinion">ধারণা</string>
+<string name="percent_alcohol">এলকোহল শতাংশ</string>
+<string name="pick_amount">আয়তন</string>
+<string name="pick_type">পানীয় ধরণ</string>
+<!-- app being short for application -->
+<string name="rate_app">এই অ্যাপ্লিকেশন হার!</string>
+<string name="save_close">সংরক্ষণ করুন এবং বন্ধ</string>
+<string name="settings">সেটিংস</string>
+<string name="sex">আপনার যৌন</string>
+<string name="sober_time">আপনি সম্পূর্ণরূপে প্রশান্ত হবে</string>
+<string name="standard_unit">(ইউনিট = বিশুদ্ধ অ্যালকোহল 10g)</string>
+<string name="that_is">যে হয়</string>
+<string name="total_consumption">মোট খরচ</string>
+<string name="type_name">পানীয় লেবেল</string>
+<string name="unit">ভলিউম ইউনিট</string>
+<string name="veryhigh_calory">খুব উচ্চ স্তরের (অনেক আইনি উপরে)</string>
+<string name="warning">সতর্কবাণী!</string>
+<string name="weight">আপনার ওজন</string>
+<string name="choose_theme">রঙ চয়ন করুন</string>
+<string name="wine">ওয়াইন</string>
+<string name="light">উজ্জ্বল</string>
+<string name="dark">অন্ধকার</string>
+<string name="promile">প্রতি মাইল</string>
+<string name="alc_level">অ্যালকোহলের মাত্রা</string>
+<string name="stats">পরিসংখ্যান</string>
+<string name="def_name">ডিফল্ট নাম</string>
+<!--string name="ad_phrase1">আপনার ফোন সঙ্গে অ্যালকোহলের মাত্রা যাচাই করুন.</string>
+<string name="ad_phrase2">আপনি আইনত ড্রাইভ করতে পারেন কিনা পরীক্ষা করুন.</string>
+<string name="ad_phrase3">ডিফল্ট নাম</string-->
+<string-array name="beer_amounts">
+<item>খুব ছোট কাচের</item>
+<item>ছোট কাচের</item>
+<item>মাঝারি গ্লাস</item>
+<item>বড় গ্লাস</item>
+<item>খুব বড় গ্লাস</item>
+</string-array>
+<string-array name="units">
+<item>মেট্রিক - মিলিলিটার (মিলি)</item>
+<item>তরল আউন্স মার্কিন (FL রহমান)</item>
+<item>তরল আউন্স ইম্পেরিয়াল (FL রহমান)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>বিয়ার</item>
+<item>ওয়াইন</item>
+<item>ভদকা বা মদের</item>
+<item>ককটেল</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>খুব ছোট কাচের</item>
+<item>ছোট কাচের</item>
+<item>মাঝারি গ্লাস</item>
+<item>বড় গ্লাস</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>ছোট কাচের</item>
+<item>মাঝারি গ্লাস</item>
+<item>বড় গ্লাস</item>
+</string-array>
+</resources>

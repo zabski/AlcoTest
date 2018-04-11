@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Shto pije</string>
+<string name="add_favorite">Shtoni në të preferuarat</string>
+<string name="age">Mosha juaj</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">Të gjithë numrat në njësitë standarde pije</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">Përmbajtja e alkoolit në gjak</string>
+<string name="avg_consumption">Konsumi mesatar ditor</string>
+<string name="bac_graph">Grafiku i nivelit tuaj të alkoolit</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">Diagramë</string>
+<string name="cancel">Anuloj</string>
+<string name="change_time">Ndryshimi kohë</string>
+<string name="charts">Niveli juaj i tanishëm i alkoolit</string>
+<string name="clear_all">Të qartë të gjithë dhe të fillojnë të regjistrit të re</string>
+<!-- Short from Configuration -->
+<string name="config">Konfiguracion</string>
+<string name="consumption">Konsumi tuaj</string>
+<string name="consumption_time">Koha e konsumit</string>
+<string name="current_alc">Niveli juaj i tanishëm i alkoolit</string>
+<string name="default_name">Set default emrin</string>
+<string name="default_percent">Default përqindje</string>
+<string name="del_item">A doni të fshini artikull?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">Regjistri i konsumit</string>
+<string name="diary_added">Pije shtuar në regjistrin tuaj</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">Statistikat mujore</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">Regjistrit juaj e tanishme e konsumit</string>
+<string name="dont_drive">Asnjëherë përzënë pas konsumimit të alkoolit!</string>
+<string name="drink_label">Emërtim të pijes</string>
+<string name="edit_name">Emri Ndrysho</string>
+<string name="exit">Dalje</string>
+<string name="favorites">Favoritet</string>
+<string name="favorite_hint">Kërkim në të preferuarat</string>
+<string name="fav_added">Pije shtuar në të preferuarat</string>
+<string name="feedback">Jepni mendimin tuaj</string>
+<string name="feedback_prompt">Përshëndetje, do të dëshironit të na dërgoni mendimin tuaj, kështu që ne mund të përmirësojmë këtë kërkesë për ty?</string>
+<string name="female">Femër</string>
+<string name="fully_sober">Ju jeni plotësisht i matur</string>
+<string name="go_to_menu">Prano dhe të mbyllë</string>
+<string name="height">Lartësia Juaj</string>
+<string name="help">Ndihmë</string>
+<!-- app being short for application -->
+<string name="help_translate">Ndihmë të përkthyer këtë kërkesë</string>
+<string name="high_calory">Niveli i lartë (lart ligjor)</string>
+<string name="info">Informacion</string>
+<string name="information_1">Shko tek settings dhe shkruani të dhënat tuaja: peshë, seksi dhe përmbajtjen ligjor të alkoolit në gjak, ndërsa ngarje në vendin tuaj ose në krahinë. Ruaj dhe të ngushtë.</string>
+<string name="information_2">Çdo herë, kur keni konsumuar një pije, ju duhet të shtoni atë në regjistrin tuaj të konsumit. Ju mund të vendosni tipin, vëllimin dhe përqindja e alkoolit për çdo pije. Ju gjithashtu mund të hyjë koha e konsumit, nga parazgjedhur ajo është e vendosur për kohën e tanishme. Për kokteje, ju duhet të hyjnë vetëm sasi vodka (ose liquors tjera), e cila është përmbajtur në pije.</string>
+<string name="information_3">Për të përshpejtuar procesin, ju mund të ruani pije në të preferuarat dosje, nën një emër e zgjedhjes suaj. Pas një pije është ruajtur në të preferuarat, ju mund të shtoni atë në regjistrin tuaj të konsumit, me vetëm një klik.</string>
+<string name="information_4">Këtu ju mund të shqyrtojë dhe të modifikojë regjistrit tuaj aktuale të konsumit. Duke klikuar tek \ "info \" button, ju do të jetë në gjendje për të shqyrtuar detajet e pije të zgjedhur dhe shtoni atë në regjistrin tuaj përsëri.</string>
+<string name="information_5">Niveli juaj i tanishëm i alkoolit do të shfaqet me dhe përditësuar në kohë reale, së bashku me periudhën e kohës së nevojshme për të marrë plotësisht i kthjellët dhe ligjërisht i matur (sipas nivelit ligjor të alkoolit gjatë vozitjes në vendin tuaj ose në krahinë). Grafiku visualizes përmbajtjen tuaj të alkoolit, gjatë kaluarën e afërt dhe disa orë të ardhshme (etiketat në fund tregojnë orë të plota). Vija e kuqe tregon nivelin ligjor të alkoolit. Ju mund të zgjidhni në mes tabelë linjës dhe grafiku bar.</string>
+<string name="information_6">Juaj mund të ndjekim e konsumit tuaj të përditshme të alkoolit (të mbledhura nga të dhënat e kaluara) dhe statistikave të shqyrtimit të tilla si konsumin e përgjithshëm dhe mesatar. Çdo ditë është e përfaqësuar nga një bar të tabelës, etiketë në të majtë tregojnë njësi të alkoolit të konsumuar (1 njësi = 10 ml të alkoolit të pastër). Shigjeta do të ju lejojnë të lundruar në muajt e tjerë.</string>
+<string name="information_7">Ngjyra e dot, të vendosura afër nivelit të alkoolit dhe ngjyrat e bare në diagramin, do të ndryshojë, sipas nivelit aktual të alkoolit. Kuptimi i ngjyrave është shpjeguar më poshtë.</string>
+<string name="information_8">Ky aplikacion nuk ofron nivelin tuaj aktual (të vërtetë) e alkoolit në gjak, por një vlerësim bazuar në një formulë matematikore. Përmbajtja e alkoolit në gjak varet sërë faktorësh, të cilët nuk janë përfshirë në formulë. Niveli juaj i vërtetë i alkoolit në gjak mund të ndryshojë nga vlera e ofruar nga kjo kërkesë.</string>
+<string name="legal_alc">Ligjore Përmbajtja Alkooli gjakut në vendin tuaj / krahinë</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">Ju jeni ligjërisht i matur</string>
+<string name="legal_time">Ju do të jetë ligjërisht i matur në</string>
+<!-- chart made of lines -->
+<string name="line_chart">Grafiku Line</string>
+<string name="low_calory">Niveli i ulët (nën ligjor)</string>
+<string name="male">Mashkull</string>
+<string name="medium_calory">Niveli i mesëm (rreth ligjor)</string>
+<string name="menu_title">Menu</string>
+<string name="month">Muaj</string>
+<string name="month_graph_title">Konsumi mujor</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">Statistikat mujore</string>
+<string name="new_record">A doni të qartë të gjitha shënimet dhe të fillojnë të regjistrit të re?</string>
+<string name="no_data">Nuk ka të dhëna në dispozicion për muajin e përzgjedhur</string>
+<string name="num_days">Numri i ditëve me konsumin e alkoolit</string>
+<string name="ok">Në rregull</string>
+<string name="opinion">Mendim</string>
+<string name="percent_alcohol">Përqindja e alkoolit</string>
+<string name="pick_amount">Vëllim</string>
+<string name="pick_type">Lloj pije</string>
+<!-- app being short for application -->
+<string name="rate_app">Vlerësoni këtë kërkesë!</string>
+<string name="save_close">Ruaj dhe të mbyllë</string>
+<string name="settings">Cilësimet</string>
+<string name="sex">Sex tuaj</string>
+<string name="sober_time">Ju do të jetë plotësisht i matur në</string>
+<string name="standard_unit">(Njësi = 10g e alkoolit të pastër)</string>
+<string name="that_is">Që është në</string>
+<string name="total_consumption">Konsumi total</string>
+<string name="type_name">Emërtim të pijes</string>
+<string name="unit">Njësia e vëllimit</string>
+<string name="veryhigh_calory">Niveli shumë i lartë (shumë më lartë ligjor)</string>
+<string name="warning">Paralajmërim!</string>
+<string name="weight">Pesha juaj</string>
+<string name="choose_theme">Zgjidhni ngjyra</string>
+<string name="wine">Verë</string>
+<string name="light">I ndritshëm</string>
+<string name="dark">I errët</string>
+<string name="promile">Permile</string>
+<string name="alc_level">Niveli i alkoolit</string>
+<string name="stats">Të dhëna statistikore</string>
+<string name="def_name">Emri parazgjedhje</string>
+<string-array name="beer_amounts">
+<item>Qelqi shumë të vogla</item>
+<item>Xham i vogël</item>
+<item>Qelqi Medium</item>
+<item>Qelqi i madh</item>
+<item>Xhami shumë e madhe</item>
+</string-array>
+<string-array name="units">
+<item>Metrikë - ml (ml)</item>
+<item>Ons fluide SHBA (fl oz)</item>
+<item>Ons fluide Imperial (oz fl)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>Birrë</item>
+<item>Verë</item>
+<item>Vodka ose pijeve</item>
+<item>Koktej</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Qelqi shumë të vogla</item>
+<item>Xham i vogël</item>
+<item>Qelqi Medium</item>
+<item>Qelqi i madh</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Xham i vogël</item>
+<item>Qelqi Medium</item>
+<item>Qelqi i madh</item>
+</string-array>
+</resources>

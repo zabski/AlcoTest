@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Lisää juoma</string>
+<string name="add_favorite">Lisää suosikkeihin</string>
+<string name="age">Ikäsi</string>
+<string name="all_units">Kaikki numerot vakio juoda yksiköissä</string>
+<string name="app_name">Pitoisuus alkoholia veressä</string>
+<string name="avg_consumption">Keskimääräinen päivittäinen kulutus</string>
+<string name="bac_graph">Kaavio tasosi alkoholia</string>
+<string name="bar_chart">Pylväsdiagrammi</string>
+<string name="cancel">Peruuttaa</string>
+<string name="change_time">Muutoksen aika</string>
+<string name="charts">Nykyinen taso alkoholia</string>
+<string name="clear_all">Poista kaikki ja aloittaa uusia rekisterin</string>
+<string name="config">Kokoonpano</string>
+<string name="consumption">Juontia</string>
+<string name="consumption_time">Kulutusajankohdan</string>
+<string name="current_alc">Nykyinen taso alkoholi on</string>
+<string name="default_name">Oletus nimi</string>
+<string name="default_percent">Oletuksena prosenttiosuus</string>
+<string name="del_item">Haluat poistaa kohteen?</string>
+<string name="diary">Rekisterin kulutuksen</string>
+<string name="diary_added">Juoma lisätään rekisterin</string>
+<string name="diary_graph">Kuukausittaiset tilastot</string>
+<string name="diary_items">Nykyisen rekisterin kulutuksesta</string>
+<string name="dont_drive">Koskaan aja alkoholin nauttimisen jälkeen!</string>
+<string name="drink_label">Etiketissä juoma</string>
+<string name="edit_name">Muokkaa nimeä</string>
+<string name="exit">Poistua</string>
+<string name="favorites">Suosikit</string>
+<string name="favorite_hint">Search in suosikit</string>
+<string name="fav_added">Juoma lisätty suosikkeihin</string>
+<string name="feedback">Kerro mielipiteesi</string>
+<string name="feedback_prompt">Hei, haluaisit antaa meille joitakin huomautuksia, jotta voimme parantaa sovellus sinulle?</string>
+<string name="female">Nainen</string>
+<string name="fully_sober">Olet täysin raittiina</string>
+<string name="go_to_menu">Hyväksyä ja sulkea</string>
+<string name="height">Pituutesi</string>
+<string name="help">Auttaa</string>
+<string name="help_translate">Auttaa kääntämään tämän sovelluksen</string>
+<string name="high_calory">Korkea (yli oikeudellinen)</string>
+<string name="info">Tiedot</string>
+<string name="information_1">Mene asetukset syöttää tietoja: paino, sukupuoli ja oikeudellinen sisältö alkoholia veressä ajon omassa maassa tai maakunnassa. Tallenna ja sulje.</string>
+<string name="information_2">Joka kerta, kun kuluttaa juoma, sinun pitäisi lisätä sen rekisterin kulutuksen. Voit asettaa tyyppi, määrä ja prosenttiosuus alkoholia jokaista juoma. Voit myös kirjoittaa ajan kulutuksen, oletuksena se on asetettu kellonajan. Cocktaileja, sinun pitäisi tulla vain määrän vodkaa (tai muut alkoholijuomat), joka sisältyy juoma.</string>
+<string name="information_3">Kiirehtimään, voit tallentaa juomia Suosikit-kansioon, jonka nimen valintasi. Jälkeen juoma on tallennettu suosikkeja, voit lisätä sen rekisterin kulutuksen, vain yhdellä napsautuksella.</string>
+<string name="information_4">Täällä voit tarkastella ja muokata nykyistä rekisteriä kulutuksesta. Klikkaamalla "tiedot" -painiketta, voit tarkistaa tiedot valitun juoman ja lisätä sen rekisterin uudelleen.</string>
+<string name="information_5">Nykyinen taso alkoholia vuoteen näytetään ja päivitetään reaaliajassa, sekä tarvittava aika saada täysin raittiina ja laillisesti raittiina (mukaan oikeudellisesti alkoholia ajon aikana omassa maassa tai maakunta).Kaavio visualisoi sisältöä alkoholia, aikana viime aikoina ja muutaman tulevista tuntia (etiketit alareunassa osoittaa täyttä tuntia). Punainen viiva osoittaa juridisesti alkoholia. Voit valita viivakaavioksi ja pylväsdiagrammi.</string>
+<string name="information_6">Voit seurata päivittäistä alkoholin kulutus (kerätään aiempien tietojen) ja lue tilastoja esimerkiksi kokonais- ja keskikulutuksen. Jokainen päivä on edustaa yksi palkki kaavion, etiketti vasemmalla osoittavat annosta alkoholia kulutetaan (1 yksikkö = 10 millilitraa puhdasta alkoholia). Nuolet avulla voit siirtyä muihin kuukautta.</string>
+<string name="information_7">Väri piste, joka sijaitsee lähellä tasoa alkoholin ja värit baareissa pylväsdiagrammi, on muuttumassa, mukaan nykyinen taso alkoholia.Värien merkitys on selitetty alla.</string>
+<string name="information_8">Tämä sovellus ei anna todellista (real) taso alkoholia veressä, mutta arvio perustuu matemaattiseen kaavaan. Pitoisuus alkoholia veressä riippuu erilaisista tekijöistä, jotka eivät sisälly kaavan. Todellinen alkoholipitoisuus veressä voi poiketa arvosta antanut tämä sovellus.</string>
+<string name="legal_alc">Oikeudellisesti alkoholia veressä maasi / maakunta</string>
+<string name="legal_sober">Olet laillisesti raittiina</string>
+<string name="legal_time">Sinun tulee olla laillisesti selvin päin</string>
+<string name="line_chart">Janakaaviona</string>
+<string name="low_calory">Alhainen (alle oikeudellinen)</string>
+<string name="male">Uros</string>
+<string name="medium_calory">Keskitason (noin oikeudellinen)</string>
+<string name="menu_title">Menu</string>
+<string name="month">Kuukausi</string>
+<string name="month_graph_title">Kuukausittainen kulutus</string>
+<string name="month_stats">Kuukausittaiset tilastot</string>
+<string name="new_record">Haluat poistaa kaikki merkinnät ja aloittaa uuden rekisterin?</string>
+<string name="no_data">Tietoja ei ole käytettävissä valitulle kuukausi</string>
+<string name="num_days">Päivien määrä alkoholinkäytön</string>
+<string name="ok">Okei</string>
+<string name="opinion">Lausunto</string>
+<string name="percent_alcohol">Alkoholiprosentin</string>
+<string name="pick_amount">Valitse tilavuus</string>
+<string name="pick_type">Valitse tyyppi juoma</string>
+<string name="rate_app">Arvioi tämä sovellus!</string>
+<string name="save_close">Tallenna ja sulje</string>
+<string name="settings">Asetukset</string>
+<string name="sex">Sukupuoli</string>
+<string name="sober_time">Sinulla on täysin selvin päin</string>
+<string name="standard_unit">(yksikkö = 10 grammaa puhdasta alkoholia)</string>
+<string name="that_is">Joka on</string>
+<string name="total_consumption">Kokonaiskulutus</string>
+<string name="type_name">Etiketissä juoma</string>
+<string name="unit">Tilavuusyksiköit-</string>
+<string name="veryhigh_calory">Erittäin korkea (paljon edellä juridinen)</string>
+<string name="warning">VAROITUS!</string>
+<string name="weight">Painosi</string>
+<string-array name="beer_amounts">
+<item>Hyvin pieni lasi</item>
+<item>Pieni lasi</item>
+<item>Keskikokoinen lasi</item>
+<item>Iso lasi</item>
+<item>Erittäin suuret lasi</item>
+</string-array>
+<string-array name="units">
+<item>Metrinen - millilitraa (ml)</item>
+<item>Nesteunssi American (nesteunssi)</item>
+<item>Nesteunssi Imperial (nesteunssi)</item>
+</string-array>
+<string-array name="drink_types">
+<item>Olut</item>
+<item>Viini</item>
+<item>Vodka tai viina</item>
+<item>Cocktail</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Hyvin pieni lasi</item>
+<item>Pieni lasi</item>
+<item>Keskikokoinen lasi</item>
+<item>Iso lasi</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Pieni lasi</item>
+<item>Keskikokoinen lasi</item>
+<item>Iso lasi</item>
+</string-array>
+</resources>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">பானம் சேர்க்க</string>
+<string name="add_favorite">பிடித்தவை சேர்க்கவும்</string>
+<string name="age">உங்கள் வயது</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">நிலையான குடிக்க அலகுகள் உள்ள எண்கள்</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">ரத்தத்தில் ஆல்கஹாலின் உள்ளடக்க</string>
+<string name="avg_consumption">சராசரி தினசரி நுகர்வு</string>
+<string name="bac_graph">மது உங்கள் நிலை வரைவு</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">வரைபடம்</string>
+<string name="cancel">ரத்து</string>
+<string name="change_time">மாற்றம் நேரம்</string>
+<string name="charts">மது, உங்கள் தற்போதைய நிலை</string>
+<string name="clear_all">அனைத்து அழிக்க புதிய பதிவேட்டில் தொடங்க</string>
+<!-- Short from Configuration -->
+<string name="config">கட்டமைப்பு</string>
+<string name="consumption">உங்கள் நுகர்வு</string>
+<string name="consumption_time">நுகர்வு நேரம்</string>
+<string name="current_alc">மது, உங்கள் தற்போதைய நிலை</string>
+<string name="default_name">பெயர் அமைக்கப்படும்இயல்பான</string>
+<string name="default_percent">இயல்புநிலை சதவீதம்</string>
+<string name="del_item">நீங்கள் நீக்க வேண்டுமா?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">நுகர்வு பதிவகம்</string>
+<string name="diary_added">உங்கள் பதிவேட்டில் சேர்க்க குடிக்காதே</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">மாதாந்திர புள்ளி</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">நுகர்வு, உங்கள் தற்போதைய பதிவேட்டில்</string>
+<string name="dont_drive">மது குடித்து பிறகு ஓட்ட வேண்டாம்!</string>
+<string name="drink_label">பானம் லேபிள்</string>
+<string name="edit_name">பெயரை</string>
+<string name="exit">வெளியேறு</string>
+<string name="favorites">பிடித்தவை</string>
+<string name="favorite_hint">பிடித்தவை தேடல்</string>
+<string name="fav_added">குடியும் பிடித்தவை சேர்ந்தது</string>
+<string name="feedback">உங்கள் கருத்தை கொடுக்க</string>
+<string name="feedback_prompt">வணக்கம், நீங்கள் நாம் இந்த பயன்பாட்டை மேம்படுத்த முடியும் என்று, எங்களுக்கு உங்கள் கருத்து அனுப்பவும் விரும்புகிறீர்கள்?</string>
+<string name="female">பெண்</string>
+<string name="fully_sober">நீங்கள் முழுமையாக நிதானத்துடன்</string>
+<string name="go_to_menu">ஏற்கவும் மற்றும் மூட</string>
+<string name="height">உங்கள் உயரம்</string>
+<string name="help">உதவி</string>
+<!-- app being short for application -->
+<string name="help_translate">இந்த பயன்பாடு மொழிபெயர்க்க உதவும்</string>
+<string name="high_calory">உயர் நிலை (சட்ட மேலே)</string>
+<string name="info">தகவல்</string>
+<string name="information_1">உங்கள் நாடு அல்லது மாகாணத்தில் வாகனம் ஓட்டும் போது எடை, பாலியல் மற்றும் இரத்த மது சட்ட உள்ளடக்கம்: அமைப்புகள் சென்று உங்கள் தரவு உள்ளிடவும். சேமிக்கவும் மற்றும் நெருங்கிய.</string>
+<string name="information_2">ஒவ்வொரு முறையும், நீங்கள் ஒரு பானம் உட்கொள்ளும் போது, நீங்கள் நுகர்வு உங்கள் பதிவேட்டில் சேர்க்க வேண்டும். நீங்கள் ஒவ்வொரு தண்ணீர் குடிக்க வகை, தொகுதி மற்றும் மது சதவீதம் அமைக்க முடியும். அது தற்போதைய நேரம் அமைக்கப்படுகிறது இயல்பாக நீங்கள், நுகர்வு நேரம் நுழைய முடியும். காக்டெய்ல், நீங்கள் குடிக்க உள்ள எந்த ஓட்கா (அல்லது பிற மது), வெறும் தொகை நுழைய வேண்டும்.</string>
+<string name="information_3">துரிதப்படுத்தும், நீங்கள் உங்கள் விருப்பத்தை ஒரு பெயரில், பிடித்தவை கோப்புறையில் பானங்கள் சேமிக்க முடியும். ஒரு பானம் பிடித்தவை சேமிக்கப்படும் பின்னர், நீங்கள் ஒரு கிளிக் மூலம், நுகர்வு உங்கள் பதிவேட்டில் சேர்க்க முடியும்.</string>
+<string name="information_4">இங்கே நீங்கள் ஆய்வு மற்றும் நுகர்வு உங்கள் தற்போதைய பதிவேட்டில் மாற்ற முடியும். பொத்தானை \ "\ தகவல்" என்பதை கிளிக் செய்வதன் மூலம், நீங்கள் தேர்வு பானம் விவரங்கள் மதிப்பாய்வு செய்து, மீண்டும் உங்கள் பதிவேட்டில் அதை சேர்க்க முடியும்.</string>
+<string name="information_5">மது, உங்கள் தற்போதைய நிலை மூலம் (உங்கள் நாடு அல்லது மாகாணத்தில் வாகனம் ஓட்டும் போது மது சட்ட நிலை படி) காட்டப்படும் முழுமையாக நிதானமான மற்றும் சட்டபூர்வமாக நிதானமான பெற வேண்டிய நேரம் காலம் இணைந்து, உண்மையான நேரத்தில் மேம்படுத்தப்பட்டது. விளக்கப்படம் சமீப கடந்த மற்றும் சில எதிர்வரும் மணி (கீழே உள்ள அடையாளங்கள் முழு மணி குறிக்க) போது மது, உங்கள் உள்ளடக்கத்தை காட்சி. சிவப்பு கோடு மது சட்ட நிலை குறிக்கிறது. நீங்கள் வரி விளக்கப்படம் மற்றும் பட்டி இடையே தேர்வு செய்யலாம்.</string>
+<string name="information_6">உங்கள் போன்ற மொத்த சராசரி நுகர்வு (கடந்த கால இருந்து சேகரிக்கப்பட்ட) மது மற்றும் ஆய்வு புள்ளிவிவரங்களை உங்கள் தினசரி நுகர்வு கண்டுபிடிக்க முடியும். ஒவ்வொரு நாளும் விளக்கப்படம் ஒரு பட்டியில் பிரதிநிதித்துவம், இடது லேபிள் மது குடிக்கும் (1 யூனிட் = தூய மது 10 மில்லிலிட்டர்கல்) அலகுகள் குறிக்கிறது. அம்புகள் நீங்கள் மற்ற மாதங்கள் செல்லவும் அனுமதிக்க வேண்டும்.</string>
+<string name="information_7">மது மற்றும் வரைபடம் பார்கள் நிறங்கள் நிலை நெருக்கமாக அமைந்துள்ள டாட், நிறம், மது, உங்கள் தற்போதைய நிலை படி, மாறி. நிறங்கள் பொருள் கீழே விளக்கினார்.</string>
+<string name="information_8">இந்த பயன்பாட்டை உங்கள் உண்மையான (உண்மையான) ரத்தத்தில் ஆல்கஹாலின் அளவு, ஆனால் ஒரு கணித சூத்திரம் அடிப்படையில் ஒரு மதிப்பீட்டு வழங்க முடியாது. ரத்தத்தில் ஆல்கஹாலின் உள்ளடக்க சூத்திரம் சேர்க்கப்படவில்லை இது காரணிகள், பல்வேறு சார்ந்துள்ளது. ரத்தத்தில் ஆல்கஹாலின் உங்கள் உண்மையான நிலை இந்த விண்ணப்ப வழங்கிய மதிப்பிலிருந்து மாறுபடலாம்.</string>
+<string name="legal_alc">உங்கள் நாடு / மாகாணத்தில் சட்ட இரத்த ஆல்கஹால்</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">சட்டப்பூர்வமாக நிதானத்துடன்</string>
+<string name="legal_time">நீங்கள் சட்டபூர்வமாக குடிக்காமல் இருக்க வேண்டும்</string>
+<!-- chart made of lines -->
+<string name="line_chart">வரி விளக்கப்படம்</string>
+<string name="low_calory">குறைந்த அளவில் (சட்ட கீழே)</string>
+<string name="male">ஆண்</string>
+<string name="medium_calory">நடுத்தர அளவில் (சட்ட சுற்றி)</string>
+<string name="menu_title">பட்டி</string>
+<string name="month">மாதம்</string>
+<string name="month_graph_title">மாதாந்திர நுகர்வு</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">மாதாந்திர புள்ளி</string>
+<string name="new_record">நீங்கள் அனைத்து உள்ளீடுகளை அழிக்க புதிய பதிவேட்டில் தொடங்க வேண்டும்?</string>
+<string name="no_data">தேர்வு மாதத்தில் தரவு கிடைக்கவில்லை</string>
+<string name="num_days">மது நுகர்வு நாட்கள் எண்ணிக்கை</string>
+<string name="ok">சரி</string>
+<string name="opinion">கருத்து</string>
+<string name="percent_alcohol">மது சதவீதம்</string>
+<string name="pick_amount">தொகுதி</string>
+<string name="pick_type">பானம் வகை</string>
+<!-- app being short for application -->
+<string name="rate_app">இந்தப் பயன்பாட்டை மதிப்பிடு!</string>
+<string name="save_close">சேமி மற்றும் மூடு</string>
+<string name="settings">அமைப்புகள்</string>
+<string name="sex">உங்கள் செக்ஸ்</string>
+<string name="sober_time">நீங்கள் முழுமையாக குடிக்காமல் இருக்க வேண்டும்</string>
+<string name="standard_unit">(அலகு = தூய மது 10g)</string>
+<string name="that_is">என்று ஆகிறது</string>
+<string name="total_consumption">மொத்த நுகர்வு</string>
+<string name="type_name">பானம் லேபிள்</string>
+<string name="unit">தொகுதி பிரிவு</string>
+<string name="veryhigh_calory">மிக அதிக அளவில் (மிகவும் சட்ட மேலே)</string>
+<string name="warning">எச்சரிக்கை!</string>
+<string name="weight">உங்கள் எடை</string>
+<string name="choose_theme">வண்ண தேர்வு</string>
+<string name="wine">மது</string>
+<string name="light">பிரகாசமான</string>
+<string name="dark">இருண்ட</string>
+<string name="promile">மைல்</string>
+<string name="alc_level">ஆல்கஹாலின் அளவை</string>
+<string name="stats">புள்ளி</string>
+<string name="def_name">முன்னிருப்பு பெயர்</string>
+<string name="ad_phrase1">உங்கள் தொலைபேசியின் மூலம் ஆல்கஹாலின் அளவை சரிபார்க்கவும்.</string>
+<string name="ad_phrase2">நீங்கள் சட்டபூர்வமாக ஓட்ட முடியும் என்றால் பாருங்கள்.</string>
+<string name="ad_phrase3">முன்னிருப்பு பெயர்</string>
+<string-array name="beer_amounts">
+<item>மிகவும் சிறிய கண்ணாடி</item>
+<item>சிறிய கண்ணாடி</item>
+<item>நடுத்தர கண்ணாடி</item>
+<item>பெரிய கண்ணாடி</item>
+<item>மிகவும் பெரிய கண்ணாடி</item>
+</string-array>
+<string-array name="units">
+<item>மெட்ரிக் - milliliters (எம்எல்)</item>
+<item>திரவ அவுன்ஸ் அமெரிக்க (FL அவுன்ஸ்)</item>
+<item>திரவ அவுன்ஸ் இம்பீரியல் (FL அவுன்ஸ்)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>பீர்</item>
+<item>மது</item>
+<item>வோட்கா அல்லது மது</item>
+<item>காக்டெய்ல்</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>மிகவும் சிறிய கண்ணாடி</item>
+<item>சிறிய கண்ணாடி</item>
+<item>நடுத்தர கண்ணாடி</item>
+<item>பெரிய கண்ணாடி</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>சிறிய கண்ணாடி</item>
+<item>நடுத்தர கண்ணாடி</item>
+<item>பெரிய கண்ணாடி</item>
+</string-array>
+</resources>

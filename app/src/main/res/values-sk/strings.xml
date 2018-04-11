@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Pridať nápoj</string>
+<string name="add_favorite">Pridať k obľúbeným</string>
+<string name="age">Váš vek</string>
+<string name="all_units">Všetky čísla v bežných nápojov jednotkách</string>
+<string name="app_name">Obsah alkoholu v krvi</string>
+<string name="avg_consumption">Priemerná denná spotreba</string>
+<string name="bac_graph">Graf vašu úroveň alkoholu</string>
+<string name="bar_chart">Stĺpcový graf</string>
+<string name="cancel">Zrušiť</string>
+<string name="change_time">Zmena času</string>
+<string name="charts">Vaša súčasná úroveň alkoholu</string>
+<string name="clear_all">Vymazať všetky a začať nový register</string>
+<string name="config">Konfigurácia</string>
+<string name="consumption">Vaša spotreba</string>
+<string name="consumption_time">Doba spotreby</string>
+<string name="current_alc">Vaša súčasná úroveň alkoholu</string>
+<string name="default_name">Predvolený názov</string>
+<string name="default_percent">Východisková percentuálna hodnota</string>
+<string name="del_item">Chcete zmazať položku?</string>
+<string name="diary">Register spotreby</string>
+<string name="diary_added">Nápoj pridaný do registra</string>
+<string name="diary_graph">Mesačné štatistiky</string>
+<string name="diary_items">Váš súčasný register spotreby</string>
+<string name="dont_drive">Nikdy nejazdite po požití alkoholu!</string>
+<string name="drink_label">Štítok nápoje</string>
+<string name="edit_name">Upraviť názov</string>
+<string name="exit">Východ</string>
+<string name="favorites">Obľúbené</string>
+<string name="favorite_hint">Vyhľadávanie v obľúbených</string>
+<string name="fav_added">Nápoj pridaný k obľúbeným</string>
+<string name="feedback">Svoj názor</string>
+<string name="feedback_prompt">Dobrý deň, chcel by ste, aby nám nejaké pripomienky, takže môžeme vylepšiť túto aplikáciu pre vás?</string>
+<string name="female">Žena</string>
+<string name="fully_sober">Ste úplne triezvi</string>
+<string name="go_to_menu">Prijať a ukončiť</string>
+<string name="height">Vaša výška</string>
+<string name="help">Pomoc</string>
+<string name="help_translate">Pomôcť preložiť túto aplikáciu</string>
+<string name="high_calory">Na vysokej úrovni (nad právny)</string>
+<string name="info">Informácie</string>
+<string name="information_1">Prejsť na nastavenie, ktoré chcete zadať údaje: hmotnosť, pohlavie a právny obsah alkoholu v krvi pri riadení vo vašej krajine alebo provincie. Uložte a zatvorte.</string>
+<string name="information_2">Zakaždým, keď budete konzumovať nápoje, mali by ste ho pridať do svojho registra spotreby. Môžete nastaviť typ, objem a percento alkoholu pre každý nápoj. Môžete tiež zadať dobu spotreby, v predvolenom nastavení je nastavená na aktuálny čas. Pre koktaily, by ste mali zadať len množstvo vodky (alebo iné likéry), ktorý je obsiahnutý v nápoji.</string>
+<string name="information_3">Ak chcete tento proces urýchliť, môžete uložiť nápoje v priečinku obľúbených položiek, pod názvom vášho výberu. Po nápoj je uložený v obľúbených, môžete ho pridať do svojho registra spotreby, jednoduchým jedným kliknutím.</string>
+<string name="information_4">Tu si môžete prezrieť a upraviť aktuálny register spotreby. Kliknutím na tlačidlo "Informácie", budete môcť prečítať podrobné informácie o vybranej nápoje a pridajte ho do registra znova.</string>
+<string name="information_5">Vaša súčasná úroveň alkoholu sa podľa zobrazovaná a aktualizovaná v reálnom čase, spolu s dobu potrebnú k získaniu úplne triezvy a právne triezvy (v závislosti na právnej úrovni alkoholu pri jazde vo vašej krajine alebo provincia). Graf zobrazuje obsah alkoholu, v priebehu nedávnej minulosti a pár nadchádzajúcich hodinách (štítky v spodnej časti ukazujú celé hodiny). Červená čiara označuje právnu úroveň alkoholu. Môžete si vybrať medzi čiarový graf a stĺpcový graf.</string>
+<string name="information_6">Môžete sledovať svoj denný konzumácia alkoholu (získaných z minulých záznamov) a štatistiky preskúmania, ako je celkové a priemernej spotreby. Každý deň je reprezentovaný jedným lište grafu, štítok na ľavej strane označujú jednotky konzumovaného alkoholu (1 jednotka = 10 ml čistého alkoholu). Arrows vám umožní prejsť na ďalšie mesiace.</string>
+<string name="information_7">Farba bodu, ktorý sa nachádza v blízkosti úrovne alkoholu a farieb bary v stĺpcovom grafe, bude meniť, v závislosti na vašej aktuálnej hladinu alkoholu. Význam farieb je vysvetlené nižšie.</string>
+<string name="information_8">Táto aplikácia neposkytuje svoje skutočné (reálne) Hladina alkoholu v krvi, ale odhad na základe matematického vzorca. Obsah alkoholu v krvi je závislá od mnohých faktorov, ktoré nie sú zahrnuté vo vzorci. Skutočná hladina alkoholu v krvi sa môžu líšiť od hodnoty stanovené touto aplikáciou.</string>
+<string name="legal_alc">Právne hladina alkoholu v krvi vo vašej krajine / provinciu</string>
+<string name="legal_sober">Ste zo zákona triezvy</string>
+<string name="legal_time">Budete mať legálne triezvy na</string>
+<string name="line_chart">Čiarový graf</string>
+<string name="low_calory">Nízka hladina (pod právny)</string>
+<string name="male">Muž</string>
+<string name="medium_calory">Stredná úroveň (okolo právnej)</string>
+<string name="menu_title">Menu</string>
+<string name="month">Mesiac</string>
+<string name="month_graph_title">Mesačná spotreba</string>
+<string name="month_stats">Mesačné štatistiky</string>
+<string name="new_record">Chcete vymazať všetky záznamy a začať nový register?</string>
+<string name="no_data">K dispozícii pre vybraný mesiac žiadne dáta</string>
+<string name="num_days">Počet dní s konzumáciou alkoholu</string>
+<string name="ok">Dobre</string>
+<string name="opinion">Názor</string>
+<string name="percent_alcohol">Percento alkoholu</string>
+<string name="pick_amount">Nastavte hlasitosť</string>
+<string name="pick_type">Vyberte typ nápoja</string>
+<string name="rate_app">Ohodnotiť túto aplikáciu!</string>
+<string name="save_close">Uložte a zatvorte</string>
+<string name="settings">Nastavenie</string>
+<string name="sex">Váš sex</string>
+<string name="sober_time">Budete úplne triezvy na</string>
+<string name="standard_unit">(Jednotka = 10 gramov čistého alkoholu)</string>
+<string name="that_is">Že je v</string>
+<string name="total_consumption">Celková spotreba</string>
+<string name="type_name">Štítok nápoje</string>
+<string name="unit">Jednotka objemu</string>
+<string name="veryhigh_calory">Veľmi vysokej úrovni (veľa nad právny)</string>
+<string name="warning">Varovanie!</string>
+<string name="weight">Vaša váha</string>
+<string-array name="beer_amounts">
+<item>Veľmi malé sklo</item>
+<item>Malé sklo</item>
+<item>Stredná sklo</item>
+<item>Veľké sklenené</item>
+<item>Veľmi veľké sklo</item>
+</string-array>
+<string-array name="units">
+<item>Metrické - mililitrov (ml)</item>
+<item>Dutá unca american (fl oz)</item>
+<item>Dutá unca imperial (fl oz)</item>
+</string-array>
+<string-array name="drink_types">
+<item>Pivo</item>
+<item>Víno</item>
+<item>Vodka alebo likér</item>
+<item>Koktail</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Veľmi malé sklo</item>
+<item>Malé sklo</item>
+<item>Stredná sklo</item>
+<item>Veľké sklenené</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Malé sklo</item>
+<item>Stredná sklo</item>
+<item>Veľké sklenené</item>
+</string-array>
+</resources>

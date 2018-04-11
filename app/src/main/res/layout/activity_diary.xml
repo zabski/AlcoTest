@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:ads2="http://schemas.android.com/apk/lib/com.google.ads"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" 
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    
+    android:textSize="@dimen/text_s"
+    >
+    
+<ScrollView 
+     android:id="@+id/detailScrollView"
+     android:layout_width="match_parent"
+     android:layout_height="wrap_content"
+     android:layout_span="2"
+     
+     android:padding="0dp" >
+     
+    <!--
+    android:background="?android:windowBackground" 
+    android:background="@color/light_green" -->
+     
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content" 
+    android:gravity="center_horizontal"
+    android:orientation="vertical"
+    android:textSize="@dimen/text_s"
+    >
+    
+  <LinearLayout
+        android:id="@+id/tableRow2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:visibility="gone" >       
+                
+        <TableLayout
+            android:id="@+id/tblTotals"
+            android:layout_marginTop="@dimen/margin_m"
+            android:layout_marginBottom="@dimen/margin_m"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"    
+                        
+            android:textSize="@dimen/text_s" >
+                                    
+        </TableLayout>
+
+        <DigitalClock
+            android:id="@+id/digitalClock1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="@dimen/text_l" 
+            android:text="DigitalClock" />        
+
+        <Chronometer
+            android:id="@+id/chronometer1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Chronometer"
+            android:visibility="gone" />
+
+		<TextView
+            android:id="@+id/tvBAC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"                
+            android:padding="@dimen/margin_s"   
+            android:textSize="@dimen/text_xl"     
+            android:layout_margin="0dp"                        
+            android:text="@string/diary_items" />
+		
+		<TextView
+            android:id="@+id/tvLastBAC"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"                
+            android:padding="@dimen/margin_s"   
+            android:textSize="@dimen/text_xl"     
+            android:layout_margin="0dp"                        
+            android:text="@string/diary_items" />
+		
+		<TextView
+            android:id="@+id/tvSoberTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"                
+            android:padding="@dimen/margin_s"   
+            android:textSize="@dimen/text_xl"     
+            android:layout_margin="0dp"                        
+            android:text="@string/sober_time" />
+		
+		<TextView
+            android:id="@+id/tvLegalTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"                
+            android:padding="@dimen/margin_s"   
+            android:textSize="@dimen/text_xl"     
+            android:layout_margin="0dp"                        
+            android:text="@string/legal_time" />
+		
+	</LinearLayout>	
+        
+		<TextView
+            android:id="@+id/tvDiaryTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"                
+            android:padding="@dimen/margin_s"        
+            android:layout_margin="0dp"
+            
+            android:textSize="@dimen/text_l"
+            android:text="@string/diary_items" />        
+        
+        <TableLayout
+            android:id="@+id/diaryTableLayout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"                      
+            android:textSize="@dimen/text_s" >
+
+            <TableRow
+                android:id="@+id/diaryRowLabels"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+                
+	            <LinearLayout
+			        android:id="@+id/layoutLabels"
+			        android:layout_width="match_parent"
+			        android:layout_height="wrap_content"
+			        android:orientation="horizontal"
+			         >
+			    
+	                <TextView
+			            android:id="@+id/tvFoodName"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"                
+			            android:padding="@dimen/margin_s"        
+			            android:layout_margin="@dimen/margin_s"
+			            
+			            android:text="alcohol_type" />
+	                
+	               	<TextView
+			            android:id="@+id/tvServing"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"                        
+			            
+			            android:layout_margin="@dimen/margin_s"
+			            android:padding="@dimen/margin_s"
+			            android:text="amount" />
+	               	
+	               	<TextView
+			            android:id="@+id/tvType"
+			            android:layout_width="wrap_content"
+			            android:layout_height="wrap_content"                        
+			            
+			            android:layout_margin="@dimen/margin_s"
+			            android:padding="@dimen/margin_s"
+			            android:text="@string/daily_value" /> 
+	                	                
+	            </LinearLayout>
+                
+		     </TableRow>
+        </TableLayout>
+        
+        <!-- TextView
+            android:id="@+id/tvTotalKcals"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@layout/menu_item" 
+            
+            android:layout_marginTop="@dimen/top_margin"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/address" />
+
+        <TextView
+            android:id="@+id/tvTotalCarbos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            
+            
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/city" />
+
+        <TextView
+            android:id="@+id/tvTotalProtein"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            
+            
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/distance" />
+        
+        <TextView
+            android:id="@+id/tvTotalFat"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            
+            android:layout_marginTop="@dimen/top_margin"
+            
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:text="@string/phone" /-->
+
+    <LinearLayout
+        android:id="@+id/statusBar"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent"
+        android:orientation="horizontal"
+        android:layout_alignParentBottom="true">
+        <TextView
+            android:id="@+id/status"
+            android:padding="2dp"
+            android:textAlignment="center"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="left" />
+    </LinearLayout>
+
+
+	<Button
+        android:id="@+id/bClearAll"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/row_xxl"
+        android:layout_below="@id/detailScrollView"
+        android:layout_marginRight="1dp"
+        android:layout_marginTop="2dp"
+        android:background="@layout/button_click"
+        android:textSize="@dimen/text_l"
+        android:text="@string/clear_all" />
+
+	    <!-- android:layout_below="@id/bClearAll" -->
+
+	<!--com.google.android.gms.ads.NativeExpressAdView
+		android:id="@+id/adViewExpress"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_centerHorizontal="true"
+		android:layout_alignParentBottom="true"
+		android:layout_gravity="center_horizontal"
+		android:visibility="gone"
+		ads:adSize="320x80"
+		ads:adUnitId="@string/admob_express_small_id">
+	</com.google.android.gms.ads.NativeExpressAdView-->
+
+	<com.google.android.gms.ads.AdView
+		xmlns:ads="http://schemas.android.com/apk/res-auto"
+		android:id="@+id/adView"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:visibility="visible"
+		ads:adUnitId="ca-app-pub-4402674240600002/8343026177"
+		ads:adSize="SMART_BANNER"/>
+
+	<include layout="@layout/ads_incl_fb_native"/>
+
+	<include layout="@layout/ads_incl_fb_banner"/>
+
+	<include layout="@layout/ads_incl_amazon_banner"/>
+        
+</LinearLayout>
+
+</ScrollView>
+
+    <RelativeLayout
+        android:id="@+id/adViewContainer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        />
+            
+</RelativeLayout>

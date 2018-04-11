@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Pridėti gėrimas</string>
+<string name="add_favorite">Pridėti pasirinkimą</string>
+<string name="age">Jūsų amžius</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">Visi standartiniai gėrimų vienetų numeriai</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">Turinio alkoholio kraujyje</string>
+<string name="avg_consumption">Vidutinė paros suvartojimas</string>
+<string name="bac_graph">Diagrama savo lygio alkoholio</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">Diagrama</string>
+<string name="cancel">Atšaukti</string>
+<string name="change_time">Pakeisti laikas</string>
+<string name="charts">Jūsų dabartinis lygis alkoholio</string>
+<string name="clear_all">Išvalyti visus ir pradėti naują registrą</string>
+<!-- Short from Configuration -->
+<string name="config">Konfigūracija</string>
+<string name="consumption">Jūsų suvartojimas</string>
+<string name="consumption_time">Laikas vartojimo</string>
+<string name="current_alc">Jūsų dabartinis lygis alkoholio</string>
+<string name="default_name">Nustatykite numatytąjį pavadinimą</string>
+<string name="default_percent">Įprasta procentais</string>
+<string name="del_item">Ar norite ištrinti elementą?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">Registro vartojimo</string>
+<string name="diary_added">Alkoholio įtraukta į savo registrą</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">Mėnesinė statistika</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">Jūsų dabartinė registro vartojimo</string>
+<string name="dont_drive">Niekada nevažiuokite nuo alkoholio!</string>
+<string name="drink_label">Etiketė gėrimo</string>
+<string name="edit_name">Redaguoti vardas</string>
+<string name="exit">Išeiti</string>
+<string name="favorites">Mėgstami</string>
+<string name="favorite_hint">Ieškoti pasirinkimą</string>
+<string name="fav_added">Alkoholis įtraukta į pasirinkimą</string>
+<string name="feedback">Suteikite savo nuomonę</string>
+<string name="feedback_prompt">Sveiki, ar norėtumėte siųsti mums savo nuomonę, kad galėtume patobulinti šią jums paraišką?</string>
+<string name="female">Moteris</string>
+<string name="fully_sober">Jūs esate visiškai blaivus</string>
+<string name="go_to_menu">Priimti ir uždarykite</string>
+<string name="height">Jūsų ūgis</string>
+<string name="help">Padėkite</string>
+<!-- app being short for application -->
+<string name="help_translate">Pagalba išversti šią programą</string>
+<string name="high_calory">Aukšto lygio (virš teisinė)</string>
+<string name="info">Informacija</string>
+<string name="information_1">Eiti į nustatymus ir įveskite savo duomenis: svorį, lytį ir teisinį turinį alkoholio kraujyje vairuojant jūsų šalyje ar provincijoje. Išsaugoti ir uždaryti.</string>
+<string name="information_2">Kiekvieną kartą, kai vartoji gėrimą, turite įdėti į savo registrą vartojimo. Galite nustatyti tipą, kiekį ir procentą alkoholio kiekvieno gėrimo. Jūs taip pat galite įvesti laiką vartoti, pagal nutylėjimą jis yra nustatytas esamą laiką. Dėl kokteiliai, turėtumėte įvesti tik degtinės (ar kitų tirpalų), kuris yra įtrauktas į gėrimo kiekį.</string>
+<string name="information_3">Norėdami paspartinti šį procesą, jūs galite sutaupyti gėrimus aplanką Parankiniai, pagal jūsų pasirinktą vardą. Po gėrimas išsaugomos pasirinkimą, galite įdėti į savo registrą vartojimo, vos vienu paspaudimu.</string>
+<string name="information_4">Čia galite peržiūrėti ir keisti savo dabartinį registro vartojimo. Paspaudę \ "informacija \" mygtuką, galėsite peržiūrėti išsamią informaciją apie pasirinktą gėrimą ir įtraukti ją į savo registrą dar kartą.</string>
+<string name="information_5">Jūsų dabartinis lygis alkoholio bus iki pateikiamas ir atnaujinamas realiu laiku, kartu su laikotarpiu reikia gauti visiškai blaivus ir teisiškai blaivus (pagal teisinę lygio alkoholio vairuojant jūsų šalyje arba provincijos). Diagramą išvysite savo turinį alkoholio per neseniai ir keletą artėjančių valandas (etiketės apačioje rodo visas valandas). Raudona linija rodo teisinį lygį alkoholio. Jūs galite pasirinkti tarp Linijinė diagrama ir diagramą.</string>
+<string name="information_6">Jūsų gali atsekti savo dienos alkoholio vartojimas (surinkta iš ankstesnių įrašų) ir peržiūros statistikos, pavyzdžiui, bendra ir vidutinio suvartojimo. Kiekvieną dieną, atstovauja vienas juostoje grafike, etiketės kairėje pusėje rodo vienetus alkoholio suvartojama (1 vienetas = 10 mililitrų gryno alkoholio). Rodyklės leis jums pereiti į kitus mėnesius.</string>
+<string name="information_7">Spalva dot netoli nuo lygio alkoholio ir spalvų barų diagramoje, keisis, atsižvelgiant į savo dabartinį lygį alkoholio. Spalvų reikšmė yra paaiškinta žemiau.</string>
+<string name="information_8">Ši programa nesuteikia savo tikrąją (realią) lygį alkoholio kraujyje, tačiau apskaičiuoti remiantis matematine formule. Turinys alkoholio kiekis kraujyje priklauso nuo įvairių faktorių, kurie nėra įtraukti į formulę. Jūsų tikrasis lygis alkoholio kraujyje gali skirtis nuo verte, kaip numatyta pagal šią paraišką.</string>
+<string name="legal_alc">Teisinis alkoholio kraujyje kiekis jūsų šalyje / provincijoje</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">Jūs esate teisiškai blaivus</string>
+<string name="legal_time">Jums bus teisiškai blaivus ne</string>
+<!-- chart made of lines -->
+<string name="line_chart">Linijinė diagrama</string>
+<string name="low_calory">Žemo lygio (toliau juridinis)</string>
+<string name="male">Patinas</string>
+<string name="medium_calory">Vidutinio lygio (apie juridinį)</string>
+<string name="menu_title">Meniu</string>
+<string name="month">Mėnuo</string>
+<string name="month_graph_title">Mėnesio vartojimas</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">Mėnesinė statistika</string>
+<string name="new_record">Ar norite ištrinti visus įrašus ir pradėti naują registrą?</string>
+<string name="no_data">Rezultatų nėra už pasirinktą mėnesį duomenys</string>
+<string name="num_days">Dienų su alkoholio vartojimu skaičius</string>
+<string name="ok">Gerai</string>
+<string name="opinion">Nuomonė</string>
+<string name="percent_alcohol">Procentas alkoholio</string>
+<string name="pick_amount">Apimtis</string>
+<string name="pick_type">Tipo gėrimas</string>
+<!-- app being short for application -->
+<string name="rate_app">Įvertinti šį prašymą!</string>
+<string name="save_close">Išsaugoti ir uždaryti</string>
+<string name="settings">Nustatymai</string>
+<string name="sex">Jūsų lytis</string>
+<string name="sober_time">Jums bus visiškai blaivus ne</string>
+<string name="standard_unit">(Vieneto = 10g gryno alkoholio)</string>
+<string name="that_is">, kad yra</string>
+<string name="total_consumption">Iš viso sąnaudos</string>
+<string name="type_name">Etiketė gėrimo</string>
+<string name="unit">Vieneto tūrio</string>
+<string name="veryhigh_calory">Labai aukšto lygio (kiek aukščiau teisinė)</string>
+<string name="warning">Dėmesio!</string>
+<string name="weight">Jūsų svoris</string>
+<string name="choose_theme">Pasirinkite spalvą</string>
+<string name="wine">Vyno</string>
+<string name="light">Šviesus</string>
+<string name="dark">Tamsus</string>
+<string name="promile">Permile</string>
+<string name="alc_level">Lygis alkoholio</string>
+<string name="stats">Statistika</string>
+<string name="def_name">Numatytasis vardas</string>
+<string-array name="beer_amounts">
+<item>Labai nedidelis stiklo</item>
+<item>Mažas stiklo</item>
+<item>Vidutinis stiklo</item>
+<item>Didelis stiklas</item>
+<item>Labai didelis stiklo</item>
+</string-array>
+<string-array name="units">
+<item>Metrinių - mililitrų (ml)</item>
+<item>Skysčio uncija JAV (fl oz)</item>
+<item>Skysčio uncija "Imperial (fl oz)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>Alus</item>
+<item>Vyno</item>
+<item>Degtinė ar Alkoholiniai gėrimai</item>
+<item>Kokteilis</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Labai nedidelis stiklo</item>
+<item>Mažas stiklo</item>
+<item>Vidutinis stiklo</item>
+<item>Didelis stiklas</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Mažas stiklo</item>
+<item>Vidutinis stiklo</item>
+<item>Didelis stiklas</item>
+</string-array>
+</resources>

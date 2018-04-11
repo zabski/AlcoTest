@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Προσθέστε ποτών</string>
+<string name="add_favorite">Προσθήκη στα αγαπημένα</string>
+<string name="age">Την ηλικία σας</string>
+<string name="all_units">Όλοι οι αριθμοί σε πρότυπες μονάδες ποτό</string>
+<string name="app_name">Περιεκτικότητα αλκοόλης στο αίμα</string>
+<string name="avg_consumption">Μέση ημερήσια κατανάλωση</string>
+<string name="bac_graph">Διάγραμμα του επιπέδου σας αλκοόλ</string>
+<string name="bar_chart">Ραβδόγραμμα</string>
+<string name="cancel">Ακυρώσει</string>
+<string name="change_time">Ώρα της αλλαγής</string>
+<string name="charts">Το τρέχον επίπεδο του αλκοόλ</string>
+<string name="clear_all">Καταργήστε όλα και να αρχίσει νέα μητρώου</string>
+<string name="config">Διαμόρφωση</string>
+<string name="consumption">Κατανάλωση σας</string>
+<string name="consumption_time">Στιγμή της κατανάλωσης</string>
+<string name="current_alc">Το τρέχον επίπεδο του αλκοόλ είναι</string>
+<string name="default_name">Οριστεί ως προεπιλογή το όνομα</string>
+<string name="default_percent">Προεπιλεγμένο ποσοστό</string>
+<string name="del_item">Θέλετε να διαγράψετε το στοιχείο;</string>
+<string name="diary">Μητρώου της κατανάλωσης</string>
+<string name="diary_added">Ποτα προστεθεί στο μητρώο σας</string>
+<string name="diary_graph">Μηνιαία στατιστικά στοιχεία</string>
+<string name="diary_items">Τρέχον μητρώο της κατανάλωσης σας</string>
+<string name="dont_drive">Ποτέ δεν οδηγούν μετά από κατανάλωση αλκοόλ!</string>
+<string name="drink_label">Ετικέτα του ποτού</string>
+<string name="edit_name">Όνομα Επεξεργασία</string>
+<string name="exit">Έξοδος</string>
+<string name="favorites">Αγαπημένα</string>
+<string name="favorite_hint">Αναζήτηση σε αγαπημένα</string>
+<string name="fav_added">Ποτα προστεθεί στα αγαπημένα</string>
+<string name="feedback">Δίνουν τη γνώμη σας</string>
+<string name="feedback_prompt">Γεια σας, θα θέλατε να μας δώσετε κάποια σχόλια, έτσι ώστε να μπορούμε να βελτιώσουμε αυτή την εφαρμογή για σας;</string>
+<string name="female">Θηλυκός</string>
+<string name="fully_sober">Είστε απόλυτα νηφάλιος</string>
+<string name="go_to_menu">Αποδέχονται και κλείστε</string>
+<string name="height">Το ύψος σας</string>
+<string name="help">Βοήθεια</string>
+<string name="help_translate">Βοηθήσετε να μεταφράσετε αυτήν την εφαρμογή</string>
+<string name="high_calory">Υψηλά επίπεδα (πάνω από νομική)</string>
+<string name="info">Πληροφορίες</string>
+<string name="information_1">Πηγαίνετε στις ρυθμίσεις να εισάγετε τα στοιχεία σας: το βάρος, το φύλο και το νομικό περιεχόμενο του αλκοόλ στο αίμα κατά την οδήγηση στη χώρα ή την επαρχία σας. Αποθήκευση και κλείσιμο.</string>
+<string name="information_2">Κάθε φορά, όταν καταναλώνετε ένα ποτό, θα πρέπει να προσθέσετε στο μητρώο σας κατανάλωσης. Μπορείτε να ρυθμίσετε το είδος, τον όγκο και το ποσοστό του αλκοόλ για κάθε ρόφημα. Μπορείτε επίσης να εισάγετε το χρόνο της κατανάλωσης, από προεπιλογή, έχει οριστεί για την τρέχουσα ώρα. Για κοκτέιλ, θα πρέπει να εισάγετε μόνο το ποσό της βότκας (ή άλλα υγρά), που περιέχεται στο ποτό.</string>
+<string name="information_3">Για να επιταχύνουν τη διαδικασία, μπορείτε να αποθηκεύσετε τα ποτά στο φάκελο Αγαπημένα, με ένα όνομα της επιλογής σας. Μετά από ένα ποτό αποθηκεύεται στα αγαπημένα, μπορείτε να το προσθέσετε στο μητρώο σας της κατανάλωσης, με ένα μόνο κλικ.</string>
+<string name="information_4">Εδώ μπορείτε να δείτε και να τροποποιήσετε το τρέχον μητρώο της κατανάλωσης σας. Κάνοντας κλικ στο κουμπί "πληροφορίες", θα είστε σε θέση να επανεξετάσει τις λεπτομέρειες των επιλεγμένων ποτών και προσθέστε το στο μητρώο σας και πάλι.</string>
+<string name="information_5">Το τρέχον επίπεδο του αλκοόλ από θα εμφανίζονται και ενημερώνονται σε πραγματικό χρόνο, μαζί με το χρονικό διάστημα που απαιτείται για να πάρει πλήρως νηφάλια και νομικά νηφάλια (ανάλογα με τη νομική επίπεδο του αλκοόλ κατά την οδήγηση στη χώρα ή την επαρχία σας). Το διάγραμμα απεικονίζει το περιεχόμενό σας από το αλκοόλ, κατά τη διάρκεια του πρόσφατου παρελθόντος και μερικά από τα προσεχή ώρες (ετικέτες στο κάτω μέρος δείχνουν πλήρη ώρες). Κόκκινη γραμμή δείχνει νομικό επίπεδο του αλκοόλ. Μπορείτε να επιλέξετε ανάμεσα σε γραμμικό διάγραμμα και διάγραμμα μπαρ.</string>
+<string name="information_6">Μπορείτε να εντοπίζουν την καθημερινή κατανάλωση αλκοόλ (που συλλέγονται από το παρελθόν εγγραφές) και στατιστικά την κριτική σας, όπως και η συνολική μέση κατανάλωση. Κάθε μέρα αντιπροσωπεύεται από ένα μπαρ του γραφήματος, ετικέτα στην αριστερή δείχνουν μονάδες αλκοόλ που καταναλώνεται (1 μονάδα = 10 ml καθαρής αλκοόλης). Βέλη θα σας αφήσει να περιηγηθείτε σε άλλους μήνες.</string>
+<string name="information_7">Χρώμα του dot, που βρίσκεται κοντά στο επίπεδο του αλκοόλ και τα χρώματα του μπαρ στο γράφημα ράβδων, θα πρέπει να αλλάζει, ανάλογα με το τρέχον επίπεδο του αλκοόλ. Η σημασία των χρωμάτων εξηγείται παρακάτω.</string>
+<string name="information_8">Αυτή η εφαρμογή δεν παρέχει πραγματική σας (πραγματικό) επίπεδο του αλκοόλ στο αίμα, αλλά μια εκτίμηση που βασίζεται σε έναν μαθηματικό τύπο. Περιεκτικότητα αλκοόλης στο αίμα εξαρτάται από ποικιλία παραγόντων, που δεν περιλαμβάνονται στον τύπο. Το πραγματικό επίπεδο του αλκοόλ στο αίμα μπορεί να διαφέρει από την αξία που προκύπτει από την εφαρμογή αυτή.</string>
+<string name="legal_alc">Νομική επίπεδο του αλκοόλ στο αίμα σε χώρα / επαρχία σας</string>
+<string name="legal_sober">Είστε νομικά νηφάλιος</string>
+<string name="legal_time">Θα είναι νομικά νηφάλιος σε</string>
+<string name="line_chart">Γράφημα γραμμής</string>
+<string name="low_calory">Χαμηλά επίπεδα (κάτω από νομικό)</string>
+<string name="male">Αρσενικός</string>
+<string name="medium_calory">Μέσο επίπεδο (γύρω νομική)</string>
+<string name="menu_title">Μενού</string>
+<string name="month">Μήνας</string>
+<string name="month_graph_title">Μηνιαία κατανάλωση</string>
+<string name="month_stats">Μηνιαία στατιστικά στοιχεία</string>
+<string name="new_record">Θέλετε να διαγράψετε όλες τις καταχωρίσεις και να ξεκινήσετε νέο μητρώο;</string>
+<string name="no_data">Δεν υπάρχουν διαθέσιμα για την επιλεγμένη μήνα δεδομένων</string>
+<string name="num_days">Αριθμός των ημερών με την κατανάλωση οινοπνεύματος</string>
+<string name="ok">Καλά</string>
+<string name="opinion">Γνώμη</string>
+<string name="percent_alcohol">Ποσοστό της αλκοόλης</string>
+<string name="pick_amount">Επιλέξετε όγκο</string>
+<string name="pick_type">Επιλέξετε τον τύπο του ποτού</string>
+<string name="rate_app">Βαθμολογήστε αυτή την εφαρμογή!</string>
+<string name="save_close">Αποθηκεύστε και κλείστε</string>
+<string name="settings">Ρυθμίσεις</string>
+<string name="sex">Το φύλο σας</string>
+<string name="sober_time">Θα είναι πλήρως νηφάλιος σε</string>
+<string name="standard_unit">(μονάδα = 10 γραμμάρια καθαρής αλκοόλης)</string>
+<string name="that_is">Δηλαδή στην</string>
+<string name="total_consumption">Η συνολική κατανάλωση</string>
+<string name="type_name">Ετικέτα του ποτού</string>
+<string name="unit">Μονάδα όγκου</string>
+<string name="veryhigh_calory">Πολύ υψηλό επίπεδο (πολύ πάνω από νομική)</string>
+<string name="warning">ΠΡΟΣΟΧΗ!</string>
+<string name="weight">Το βάρος σας</string>
+<string-array name="beer_amounts">
+<item>Πολύ μικρό ποτήρι</item>
+<item>Μικρό ποτήρι</item>
+<item>Μεσαίου γυαλί</item>
+<item>Μεγάλο ποτήρι</item>
+<item>Πολύ μεγάλο ποτήρι</item>
+</string-array>
+<string-array name="units">
+<item>Μετρικό - χιλιοστόλιτρα (ml)</item>
+<item>Ουγκιά υγρού αμερικάνικες (fl oz)</item>
+<item>Ουγκιά υγρού αυτοκρατορική (fl oz)</item>
+</string-array>
+<string-array name="drink_types">
+<item>Μπύρα</item>
+<item>Κρασί</item>
+<item>Βότκα ή ποτό</item>
+<item>Κοκτέιλ</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Πολύ μικρό ποτήρι</item>
+<item>Μικρό ποτήρι</item>
+<item>Μεσαίου γυαλί</item>
+<item>Μεγάλο ποτήρι</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Μικρό ποτήρι</item>
+<item>Μεσαίου γυαλί</item>
+<item>Μεγάλο ποτήρι</item>
+</string-array>
+</resources>

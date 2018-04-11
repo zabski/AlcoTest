@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Дадаць напой</string>
+<string name="add_favorite">Дадаць у абранае</string>
+<string name="age">Ваш узрост</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">Усе нумары ў умоўных адзінках напояў</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">Утрыманне алкаголю ў крыві</string>
+<string name="avg_consumption">Сярэднесутачнае спажыванне</string>
+<string name="bac_graph">План вашага ўзроўню алкаголю</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">Схема</string>
+<string name="cancel">Адмяніць</string>
+<string name="change_time">Змяніць час</string>
+<string name="charts">Бягучы ўзровень алкаголю</string>
+<string name="clear_all">Ачысціць усё і пачаць новы рэестр</string>
+<!-- Short from Configuration -->
+<string name="config">Канфігурацыя</string>
+<string name="consumption">Ваша спажыванне</string>
+<string name="consumption_time">Час спажывання</string>
+<string name="current_alc">Бягучы ўзровень алкаголю</string>
+<string name="default_name">Ўсталяваць завадскую імя</string>
+<string name="default_percent">Працэнт па змаўчанні</string>
+<string name="del_item">Вы хочаце, каб выдаліць элемент?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">Рэестр спажывання</string>
+<string name="diary_added">Піць дадаў у рэестр</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">Месячная статыстыка</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">Ваша бягучае рэестра спажывання</string>
+<string name="dont_drive">Ніколі не садзіцца за руль пасля ўжывання алкаголю!</string>
+<string name="drink_label">Этыкетка напою</string>
+<string name="edit_name">Змяніць імя</string>
+<string name="exit">Выхад</string>
+<string name="favorites">Выбраныя</string>
+<string name="favorite_hint">Пошук у абранае</string>
+<string name="fav_added">Алкаголь дадаў у абранае</string>
+<string name="feedback">Выказаць сваё меркаванне</string>
+<string name="feedback_prompt">Добры дзень, вы хацелі б адправіць нам сваё меркаванне, так што мы маглі б палепшыць гэта дадатак для вас?</string>
+<string name="female">Жанчына</string>
+<string name="fully_sober">Вы цалкам цвярозы</string>
+<string name="go_to_menu">Прыняць і зачыніць</string>
+<string name="height">Ваш рост</string>
+<string name="help">Дапамажыце</string>
+<!-- app being short for application -->
+<string name="help_translate">Дапамажыце перавесці гэта дадатак</string>
+<string name="high_calory">Высокі ўзровень (вышэй юрыдычная)</string>
+<string name="info">Інфармацыя</string>
+<string name="information_1">Перайсці ў налады і ўвядзіце вашыя дадзеныя: вага, падлогу і юрыдычнае ўтрыманне алкаголю ў крыві падчас кіравання ў вашай краіне ці правінцыі. Захаваць і закрыць.</string>
+<string name="information_2">Кожны раз, калі вы спажываеце напой, вы павінны дадаць яго ў рэестр спажывання. Вы можаце ўсталяваць тып, аб\'ём і адсотак алкаголю для кожнага напою. Вы таксама можаце ўвесці час спажывання, па змаўчанні ён усталяваны ў бягучы момант часу. Для кактэйляў, вы павінны ўвесці толькі колькасць гарэлкі (або іншых алкагольных напояў), які змяшчаецца ў напоі.</string>
+<string name="information_3">Для паскарэння працэсу, вы можаце захаваць напоі ў тэчку Выбранае, пад імем па вашаму выбару. Пасля напой захоўваецца ў абранае, вы можаце дадаць яго ў рэестр спажывання, толькі адным пстрычкай мышы.</string>
+<string name="information_4">Тут Вы можаце паглядзець і зьмяніць свой бягучы рэестр спажывання. Націснуўшы \ "INFO \", вы зможаце праглядзець падрабязную інфармацыю аб абранай напою і дадаць яго ў рэестр зноў.</string>
+<string name="information_5">Бягучы ўзровень алкаголю будзе на экране адлюстроўваецца і абнаўляецца ў рэжыме рэальнага часу, а таксама перыяд часу, неабходны для атрымання поўнай цвярозы і юрыдычна цвярозы (у адпаведнасці з прававога узроўні алкаголю падчас кіравання ў вашай краіне або вобласці). Дыяграма візуалізуе ўтрыманне алкаголю, падчас нядаўняга мінулага і некалькі маючых адбыцца гадзін (этыкеткі на дне паказаць поўнае гадзін). Чырвоная лінія паказвае прававой ўзровень алкаголю. Вы можаце выбраць паміж графіка і гістаграмы.</string>
+<string name="information_6">Ваш можа прасачыць сваю штодзённае спажыванне алкаголю (сабранай з мінулых запісаў) і разглядае статыстычныя дадзеныя, такія як агульная і сярэдняга спажывання. Кожны дзень прадстаўлены адзін бара дыяграмы, этыкеткі злева паказваюць адзінкі спажыванага спірту (1 блок = 10 мілілітраў чыстага спірту). Стрэлкі дазволіць вам пераходзіць да іншых месяцаў.</string>
+<string name="information_7">Колер пункту, размешчанай блізка да ўзроўню алкаголю і кветак бараў у дыяграме, будзе змяняцца, у залежнасці ад вашага бягучага ўзроўню алкаголю. Значэнне колеру тлумачыцца ніжэй.</string>
+<string name="information_8">Гэта прыкладанне не забяспечвае сапраўднае (рэальнае) узровень алкаголю ў крыві, але ацэнку, заснаваную на матэматычнай формуле. Утрыманне алкаголю ў крыві залежыць ад цэлага шэрагу фактараў, якія не ўключаны ў формулу. Ваш фактычны ўзровень алкаголю ў крыві можа адрознівацца ад кошту, прадстаўленай гэтым дадаткам.</string>
+<string name="legal_alc">Прававое ўтрыманне алкаголю ў крыві ў вашай краіне / правінцыі</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">Вы юрыдычна цвярозым</string>
+<string name="legal_time">Вы будзеце юрыдычна цвярозым</string>
+<!-- chart made of lines -->
+<string name="line_chart">Лінія графік</string>
+<string name="low_calory">Нізкі ўзровень (ніжэй юрыдычная)</string>
+<string name="male">Мужчына</string>
+<string name="medium_calory">Сярэдні ўзровень (каля юрыдычная)</string>
+<string name="menu_title">Меню</string>
+<string name="month">Месяц</string>
+<string name="month_graph_title">Штомесячнае спажыванне</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">Месячная статыстыка</string>
+<string name="new_record">Вы хочаце, каб ачысціць усе запісы і пачаць новую рэестр?</string>
+<string name="no_data">Няма дадзеных, даступных для абранага месяца</string>
+<string name="num_days">Колькасць дзён з спажываннем алкаголю</string>
+<string name="ok">Добра</string>
+<string name="opinion">Меркаванне</string>
+<string name="percent_alcohol">Працэнт алкаголю</string>
+<string name="pick_amount">Аб\'ём</string>
+<string name="pick_type">Тып напою</string>
+<!-- app being short for application -->
+<string name="rate_app">Ацаніць гэта дадатак!</string>
+<string name="save_close">Захаваць і зачыніць</string>
+<string name="settings">Налады</string>
+<string name="sex">Ваш падлогу</string>
+<string name="sober_time">Вы будзеце цалкам цвярозым</string>
+<string name="standard_unit">(Адзінка = 10 г чыстага алкаголю)</string>
+<string name="that_is">Гэта значыць у</string>
+<string name="total_consumption">Агульнае спажыванне</string>
+<string name="type_name">Этыкетка напою</string>
+<string name="unit">Адзінка аб\'ёму</string>
+<string name="veryhigh_calory">Вельмі высокі ўзровень (значна вышэй юрыдычная)</string>
+<string name="warning">Увага!</string>
+<string name="weight">Ваш вага</string>
+<string name="choose_theme">Вылучыце колер</string>
+<string name="wine">Віно</string>
+<string name="light">Яркі</string>
+<string name="dark">Цёмна</string>
+<string name="promile">Permile</string>
+<string name="alc_level">Узровень алкаголю</string>
+<string name="stats">Статыстыка</string>
+<string name="def_name">Імя па змаўчанні</string>
+<string-array name="beer_amounts">
+<item>Вельмі маленькі шклянку</item>
+<item>Малы шкло</item>
+<item>Сярэдняя шкла</item>
+<item>Вялікі шкляны</item>
+<item>Вельмі вялікі шклянку</item>
+</string-array>
+<string-array name="units">
+<item>Metric - мілілітраў (мл)</item>
+<item>Вадкасць унцыя ЗША (вадкіх унцый)</item>
+<item>Вадкую ўнцыю Imperial (вадкіх унцый)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>Піва</item>
+<item>Віно</item>
+<item>Гарэлка або лікёр</item>
+<item>Кактэйль</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Вельмі маленькі шклянку</item>
+<item>Малы шкло</item>
+<item>Сярэдняя шкла</item>
+<item>Вялікі шкляны</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Малы шкло</item>
+<item>Сярэдняя шкла</item>
+<item>Вялікі шкляны</item>
+</string-array>
+</resources>

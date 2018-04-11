@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Додати напій</string>
+<string name="add_favorite">Додати в обране</string>
+<string name="age">Твій вік</string>
+<string name="all_units">Все числа в умовних одиницях напоїв</string>
+<string name="app_name">Вміст алкоголю в крові</string>
+<string name="avg_consumption">Середньодобове споживання</string>
+<string name="bac_graph">Схема вашого рівня алкоголю</string>
+<string name="bar_chart">Гістограма</string>
+<string name="cancel">Відмінити</string>
+<string name="change_time">Час зміни</string>
+<string name="charts">Ваш поточний рівень алкоголю</string>
+<string name="clear_all">Очистити все і почати нову реєстр</string>
+<string name="config">Конфігурація</string>
+<string name="consumption">Ваше споживання</string>
+<string name="consumption_time">Час споживання</string>
+<string name="current_alc">Ваш поточний рівень алкоголю</string>
+<string name="default_name">Ім\'я за замовчуванням</string>
+<string name="default_percent">Відсоток за замовчуванням</string>
+<string name="del_item">Ви хочете видалити елемент?</string>
+<string name="diary">Реєстр споживання</string>
+<string name="diary_added">Напоїв додав до реєстру</string>
+<string name="diary_graph">Щомісячна статистика</string>
+<string name="diary_items">Ваш поточний реєстр споживання</string>
+<string name="dont_drive">Ніколи не сідати за кермо після вживання алкоголю!</string>
+<string name="drink_label">Етикетка напою</string>
+<string name="edit_name">Редагувати назву</string>
+<string name="exit">Вихід</string>
+<string name="favorites">Вибране</string>
+<string name="favorite_hint">Пошук в обране</string>
+<string name="fav_added">Напоїв додав в обране</string>
+<string name="feedback">Висловити свою думку</string>
+<string name="feedback_prompt">Привіт, ви б хотіли, щоб дати нам деякі коментарі, так що ми можемо поліпшити це додаток для вас?</string>
+<string name="female">Жінка</string>
+<string name="fully_sober">Ви повністю тверезий</string>
+<string name="go_to_menu">Прийняти і закрити</string>
+<string name="height">Ваш зростання</string>
+<string name="help">Допомогти</string>
+<string name="help_translate">Допомогти перевести це додаток</string>
+<string name="high_calory">Високий рівень (вище правова)</string>
+<string name="info">Інформація</string>
+<string name="information_1">Перейти до налаштувань, щоб ввести свої дані: вага, стать і юридичний зміст алкоголю в крові під час водіння у вашій країні або провінції. Зберегти й закрити.</string>
+<string name="information_2">Щоразу, коли ви споживаєте напій, ви повинні додати його в свій реєстр споживання. Ви можете встановити тип, обсяг і відсоток алкоголю для кожного напою. Ви також можете ввести час споживання, за замовчуванням він встановлений в поточний момент часу. Для коктейлів, ви повинні ввести тільки кількість горілки (або інших напоїв), який міститься в напої.</string>
+<string name="information_3">Щоб прискорити процес, можна зберегти напої в папці вибраних, під ім\'ям за вашим вибором. Після напоїв зберігається в обране, ви можете додати його в свій реєстр споживання, за одним клацанням миші.</string>
+<string name="information_4">Тут Ви можете переглянути і змінити ваш поточний реєстр споживання. Натиснувши кнопку "інформаційної", ви зможете переглянути детальну інформацію про обраний напій і додати його в реєстрі знову.</string>
+<string name="information_5">Ваш поточний рівень алкоголю буде на екрані відображається і оновлюється в режимі реального часу, а також період часу, необхідний для отримання повної мірою тверезий і юридично тверезий (відповідно до правовий рівень алкоголю за кермом у вашій країні або провінції). Графік відображає вміст алкоголю, під час недавнього минулого і кілька майбутніх годин (етикетки на дні вказують повні годин). Червона лінія показує правовий рівень алкоголю. Ви можете вибрати між графіка і гістограми.</string>
+<string name="information_6">Ви можете відстежувати ваш щоденне споживання алкоголю (зібраної з останніх записів), і статистика з розгляду таких як загального і середньої витрати. Кожен день, представлений однією рядку діаграми, мітка зліва вказують одиниці споживаного спирту (1 блок = 10 мл чистого спирту). Стрілки дозволить вам перейти на інші місяці.</string>
+<string name="information_7">Колір точки, розташованої близько до рівня алкоголю і кольору барів в гістограми, будуть зміни, відповідно з поточним рівнем алкоголю. Сенс кольору пояснюється нижче.</string>
+<string name="information_8">Ця програма не забезпечує фактичну (реальну) рівень алкоголю в крові, але оцінку, засновану на математичній формулі. Вміст алкоголю в крові залежить від безлічі факторів, які не включені в формулу. Ваш фактичний рівень алкоголю в крові може відрізнятися від вартості, наданої цим додатком.</string>
+<string name="legal_alc">Юридичний рівень алкоголю в крові у вашій країні / провінції</string>
+<string name="legal_sober">Ви юридично тверезий</string>
+<string name="legal_time">Ви будете юридично тверезим на</string>
+<string name="line_chart">Лінійний графік</string>
+<string name="low_calory">Низький рівень (нижче юридична)</string>
+<string name="male">Чоловік</string>
+<string name="medium_calory">Середній рівень (близько юридична)</string>
+<string name="menu_title">Меню</string>
+<string name="month">Місяць</string>
+<string name="month_graph_title">Щомісячне споживання</string>
+<string name="month_stats">Щомісячна статистика</string>
+<string name="new_record">Ви хочете, щоб видалити всі записи і почати нове реєстр?</string>
+<string name="no_data">Не маються дані для обраного місяця</string>
+<string name="num_days">Число днів із споживанням алкоголю</string>
+<string name="ok">Добре</string>
+<string name="opinion">Думка</string>
+<string name="percent_alcohol">Процент алкоголю</string>
+<string name="pick_amount">Вибрати обсяг</string>
+<string name="pick_type">Вибирають тип напою</string>
+<string name="rate_app">Оцініть це додаток!</string>
+<string name="save_close">Зберегти і закрити</string>
+<string name="settings">Настройки</string>
+<string name="sex">Ваш секс</string>
+<string name="sober_time">Ви будете повністю тверезий в</string>
+<string name="standard_unit">(Одиниця = 10 г чистого алкоголю)</string>
+<string name="that_is">Тобто в</string>
+<string name="total_consumption">Загальне споживання</string>
+<string name="type_name">Етикетка напою</string>
+<string name="unit">Одиниця обсягу</string>
+<string name="veryhigh_calory">Дуже високий рівень (значно вище правова)</string>
+<string name="warning">Попередження!</string>
+<string name="weight">Ваша вага</string>
+<string-array name="beer_amounts">
+<item>Дуже маленька скляна</item>
+<item>Маленький стакан</item>
+<item>Середній скло</item>
+<item>Велика скляна</item>
+<item>Дуже велику склянку</item>
+</string-array>
+<string-array name="units">
+<item>Метричні - мілілітрів (мл)</item>
+<item>Рідини унцію американський (рідких унцій)</item>
+<item>Рідини унцію імперський (рідких унцій)</item>
+</string-array>
+<string-array name="drink_types">
+<item>Пиво</item>
+<item>Вино</item>
+<item>Горілка або лікер</item>
+<item>Коктейль</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Дуже маленька скляна</item>
+<item>Маленький стакан</item>
+<item>Середній скло</item>
+<item>Велика скляна</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Маленький стакан</item>
+<item>Середній скло</item>
+<item>Велика скляна</item>
+</string-array>
+</resources>

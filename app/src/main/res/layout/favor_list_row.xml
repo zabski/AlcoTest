@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- These components will be dynamically created
+and added to the ScrollView -->
+
+<!-- TableRow 
+    android:id="@+id/stockQuoteRow"
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+    android:background="@android:color/transparent"
+    android:padding="@dimen/activity_horizontal_margin" 
+    android:textAppearance="?android:attr/textAppearanceSmall"
+    android:textAppearance="?android:attr/textAppearanceMedium"	
+    android:background="?android:attr/windowBackground"
+    android:background="?android:attr/windowBackground"
+    android:layout_marginLeft="@dimen/margin_s"
+	        android:layout_marginRight="@dimen/margin_s"
+	        android:background="@color/lt_grey" -->
+    
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        
+        android:paddingBottom="1px"
+        android:orientation="horizontal" >     
+
+   <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"        
+        android:padding="0dp"      
+        android:background="@drawable/list_row"
+        android:orientation="horizontal" >     
+        
+        <ImageView
+	        android:id="@+id/favDrinkImg"
+	        android:layout_width="@dimen/row_m"
+	        android:layout_height="@dimen/row_m"
+	        android:layout_gravity="center_vertical"
+	        android:gravity="center_vertical"	        
+	        android:src="@drawable/ball_gray_128" />
+        
+	    <LinearLayout
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:layout_gravity="center_vertical"
+	        android:gravity="center_vertical"	
+	        android:layout_weight="8"
+	        android:orientation="vertical" >
+	        
+		    <TextView
+		        android:id="@+id/tvLabel"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_gravity="left"
+		        android:layout_span="2"
+		        android:gravity="left"
+		        android:text="Title"
+		        android:textIsSelectable="false"
+		        android:textSize="@dimen/text_m" />
+		    
+		    <!-- TextView
+		        android:id="@+id/addressListTextView"
+		        android:layout_width="1dp"
+		        android:layout_height="1dp"
+		        android:layout_span="2"
+		        android:layout_gravity="left"
+		        android:gravity="left"		        
+		        android:text="Address"		
+		        android:textSize="@dimen/text_xs"        
+		        
+		        android:textIsSelectable="true"
+		        android:visibility="gone" /-->
+		    
+			<TextView
+			    android:id="@+id/tvDetails"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_gravity="left"
+			    android:layout_span="2"
+			    android:gravity="left"
+			    android:text="Address"
+			    android:textIsSelectable="false"
+			    android:textSize="@dimen/text_s" />
+		    
+		    </LinearLayout>
+		    
+    <ImageButton
+        android:id="@+id/btAddDiaryItem"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="@dimen/row_xl"
+        android:layout_height="@dimen/row_xl"
+        android:textSize="@dimen/text_xs"
+        android:layout_margin="0dp"
+        android:padding="@dimen/margin_l"
+        android:src="@drawable/add_64"
+        android:scaleType="fitCenter"
+        android:text="" />	    
+    
+    <ImageButton
+        android:id="@+id/foodInfoButton"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="@dimen/row_xl"
+        android:layout_height="@dimen/row_xl"
+        android:textSize="@dimen/text_xs"
+        android:layout_margin="0dp"
+        android:padding="@dimen/margin_l"
+        android:src="@drawable/info_128"
+        android:scaleType="fitCenter"
+        android:text="" />
+    
+   <ImageButton
+	    android:id="@+id/btDelFavor"
+	    style="?android:attr/buttonStyleSmall"
+	    android:layout_width="@dimen/row_xl" 
+	    android:layout_height="@dimen/row_xl"  
+	    android:src="@drawable/delete_64"
+	    android:textSize="@dimen/text_s"	     
+	    android:layout_margin="0dp"   
+	    android:padding="@dimen/margin_l"	        	        
+	    android:scaleType="fitCenter"
+	    android:visibility="visible" />
+
+    <!-- Button
+        android:id="@+id/quoteFromWebButton"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@layout/more_btn"
+        android:text="@string/go_to_website" /-->
+    
+        <TextView
+       	    android:id="@+id/idDrink"
+       	    android:layout_width="wrap_content"
+       	    android:layout_height="wrap_content"       	    
+       	    android:layout_gravity="right"
+       	    android:text=""       	    
+       	    android:textIsSelectable="false"
+       	    android:visibility="gone" />
+
+        <TextView
+       	    android:id="@+id/idDiary"
+       	    android:layout_width="wrap_content"
+       	    android:layout_height="wrap_content"       	    
+       	    android:layout_gravity="right"
+       	    android:text=""       	    
+       	    android:textIsSelectable="false"
+       	    android:visibility="gone" />        
+        
+    </LinearLayout>
+    
+</LinearLayout>
+
+<!-- /TableRow-->

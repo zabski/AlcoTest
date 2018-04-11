@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Ajouter une boisson</string>
+<string name="add_favorite">Aux favoris</string>
+<string name="age">Votre âge</string>
+<string name="all_units">Tous les nombres en unités de verre standard</string>
+<string name="app_name">L\'alcoolémie</string>
+<string name="avg_consumption">La consommation quotidienne moyenne</string>
+<string name="bac_graph">Graphique de votre alcoolémie</string>
+<string name="bar_chart">Histogramme</string>
+<string name="cancel">Annuler</string>
+<string name="change_time">Modifier</string>
+<string name="charts">L\'alcoolémie actuel</string>
+<string name="clear_all">Effacer tout et commencer à nouveau registre</string>
+<string name="config">Configuration</string>
+<string name="consumption">Votre consommation</string>
+<string name="consumption_time">Le temps de la consommation</string>
+<string name="current_alc">L\'alcoolémie actuel est</string>
+<string name="default_name">Nom par défaut</string>
+<string name="default_percent">Pourcentage par défaut</string>
+<string name="del_item">Voulez-vous supprimer le point?</string>
+<string name="diary">Dossier de consommation</string>
+<string name="diary_added">Boisson ajouté à votre dossier</string>
+<string name="diary_graph">Statistiques mensuelles</string>
+<string name="diary_items">Votre courant dossier des boissons</string>
+<string name="dont_drive">Ne conduisez jamais après avoir bu d\'alcool!</string>
+<string name="drink_label">Le nom de la boisson</string>
+<string name="edit_name">Modifier le nom</string>
+<string name="exit">Sortie</string>
+<string name="favorites">Favoris</string>
+<string name="favorite_hint">Rechercher dans les favoris</string>
+<string name="fav_added">Boisson ajouté aux favoris</string>
+<string name="feedback">Donnez votre opinion</string>
+<string name="feedback_prompt">Bonjour, voulez-vous nous donner quelques commentaires, afin que nous puissions améliorer cette application pour vous?</string>
+<string name="female">Femme</string>
+<string name="fully_sober">Vous êtes totalement sobre</string>
+<string name="go_to_menu">J\'accepte</string>
+<string name="height">Votre taille</string>
+<string name="help">Aide</string>
+<string name="help_translate">Aidez à traduire cette application</string>
+<string name="high_calory">De haut niveau (ci-dessus juridique)</string>
+<string name="info">Informations</string>
+<string name="information_1">Accédez aux paramètres et entrez vos coordonnées: taille, poids, sexe et alcoolémie légal dans votre pays ou province. Enregistrer et fermer.</string>
+<string name="information_2">Chaque fois que vous prenez un verre, vous devez l\'ajouter à votre dossier de la consommation. Vous pouvez définir le type, le volume et le pourcentage d\'alcool par verre. Vous pouvez également saisir le moment de la consommation, par défaut est réglé sur l\'heure actuelle. Pour les cocktails, il faut entrer la quantité de vodka (ou autre alcool) qui est contenue dans la boisson.</string>
+<string name="information_3">Pour accélérer le processus, vous pouvez enregistrer vos boissons préférées avec le nom de votre choix. Lorsqu\'il est enregistré comme favori, vous pouvez l\'ajouter à votre consommation avec un seul clic.</string>
+<string name="information_4">Ici vous pouvez consulter et modifier votre dossier de consommation de courant. En cliquant sur \ "info \", vous serez en mesure de consulter les données de boisson et l\'ajouter à votre dossier de nouveau.</string>
+<string name="information_5">Votre alcoolémie actuel sera affiché et mis à jour en temps réel, avec le temps auquel vous serez sobre totalement et légalement (selon l\'alcoolémie légal au volant en votre pays ou province). Le graphique affiche l\'alcoolémie pour quelques heures de passé aussi que de l\'avenir (étiquettes en bas indiquent heures pleines). La ligne rouge indique l\'alcoolémie légal. Vous pouvez basculer entre graphique ligne et histogramme.</string>
+<string name="information_6">Vous pouvez suivre votre consommation quotidienne d\'alcool (obtenue à partir des dossiers précédents) et revue les statistiques, tels que la consommation totale et moyenne. Chaque jour est représenté par un barre sur le graphique, étiquette gauche indique les unités d\'alcool consommée (1 unité = 10g d\'alcool pur). Les flèches vous permettent de naviguer vers d\'autres mois.</string>
+<string name="information_7">La couleur du point à côté et les couleurs des barres de l\'histogramme sera différent en fonction de votre alcoolémie en cours. La signification des couleurs est la suivante.</string>
+<string name="information_8">Cette application ne fournit pas le taux réelle d\'alcool dans le sang (l\'alcoolémie), mais seulement une estimation basée sur une formule mathématique. L\'alcoolémie dépend de la variété de facteurs qui ne sont pas inclus dans la formule. Votre l\'alcoolémie réelle peut différer de la valeur fournie.</string>
+<string name="legal_alc">Contenu juridique de l\'alcoolémie dans votre pays / province</string>
+<string name="legal_sober">Vous êtes légalement sobre</string>
+<string name="legal_time">Vous serez (légalement) sobre à</string>
+<string name="line_chart">Graphique ligne</string>
+<string name="low_calory">Faible niveau (ci-dessous juridique)</string>
+<string name="male">Homme</string>
+<string name="medium_calory">Niveau moyen (environ juridique)</string>
+<string name="menu_title">Menu</string>
+<string name="month">Mois</string>
+<string name="month_graph_title">Consommation mensuelle</string>
+<string name="month_stats">Statistiques mensuelles</string>
+<string name="new_record">Voulez-vous effacer toutes les entrées et commencer nouveau record?</string>
+<string name="no_data">Pas de données disponibles pour ce mois</string>
+<string name="num_days">Nombre de jours avec consommation d\'alcool</string>
+<string name="ok">D\'áccord</string>
+<string name="opinion">Avis</string>
+<string name="percent_alcohol">Pourcentage d\'alcool</string>
+<string name="promile">pour mille</string>
+<string name="pick_amount">Le volume</string>
+<string name="pick_type">Le type de boisson</string>
+<string name="rate_app">Évaluer cette application!</string>
+    <string name="remove_ads">Supprimez la pub</string>
+<string name="save_close">Enregistrez et fermez</string>
+<string name="settings">Paramètres</string>
+<string name="sex">Votre sexe</string>
+<string name="sober_time">Vous serez complètement sobre à</string>
+<string name="standard_unit">(unité = 10 g d\'alcool pur)</string>
+<string name="that_is">C\'est à dire en</string>
+<string name="total_consumption">La consommation totale</string>
+<string name="type_name">Le nom de la boisson</string>
+<string name="unit">L\'unité de volume</string>
+<string name="veryhigh_calory">Très élevé (bien au-dessus juridique)</string>
+<string name="warning">Attention!</string>
+<string name="weight">Votre poids</string>
+<string name="your_wgt">Votre poids</string>
+<string-array name="beer_amounts">
+<item>Très petit</item>
+<item>Petit</item>
+<item>Ordinaire</item>
+<item>Grand</item>
+<item>Très grand</item>
+</string-array>
+<string-array name="units">
+<item>Métrique - millilitres (ml)</item>
+<item>Once liquide US (fl oz)</item>
+<item>Once liquide impériale (fl oz)</item>
+</string-array>
+<string-array name="drink_types">
+<item>Bière</item>
+<item>Vin</item>
+<item>Vodka / spiritueux</item>
+<item>Cocktail</item>
+</string-array>
+<string-array name="beerml">
+<item>250</item>
+<item>330</item>
+<item>400</item>
+<item>500</item>
+<item>660</item>
+</string-array>
+<string-array name="beermlus">
+<item>285</item>
+<item>375</item>
+<item>475</item>
+<item>568</item>
+<item>660</item>
+</string-array>
+<string-array name="beermluk">
+<item>285</item>
+<item>375</item>
+<item>475</item>
+<item>568</item>
+<item>660</item>
+</string-array>
+<string-array name="vodka_ml">
+<item>20</item>
+<item>30</item>
+<item>40</item>
+<item>50</item>
+</string-array> 
+<string-array name="cocktail_amounts">
+<item>20 ml</item>
+<item>30 ml</item>
+<item>40 ml</item>
+<item>50 ml</item>
+<item>60 ml</item>
+<item>70 ml</item>
+<item>80 ml</item>
+</string-array>
+<string-array name="cocktail_ml">
+<item>20</item>
+<item>30</item>
+<item>40</item>
+<item>50</item>
+<item>60</item>
+<item>70</item>
+<item>80</item>
+</string-array>
+<string-array name="wine_ml">
+<item>100</item>
+<item>150</item>
+<item>200</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Très petit verre de vodka</item>
+<item>Petit verre de vodka</item>
+<item>Verre moyen de vodka</item>
+<item>Grand verre de vodka</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Petit verre de vin</item>
+<item>Moyen verre de vin</item>
+<item>Grand verre de vin</item>
+</string-array>
+<string name="legal_level">Niveau juridique</string>
+<string name="invalidInput">Des données non valides</string>
+<string name="emptyInput">S\'il vous plaît entrer des données</string>
+<string name="daily_value">Votre consommation d\'alcool récente</string>
+
+</resources>

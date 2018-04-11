@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?><resources>
+<string name="add_drink">주류 추가</string>
+<string name="add_favorite">즐겨찾기에 추가</string>
+<string name="age">나이</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">표준 주류 단위에 있는 모든 숫자</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">혈중 알코올 농도</string>
+<string name="avg_consumption">일일 평균 소비</string>
+<string name="bac_graph">혈중 알코올 농도 차트</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">막대 차트</string>
+<string name="cancel">취소</string>
+<string name="change_time">변경 시간</string>
+<string name="charts">현재 알코올 농도</string>
+<string name="clear_all">모두 지우고 새로운 기록을 시작합니다.</string>
+<!-- Short from Configuration -->
+<string name="config">구성.</string>
+<string name="consumption">소비</string>
+<string name="consumption_time">소비 시간</string>
+<string name="current_alc">여러분의 현재 알코올 농도는</string>
+<string name="default_name">기본 이름으로 설정</string>
+<string name="default_percent">기본 비율</string>
+<string name="del_item">항목을 삭제하겠습니까?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">소비 기록</string>
+<string name="diary_added">기록에 주류가 추가됨.</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">월별 통계</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">현재 주류 기록</string>
+<string name="dont_drive">술을 마신 후에는 절대 운전하지 마십시오!</string>
+<string name="drink_label">주류 라벨</string>	
+<string name="edit_name">이름 편집</string>
+<string name="exit">나가기</string>
+<string name="favorites">즐겨찾기</string>	  
+<string name="favorite_hint">즐겨찾기 검색</string>
+<string name="fav_added">즐겨찾기에 주류가 추가됨</string> 
+<string name="feedback">여러분의 의견을 알려주십시오.</string>
+<string name="feedback_prompt">여러분의 경험을 개선할 수 있도록 의견을 주시면 감사하겠습니다.</string>
+<string name="female">여성</string> 
+<string name="fully_sober">여러분은 완전히 깨어 있습니다.</string>
+<string name="go_to_menu">동의 및 닫기</string> 
+<string name="height">신장</string>
+<string name="help">도움말</string>
+<!-- app being short for application -->
+<string name="help_translate">도움말은 이 앱을 번역합니다.</string>
+<string name="high_calory">높은 수준 (법적 수준 이상)</string>
+<string name="info">정보</string>
+<string name="information_1">설정으로 이동하여 국가 또는 지방에서 운전하는 동안 체중, 성별, 법적 혈중 알콜 농도와 같은 데이터를 입력하십시오. 저장 및 닫기.</string>
+<string name="information_2">주류를 마실 때마다, 이를 소비 기록에 추가해야 합니다. 각 주류의 유형, 양, 알코올의 비율을 설정할 수 있습니다. 또한 소비 시간을 입력할 수 있으며, 기본값으로 현재 시간을 설정합니다. 칵테일의 경우, 주류에 포함된 보드카(또는 기타 주류)의 양을 입력해야 합니다.</string>
+<string name="information_3">처리 과정을 빠르게 하기 위해서는 여러분이 선택한 이름으로 즐겨찾기에 주류를 저장할 수 있습니다. 즐겨찾기에 저장되면, 단지 클릭 한 번으로 소비 기록에 주류를 추가할 수 있습니다.</string>
+<string name="information_4">여러분의 현재 소비 기록을 검토하고 변경할 수 있습니다. \"정보\"버튼을 클릭하여 주류 데이터를 검토하고 다시 기록에 이를 추가할 수 있습니다.</string>
+<string name="information_5">술이 완전히, 그리고 법적으로 깨어 있는 상태에 필요한 시간에 따라 (국가 또는 지방에서 운전하는 동안 알코올의 법적 수준에 따라) 현재 혈중 알코올 농도가 실시간으로 표시되고 업데이트 됩니다. 최근 과거 및 앞으로 몇 시간 (하단의 라벨이 전체 시간을 표시) 동안 알코올 농도를 차트로 시각화 합니다. 빨간선은 알코올의 법적 수준을 나타냅니다. 여러분은 선과 막대 그래프 사이를 전환할 수 있습니다.</string>
+<string name="information_6">전체 및 평균 소비와 같은 과거 기록 및 검토 통계를 수집하여 여러분의 알코올 매일 소비 내역을 추적할 수 있습니다. 각 일은 차트의 막대로 표시되며, 왼쪽 레이블은 알콜 소비 단위를 나타냅니다 (1단위 = 순수 알코올 10 ㎖). 화살표를 누르면 다른 달을 검색할 수 있습니다.</string>		
+<string name="information_7">막대 그래프에서 알코올 농도 옆의 점 색상 및 막대의 색상은 현재 혈중 알코올 농도에 따라 달라집니다. 색상의 의미는 다음과 같습니다.</string>
+<string name="information_8">이 애플리케이션은 실제 혈중 알코올 농도가 아니라 수학적 공식에 근거한 추정치를 제공합니다. 혈중 알코올 농도는 공식에 포함되지 않는 다양한 요인에 따라 좌우됩니다. 실제 혈중 알코올 농도는 제공된 값과 다를 수 있습니다.</string>
+<string name="legal_alc">해당 국가 / 지역의 법률상 혈중 알코올 농도</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">여러분은 법적으로 술에서 깨어 있습니다.</string>
+<string name="legal_time">여러분은 법적으로 술에서 깨어 있습니다.</string>
+<!-- chart made of lines -->
+<string name="line_chart">라인 차트</string>
+<string name="low_calory">낮은 수준 (법률 수준 이하)</string>
+<string name="male">남성</string>
+<string name="medium_calory">중간 수준 (법적 수준 정도)</string>
+<string name="menu_title">메뉴</string>
+<string name="month">월</string>
+<string name="month_graph_title">월간 소비</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">월별 통계</string>
+<string name="new_record">모든 항목을 지우고 새로운 기록을 시작하겠습니까?</string>
+<string name="no_data">이 달에 대한 자료 없음</string>
+<string name="num_days">알코올 소비와 관련된 일수</string>
+<string name="ok">확인</string>
+<string name="opinion">의견</string>
+<string name="percent_alcohol">알코올 백분율</string>
+<string name="promile">천분율</string>
+
+<string name="pick_amount">볼륨 선택</string>
+<string name="pick_type">주류 유형 선택</string> 
+<!-- app being short for application -->
+<string name="rate_app">이 앱을 평가하여 주십시오!</string>
+    <string name="remove_ads">광고를 제거</string>
+<string name="save_close">저장 및 닫기</string>
+<string name="settings">설정</string>
+<string name="sex">성별</string>
+<string name="sober_time">여러분은 완전히 깨어 있을 것입니다.</string>
+<string name="standard_unit">(단위 = 순수 알코올 10g)</string> 
+<string name="that_is">즉</string>
+<string name="total_consumption">총 소비</string>
+<string name="type_name">주류 라벨을 입력하십시오.</string>
+<string name="unit">볼륨 단위</string>
+<string name="veryhigh_calory">매우 높은 수준 (법률 수준 초과)</string>
+<string name="warning">경고!</string>
+<string name="weight">몸무게</string>
+<string-array name="beer_amounts">
+    <item>매우 작은 잔</item>
+    <item>작은 잔</item>
+    <item>일반 잔</item>
+    <item>큰 잔</item>
+    <item>매우 큰 잔</item>
+  </string-array>
+<string-array name="units">
+    <item>미터법 - 밀리리터 (ml)</item>
+    <item>액량 온스 미국  (fl oz)</item>
+    <item>액량 온스  영국 (fl oz)</item>
+  </string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+    <item>맥주</item>
+    <item>포도주</item>
+    <item>보드카 / 주류</item>
+    <item>칵테일</item>
+  </string-array>
+<string-array name="vodka_amounts">
+    <item>매우 작은 잔</item>
+    <item>작은 잔</item>
+    <item>중간 잔</item>
+    <item>큰 잔</item>
+  </string-array>
+<string-array name="wine_amounts">
+    <item>작은 잔</item>
+    <item>중간 잔</item>
+    <item>큰 잔</item>
+  </string-array>
+</resources>

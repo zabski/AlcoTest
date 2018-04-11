@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Engadir bebida</string>
+<string name="add_favorite">Engadir aos favoritos</string>
+<string name="age">Súa idade</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">Todos os números en unidades de bebida estándar</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">O contido de alcohol no sangue</string>
+<string name="avg_consumption">O consumo medio diario</string>
+<string name="bac_graph">Gráfico do seu nivel de alcohol</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">Diagrama</string>
+<string name="cancel">Cancelar</string>
+<string name="change_time">Cambiar o tempo</string>
+<string name="charts">Seu nivel actual de alcohol</string>
+<string name="clear_all">Borrar todo e comezar novo rexistro</string>
+<!-- Short from Configuration -->
+<string name="config">Configuración</string>
+<string name="consumption">O seu consumo</string>
+<string name="consumption_time">Tempo de consumo</string>
+<string name="current_alc">Seu nivel actual de alcohol</string>
+<string name="default_name">Definido como estándar nome</string>
+<string name="default_percent">Porcentaxe estándar</string>
+<string name="del_item">Quere eliminar elemento?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">Rexistro de consumo</string>
+<string name="diary_added">Bebida engadido ao seu rexistro</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">As estatísticas mensuais</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">O rexistro actual de consumo</string>
+<string name="dont_drive">Nunca diríxase despois de beber alcohol!</string>
+<string name="drink_label">Etiqueta da bebida</string>
+<string name="edit_name">Editar nome</string>
+<string name="exit">Saída</string>
+<string name="favorites">Favoritos</string>
+<string name="favorite_hint">Buscar en favoritos</string>
+<string name="fav_added">Drink engadido aos favoritos</string>
+<string name="feedback">Dea a súa opinión</string>
+<string name="feedback_prompt">Hola, quere enviar a súa opinión, para que pudéssemos mellorar esta aplicación para ti?</string>
+<string name="female">Feminino</string>
+<string name="fully_sober">Vostede é totalmente sobrio</string>
+<string name="go_to_menu">Aceptar e pechar</string>
+<string name="height">A súa altura</string>
+<string name="help">Socorro</string>
+<!-- app being short for application -->
+<string name="help_translate">Axude a traducir esta aplicación</string>
+<string name="high_calory">Alto nivel (arriba legal)</string>
+<string name="info">Información</string>
+<string name="information_1">Vaia para a configuración e escriba os seus datos: peso, sexo e contido legal de alcohol no sangue durante a condución no seu país ou provincia. Gardar e pechar.</string>
+<string name="information_2">Cada vez que, cando consumir unha bebida, ten que engadir lo ao seu rexistro de consumo. Podes establecer o tipo, volume e porcentaxe de alcohol para cada bebida. Tamén pode inserir momento do consumo, por defecto, é establecido para o tempo actual. Para cócteles, ten que entrar só a cantidade de vodka (ou outras bebidas), que está contida na bebida.</string>
+<string name="information_3">Para acelerar o proceso, pode gardar bebidas no cartafol de favoritos, cun nome da súa elección. Despois dunha bebida é salvo nos favoritos, pode engadir lo ao seu rexistro de consumo, por só un clic.</string>
+<string name="information_4">Aquí pode revisar e modificar o seu rexistro actual de consumo. Premendo \ "info \", será capaz de revisar detalles da bebida escollida e engadir lo ao seu rexistro de novo.</string>
+<string name="information_5">Seu nivel actual de alcohol por exhibidos e actualizados en tempo real, xunto co período de tempo necesario para obter totalmente sobrio e legalmente sobrio (segundo o nivel legal de alcohol ao conducir no seu país ou provincia). O gráfico ver o seu contido de alcohol, durante pasado recente e algúns próximas horas (etiquetas na parte inferior indican horas cheas). Liña vermella indica o nivel legal de alcohol. Podes escoller entre gráfico de liñas e gráfica de barras.</string>
+<string name="information_6">O seu pode trazar o seu consumo diario de alcohol (recollidos de rexistros do pasado) e as estatísticas de revisión, como o consumo total e media. Cada día é representado por unha barra da gráfica, etiqueta á esquerda indican unidades de alcohol consumido (1 unidade = 10 mililitros de alcohol puro). Arrows vai deixar que navegar a outros meses.</string>
+<string name="information_7">Cor do punto, situado preto do nivel de alcohol e cores de barras no diagrama, vai cambiar, segundo o seu nivel actual de alcohol. O significado das cores explícase a continuación.</string>
+<string name="information_8">Esta aplicación non proporcionar o seu nivel real (real) de alcohol no sangue, pero unha estimación en base a unha fórmula matemática. O contido de alcohol no sangue depende de varios factores, que non están incluídas na fórmula. O seu nivel efectivo de alcohol no sangue pode diferir do valor indicado por esta aplicación.</string>
+<string name="legal_alc">Legal alcoholemia no seu país / provincia</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">Vostede é legalmente sobrio</string>
+<string name="legal_time">Será xuridicamente sobrio</string>
+<!-- chart made of lines -->
+<string name="line_chart">Gráfico de liñas</string>
+<string name="low_calory">Baixo nivel (abaixo legal)</string>
+<string name="male">Masculino</string>
+<string name="medium_calory">Nivel medio (en torno legal)</string>
+<string name="menu_title">Menú</string>
+<string name="month">Mes</string>
+<string name="month_graph_title">Consumo mensual</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">As estatísticas mensuais</string>
+<string name="new_record">Quere limpar todas as entradas e comezar novo rexistro?</string>
+<string name="no_data">Non hai datos dispoñibles para o mes seleccionado</string>
+<string name="num_days">O número de días con consumo de alcohol</string>
+<string name="ok">Ok</string>
+<string name="opinion">Opinión</string>
+<string name="percent_alcohol">Porcentaxe de alcohol</string>
+<string name="pick_amount">Volume</string>
+<string name="pick_type">Tipo de bebida</string>
+<!-- app being short for application -->
+<string name="rate_app">Avaliar este programa!</string>
+<string name="save_close">Gardar e pechar</string>
+<string name="settings">Axustes</string>
+<string name="sex">Seu sexo</string>
+<string name="sober_time">Será totalmente sobrio</string>
+<string name="standard_unit">(Unidade = 10g de alcohol puro)</string>
+<string name="that_is">Que é en</string>
+<string name="total_consumption">O consumo total de</string>
+<string name="type_name">Etiqueta da bebida</string>
+<string name="unit">Unidade de volume</string>
+<string name="veryhigh_calory">Nivel moi alto (moi por encima legal)</string>
+<string name="warning">Advertencia!</string>
+<string name="weight">O seu peso</string>
+<string name="choose_theme">Escolla a cor do</string>
+<string name="wine">Viño</string>
+<string name="light">Brillante</string>
+<string name="dark">Escuro</string>
+<string name="promile">Permile</string>
+<string name="alc_level">Nivel de alcohol</string>
+<string name="stats">Estatística</string>
+<string name="def_name">Nome estándar</string>
+<string-array name="beer_amounts">
+<item>Moi pequeno vidro</item>
+<item>Vidro pequeno</item>
+<item>Vidro Medio</item>
+<item>Gran Vidro</item>
+<item>Moi grande vidro</item>
+</string-array>
+<string-array name="units">
+<item>Métricas - mililitros (ml)</item>
+<item>Onzas fluídas estadounidense (fl oz)</item>
+<item>Onzas fluídas Imperial (fl oz)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>Cervexa</item>
+<item>Viño</item>
+<item>Vodka ou Liquor</item>
+<item>Cóctel</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Moi pequeno vidro</item>
+<item>Vidro pequeno</item>
+<item>Vidro Medio</item>
+<item>Gran Vidro</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Vidro pequeno</item>
+<item>Vidro Medio</item>
+<item>Gran Vidro</item>
+</string-array>
+</resources>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Içecek ekleyebilir</string>
+<string name="add_favorite">Favorilerime ekle</string>
+<string name="age">Yaşınız</string>
+<string name="all_units">Standart içki birimlerinde tüm sayılar</string>
+<string name="app_name">Kandaki alkol içeriği</string>
+<string name="avg_consumption">Ortalama günlük tüketim</string>
+<string name="bac_graph">Alkol düzeyi ne grafik</string>
+<string name="bar_chart">Çubuk grafik</string>
+<string name="cancel">Iptal</string>
+<string name="change_time">Değişim zamanı</string>
+<string name="charts">Alkol mevcut seviyesi</string>
+<string name="clear_all">Hepsini silmek ve yeni kayıt başlatmak</string>
+<string name="config">Yapılandırma</string>
+<string name="consumption">Tüketim</string>
+<string name="consumption_time">Tüketim süresi</string>
+<string name="current_alc">Alkol mevcut seviyesi</string>
+<string name="default_name">Varsayılan ad</string>
+<string name="default_percent">Varsayılan yüzde</string>
+<string name="del_item">Eğer öğeyi silmek istiyorsun?</string>
+<string name="diary">Tüketim kayıt</string>
+<string name="diary_added">Içecek kayıt defterine eklendi</string>
+<string name="diary_graph">Aylık istatistikler</string>
+<string name="diary_items">Tüketim Geçerli defteri</string>
+<string name="dont_drive">Içkili sürücü asla!</string>
+<string name="drink_label">Içeceğin etiketi</string>
+<string name="edit_name">Düzenleme adı</string>
+<string name="exit">Çıkış</string>
+<string name="favorites">Sık</string>
+<string name="favorite_hint">Sık arama</string>
+<string name="fav_added">Içecek favorilere eklendi</string>
+<string name="feedback">Düşüncelerinizi vermek</string>
+<string name="feedback_prompt">Merhaba, biz sizin için bu uygulamayı geliştirmek, böylece bize bazı açıklamalar vermek istiyorum?</string>
+<string name="female">Kadın</string>
+<string name="fully_sober">Tamamen ayık</string>
+<string name="go_to_menu">Kabul etmek ve kapatmak</string>
+<string name="height">Boyunuz</string>
+<string name="help">Yardım</string>
+<string name="help_translate">Bu uygulamayı çevirmek yardımcı</string>
+<string name="high_calory">Yüksek düzeyde (yasal yukarıda)</string>
+<string name="info">Bilgi</string>
+<string name="information_1">Ülkenizdeki ya da il sürüş sırasında ağırlık, cinsiyet ve kandaki alkol yasal içeriği: veri girmek ayarlarına gidin. Kaydedin ve kapatın.</string>
+<string name="information_2">Her zaman, bir içecek tüketmek, tüketim kayıt defterinde eklemek gerekir. Sen her içeceğin tipi, hacmi ve alkol yüzdesini ayarlayabilirsiniz. O şimdiki zamana ayarlanmış varsayılan tarafından da, tüketim zamanı girebilirsiniz. Kokteyller için, içecek bulunan votka (veya diğer likör), sadece miktarını girmelidir.</string>
+<string name="information_3">Süreci hızlandırmak için, seçtiğiniz bir ad altında, favoriler klasörüne içecekler kaydedebilirsiniz. Bir içecek sık kaydedildikten sonra, sadece tek bir tıklama ile, tüketim kayıt defterine ekleyebilirsiniz.</string>
+<string name="information_4">Burada gözden ve tüketim mevcut kayıt defterini değiştirebilirsiniz. Tıklayıp "bilgi" düğmesi ile, seçtiğiniz içeceğin ayrıntılarını gözden geçirin ve tekrar kayıt defterine eklemek mümkün olacak.</string>
+<string name="information_5">Alkol mevcut seviyesi ile (ülkenizde veya ilinde sürerken alkol yasal düzeyine göre) görüntülenir ve tamamen ayık ve yasal ayık almak için gereken zaman süresi ile birlikte, gerçek zamanlı olarak güncellenir olacaktır.Grafik yakın geçmiş ve birkaç yaklaşan saat (alt etiketleri tam saatini gösterir) sırasında alkol içeriği, görüntüler. Kırmızı çizgi alkol yasal düzeyini gösterir. Sen çizgi grafik ve çubuk grafik arasında seçim yapabilirsiniz.</string>
+<string name="information_6">Bu tür toplam ve ortalama tüketim olarak (geçmiş kayıtları toplanan) alkol ve yorum istatistiklerinin günlük tüketimi takip edebilirsiniz. Her gün grafik bir çubukla temsil edilir, soldaki etiket tüketilen alkol (1 birim = saf alkol 10 mililitre) birimleri gösterir. Oklar diğer aylarda gitmek izin verir.</string>
+<string name="information_7">Alkol ve çubuk grafik barlar renk seviyesine yakın bulunduğu nokta, renk, alkol mevcut düzeyine göre değişiyor olacak. Renklerin anlamı aşağıda açıklanmıştır.</string>
+<string name="information_8">Bu uygulama gerçek (reel) kandaki alkol seviyesini, ancak bir matematiksel formüle dayanan bir tahmin sağlamaz. Kandaki alkol içeriği, aşağıdaki formüle dahil değildir faktörlere çeşitli bağlıdır. Kandaki alkol Gerçek seviyesi bu uygulama tarafından sağlanan değerinden farklı olabilir.</string>
+<string name="legal_alc">Ülkeniz / ilinde kandaki alkol yasal düzeyde</string>
+<string name="legal_sober">Eğer yasal ayık</string>
+<string name="legal_time">Eğer yasal olarak ayık olacak</string>
+<string name="line_chart">Çizgi grafiği</string>
+<string name="low_calory">Düşük seviyeli (yasal aşağıda)</string>
+<string name="male">Erkek</string>
+<string name="medium_calory">Orta düzeyde (yasal civarında)</string>
+<string name="menu_title">Menü</string>
+<string name="month">Ay</string>
+<string name="month_graph_title">Aylık tüketim</string>
+<string name="month_stats">Aylık istatistikler</string>
+<string name="new_record">Tüm girdileri temizlemek ve yeni kayıt başlatmak istiyorsun?</string>
+<string name="no_data">Seçilen aya ait veri yoktur</string>
+<string name="num_days">Alkol tüketimi ile gün sayısı</string>
+<string name="ok">Tamam</string>
+<string name="opinion">Görüş</string>
+<string name="percent_alcohol">Alkol yüzdesi</string>
+<string name="pick_amount">Birim seçin</string>
+<string name="pick_type">Içecek türünü seçin</string>
+<string name="rate_app">Bu uygulamayı Oranı!</string>
+    <string name="remove_ads">Reklamları kaldır</string>
+<string name="save_close">Kaydetmek ve kapatmak</string>
+<string name="settings">Ayarları</string>
+<string name="sex">Seks</string>
+<string name="sober_time">Eğer at tamamen ayık olacak</string>
+<string name="standard_unit">(birim = saf alkol 10 gram)</string>
+<string name="that_is">Ki içinde</string>
+<string name="total_consumption">Toplam tüketim</string>
+<string name="type_name">Içeceğin etiketi</string>
+<string name="unit">Hacim birimi</string>
+<string name="veryhigh_calory">Çok yüksek düzeyde (çok yasal yukarıda)</string>
+<string name="warning">Uyarı!</string>
+<string name="weight">Kilonuz</string>
+<string-array name="beer_amounts">
+<item>Çok küçük cam</item>
+<item>Küçük cam</item>
+<item>Orta cam</item>
+<item>Büyük cam</item>
+<item>Çok büyük bir cam</item>
+</string-array>
+<string-array name="units">
+<item>Metrik - mililitre (ml)</item>
+<item>Sıvı ons amerikan (oz)</item>
+<item>Sıvı ons imparatorluk (oz)</item>
+</string-array>
+<string-array name="drink_types">
+<item>Bira</item>
+<item>Şarap</item>
+<item>Votka ve likör</item>
+<item>Kokteyl</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Çok küçük cam</item>
+<item>Küçük cam</item>
+<item>Orta cam</item>
+<item>Büyük cam</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Küçük cam</item>
+<item>Orta cam</item>
+<item>Büyük cam</item>
+</string-array>
+</resources>

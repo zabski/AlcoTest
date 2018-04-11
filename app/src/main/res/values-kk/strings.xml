@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Сусын қосу</string>
+<string name="add_favorite">Белгіге қосу</string>
+<string name="age">Сіздің жасыңыз</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">Стандартты сусын бірлік Барлық нөмірлер</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">Қанда алкогольдің мазмұны</string>
+<string name="avg_consumption">Орташа тәуліктік тұтыну</string>
+<string name="bac_graph">Алкоголь сіздің деңгейдегі Диаграмма</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">Диаграмма</string>
+<string name="cancel">Күшін жою</string>
+<string name="change_time">Өзгерту уақыты</string>
+<string name="charts">Алкоголь Сіздің ағымдағы деңгейі</string>
+<string name="clear_all">Барлық түсінікті және жаңа тізілімін бастау</string>
+<!-- Short from Configuration -->
+<string name="config">Конфигурация</string>
+<string name="consumption">Сіздің тұтыну</string>
+<string name="consumption_time">Тұтыну уақыты</string>
+<string name="current_alc">Алкоголь Сіздің ағымдағы деңгейі</string>
+<string name="default_name">Атауы әдепкі орнату</string>
+<string name="default_percent">Әдепкі пайыздық</string>
+<string name="del_item">Элементті жою керек пе?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">Тұтыну тіркелімі</string>
+<string name="diary_added">Drink сіздің тізіліміне қосылды</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">Айлық статистика</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">Тұтыну Сіздің ағымдағы тіркеу</string>
+<string name="dont_drive">Спирттік ішімдік ішкеннен кейін жүріп ешқашан!</string>
+<string name="drink_label">Сусынның Label</string>
+<string name="edit_name">Өңдеу атауы</string>
+<string name="exit">Шығу</string>
+<string name="favorites">Таңдаулы</string>
+<string name="favorite_hint">Белгіге Іздеу</string>
+<string name="fav_added">Drink Таңдаулыға қосылды</string>
+<string name="feedback">Сіздің пікіріңіз беріңіз</string>
+<string name="feedback_prompt">Сәлеметсіз бе, сіз, біз сіз үшін осы бағдарламаны жақсартуға алмады, сондықтан бізге өз пікірін жібергім келеді?</string>
+<string name="female">Әйел</string>
+<string name="fully_sober">Сіз толық босаң болып табылады</string>
+<string name="go_to_menu">Қабылдау және жақын</string>
+<string name="height">Сіздің биіктігі</string>
+<string name="help">Көмектесіңіздер</string>
+<!-- app being short for application -->
+<string name="help_translate">Осы қолданбаны аударуға көмектесу</string>
+<string name="high_calory">(заңды жоғарыда) жоғары деңгейі</string>
+<string name="info">Ақпарат</string>
+<string name="information_1">Параметрлеріне өтіңіз және деректеріңізді енгізіңіз: салмағы, секс және қанда алкогольдің құқықтық мазмұны еліңізде немесе провинциясында жүргізу кезінде. Сақтаңыз және жабыңыз.</string>
+<string name="information_2">Әр жолы, Сіз сусын тұтынады кезде, сіз тұтыну сіздің тізіліміне қосу керек. Сіз әр сусынның үшін спирт түрі, көлемі мен пайыздық орнатуға болады. Сондай-ақ, ол ағымдағы уақыт күйіне орнатылса депкі параметрі бойынша, тұтыну уақытын енгізуге болады. Коктейльдер, сіз сусын бар ғана арақ сомасын (немесе басқа ерітінділерді) енгізу қажет.</string>
+<string name="information_3">Процесін жеделдету үшін, Сіз өзіңіздің таңдаған атаумен таңдаулылар қалтасындағы сусындар сақтауға болады. Сусын таңдаулылар сақталған соң, сіз бір ғана басу, тұтыну сіздің тізілімін оны қосуға болады.</string>
+<string name="information_4">Мұнда Сіз тұтыну сіздің ағымдағы тізілімін қарауға және өзгертуге болады. Батырмасын «\ ақпарат \» пернесін басу арқылы Сіз таңдаған сусынды мәліметтерін қарауға және қайта тізілімін қосу үшін оны алады.</string>
+<string name="information_5">Алкоголь Сіздің ағымдағы деңгейі толық босаң және заңды босаң алу үшін қажетті уақыт бірге (еліңізде немесе провинциясының жүргізу кезінде алкоголь құқықтық деңгейіне сәйкес), нақты уақыт көрсетіледі және жаңартылған жасалуы болады. диаграмма соңғы өткен және бірнеше алдағы сағат (төменгі жағында жапсырмалар толық сағат көрсету) кезінде спирт мазмұнды визуализацияланған. Қызыл сызық алкоголь құқықтық деңгейін көрсетеді. Сіз желісі диаграмма бар диаграмманың арасындағы таңдауға болады.</string>
+<string name="information_6">Сіздің (өткен жазбалар жиналған) алкоголь сіздің күнделікті тұтыну бақылауға және осындай жалпы және орташа тұтыну ретінде статистиканы қарап шыға аласыз. Әр күні диаграмманы бір жолағында ұсынылған, сол жапсырма (1 бірлік = таза спирт 10 миллилитр) алкоголь бірлік тұтынылатын көрсетіңіз. Көрсеткілерді Егер басқа айға шарлау мүмкіндік береді.</string>
+<string name="information_7">Диаграммада жақын алкоголь мен барлардың түстердің деңгейіне дейін орналасқан нүкте, түсі, алкоголь ағымдағы деңгейге сәйкес, өзгерту болады. түстердің мағынасы төменде түсіндіріледі.</string>
+<string name="information_8">Бұл бағдарлама сіздің нақты (шынайы) қанда алкогольдің деңгейін, бірақ математикалық формула негізінде баға бермейді. Қанда алкогольдің мазмұны формула енгізілген жоқ факторлар, алуан байланысты. Қанда алкогольдің Сіздің нақты деңгейі осы қолдану көзделген құнынан өзгеше болуы мүмкін.</string>
+<string name="legal_alc">Сіздің елде / провинциясында құқықтық қан спирт мазмұны</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">Сіз заңды босаң болып табылады</string>
+<string name="legal_time">Сіз заңды босаң болады</string>
+<!-- chart made of lines -->
+<string name="line_chart">Line диаграмма</string>
+<string name="low_calory">(заңды төмен) төмен деңгейі</string>
+<string name="male">Ер</string>
+<string name="medium_calory">(заңды айналасында) орта деңгей</string>
+<string name="menu_title">Мәзір</string>
+<string name="month">Ай</string>
+<string name="month_graph_title">Айлық тұтыну</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">Айлық статистика</string>
+<string name="new_record">Барлы жазбаларды өшіру және жаңа тізілімін бастау керек пе?</string>
+<string name="no_data">Таңдалған ай үшін қол жетімді деректер жоқ</string>
+<string name="num_days">Алкоголь тұтынудың күндер саны</string>
+<string name="ok">Жақсы</string>
+<string name="opinion">Пікір</string>
+<string name="percent_alcohol">Спирт үлесі</string>
+<string name="pick_amount">Дыбыс</string>
+<string name="pick_type">Сусынның түрі</string>
+<!-- app being short for application -->
+<string name="rate_app">Осы қолданбаны бағалаңыз!</string>
+<string name="save_close">Сақтау және жабу</string>
+<string name="settings">Параметрлер</string>
+<string name="sex">Сіздің секс</string>
+<string name="sober_time">Сіз толық босаң болады</string>
+<string name="standard_unit">(Бірлік = таза спирт 10g)</string>
+<string name="that_is">Бұл болып табылады</string>
+<string name="total_consumption">Жалпы тұтыну</string>
+<string name="type_name">Сусынның Label</string>
+<string name="unit">Көлемінің бірлігі</string>
+<string name="veryhigh_calory">(көп заңды жоғары) өте жоғары деңгейі</string>
+<string name="warning">Назар аударыңыз!</string>
+<string name="weight">Сіздің салмағы</string>
+<string name="choose_theme">Түсін таңдаңыз</string>
+<string name="wine">Шарап</string>
+<string name="light">Ашық</string>
+<string name="dark">Қараңғы</string>
+<string name="promile">Бір-мильге</string>
+<string name="alc_level">Спирт деңгейі</string>
+<string name="stats">Статистика</string>
+<string name="def_name">Әдепкі атауы</string>
+<string name="ad_phrase1">Телефонмен алкоголь деңгейін тексеріңіз.</string>
+<string name="ad_phrase2">Сіз заңды жетек болады тексеріңіз.</string>
+<string name="ad_phrase3">Әдепкі атауы</string>
+<string-array name="beer_amounts">
+<item>Өте кішкентай шыны</item>
+<item>Шағын шыны</item>
+<item>Орташа шыны</item>
+<item>Үлкен шыны</item>
+<item>Өте үлкен шыны</item>
+</string-array>
+<string-array name="units">
+<item>К рсеткіш т - миллилитр (мл)</item>
+<item>Сұйық унция АҚШ (FL унция)</item>
+<item>Сұйық унция Imperial (FL унция)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>Сыра</item>
+<item>Шарап</item>
+<item>Арақ немесе спирт</item>
+<item>Коктейль</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Өте кішкентай шыны</item>
+<item>Шағын шыны</item>
+<item>Орташа шыны</item>
+<item>Үлкен шыны</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Шағын шыны</item>
+<item>Орташа шыны</item>
+<item>Үлкен шыны</item>
+</string-array>
+</resources>

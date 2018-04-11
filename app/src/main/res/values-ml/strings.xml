@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">പാനീയം ചേർക്കുക</string>
+<string name="add_favorite">പ്രിയപ്പെട്ടവയിലേക്ക് ചേർക്കുക</string>
+<string name="age">നിങ്ങളുടെ പ്രായം</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">സ്റ്റാൻഡേർഡ് ഡ്രിങ്ക് യൂണിറ്റിലും നമ്പറുകൾ</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">രക്തത്തിലെ മദ്യം ഉള്ളടക്കം</string>
+<string name="avg_consumption">ശരാശരി പ്രതിദിന ഉപഭോഗം</string>
+<string name="bac_graph">മദ്യം നിങ്ങളുടെ നിലവാരവും ചാർട്ട്</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">രേഖാചിത്രം</string>
+<string name="cancel">റദ്ദാക്കുക</string>
+<string name="change_time">മാറ്റുക സമയം</string>
+<string name="charts">മദ്യം നിങ്ങളുടെ നിലവിലെ നില</string>
+<string name="clear_all">എല്ലാ മായ്ക്കുക പുതിയ രജിസ്ട്രി ആരംഭിക്കുക</string>
+<!-- Short from Configuration -->
+<string name="config">ക്രമീകരണം</string>
+<string name="consumption">നിങ്ങളുടെ ഉപഭോഗം</string>
+<string name="consumption_time">ഉപഭോഗം സമയം</string>
+<string name="current_alc">മദ്യം നിങ്ങളുടെ നിലവിലെ നില</string>
+<string name="default_name">പേര് സ്ഥിരസ്ഥിതിയായി സജ്ജമാക്കുക</string>
+<string name="default_percent">സ്ഥിരസ്ഥിതി ശതമാനം</string>
+<string name="del_item">ഇനം ഇല്ലാതാക്കാൻ ആഗ്രഹിക്കുന്നുണ്ടോ?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">ഉപഭോഗവും രജിസ്ട്രി</string>
+<string name="diary_added">ഡ്രിങ്ക് നിങ്ങളുടെ രജിസ്ട്രി ചേർത്തു</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">പ്രതിമാസ സ്ഥിതിവിവരക്കണക്കുകൾ</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">ഉപഭോഗം നിങ്ങളുടെ നിലവിലെ രജിസ്ട്രി</string>
+<string name="dont_drive">മദ്യപാനം ശേഷം ഒരിക്കലും!</string>
+<string name="drink_label">കുടിക്കുന്ന ലേബൽ</string>
+<string name="edit_name">പേര് എഡിറ്റ്</string>
+<string name="exit">പുറത്ത്</string>
+<string name="favorites">പ്രിയപ്പെട്ടവ</string>
+<string name="favorite_hint">പ്രിയപ്പെട്ടവ തിരയുക</string>
+<string name="fav_added">ഡ്രിങ്ക് പ്രിയങ്കരങ്ങൾ ചേർത്തു</string>
+<string name="feedback">നിങ്ങളുടെ അഭിപ്രായം</string>
+<string name="feedback_prompt">ഹലോ, നിങ്ങൾക്ക് നാം ഈ അപ്ലിക്കേഷൻ മെച്ചപ്പെടുത്താൻ കഴിഞ്ഞില്ല അങ്ങനെ നിങ്ങളുടെ അഭിപ്രായം അയയ്ക്കാൻ ആഗ്രഹിക്കുന്നു?</string>
+<string name="female">പെണ്</string>
+<string name="fully_sober">നിങ്ങൾക്ക് പൂർണ്ണമായി സുബോധമുള്ളവരായിരിപ്പാൻ ആകുന്നു</string>
+<string name="go_to_menu">അംഗീകരിച്ച് അടുത്ത</string>
+<string name="height">നിങ്ങളുടെ ഉയരം</string>
+<string name="help">സഹായം</string>
+<!-- app being short for application -->
+<string name="help_translate">ഈ അപ്ലിക്കേഷൻ വിവർത്തനം സഹായം</string>
+<string name="high_calory">(നിയമ മുകളിൽ) ഉയർന്ന നില</string>
+<string name="info">വിവരം</string>
+<string name="information_1">ക്രമീകരണങ്ങൾ എന്നതിലേക്ക് പോകുക കൂടാതെ നിങ്ങളുടെ ഡാറ്റ നൽകുക: ഭാരം, ലിംഗഭേദം രക്തത്തിലും മദ്യം നിയമ ഉള്ളടക്കം നിങ്ങളുടെ രാജ്യം അല്ലെങ്കിൽ പ്രവിശ്യയിൽ ഡ്രൈവിംഗ്. സംരക്ഷിച്ച് അടയ്ക്കുക.</string>
+<string name="information_2">ഓരോ സമയത്തും, ഒരു പാനീയം സംഹരിക്കും, നിങ്ങൾ ഉപഭോഗവും നിങ്ങളുടെ രജിസ്ട്രി ചേർക്കുക ചെയ്യണം. നിങ്ങൾ ഓരോ കുടിക്കാൻ മദ്യം തരം, വാല്യങ്ങളിലായി ശതമാനം സജ്ജമാക്കാൻ കഴിയും. നിങ്ങൾക്ക് അതു നിലവിലെ സമയം സജ്ജമാക്കുമ്പോൾ സ്വതവേ, ഉപഭോഗം സമയം നൽകാം. കോക്ക്ടെയിൽ, നിങ്ങൾ പാനീയത്തിൽ അടങ്ങിയിരിക്കുന്ന മാത്രം വോഡ്ക തുക (അല്ലെങ്കിൽ മറ്റ് liquors), നൽകാൻ പാടില്ല.</string>
+<string name="information_3">പ്രക്രിയ ധൃതി, നിങ്ങളുടെ നിര ഒരു പേരിൽ, പ്രിയങ്കരങ്ങൾ ഫോൾഡറിൽ പാനീയങ്ങൾ സംരക്ഷിക്കാൻ കഴിയും. ഒരു പാനീയം പ്രിയങ്കരങ്ങൾ സംരക്ഷിച്ച ശേഷം, നിങ്ങൾ ഒറ്റ ക്ലിക്കിൽ വഴി, ഉപഭോഗവും നിങ്ങളുടെ രജിസ്ട്രി അത് ചേർക്കാൻ കഴിയും.</string>
+<string name="information_4">ഇവിടെ നിങ്ങൾ ഉപഭോഗവും നിങ്ങളുടെ നിലവിലെ രജിസ്ട്രി അവലോകനം വരുത്താൻ കഴിയുന്നതാണ്. ബട്ടൺ "\ വിവരം" \ ക്ലിക്കുചെയ്ത്, നീ തിരഞ്ഞെടുത്ത കുടിപ്പാൻ വിശദാംശങ്ങൾ അവലോകനം വീണ്ടും നിങ്ങളുടെ രജിസ്ട്രി ചേർക്കാൻ കഴിയും.</string>
+<string name="information_5">മദ്യം നിങ്ങളുടെ നിലവിലെ നില പൂർണമായും സുബോധവും നിയമപരമായും സുബോധമുള്ളവരായിരിപ്പാൻ നേടുകയും ആവശ്യമാണ് സമയം കാലയളവിൽ സഹിതം (നിങ്ങളുടെ രാജ്യം അല്ലെങ്കിൽ പ്രവിശ്യയിൽ ഡ്രൈവിംഗ് മദ്യം നിയമപ്രകാരം പ്രകാരം), തത്സമയം പ്രദർശിപ്പിക്കാൻ അപ്ഡേറ്റ് വഴി ചെയ്യും. ചാർട്ട് സമീപകാല കഴിഞ്ഞ കുറച്ചു വരാനിരിക്കുന്ന മണിക്കൂർ (അടിയിലായി ലേബലുകൾ പൂർണ്ണ മണിക്കൂർ സൂചിപ്പിക്കുന്നു) സമയത്ത്, മദ്യം നിങ്ങളുടെ ഉള്ളടക്കം രംഗമാണ്. റെഡ് ലൈൻ മദ്യം നിയമപരമായ നില സൂചിപ്പിക്കുന്നു. നിങ്ങൾ വരി ചാർട്ട്, ബാർ ചാർട്ട് തമ്മിലുള്ള തിരഞ്ഞെടുക്കാം.</string>
+<string name="information_6">നിങ്ങളുടെ (കഴിഞ്ഞ രേഖകള് നിന്ന് ശേഖരിക്കുന്ന) മദ്യം നിങ്ങളുടെ പ്രതിദിന രൂപരേഖ അത്തരം മൊത്തം ശരാശരി ഉപഭോഗം സ്ഥിതിവിവരക്കണക്കുകൾ അവലോകനം ചെയ്യാവുന്നതാണ്. ഓരോ ദിവസം ചാർട്ട് ഒരു ബാർ സൂചിപ്പിയ്ക്കുന്നു ഇടത്തുമായി ലേബൽ (1 യൂണിറ്റ് = ശുദ്ധമായ മദ്യം 10 ​​milliliters) മദ്യം യൂണിറ്റ് ദഹിപ്പിച്ചു സൂചിപ്പിക്കുന്നു. അമ്പുകൾ നിന്റെ മറ്റ് മാസം നാവിഗേറ്റ് എന്നു പറഞ്ഞു.</string>
+<string name="information_7">രേഖാചിത്രം അടുത്തും മദ്യത്തിന്റെയും ബാറുകളുടെ നിറങ്ങൾ തലത്തിലേക്ക് സ്ഥിതി ഡോട്ട്, നിറം, മദ്യം നിങ്ങളുടെ നിലവിലുള്ള നില ഒത്തവണ്ണം മാറ്റുകയാണ്. നിറങ്ങൾ അർത്ഥം താഴെ വിശദീകരിക്കുന്നുണ്ട്.</string>
+<string name="information_8">ഈ അപ്ലിക്കേഷൻ നിങ്ങളുടെ യഥാർത്ഥ (യഥാർത്ഥ) രക്തത്തിലെ മദ്യം നില, പക്ഷേ ഒരു മാത്തമറ്റിക്കൽ ഫോർമുല അടിസ്ഥാനമാക്കി ഒരു മതിപ്പു നൽകുന്നില്ല. രക്തത്തിലെ മദ്യം ഉള്ളടക്കം സൂത്രവാക്യം ഉൾപ്പെടുത്തിയിട്ടില്ല ഘടകങ്ങളും വെറൈറ്റി ആശ്രയിച്ചിരിക്കുന്നു. രക്തത്തിലെ മദ്യം നിങ്ങളുടെ യഥാർത്ഥ നില ഈ അപ്ലിക്കേഷൻ നൽകിയ മൂല്യം നിന്ന് വ്യത്യസ്തമായിരിക്കാം.</string>
+<string name="legal_alc">നിങ്ങളുടെ രാജ്യം / പ്രവിശ്യയിൽ നിര്മാലണം ബ്ലഡ് ആൽക്കഹോൾ ഉള്ളടക്കം</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">നിയമപരമായി സുബോധമുള്ളവരായിരിപ്പാൻ ആകുന്നു</string>
+<string name="legal_time">നിങ്ങൾക്ക് നിയമപരമായി സുബോധമുള്ളവരായിരിപ്പാൻ ചെയ്യും</string>
+<!-- chart made of lines -->
+<string name="line_chart">ലൈൻ ചാർട്ട്</string>
+<string name="low_calory">(നിയമ താഴെ) താഴ്ന്ന</string>
+<string name="male">പുരുഷന്</string>
+<string name="medium_calory">(നിയമ ചുറ്റും) മീഡിയം ലെവൽ</string>
+<string name="menu_title">മെനു</string>
+<string name="month">മാസം</string>
+<string name="month_graph_title">പ്രതിമാസ ഉപഭോഗം</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">പ്രതിമാസ സ്ഥിതിവിവരക്കണക്കുകൾ</string>
+<string name="new_record">നിങ്ങൾ എല്ലാ എൻട്രികൾ മായ്ക്കാൻ പുതിയ രജിസ്ട്രി ആരംഭിക്കാൻ താൽപ്പര്യമുണ്ടോ?</string>
+<string name="no_data">തിരഞ്ഞെടുത്ത മാസം ഡാറ്റാ ലഭ്യമല്ല</string>
+<string name="num_days">മദ്യം ഉപഭോഗം ഒരു ദിവസം എണ്ണം</string>
+<string name="ok">ശരി</string>
+<string name="opinion">അഭിപ്രായ</string>
+<string name="percent_alcohol">മദ്യം ശതമാനം</string>
+<string name="pick_amount">അളവ്</string>
+<string name="pick_type">കുടിക്കുന്ന തരം</string>
+<!-- app being short for application -->
+<string name="rate_app">ഈ അപ്ലിക്കേഷൻ വിലയിരുത്തുക!</string>
+<string name="save_close">സംരക്ഷിച്ച് അടയ്ക്കുക</string>
+<string name="settings">ക്രമീകരണങ്ങൾ</string>
+<string name="sex">നിങ്ങളുടെ ലൈംഗിക</string>
+<string name="sober_time">നിങ്ങൾക്ക് പൂർണ്ണമായി സുബോധമുള്ളവരായിരിപ്പാൻ ചെയ്യും</string>
+<string name="standard_unit">(യൂണിറ്റ് = ശുദ്ധമായ മദ്യം 10 ​​ഗ്രാം)</string>
+<string name="that_is">ആ ൽ ആണ്</string>
+<string name="total_consumption">ആകെ ഉപഭോഗം</string>
+<string name="type_name">കുടിക്കുന്ന ലേബൽ</string>
+<string name="unit">വോള്യത്തിന്റെ ഭാഗം</string>
+<string name="veryhigh_calory">(വളരെ നിയമ മുകളിൽ) വളരെ ഉയർന്ന നില</string>
+<string name="warning">മുന്നറിയിപ്പ്!</string>
+<string name="weight">നിങ്ങളുടെ ഭാരം</string>
+<string name="choose_theme">നിറം തിരഞ്ഞെടുക്കുക</string>
+<string name="wine">വൈൻ</string>
+<string name="light">തിളങ്ങുന്ന</string>
+<string name="dark">ഇരുണ്ട</string>
+<string name="promile">ഓരോ മൈൽ</string>
+<string name="alc_level">മദ്യം നില</string>
+<string name="stats">സ്ഥിതിവിവരക്കണക്ക്</string>
+<string name="def_name">സ്ഥിരസ്ഥിതി പേര്</string>
+<string name="ad_phrase1">നിങ്ങളുടെ ഫോൺ ആൽക്കഹോൾ നില പരിശോധിക്കുക.</string>
+<string name="ad_phrase2">നിങ്ങൾ നിയമപരമായി നയിക്കും പരിശോധിക്കുക.</string>
+<string name="ad_phrase3">സ്ഥിരസ്ഥിതി പേര്</string>
+<string-array name="beer_amounts">
+<item>വളരെ ചെറിയ ഗ്ലാസ്സ്</item>
+<item>ചെറിയ ഗ്ലാസ്സ്</item>
+<item>ഇടത്തരം ഗ്ലാസ്</item>
+<item>വലിയ ഗ്ലാസ്</item>
+<item>വളരെ വലിയ ഗ്ലാസ്</item>
+</string-array>
+<string-array name="units">
+<item>മെട്രിക് - milliliters (ML)</item>
+<item>ദ്രാവകം ഔൺസിന് യുഎസ് (FL OZ)</item>
+<item>ദ്രാവകം ഔൺസിന് ഇംപീരീയല് (FL OZ)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>ബിയർ</item>
+<item>വൈൻ</item>
+<item>വോഡ്ക അല്ലെങ്കിൽ മദ്യ</item>
+<item>കോക്ക്ടെയിൽ</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>വളരെ ചെറിയ ഗ്ലാസ്സ്</item>
+<item>ചെറിയ ഗ്ലാസ്സ്</item>
+<item>ഇടത്തരം ഗ്ലാസ്</item>
+<item>വലിയ ഗ്ലാസ്</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>ചെറിയ ഗ്ലാസ്സ്</item>
+<item>ഇടത്തരം ഗ്ലാസ്</item>
+<item>വലിയ ഗ്ലാസ്</item>
+</string-array>
+</resources>

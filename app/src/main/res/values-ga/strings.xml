@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Cuir deoch</string>
+<string name="add_favorite">Add to Favorites</string>
+<string name="age">Do aois</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">Gach huimhreacha in aonaid deoch caighdeánach</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">Ábhar alcóil san fhuil</string>
+<string name="avg_consumption">Tomhaltas meán laethúil</string>
+<string name="bac_graph">Cairt ar do leibhéal alcóil</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">Léaráid</string>
+<string name="cancel">Cealaigh</string>
+<string name="change_time">Athraigh am</string>
+<string name="charts">Do leibhéal reatha alcóil</string>
+<string name="clear_all">Soiléir go léir agus tús a clárlann nua</string>
+<!-- Short from Configuration -->
+<string name="config">Cumraíocht</string>
+<string name="consumption">Do thomhaltas</string>
+<string name="consumption_time">Am ar thomhaltas</string>
+<string name="current_alc">Do leibhéal reatha alcóil</string>
+<string name="default_name">Socraigh an t-ainm réamhshocraithe</string>
+<string name="default_percent">Réamhshocrú céatadán</string>
+<string name="del_item">Ar mhaith leat mír a scriosadh?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">Clárlann tomhaltais</string>
+<string name="diary_added">Deoch le do chlár</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">Staitisticí míosúla</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">Do chlár reatha de thomhaltas</string>
+<string name="dont_drive">Ná tiomáint tar éis alcól a ól!</string>
+<string name="drink_label">Lipéad na dí</string>
+<string name="edit_name">An t-ainm Eagar</string>
+<string name="exit">Scoir</string>
+<string name="favorites">Favorites</string>
+<string name="favorite_hint">Cuardaigh i Favorites</string>
+<string name="fav_added">Dí leanas le Favorites</string>
+<string name="feedback">Tabhair do thuairim</string>
+<string name="feedback_prompt">Dia duit, ba mhaith leat a chur chugainn do thuairim, ionas go bhféadfadh muid feabhas a chur ar an iarratas seo ar do shon?</string>
+<string name="female">Baineann</string>
+<string name="fully_sober">Tá tú go hiomlán sober</string>
+<string name="go_to_menu">Glac agus a dhúnadh</string>
+<string name="height">Do airde</string>
+<string name="help">Cabhair</string>
+<!-- app being short for application -->
+<string name="help_translate">Cabhair aistriú iarratas seo</string>
+<string name="high_calory">Leibhéal ard (os cionn dlíthiúil)</string>
+<string name="info">Eolas</string>
+<string name="information_1">Téigh go dtí suíomhanna agus cuir isteach do shonraí: meáchan, gnéas agus ábhar dlíthiúil alcóil san fhuil ag tiomáint i do thír nó chúige. Sábháil agus a dhúnadh.</string>
+<string name="information_2">Gach uair, nuair a itheann tú deoch, ba chóir duit é a chur le do chlár de thomhaltas. Is féidir leat a leagtar cineál, méid agus céatadán alcóil le haghaidh gach deoch. Is féidir leat dul isteach freisin am tomhaltais, de réir réamhshocraithe tá sé leagtha chun am atá ann faoi láthair. Le haghaidh mhanglaim, ba chóir duit dul isteach ach an méid vodca (nó deochanna eile), atá i an deoch.</string>
+<string name="information_3">Chun hasten an bpróiseas, is féidir leat a shábháil i bhfillteán deochanna Favorites, faoi ainm de do rogha. Tar éis deoch shábháil i Favorites, is féidir leat é a chur le do chlár de thomhaltas, ag amháin cliceáil.</string>
+<string name="information_4">Anseo is féidir leat athbhreithniú agus a mhodhnú do chlár reatha de thomhaltas. Trí chliceáil \ "info \" a bhrú, beidh tú in ann chun athbhreithniú a dhéanamh sonraí faoi deoch roghnaithe agus é a chur le do chlár arís.</string>
+<string name="information_5">Dearbhófar do leibhéal reatha de alcóil ar taispeáint ag agus suas chun dáta i bhfíor-am, chomh maith le tréimhse ama a theastaíonn chun a fháil go hiomlán sober agus sober go dleathach (de réir leibhéal dlíthiúil alcóil ag tiomáint i do thír nó cúige). Visualizes an chairt do ábhar alcóil, le linn am atá caite le déanaí agus cúpla uair an chloig atá le teacht (Léiríonn lipéid ag bun uaireanta iomlána). Léiríonn líne dearg leibhéal dlíthiúil alcóil. Is féidir leat a roghnú idir chairt líne agus barra-chairt.</string>
+<string name="information_6">Is féidir le do rianú do thomhaltas laethúil alcóil (bailíodh ó thaifid atá caite) agus staitisticí athbhreithnithe den sórt sin mar thomhaltas iomlán agus meán. Tá gach lá a ionadú ag barra ar cheann de na chairt, léiríonn lipéad ar an taobh clé haonaid alcóil itear (1 aonad = 10 millilítear alcól íon). Beidh Saigheada lig tú nascleanúint chuig mí eile.</string>
+<string name="information_7">Dath ar an ponc, atá suite gar do leibhéal alcóil agus dathanna na barraí sa léaráid, a athrú, de réir do leibhéal reatha alcóil. Is ionann an bhrí dathanna a mhínítear thíos.</string>
+<string name="information_8">Ní dhéanann an t-iarratas a chur ar fáil do iarbhír (fíor) ar leibhéal alcóil san fhuil, ach meastachán bunaithe ar fhoirmle mhatamaiticiúil. Braitheann Ábhar alcóil san fhuil ar éagsúlacht na fachtóirí, nach bhfuil san áireamh san fhoirmle. D\'fhéadfadh do leibhéal iarbhír alcóil san fhuil éagsúil leis an luach a chuireann iarratas seo.</string>
+<string name="legal_alc">Dlí Ábhar Alcóil Fola i do thír / chúige</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">Tá tú sober go dlíthiúil</string>
+<string name="legal_time">Beidh tú sober go dleathach ag</string>
+<!-- chart made of lines -->
+<string name="line_chart">Cairt Líne</string>
+<string name="low_calory">Leibhéal íseal (faoi bhun dlíthiúil)</string>
+<string name="male">Fireann</string>
+<string name="medium_calory">Leibhéal mheán (thart dlíthiúil)</string>
+<string name="menu_title">Menu</string>
+<string name="month">Month</string>
+<string name="month_graph_title">Tomhaltas míosúil</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">Staitisticí míosúla</string>
+<string name="new_record">Ar mhaith leat go soiléir ann na taifid agus tús a clárlann nua?</string>
+<string name="no_data">Níl sonraí ar fáil an mhí roghnaithe</string>
+<string name="num_days">Líon na laethanta le tomhaltas alcóil</string>
+<string name="ok">Maith go leor</string>
+<string name="opinion">Tuairim</string>
+<string name="percent_alcohol">Céatadán alcóil</string>
+<string name="pick_amount">Toirt</string>
+<string name="pick_type">Cineál deoch</string>
+<!-- app being short for application -->
+<string name="rate_app">Ráta an iarratas seo!</string>
+<string name="save_close">Sábháil agus a dhúnadh</string>
+<string name="settings">Socruithe</string>
+<string name="sex">Do ghnéas</string>
+<string name="sober_time">Beidh tú sober go hiomlán ag</string>
+<string name="standard_unit">(Aonad = 10g d\'alcól íon)</string>
+<string name="that_is">Go bhfuil i</string>
+<string name="total_consumption">Tomhaltas iomlán</string>
+<string name="type_name">Lipéad na dí</string>
+<string name="unit">An tAonad toirte</string>
+<string name="veryhigh_calory">Leibhéal an-ard (i bhfad os cionn dlíthiúil)</string>
+<string name="warning">Rabhadh!</string>
+<string name="weight">Do mheáchan</string>
+<string name="choose_theme">Roghnaigh dath</string>
+<string name="wine">Fíon</string>
+<string name="light">Geal</string>
+<string name="dark">Dorcha</string>
+<string name="promile">Permile</string>
+<string name="alc_level">Leibhéal alcóil</string>
+<string name="stats">Staitisticí</string>
+<string name="def_name">An t-ainm réamhshocraithe</string>
+<string-array name="beer_amounts">
+<item>Gloine An-bheag</item>
+<item>Gloine Beaga</item>
+<item>Gloine Meánach</item>
+<item>Gloine mór</item>
+<item>Gloine An-mhór</item>
+</string-array>
+<string-array name="units">
+<item>Méadrach - millilítear (ml)</item>
+<item>Unsa sreabhach de Stáit Aontaithe Poist (sreabh fl)</item>
+<item>Unsa sreabhach Imperial (sreabh fl)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>Beoir</item>
+<item>Fíon</item>
+<item>Vodca nó Meisciúla</item>
+<item>Cocktail</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Gloine An-bheag</item>
+<item>Gloine Beaga</item>
+<item>Gloine Meánach</item>
+<item>Gloine mór</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Gloine Beaga</item>
+<item>Gloine Meánach</item>
+<item>Gloine mór</item>
+</string-array>
+</resources>

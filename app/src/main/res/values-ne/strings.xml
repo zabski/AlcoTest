@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">पेय थप्न</string>
+<string name="add_favorite">मनपर्ने जोडें</string>
+<string name="age">तपाईंको उमेर</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">मानक पेय एकाइहरु मा सबै संख्या</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">रगत मा रक्सी को सामाग्री</string>
+<string name="avg_consumption">औसत दैनिक खपत</string>
+<string name="bac_graph">रक्सी को आफ्नो स्तर को चार्ट</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">रेखाचित्रमा</string>
+<string name="cancel">रद्द</string>
+<string name="change_time">परिवर्तन समय</string>
+<string name="charts">रक्सीको तपाईंको हालको स्तर</string>
+<string name="clear_all">सबै स्पष्ट र नयाँ रजस्ट्री सुरु</string>
+<!-- Short from Configuration -->
+<string name="config">कन्फिगरेसन</string>
+<string name="consumption">तपाईंको खपत</string>
+<string name="consumption_time">खपत समय</string>
+<string name="current_alc">रक्सीको तपाईंको हालको स्तर</string>
+<string name="default_name">नाम पूर्वनिर्धारित सेट</string>
+<string name="default_percent">पूर्वनिर्धारित प्रतिशत</string>
+<string name="del_item">तपाईं आइटम मेटाउन चाहनुहुन्छ?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">खपत Registry</string>
+<string name="diary_added">आफ्नो रजस्ट्री गर्न गई पिउन</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">मासिक तथ्याङ्क</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">खपत तपाईंको वर्तमान रजस्ट्री</string>
+<string name="dont_drive">रक्सी पिउने पछि ड्राइव कहिल्यै!</string>
+<string name="drink_label">पेय को लेबल</string>
+<string name="edit_name">नाम सम्पादन गर्नुहोस्</string>
+<string name="exit">निस्कनुहोस्</string>
+<string name="favorites">पसंदीदा</string>
+<string name="favorite_hint">मनपर्ने मा खोज</string>
+<string name="fav_added">भेटघाट मनपर्ने थपिएका</string>
+<string name="feedback">आफ्नो राय दिनुहोस्</string>
+<string name="feedback_prompt">नमस्ते, तपाईं हामी तपाईं को लागि यस आवेदन सुधार सकून् भनेर हामीलाई आफ्नो राय पठाउन चाहनुहुन्छ?</string>
+<string name="female">महिला</string>
+<string name="fully_sober">तपाईं पूर्णतया सचेत छन्</string>
+<string name="go_to_menu">स्वीकार्नुहोस् र बन्द</string>
+<string name="height">तपाईंको उचाइ</string>
+<string name="help">मदत</string>
+<!-- app being short for application -->
+<string name="help_translate">यस आवेदन अनुवाद गर्न मद्दत</string>
+<string name="high_calory">उच्च स्तर (कानुनी माथि)</string>
+<string name="info">सूचना</string>
+<string name="information_1">आफ्नो देश वा प्रान्त ड्राइभिङ गर्दा वजन, सेक्स र रगतमा रक्सीको कानुनी सामग्री: सेटिङ जानुहोस् र आफ्नो डेटा दर्ज। बचत र नजिक।</string>
+<string name="information_2">प्रत्येक समय, तपाईं एक पेय उपभोग गर्दा, तपाईं खपत आफ्नो रजस्ट्री थप्न गर्नुपर्छ। तपाईं हरेक पेय लागि प्रकार, मात्रा र रक्सीको प्रतिशत सेट गर्न सक्नुहुन्छ। यो वर्तमान समयमा सेट गरिएको छ पूर्वनिर्धारित तपाईं पनि, खपत को समय प्रविष्ट गर्न सक्नुहुन्छ। ककटेल लागि, तपाईं पेय मा निहित छ जो वोदका (वा अन्य रक्सी), को बस राशि प्रवेश गर्नु पर्छ।</string>
+<string name="information_3">प्रक्रिया हतार गर्न, तपाईं आफ्नो रुचि को नाम अन्तर्गत, मनपर्ने फोल्डर मा पेय बचत गर्न सक्नुहुन्छ। एक पेय मनपर्ने मा मुक्ति पछि, तपाईं बस एक क्लिक गरेर, खपत को आफ्नो रजस्ट्री थप्न सक्नुहुन्छ।</string>
+<string name="information_4">यहाँ समीक्षा र खपत को आफ्नो वर्तमान रजस्ट्री को संशोधित गर्न सक्छन्। बटन \ "\ जानकारी" क्लिक गरेर, तपाईं चुनिएका पिउने विवरण समीक्षा र फेरि आफ्नो रजस्ट्री थप्न सक्षम हुनेछ।</string>
+<string name="information_5">रक्सीको तपाईंको हालको स्तर द्वारा (आफ्नो देश वा प्रान्त ड्राइभिङ गर्दा रक्सीको कानुनी स्तर अनुसार) प्रदर्शित र पूर्ण सचेत र कानुनी रूपमा सचेत प्राप्त गर्न आवश्यक समय को अवधि संग, वास्तविक समय मा अपडेट हुनेछ। चार्ट हाल विगत र केही आगामी घण्टा (तल लेबल पूर्ण घण्टा संकेत) को समयमा रक्सीको आफ्नो सामग्री, visualizes। रेड लाइन रक्सीको कानुनी स्तर सङ्केत गर्छ। तपाईं लाइन चार्ट र बार चार्ट बीच चयन गर्न सक्छन्।</string>
+<string name="information_6">तपाईंको यस्तो कुल र औसत खपत रूपमा (पछिल्लो रेकर्ड संकलन) रक्सी र समीक्षा तथ्याङ्क को आफ्नो दैनिक उपभोग ट्रेस गर्न सक्छन्। प्रत्येक दिन चार्ट को एक पल्ट प्रतिनिधित्व छ, बायाँ लेबल खपत रक्सी (1 एकाइ = शुद्ध रक्सी को 10 milliliters) को एकाइहरु संकेत गर्छ। तीर तपाईं अन्य महिना चलाउनु गरौं हुनेछ।</string>
+<string name="information_7">रक्सी र रेखाचित्रमा मा बारहरू रंग को स्तर नजिक स्थित डट, को रंग, रक्सीको आफ्नो वर्तमान स्तर अनुसार, परिवर्तन गरिनेछ। रंग को अर्थ तल उल्लेख गरिएको छ।</string>
+<string name="information_8">यो तपाईँको वास्तविक (वास्तविक) रगत मा रक्सी को स्तर, तर एक गणितीय सूत्र मा आधारित एक अनुमान प्रदान गर्दैन। रगत मा रक्सी को सामाग्री सूत्र मा समावेश गरिएको छैन जो कारक, को विभिन्न मा निर्भर गर्दछ। रगत मा रक्सी को तपाईंको वास्तविक स्तर यस आवेदन द्वारा प्रदान मूल्य फरक हुन सक्छ।</string>
+<string name="legal_alc">आफ्नो देश / प्रदेश मा कानूनी रक्त रक्सी सामग्री</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">तपाईं कानुनी रूपमा सचेत छन्</string>
+<string name="legal_time">तपाईं मा कानुनी रूपमा सचेत हुनेछ</string>
+<!-- chart made of lines -->
+<string name="line_chart">रेखा चार्ट</string>
+<string name="low_calory">कम स्तर (कानुनी तल)</string>
+<string name="male">पुरुष</string>
+<string name="medium_calory">मध्यम स्तर (कानुनी आसपास)</string>
+<string name="menu_title">मेनु</string>
+<string name="month">महिना</string>
+<string name="month_graph_title">मासिक खपत</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">मासिक तथ्याङ्क</string>
+<string name="new_record">तपाईं सबै प्रविष्टि खाली र नयाँ रजस्ट्री सुरु गर्न चाहनुहुन्छ?</string>
+<string name="no_data">चयन महिना को लागि उपलब्ध कुनै डाटा</string>
+<string name="num_days">रक्सी को खपत संग दिन को संख्या</string>
+<string name="ok">ठीक</string>
+<string name="opinion">जनमत</string>
+<string name="percent_alcohol">रक्सी प्रतिशतमा</string>
+<string name="pick_amount">मात्रा</string>
+<string name="pick_type">पिउने प्रकार</string>
+<!-- app being short for application -->
+<string name="rate_app">यस आवेदन दर!</string>
+<string name="save_close">बचत र बन्द</string>
+<string name="settings">सेटिङ</string>
+<string name="sex">तपाईंको सेक्स</string>
+<string name="sober_time">तपाईं पूर्णतया सचेत हुनेछ</string>
+<string name="standard_unit">(एकाइ = शुद्ध रक्सी को 10g)</string>
+<string name="that_is">कि छ</string>
+<string name="total_consumption">कुल खपत</string>
+<string name="type_name">पेय को लेबल</string>
+<string name="unit">मात्रा यूनिट</string>
+<string name="veryhigh_calory">धेरै उच्च स्तर (धेरै कानुनी माथि)</string>
+<string name="warning">चेतावनी!</string>
+<string name="weight">तपाईंको वजन</string>
+<string name="choose_theme">रङ छान्नुहोस्</string>
+<string name="wine">रक्सी</string>
+<string name="light">उज्ज्वल</string>
+<string name="dark">अँध्यारो</string>
+<string name="promile">प्रति-माइल</string>
+<string name="alc_level">रक्सी को स्तर</string>
+<string name="stats">तथ्याङ्क</string>
+<string name="def_name">पूर्वनिर्धारित नाम</string>
+<string name="ad_phrase1">आफ्नो फोन संग रक्सी को स्तर प्रमाणित गर्नुहोस्।</string>
+<string name="ad_phrase2">तपाईं कानुनी रूपमा ड्राइव गर्न सक्छन् भने जाँच गर्नुहोस्।</string>
+<string name="ad_phrase3">पूर्वनिर्धारित नाम</string>
+<string-array name="beer_amounts">
+<item>धेरै साना गिलास</item>
+<item>लघु गिलास</item>
+<item>मध्यम गिलास</item>
+<item>ठूलो गिलास</item>
+<item>धेरै ठूलो गिलास</item>
+</string-array>
+<string-array name="units">
+<item>मेट्रिक - milliliters (एमएल)</item>
+<item>तरल पदार्थ सानो टुक्रा अमेरिकी (FL ओउंस)</item>
+<item>तरल पदार्थ सानो टुक्रा शाही (FL ओउंस)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>बियर</item>
+<item>रक्सी</item>
+<item>Vodka वा रक्सी</item>
+<item>ककटेल</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>धेरै साना गिलास</item>
+<item>लघु गिलास</item>
+<item>मध्यम गिलास</item>
+<item>ठूलो गिलास</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>लघु गिलास</item>
+<item>मध्यम गिलास</item>
+<item>ठूलो गिलास</item>
+</string-array>
+</resources>

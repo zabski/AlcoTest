@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Dodaj pijačo</string>
+<string name="add_favorite">Dodaj med priljubljene</string>
+<string name="age">Vaš starost</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">Vse številke v standardnih pijač enot</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">Vsebnost alkohola v krvi</string>
+<string name="avg_consumption">Povprečna dnevna poraba</string>
+<string name="bac_graph">Grafikon vaše ravni alkohola</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">Diagram</string>
+<string name="cancel">Prekliči</string>
+<string name="change_time">Spremeni čas</string>
+<string name="charts">Vaša trenutna stopnja alkohola</string>
+<string name="clear_all">Počistiti vse in začeti novo registra</string>
+<!-- Short from Configuration -->
+<string name="config">Konfiguracija</string>
+<string name="consumption">Tvoja poraba</string>
+<string name="consumption_time">Čas porabe</string>
+<string name="current_alc">Vaša trenutna stopnja alkohola</string>
+<string name="default_name">Nastavi na privzeto ime</string>
+<string name="default_percent">Privzeti odstotek</string>
+<string name="del_item">Ali želite izbrisati element?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">Register porabe</string>
+<string name="diary_added">Alkoholik dodan vašega registra</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">Mesečna statistika</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">Vaš trenutni registra potrošnje</string>
+<string name="dont_drive">Nikoli ne vozite po pitju alkohola!</string>
+<string name="drink_label">Nalepka pijače</string>
+<string name="edit_name">Uredi ime</string>
+<string name="exit">Exit</string>
+<string name="favorites">Priljubljene</string>
+<string name="favorite_hint">Iskanje v favorite</string>
+<string name="fav_added">Drink dodali med priljubljene</string>
+<string name="feedback">Povejte svoje mnenje</string>
+<string name="feedback_prompt">Pozdravljeni, bi radi, da nam pošljete svoje mnenje, tako da bomo lahko izboljšali to aplikacijo za vas?</string>
+<string name="female">Ženska</string>
+<string name="fully_sober">Vi ste popolnoma trezen</string>
+<string name="go_to_menu">Sprejmi in zapri</string>
+<string name="height">Vaš Višina</string>
+<string name="help">Pomaga</string>
+<!-- app being short for application -->
+<string name="help_translate">Pomagal prevesti to aplikacijo</string>
+<string name="high_calory">Visoko stopnjo (nad pravno)</string>
+<string name="info">Informacije</string>
+<string name="information_1">Pojdi v nastavitve in vpišite svoje podatke: teža, spol in pravno vsebino alkohola v krvi med vožnjo v vaši državi ali pokrajini. Shranite in zaprite.</string>
+<string name="information_2">Vsakič, ko se porabijo pijačo, jo dodajte v registru potrošnje. Lahko nastavite vrsto, količino in odstotek alkohola za vsako pijačo. Prav tako lahko vnesete čas porabe, ki jo je privzeto nastavljena na trenutni čas. Koktajle, je treba vnesti samo znesek vodka (ali drugih tekočin za namakanje), ki je vsebovana v pijačo.</string>
+<string name="information_3">K pospešitvi procesa, lahko shranite v mapo priljubljenih pijač, pod imenom po vaši izbiri. Ko je pijača shrani v favorite, ga lahko dodate na svoj register potrošnje, ki ga le z enim klikom.</string>
+<string name="information_4">Tukaj si lahko ogledate in spremenite svoj trenutni registra porabe. S klikom na \ "Informacije \" gumb, boste lahko pregledali podrobnosti izbrano pijačo in jo ponovno dodate v register.</string>
+<string name="information_5">Vaša trenutna stopnja alkohola se jih prikaže in posodablja v realnem času, skupaj z čas, potreben, da se popolnoma trezen in pravno trezen (glede na pravni ravni alkohola med vožnjo v vaši državi ali pokrajini). Grafikon vizualizira svoje vsebine alkohola, med nedavni preteklosti in nekaj prihajajočih urah (oznake na dnu kažejo polne ure). Rdeča črta označuje pravno raven alkohola. Izbirate lahko med linijo grafa in bar chart.</string>
+<string name="information_6">Lahko vaš sledenje vaše dnevne porabe alkohola (zbranih iz preteklih zapisov) in statistike o pregledu, kot so skupni in povprečni porabi. Vsak dan je predstavljen z eno vrstico v tabeli, nalepka na levi kažejo enot alkohol, porabljen (1 enota = 10 mililitrov čistega alkohola). Puščice vam bo pluti v ostalih mesecih.</string>
+<string name="information_7">Barva pike, ki se nahajajo v bližini stopnjo alkohola in barv barov v diagramu, se spreminja glede na vašo trenutno stopnjo alkohola. Pomen barv je pojasnjeno v nadaljevanju.</string>
+<string name="information_8">Ta aplikacija ne zagotavlja svoje dejanske (realne) raven alkohola v krvi, vendar je ocena, ki temelji na matematični formuli. Vsebnost alkohola v krvi je odvisna od številnih dejavnikov, ki niso vključene v formulo. Vaša dejanska stopnja alkohola v krvi se lahko razlikuje od vrednosti, ki jo te vloge.</string>
+<string name="legal_alc">Pravna Blood Alcohol Vsebina v vaši državi / provinci</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">Ste pravno trezen</string>
+<string name="legal_time">Ti bodo pravno trezen na</string>
+<!-- chart made of lines -->
+<string name="line_chart">Črtni grafikon</string>
+<string name="low_calory">Nizka raven (v nadaljevanju pravne)</string>
+<string name="male">Moški</string>
+<string name="medium_calory">Srednja raven (okoli pravne)</string>
+<string name="menu_title">Meni</string>
+<string name="month">Mesec</string>
+<string name="month_graph_title">Mesečna poraba</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">Mesečna statistika</string>
+<string name="new_record">Ali želite izbrisati vse vnose in začetek novega registra?</string>
+<string name="no_data">Ni na voljo za izbrani mesec podatki</string>
+<string name="num_days">Število dni s porabo alkohola</string>
+<string name="ok">Ok</string>
+<string name="opinion">Mnenje</string>
+<string name="percent_alcohol">Odstotek alkohola</string>
+<string name="pick_amount">Obseg</string>
+<string name="pick_type">Vrsta pijače</string>
+<!-- app being short for application -->
+<string name="rate_app">Ocenite to aplikacijo!</string>
+<string name="save_close">Shranite in zaprite</string>
+<string name="settings">Nastavitve</string>
+<string name="sex">Vaš sex</string>
+<string name="sober_time">Ti bodo popolnoma trezen na</string>
+<string name="standard_unit">(Enota = 10g čistega alkohola)</string>
+<string name="that_is">Da je v</string>
+<string name="total_consumption">Skupna poraba</string>
+<string name="type_name">Nalepka pijače</string>
+<string name="unit">Enoto prostornine</string>
+<string name="veryhigh_calory">Zelo visoko stopnjo (precej nad pravno)</string>
+<string name="warning">Opozorilo!</string>
+<string name="weight">Tvoja teža</string>
+<string name="choose_theme">Izberite barvo</string>
+<string name="wine">Vino</string>
+<string name="light">Svetla</string>
+<string name="dark">Temno</string>
+<string name="promile">Permile</string>
+<string name="alc_level">Stopnja alkohola</string>
+<string name="stats">Statistika</string>
+<string name="def_name">Privzeto ime</string>
+<string-array name="beer_amounts">
+<item>Zelo majhen kozarec</item>
+<item>Majhen kozarec</item>
+<item>Srednje steklo</item>
+<item>Velike steklene</item>
+<item>Zelo velika steklena</item>
+</string-array>
+<string-array name="units">
+<item>Metrični - mililitrov (ml)</item>
+<item>Unčo tekočine ZDA (fl oz)</item>
+<item>Unčo tekočine Imperial (fl oz)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>Beer</item>
+<item>Vino</item>
+<item>Vodka ali Liquor</item>
+<item>Cocktail</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Zelo majhen kozarec</item>
+<item>Majhen kozarec</item>
+<item>Srednje steklo</item>
+<item>Velike steklene</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Majhen kozarec</item>
+<item>Srednje steklo</item>
+<item>Velike steklene</item>
+</string-array>
+</resources>

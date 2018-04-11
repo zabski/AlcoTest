@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- dimen name="week_top_margin">37px</dimen -->
+	<dimen name="text_xs">14sp</dimen>
+    <dimen name="text_s">16sp</dimen>
+    <dimen name="text_m">18sp</dimen>
+    <dimen name="text_l">24sp</dimen>
+    <dimen name="text_xl">30sp</dimen>
+    <dimen name="text_xx">36sp</dimen>
+    <dimen name="margin_xs">3dp</dimen>
+    <dimen name="margin_s">5dp</dimen>
+    <dimen name="margin_m">8dp</dimen>
+    <dimen name="margin_l">12dp</dimen>
+    <dimen name="margin_xl">16dp</dimen>
+    <dimen name="margin_xx">20dp</dimen>
+    <dimen name="row_s">30dp</dimen>
+    <dimen name="row_m">40dp</dimen>
+    <dimen name="row_l">50dp</dimen>
+    <dimen name="row_xl">75dp</dimen>
+    <dimen name="row_xxl">100dp</dimen>  
+    <dimen name="month_width">250dp</dimen>
+    <dimen name="table_s">150dp</dimen>
+    <dimen name="table_m">175dp</dimen>
+    <dimen name="table_l">200dp</dimen>
+    <dimen name="table_xl">250dp</dimen>
+    
+    <dimen name="row_hgt_s">30dp</dimen>
+    <dimen name="row_hgt_m">35dp</dimen>
+    <dimen name="row_hgt_l">45dp</dimen>
+    <dimen name="row_hgt_xl">60dp</dimen>
+    <dimen name="row_hgt_xxl">75dp</dimen>    
+    
+    <dimen name="chart_hgt">400dp</dimen>
+
+    <dimen name="global_frame">@dimen/margin_s</dimen>
+</resources>

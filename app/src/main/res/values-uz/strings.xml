@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Sharob qo\'shish</string>
+<string name="add_favorite">E\'lonni qo\'shish ushbugacha</string>
+<string name="age">Yoshingiz</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">Standart ichish birliklarni barcha raqamlari</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">Qonda spirtli ichimlik tarkib</string>
+<string name="avg_consumption">O\'rtacha kundalik iste\'mol</string>
+<string name="bac_graph">Spirtli ichimliklarni sizning darajasini Chart</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">Diagrammasi</string>
+<string name="cancel">Bekor qilish</string>
+<string name="change_time">Change time</string>
+<string name="charts">Spirtli ichimliklarni Sizning hozirgi darajasi</string>
+<string name="clear_all">Hamma tozalash va yangi, ro\'yxatdan o\'tishingiz boshlash</string>
+<!-- Short from Configuration -->
+<string name="config">Konfiguratsiya</string>
+<string name="consumption">Sizning iste\'mol</string>
+<string name="consumption_time">Iste\'mol Time</string>
+<string name="current_alc">Spirtli ichimliklarni Sizning hozirgi darajasi</string>
+<string name="default_name">Nomini default o\'rnatish</string>
+<string name="default_percent">Default foiz</string>
+<string name="del_item">Agar ob\'ektni o\'chirishni istaysizmi?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">Iste\'mol registryga</string>
+<string name="diary_added">Ro\'yxatga olish kitobi qo\'shiladi ichimlik</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">Oylik hisobot</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">Iste\'mol Sizning hozirgi ro\'yxatga olish</string>
+<string name="dont_drive">Spirtli ichimlik so\'ng haydovchi hech qachon!</string>
+<string name="drink_label">Ichimlik Label</string>
+<string name="edit_name">Edit nomi</string>
+<string name="exit">Chiqish</string>
+<string name="favorites">Tanlanganlar</string>
+<string name="favorite_hint">Favorites Izlash</string>
+<string name="fav_added">Ichkilik Sevimlilarga qo\'shilgan</string>
+<string name="feedback">Fikringizni bering</string>
+<string name="feedback_prompt">Salom, siz, biz, siz uchun bu dasturni yaxshilash mumkin, shunday qilib, bizga fikringizni yuborishni istayman?</string>
+<string name="female">Ayol</string>
+<string name="fully_sober">Siz to\'liq aqlli bor</string>
+<string name="go_to_menu">Qabul qilish va yopish</string>
+<string name="height">Sizning balandligi</string>
+<string name="help">Yordam Bering</string>
+<!-- app being short for application -->
+<string name="help_translate">Ushbu dasturni o\'girishga yordam</string>
+<string name="high_calory">Yuqori darajadagi (yuridik yuqorida)</string>
+<string name="info">Axborot</string>
+<string name="information_1">Yurtingizda yoki viloyatida Haydash paytida og\'irlik, jinsiy aloqa va qondagi spirtli ichimliklar huquqiy mazmunini: sozlamalar-ga o\'ting va ma\'lumotlarni kiriting. Saqlash va yaqin.</string>
+<string name="information_2">Har safar, siz sharob iste\'mol qachon, siz iste\'mol, ro\'yxatdan o\'tishingiz uni qo\'shish lozim. Siz har bir ichishga uchun turi, hajmi va spirtli ichimliklarni foizini o\'rnatishingiz mumkin. Hozirgi vaqtda o\'rnatilgan bo\'ladi ko\'rsatuv tomonidan Bundan tashqari, iste\'mol vaqti kiritishingiz mumkin. Mexnat uchun, siz sharob mavjud aroq (yoki boshqa liquor), faqat miqdorini kiritish kerak.</string>
+<string name="information_3">Jarayonini tezlashtirishni talab qilurlar, siz tanlagan nom ostida, favorites papkasida ichimliklar saqlashingiz mumkin. Sharob favorites saqlanadi so\'ng, faqat bir marta bosish bilan, iste\'mol, ro\'yxatdan o\'tishingiz uni qo\'shishingiz mumkin.</string>
+<string name="information_4">Bu yerda siz ko\'rib chiqish va iste\'mol joriy ro\'yxatga olish kitobini mumkin. Tugmasini \ "\ ma\'lumot" bosgan holda, Siz tanlagan ichimlik tafsilotlarini ko\'rib chiqish va yana, ro\'yxatdan o\'tishingiz uni qo\'shishingiz mumkin bo\'ladi.</string>
+<string name="information_5">Spirtli ichimliklarni Sizning hozirgi darajasi (mamlakatingiz yoki viloyatida Haydash paytida spirtli ichimliklar huquqiy darajasiga ko\'ra) ko\'rsatiladi va to\'liq aqlli va qonuniy aqlli olish uchun zarur bo\'lgan vaqt davri bilan birga, real vaqtda yangilangan bo\'ladi. grafik yaqin o\'tmishda va necha yaqinlashib kelayotgan soat (pastki qismidagi teglar to\'liq soat ko\'rsatadi) davomida spirtli ichimliklar sizning mazmunini, visualizes. Qizil chiziq alkogol huquqiy darajasini ko\'rsatadi. Siz chiziq jadvalida va bar Diagrammaning o\'rtasida tanlash mumkin.</string>
+<string name="information_6">Sizning bunday umumiy va o\'rtacha iste\'mol sifatida (o\'tgan yozuvlar to\'plangan) alkogol va sharh statistika sizning kundalik iste\'mol kuzatib mumkin. Har kuni Diagrammaning bir barda tomonidan taqdim etiladi, chap yorliq iste\'mol spirtli (1 birlik = sof spirtli 10 mililitresi) birliklari ko\'rsatadi. O\'qlar siz boshqa oygacha harakat qilaylik bo\'ladi.</string>
+<string name="information_7">Alkogol va diagrammadagi barlar ranglar darajasiga yaqin joylashgan nuqta, rangi, spirtli ichimliklar sizning joriy darajasiga ko\'ra, o\'zgaruvchan bo\'ladi. ranglar ma\'nosi quyida izohlanadi.</string>
+<string name="information_8">Ushbu dastur sizga haqiqiy (real) qon spirtli darajasi, lekin bir matematik formula asosida baholashni bermaydi. Qonda spirtli ichimlik tarkib formula kiritilgan emas omillar, turli bog\'liq. Qonda spirtli ichimlik Sizning haqiqiy darajasi, bu dastur tomonidan taqdim qiymati har xil bo\'lishi mumkin.</string>
+<string name="legal_alc">Mamlakatingiz / viloyatida Huquqiy qon Spirtli ichimliklar tarkib</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">Siz qonuniy aqlli bor</string>
+<string name="legal_time">Siz qonuniy aqlli bo\'ladi</string>
+<!-- chart made of lines -->
+<string name="line_chart">Line grafik</string>
+<string name="low_calory">Past darajasi (yuridik ostida)</string>
+<string name="male">Erkak</string>
+<string name="medium_calory">O\'rta darajali (yuridik atrofida)</string>
+<string name="menu_title">Menyu</string>
+<string name="month">Oy</string>
+<string name="month_graph_title">Haftalik iste\'mol</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">Oylik hisobot</string>
+<string name="new_record">Agar barcha yozuvlari tozalash va yangi, ro\'yxatdan o\'tishingiz boshlash istaysizmi?</string>
+<string name="no_data">Tanlangan oy uchun mavjud Ma\'lumot yo\'q</string>
+<string name="num_days">Spirtli ichimliklarni iste\'mol bo\'lgan kunlar soni</string>
+<string name="ok">Xop</string>
+<string name="opinion">Fikr</string>
+<string name="percent_alcohol">Spirtli ichimliklarni foiz</string>
+<string name="pick_amount">Ovoz</string>
+<string name="pick_type">Ichimlik turi</string>
+<!-- app being short for application -->
+<string name="rate_app">Ushbu dasturni ber!</string>
+<string name="save_close">Saqlash va yopish</string>
+<string name="settings">Sozlamalar</string>
+<string name="sex">Sizning sex</string>
+<string name="sober_time">Siz to\'liq aqlli bo\'ladi</string>
+<string name="standard_unit">(Birlik = sof spirtli ichimliklarni 10g)</string>
+<string name="that_is">Bunda emas</string>
+<string name="total_consumption">Jami iste\'mol</string>
+<string name="type_name">Ichimlik Label</string>
+<string name="unit">Hajmining birligi</string>
+<string name="veryhigh_calory">Juda yuqori darajadagi (ko\'p huquqiy yuqorida)</string>
+<string name="warning">Ogohlantirish!</string>
+<string name="weight">Sizning vazn</string>
+<string name="choose_theme">Rang tanlang</string>
+<string name="wine">Vino</string>
+<string name="light">Yorug \'</string>
+<string name="dark">Qorong\'u</string>
+<string name="promile">Boshiga-mil</string>
+<string name="alc_level">Spirtli ichimliklarni darajasi</string>
+<string name="stats">Statistika</string>
+<string name="def_name">Default nomi</string>
+<string name="ad_phrase1">Telefoningiz bilan alkogol darajasini tasdiqlang.</string>
+<string name="ad_phrase2">Agar siz qonuniy jihatdan haydovchi mumkin tekshiring.</string>
+<string name="ad_phrase3">Default nomi</string>
+<string-array name="beer_amounts">
+<item>Juda kichik shisha</item>
+<item>Kichik shisha</item>
+<item>O\'rta shisha</item>
+<item>Yirik shisha</item>
+<item>Juda katta shisha</item>
+</string-array>
+<string-array name="units">
+<item>Metrik - mililitresi (ml)</item>
+<item>Suyuq untsiya AQSh (fl oz)</item>
+<item>Suyuq untsiya Imperial (fl oz)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>Pivo</item>
+<item>Vino</item>
+<item>Aroq yoki Aroq</item>
+<item>Mexnat</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Juda kichik shisha</item>
+<item>Kichik shisha</item>
+<item>O\'rta shisha</item>
+<item>Yirik shisha</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Kichik shisha</item>
+<item>O\'rta shisha</item>
+<item>Yirik shisha</item>
+</string-array>
+</resources>

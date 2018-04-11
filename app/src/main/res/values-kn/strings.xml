@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">ಪಾನೀಯ ಸೇರಿಸಿ</string>
+<string name="add_favorite">ಮೆಚ್ಚಿನವುಗಳಿಗೆ ಸೇರಿಸಿ</string>
+<string name="age">ನಿಮ್ಮ ವಯಸ್ಸು</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">ಪ್ರಮಾಣಿತ ಪಾನೀಯ ಘಟಕಗಳಲ್ಲಿ ಸಂಖ್ಯೆಗಳು</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">ರಕ್ತದಲ್ಲಿ ಆಲ್ಕೊಹಾಲ್ ವಿಷಯ</string>
+<string name="avg_consumption">ಸರಾಸರಿ ಬಳಕೆ</string>
+<string name="bac_graph">ಮದ್ಯ ನಿಮ್ಮ ಮಟ್ಟದ ಚಾರ್ಟ್</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">ರೇಖಾಚಿತ್ರ</string>
+<string name="cancel">ರದ್ದು</string>
+<string name="change_time">ಬದಲಾವಣೆ ಸಮಯ</string>
+<string name="charts">ಮದ್ಯ ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಮಟ್ಟ</string>
+<string name="clear_all">ಎಲ್ಲಾ ತೆರವುಗೊಳಿಸಿ ಮತ್ತು ಹೊಸ ನೋಂದಾವಣೆ ಆರಂಭಿಸಲು</string>
+<!-- Short from Configuration -->
+<string name="config">ಸಂರಚನೆ</string>
+<string name="consumption">ನಿಮ್ಮ ಬಳಕೆ</string>
+<string name="consumption_time">ಬಳಕೆ ಸಮಯ</string>
+<string name="current_alc">ಮದ್ಯ ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಮಟ್ಟ</string>
+<string name="default_name">ಹೆಸರು ಡೀಫಾಲ್ಟ್</string>
+<string name="default_percent">ಡೀಫಾಲ್ಟ್ ಶೇಕಡಾವಾರು</string>
+<string name="del_item">ನೀವು ಐಟಂ ಅಳಿಸಲು ಬಯಸುವಿರಾ?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">ಸೇವನೆಯ ರಿಜಿಸ್ಟ್ರಿ</string>
+<string name="diary_added">ನಿಮ್ಮ ನೋಂದಾವಣೆ ಸೇರಿಸಲಾಗಿದೆ ಕುಡಿಯಲು</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">ಮಾಸಿಕ ಅಂಕಿಅಂಶಗಳು</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">ಬಳಕೆ ನಿಮ್ಮ ಪ್ರಸ್ತುತ ನೋಂದಾವಣೆ</string>
+<string name="dont_drive">ಕುಡಿಯುವುದನ್ನು ನಂತರ ಚಾಲನೆ ಎಂದಿಗೂ!</string>
+<string name="drink_label">ಪಾನೀಯ ಲೇಬಲ್</string>
+<string name="edit_name">ಸಂಪಾದಿಸಿ ಹೆಸರು</string>
+<string name="exit">ನಿರ್ಗಮಿಸಿ</string>
+<string name="favorites">ಮೆಚ್ಚಿನವುಗಳು</string>
+<string name="favorite_hint">ಮೆಚ್ಚಿನವುಗಳು ಹುಡುಕಾಟ</string>
+<string name="fav_added">ಡ್ರಿಂಕ್ ಮೆಚ್ಚಿನವುಗಳಿಗೆ ಸೇರಿಸಲಾಗಿದೆ</string>
+<string name="feedback">ನಿಮ್ಮ ಅಭಿಪ್ರಾಯ ನೀಡಿ</string>
+<string name="feedback_prompt">ಹಲೋ, ನೀವು ನಾವು ನೀವು ಈ ಅಪ್ಲಿಕೇಶನ್ ಸುಧಾರಿಸಲು ಪರದೆಯಿಂದ, ನಿಮ್ಮ ಅಭಿಪ್ರಾಯ ಕಳುಹಿಸಲು ಬಯಸುತ್ತೀರಿ?</string>
+<string name="female">ಸ್ತ್ರೀ</string>
+<string name="fully_sober">ನೀವು ಸಂಪೂರ್ಣವಾಗಿ ಗಂಭೀರ</string>
+<string name="go_to_menu">ಸ್ವೀಕರಿಸಲು ಮತ್ತು ಮುಚ್ಚಿ</string>
+<string name="height">ನಿಮ್ಮ ಎತ್ತರ</string>
+<string name="help">ಸಹಾಯ</string>
+<!-- app being short for application -->
+<string name="help_translate">ಈ ಅಪ್ಲಿಕೇಶನ್ ಭಾಷಾಂತರಿಸಲು ಸಹಾಯ</string>
+<string name="high_calory">ಉನ್ನತ ಮಟ್ಟದ (ಕಾನೂನು ಮೇಲೆ)</string>
+<string name="info">ಮಾಹಿತಿ</string>
+<string name="information_1">ನಿಮ್ಮ ದೇಶ ಅಥವ ಪ್ರಾಂತ್ಯದ ಚಾಲನೆ ಮಾಡುವಾಗ ತೂಕ, ಲೈಂಗಿಕ ಮತ್ತು ರಕ್ತದ ಆಲ್ಕೊಹಾಲ್ ಕಾನೂನು ವಿಷಯ: ಸೆಟ್ಟಿಂಗ್ಗಳಿಗೆ ಹೋಗಿ ಮತ್ತು ನಿಮ್ಮ ಡೇಟಾವನ್ನು ನಮೂದಿಸಿ. ಉಳಿಸು ಮತ್ತು ಮುಚ್ಚು.</string>
+<string name="information_2">ಪ್ರತಿ ಬಾರಿ, ನೀವು ಒಂದು ಪಾನೀಯ ಸೇವಿಸುತ್ತವೆ, ನೀವು ಬಳಕೆ ನಿಮ್ಮ ನೋಂದಾವಣೆ ಇದನ್ನು ಸೇರಿಸಬೇಕು. ನೀವು ಪ್ರತಿ ಪಾನೀಯವನ್ನು ರೀತಿಯ, ಪರಿಮಾಣ ಮತ್ತು ಮದ್ಯ ಶೇಕಡಾವಾರು ಹೊಂದಿಸಬಹುದು. ಇದು ಪ್ರಸ್ತುತ ಸಮಯ ಹೊಂದಿಸಲಾಗಿದೆ ಪೂರ್ವನಿಯೋಜಿತವಾಗಿ ನೀವು, ಸೇವನೆಯ ಸೇರಬಹುದು. ಕಾಕ್ಟೇಲ್ಗಳೊಂದಿಗೆ, ನೀವು ಪಾನೀಯ ಒಳಗೊಂಡಿರುವ ಇದು ವೊಡ್ಕಾ (ಅಥವಾ ಇತರ ಮದ್ಯಗಳು), ಕೇವಲ ಪ್ರಮಾಣವನ್ನು ನಮೂದಿಸಬೇಕು.</string>
+<string name="information_3">ಪ್ರಕ್ರಿಯೆ ಅವಸರವಾಗಿ, ನಿಮ್ಮ ಆಯ್ಕೆಯ ಒಂದು ಹೆಸರಿನಲ್ಲಿ, ಮೆಚ್ಚಿನವುಗಳು ಫೋಲ್ಡರ್ನಲ್ಲಿ ಪಾನೀಯಗಳು ಉಳಿಸಬಹುದು. ಒಂದು ಪಾನೀಯ ಮೆಚ್ಚಿನವುಗಳು ಉಳಿಸಲಾಗುತ್ತದೆ ನಂತರ, ನೀವು ಕೇವಲ ಒಂದು ಕ್ಲಿಕ್ ಮೂಲಕ ಬಳಕೆ ನಿಮ್ಮ ನೋಂದಾವಣೆ ಸೇರಿಸಬಹುದು.</string>
+<string name="information_4">ಇಲ್ಲಿ ಪರಿಶೀಲಿಸಬಹುದು ಮತ್ತು ಬಳಕೆ ನಿಮ್ಮ ಪ್ರಸ್ತುತ ನೋಂದಾವಣೆ ಮಾರ್ಪಡಿಸಬಹುದು. ಬಟನ್ \ "\ ಮಾಹಿತಿಯನ್ನು" ಕ್ಲಿಕ್ ಮಾಡುವ ಮೂಲಕ, ನೀವು ಆಯ್ಕೆ ಪಾನೀಯ ವಿವರಗಳನ್ನು ಪರಿಶೀಲಿಸಿ ಮತ್ತು ಮತ್ತೆ ನಿಮ್ಮ ನೋಂದಾವಣೆ ಇದನ್ನು ಸೇರಿಸಲು ಸಾಧ್ಯವಾಗುತ್ತದೆ.</string>
+<string name="information_5">ಮದ್ಯ ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಮಟ್ಟದ (ನಿಮ್ಮ ದೇಶ ಅಥವ ಪ್ರಾಂತ್ಯದ ಚಾಲನೆ ಮಾಡುವಾಗ ಮದ್ಯಪಾನ ಕಾನೂನು ಮಟ್ಟಕ್ಕೆ ಅನುಗುಣವಾಗಿ) ಪ್ರದರ್ಶಿಸಲಾಗುತ್ತದೆ ಮತ್ತು ಸಂಪೂರ್ಣವಾಗಿ ಗಂಭೀರ ಮತ್ತು ಕಾನೂನುಬದ್ಧವಾಗಿ ಗಂಭೀರ ಪಡೆಯಲು ಬೇಕಾಗುವ ಕಾಲಾವಧಿ ಜೊತೆಗೆ, ನೈಜ ಸಮಯದಲ್ಲಿ ಅಪ್ಡೇಟ್ಗೊಳಿಸಲಾಗಿದೆ ಮಾಡುತ್ತದೆ. ಚಾರ್ಟ್ ಇತ್ತೀಚಿನ ದಿನಗಳಲ್ಲಿ ಮತ್ತು ಕೆಲವು ಮುಂಬರುವ ಗಂಟೆಗಳ (ಲೇಬಲ್ಗಳು ಕೆಳಭಾಗದಲ್ಲಿ ಪೂರ್ಣ ಗಂಟೆಗಳನ್ನು ಸೂಚಿಸುತ್ತದೆ) ಸಮಯದಲ್ಲಿ ಮದ್ಯ ನಿಮ್ಮ ವಿಷಯವನ್ನು, visualizes. ರೆಡ್ ಲೈನ್ ಮದ್ಯ ಕಾನೂನು ಮಟ್ಟವನ್ನು ಸೂಚಿಸುತ್ತದೆ. ನೀವು ಸಾಲು ಚಾರ್ಟ್ ಮತ್ತು ಬಾರ್ ಚಾರ್ಟ್ ನಡುವೆ ಆಯ್ಕೆ ಮಾಡಬಹುದು.</string>
+<string name="information_6">ನಿಮ್ಮ ಇಂತಹ ಒಟ್ಟು ಮತ್ತು ಸರಾಸರಿ ಬಳಕೆ (ಹಳೆಯ ದಾಖಲೆಗಳ ಸಂಗ್ರಹಿಸಿದ) ಮದ್ಯ ಮತ್ತು ವಿಮರ್ಶೆ ಅಂಕಿಅಂಶ ನಿಮ್ಮ ದೈನಂದಿನ ಬಳಕೆಗಾಗಿ ಕಂಡುಹಿಡಿಯಬಹುದು. ಪ್ರತಿ ದಿನ ಚಾರ್ಟ್ ಒಂದು ಬಾರ್ ಪ್ರತಿನಿಧಿಸುತ್ತದೆ, ಎಡ ಲೇಬಲ್ ಸೇವಿಸುವ ಮದ್ಯ (1 ಘಟಕ = ಶುದ್ಧ ಆಲ್ಕೊಹಾಲ್ 10 ದ್ರಾವಣಕ್ಕೆ) ಘಟಕಗಳು ಸೂಚಿಸುತ್ತದೆ. ಬಾಣಗಳನ್ನು ನೀವು ಇತರ ತಿಂಗಳ ನ್ಯಾವಿಗೇಟ್ ಅವಕಾಶ.</string>
+<string name="information_7">ಮದ್ಯ ಮತ್ತು ಚಿತ್ರದಲ್ಲಿ ಬಾರ್ ಬಣ್ಣಗಳ ಮಟ್ಟದ ಹತ್ತಿರ ಇದೆ ಡಾಟ್, ಬಣ್ಣ, ಮದ್ಯ ನಿಮ್ಮ ಪ್ರಸ್ತುತ ಮಟ್ಟಕ್ಕೆ ಅನುಗುಣವಾಗಿ, ಬದಲಾವಣೆ ಮಾಡಲಾಗುತ್ತದೆ. ಬಣ್ಣಗಳ ಅರ್ಥವನ್ನು ಕೆಳಗೆ ವಿವರಿಸಲಾಗಿದೆ.</string>
+<string name="information_8">ಈ ಅಪ್ಲಿಕೇಶನ್ (ನಿಜವಾದ) ರಕ್ತದಲ್ಲಿ ಆಲ್ಕೊಹಾಲ್ ಮಟ್ಟ, ಆದರೆ ಗಣಿತದ ಸೂತ್ರವನ್ನು ಆಧರಿಸಿ ಅಂದಾಜು ನೀಡುವುದಿಲ್ಲ. ರಕ್ತದಲ್ಲಿ ಆಲ್ಕೊಹಾಲ್ ವಿಷಯವನ್ನು ಸೂತ್ರವನ್ನು ಸೇರಿಸಲಾಗಿಲ್ಲ ಅಂಶಗಳು, ವಿವಿಧ ಅವಲಂಬಿಸಿರುತ್ತದೆ. ರಕ್ತದಲ್ಲಿ ಆಲ್ಕೊಹಾಲ್ ನಿಮ್ಮ ನಿಜವಾದ ಮಟ್ಟದ ಈ ಅಪ್ಲಿಕೇಶನ್ ಒದಗಿಸಿದ ಮೌಲ್ಯವನ್ನು ಭಿನ್ನವಾಗಿರಬಹುದು.</string>
+<string name="legal_alc">ನಿಮ್ಮ ದೇಶ / ಪ್ರಾಂತ್ಯದ ಕಾನೂನು ರಕ್ತದ ಆಲ್ಕೋಹಾಲ್ ವಿಷಯ</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">ನೀವು ಕಾನೂನುಬದ್ಧವಾಗಿ ಗಂಭೀರ</string>
+<string name="legal_time">ನೀವು ಕಾನೂನುಬದ್ಧವಾಗಿ ವಾಸ್ತವಿಕವಾದ</string>
+<!-- chart made of lines -->
+<string name="line_chart">ಸಾಲು ಚಾರ್ಟ್</string>
+<string name="low_calory">ಕಡಿಮೆ ಮಟ್ಟದ (ಕಾನೂನು ಕೆಳಗೆ)</string>
+<string name="male">ಪುರುಷ</string>
+<string name="medium_calory">ಸಾಧಾರಣ ಮಟ್ಟದ (ಕಾನೂನು ಸುಮಾರು)</string>
+<string name="menu_title">ಮೆನು</string>
+<string name="month">ತಿಂಗಳು</string>
+<string name="month_graph_title">ಮಾಸಿಕ ಬಳಕೆ</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">ಮಾಸಿಕ ಅಂಕಿಅಂಶಗಳು</string>
+<string name="new_record">ನೀವು ಎಲ್ಲಾ ನಮೂದುಗಳನ್ನು ತೆರವುಗೊಳಿಸಲು ಮತ್ತು ಹೊಸ ನೋಂದಾವಣೆ ಆರಂಭಿಸಲು ಬಯಸುವಿರಾ?</string>
+<string name="no_data">ಆಯ್ಕೆ ತಿಂಗಳು ಯಾವುದೇ ಡೇಟಾ ಲಭ್ಯವಿಲ್ಲ</string>
+<string name="num_days">ಮದ್ಯ ಸೇವನೆ ದಿನಗಳ ಸಂಖ್ಯೆ</string>
+<string name="ok">ಸರಿ</string>
+<string name="opinion">ಅಭಿಪ್ರಾಯ</string>
+<string name="percent_alcohol">ಮದ್ಯ ಶೇಕಡಾವಾರು</string>
+<string name="pick_amount">ಪರಿಮಾಣ</string>
+<string name="pick_type">ಪಾನೀಯ ಮಾದರಿ</string>
+<!-- app being short for application -->
+<string name="rate_app">ಈ ಅಪ್ಲಿಕೇಶನ್ ದರ!</string>
+<string name="save_close">ಉಳಿಸಿ ಮತ್ತು ಮುಚ್ಚಿ</string>
+<string name="settings">ಸೆಟ್ಟಿಂಗ್ಗಳು</string>
+<string name="sex">ನಿಮ್ಮ ಲೈಂಗಿಕ</string>
+<string name="sober_time">ನೀವು ಸಂಪೂರ್ಣವಾಗಿ ವಾಸ್ತವಿಕವಾದ</string>
+<string name="standard_unit">(ಏಕಮಾನ = ಶುದ್ಧ ಆಲ್ಕೊಹಾಲ್ 10G)</string>
+<string name="that_is">ಎಂದು ರಲ್ಲಿ ಹೊಂದಿದೆ</string>
+<string name="total_consumption">ಒಟ್ಟು ಬಳಕೆ</string>
+<string name="type_name">ಪಾನೀಯ ಲೇಬಲ್</string>
+<string name="unit">ಪರಿಮಾಣದ ಘಟಕ</string>
+<string name="veryhigh_calory">ಅತ್ಯಂತ ಉನ್ನತ ಮಟ್ಟದ (ಹೆಚ್ಚು ಕಾನೂನು ಮೇಲೆ)</string>
+<string name="warning">ಎಚ್ಚರಿಕೆ!</string>
+<string name="weight">ನಿಮ್ಮ ತೂಕ</string>
+<string name="choose_theme">ಬಣ್ಣವನ್ನು ಆರಿಸಿ</string>
+<string name="wine">ವೈನ್</string>
+<string name="light">ಪ್ರಕಾಶಮಾನವಾದ</string>
+<string name="dark">ಡಾರ್ಕ್</string>
+<string name="promile">ಪ್ರತಿ ಮೈಲಿ</string>
+<string name="alc_level">ಮದ್ಯ ಮಟ್ಟದ</string>
+<string name="stats">ಅಂಕಿಅಂಶಗಳು</string>
+<string name="def_name">ಡೀಫಾಲ್ಟ್ ಹೆಸರು</string>
+<string name="ad_phrase1">ನಿಮ್ಮ ಫೋನ್ ಮದ್ಯ ಮಟ್ಟದ ಪರಿಶೀಲಿಸಿ.</string>
+<string name="ad_phrase2">ನೀವು ಕಾನೂನುಬದ್ಧವಾಗಿ ಚಾಲನೆ ಪರೀಕ್ಷಿಸಲು.</string>
+<string name="ad_phrase3">ಡೀಫಾಲ್ಟ್ ಹೆಸರು</string>
+<string-array name="beer_amounts">
+<item>ಸಣ್ಣ ಗಾಜಿನ</item>
+<item>ಸಣ್ಣ ಗಾಜಿನ</item>
+<item>ಸಾಧಾರಣ ಗಾಜಿನ</item>
+<item>ದೊಡ್ಡ ಗಾಜಿನ</item>
+<item>ದೊಡ್ಡ ಗಾಜಿನ</item>
+</string-array>
+<string-array name="units">
+<item>ಮೆಟ್ರಿಕ್ - ದ್ರಾವಣಕ್ಕೆ (ಮಿಲಿ)</item>
+<item>ದ್ರವ ಔನ್ಸ್ ಅಮೇರಿಕಾದ (FL ಆಸ್ಟ್ರೇಲಿಯ)</item>
+<item>ದ್ರವ ಔನ್ಸ್ ಇಂಪೀರಿಯಲ್ (FL ಆಸ್ಟ್ರೇಲಿಯ)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>ಬಿಯರ್</item>
+<item>ವೈನ್</item>
+<item>ವೋಡ್ಕಾ ಅಥವಾ ಲಿಕ್ಕರ್</item>
+<item>ಕಾಕ್ಟೇಲ್</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>ಸಣ್ಣ ಗಾಜಿನ</item>
+<item>ಸಣ್ಣ ಗಾಜಿನ</item>
+<item>ಸಾಧಾರಣ ಗಾಜಿನ</item>
+<item>ದೊಡ್ಡ ಗಾಜಿನ</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>ಸಣ್ಣ ಗಾಜಿನ</item>
+<item>ಸಾಧಾರಣ ಗಾಜಿನ</item>
+<item>ದೊಡ್ಡ ಗಾಜಿನ</item>
+</string-array>
+</resources>

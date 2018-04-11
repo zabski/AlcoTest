@@ -1,0 +1,202 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:ads2="http://schemas.android.com/apk/lib/com.google.ads"
+    xmlns:tools="http://schemas.android.com/tools"    
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"    
+    
+    android:weightSum="2" >    
+    
+    <!-- android:background="?android:attr/windowBackground" -->
+    <!-- com.google.ads.AdView android:id="@+id/adView5"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"           
+           android:layout_marginTop="0dp"	              
+           ads:adUnitId="ca-app-pub-4402674240600002/3530513778"
+           ads:adSize="SMART_BANNER"
+           ads:testDevices="TEST_EMULATOR, TEST_DEVICE_ID"
+           ads:loadAdOnCreate="true"/-->                  
+
+ <!-- LinearLayout     	
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal"
+        android:textColor="@android:color/black" >
+        
+        <ImageButton
+            android:id="@+id/bPrevMonth"
+            android:layout_width="@dimen/row_hgt_xxl"
+            android:layout_height="@dimen/row_hgt_l"            
+            
+            android:src="@drawable/prev" />
+    
+	    <TextView
+	        android:id="@+id/tvMonth"
+	        android:layout_width="@dimen/month_width"       
+	        android:layout_height="@dimen/row_hgt_l"	        
+	        android:gravity="center|center_horizontal|center_vertical"
+	        android:text="@string/month"
+	        android:textAppearance="?android:attr/textAppearanceMedium"
+	        
+	        android:textSize="@dimen/text_l"
+	        
+	        android:textStyle="bold" />
+	    
+	    <ImageButton
+	        android:id="@+id/bNextMonth"
+            android:layout_width="@dimen/row_hgt_xxl"
+            android:layout_height="@dimen/row_hgt_l"	               	        
+	        android:src="@drawable/next" />	    	    
+    
+    </LinearLayout-->   
+    
+  <LinearLayout
+     	android:id="@+id/simplefragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal|center_vertical"
+        android:gravity="center_horizontal"
+        android:orientation="horizontal" />
+        <!--android:textColor="@android:color/black" /-->
+  
+	    <Button
+            android:id="@+id/bUnit"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/margin_l"	 
+            android:layout_gravity="center"            
+            android:text="@string/bar_chart"
+            android:src="@drawable/prev" />  
+    
+	<LinearLayout
+	    android:id="@+id/graph1"
+	    android:layout_width="match_parent"
+	    android:layout_height="@dimen/chart_hgt"
+	    android:orientation="vertical"
+	    android:paddingBottom="@dimen/margin_l"
+	    android:paddingLeft="@dimen/margin_l"
+	    android:paddingRight="@dimen/margin_l"
+	    android:paddingTop="@dimen/margin_l"    
+	    android:background="@color/bkg_lt"
+	     />
+	
+	<LinearLayout
+	    android:id="@+id/graph2"
+	    android:layout_width="match_parent"
+	    android:layout_height="@dimen/chart_hgt"
+	    android:orientation="vertical"
+	    android:paddingBottom="@dimen/margin_l"
+	    android:paddingLeft="@dimen/margin_l"
+	    android:paddingRight="@dimen/margin_l"
+	    android:paddingTop="@dimen/margin_l"
+	    android:background="@color/bkg_lt"
+	    android:visibility="gone" />
+
+	<com.google.android.gms.ads.AdView
+		xmlns:ads="http://schemas.android.com/apk/res-auto"
+		android:id="@+id/adView"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:visibility="visible"
+		ads:adUnitId="ca-app-pub-4402674240600002/8343026177"
+		ads:adSize="BANNER"/>
+
+	<include layout="@layout/ads_incl_amazon_banner"/>
+
+	<!--FrameLayout
+		android:id="@+id/native_ad_container_end"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="@android:color/transparent"
+		android:orientation="vertical"
+		android:visibility="visible"
+		>
+	</FrameLayout-->
+
+	<include layout="@layout/ads_incl_fb_native"/>
+
+	<!--com.google.android.gms.ads.NativeExpressAdView
+		android:id="@+id/adViewExpress"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_centerHorizontal="true"
+		android:layout_alignParentBottom="true"
+		android:layout_gravity="center_horizontal"
+		android:visibility="gone"
+		ads:adSize="320x80"
+		ads:adUnitId="@string/admob_express_small_id">
+	</com.google.android.gms.ads.NativeExpressAdView-->
+
+
+	<!--com.google.android.gms.ads.NativeExpressAdView
+		android:id="@+id/adViewExpress"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_centerHorizontal="true"
+		android:layout_alignParentBottom="true"
+		android:layout_gravity="center_horizontal"
+		android:visibility="gone"
+		ads:adSize="320x280"
+		ads:adUnitId="@string/ad_express_large_id">
+	</com.google.android.gms.ads.NativeExpressAdView-->
+    
+    <com.google.android.gms.ads.AdView
+	    xmlns:ads="http://schemas.android.com/apk/res-auto"
+	    android:id="@+id/chart_adView"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+		android:visibility="gone"
+	    ads:adUnitId="ca-app-pub-4402674240600002/3530513778"
+	    ads:adSize="SMART_BANNER"/>
+
+
+	<!--TextView
+		android:id="@+id/tvNative"
+		android:layout_width="@dimen/month_width"
+		android:layout_height="@dimen/row_hgt_l"
+		android:gravity="center|center_horizontal|center_vertical"
+		android:visibility="gone"
+		android:text="Native"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:textSize="@dimen/text_l"
+		android:textStyle="bold" />
+
+	<com.google.android.gms.ads.AdView
+		xmlns:ads="http://schemas.android.com/apk/res-auto"
+		android:id="@+id/chart_native"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:visibility="gone"
+		ads:adUnitId="ca-app-pub-4402674240600002/9771423379"
+		ads:adSize="SMART_BANNER"/>
+
+	<TextView
+		android:id="@+id/tvMonth"
+		android:layout_width="@dimen/month_width"
+		android:layout_height="@dimen/row_hgt_l"
+		android:visibility="gone"
+		android:gravity="center|center_horizontal|center_vertical"
+		android:text="@string/month"
+		android:textAppearance="?android:attr/textAppearanceMedium"
+		android:textSize="@dimen/text_l"
+		android:textStyle="bold" />
+
+	<com.mobfox.sdk.Banner
+		android:layout_width="300dp"
+		android:layout_height="50dp"
+		android:visibility="gone"
+		android:id="@+id/mobfox_banner"
+		android:layout_centerHorizontal="true"
+		android:layout_centerVertical="true">
+	</com.mobfox.sdk.Banner-->
+	
+</LinearLayout>
+</ScrollView>

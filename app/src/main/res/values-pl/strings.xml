@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="remove_ads">Usuń reklamy</string>
+<string name="config">Ustawienia</string>
+<string name="help">Pomoc</string>
+<string name="menu_title">Menu</string>
+<string name="info">Informacja</string>
+<string name="favorites">Ulubione</string>
+<string name="warning">Ostrzeżenie!</string>
+<string name="male">Mężczyzna</string>
+<string name="female">Kobieta</string>
+<string name="month">miesiąc</string>
+<string name="exit">Wyjście</string>
+<string name="settings">Ustawienia</string>
+<string name="cancel">Anuluj</string>
+<string name="ok">OK</string>
+<string name="go_to_menu">Akceptuję</string>
+<string name="add_drink">Dodaj napój</string>
+<string name="pick_amount">Objętość napoju</string>
+<string name="pick_type">Wybierz rodzaj drinka</string>
+<string name="save_close">Zapisz i zamknij</string>
+<string name="add_favorite">Dodaj do ulubionych</string>
+<string name="favorite_hint">Szukaj w ulubionych</string>
+<string name="edit_name">Zmień nazwę</string>
+<string name="type_name">Wpisz Twoją nazwę</string>
+<string name="change_time">Zmień czas</string>
+<string name="default_name">Nazwa domyślna</string>
+<string name="clear_all">Wyczyść wszystko i rozpocznij nowy zapis</string>
+<string name="dont_drive">Nigdy nie prowadź pojazdów po spożyciu alkoholu!</string>
+<string name="current_alc">Twója aktualna zawartość alkoholu we krwi</string>
+<string name="sober_time">Będziesz całkiem trzeźwy/a o</string>
+<string name="legal_time">Będziesz legalnie trzeźwy/a o</string>
+<string name="that_is">to jest za</string>
+<string name="app_name">Alkomat</string>
+<string name="percent_alcohol">Zawartość alkoholu w napoju</string>
+<string name="promile">promila</string>
+<string name="diary">Zapis konsumpcji</string>
+<string name="diary_graph">Statystyka miesięczna</string>
+<string name="diary_added">Dodano</string>
+<string name="charts">Twój obecny poziom alkoholu</string>
+<string name="diary_items">Twój obecny zapis spożycia</string>
+<string name="height">Wzrost</string>
+<string name="weight">Waga</string>
+<string name="sex">Płeć</string>
+<string name="age">Wiek</string>
+<string name="consumption">Twoje spożycie (jednostka = 10g alkoholu)</string>
+<string name="standard_unit">(unit = 10g of pure alcohol)</string> 
+<string name="your_wgt">Waga</string>
+<string name="no_data">Brak danych dla wybranego miesiąca</string>
+<string name="unit">Jednostka objętości</string>
+<string name="fav_added">Dodano do ulubionych</string>
+<string name="month_stats">Statystyka miesięczna</string>
+<string name="all_units">Dane w jednostkach Standard Drinks = 10g czystego alk.</string>
+<string name="low_calory">niska zawartość (trzeźwy/a)</string>
+<string name="medium_calory">średnia zawartość (po użyciu alk.)</string>
+<string name="high_calory">wysoka zawartość (pod wpływem alk.)</string>
+<string name="veryhigh_calory">bardzo wysoka zawartość (w stanie upojenia)</string>
+<string name="drink_label">Nazwa napoju</string>
+<string name="default_percent">Zawartość domyślna</string>
+<string name="consumption_time">Czas zakończenia spożycia</string>
+<string name="new_record">Czy chcesz wyczyścić wszystko i rozpocząć nowy zapis?</string>
+<string name="del_item">Czy chcesz usunąć ten wpis?</string>
+<string name="bac_graph">Wykres zawartości alkoholu we krwi</string>
+<string name="line_chart">Wykres Liniowy</string>
+<string name="bar_chart">Wykres Słupkowy</string>
+<string name="month_graph_title">Konsumpcja miesięczna</string>
+<string name="fully_sober">Jesteś całkiem trzeźwy/a</string>
+<string name="legal_sober">Jesteś legalnie trzeźwy/a</string>
+<string name="total_consumption">Całkowite spożycie</string>
+<string name="avg_consumption">Średnie spożycie dzienne</string>
+<string name="num_days">Liczba dni ze spożyciem alkoholu</string>
+<string name="legal_alc">Dopuszczalna prawem zawartość alkoholu we krwi w Twoim kraju</string>
+<string name="information_1">Przejdź do ustawień, aby wprowadzić swoje dane: wagę, płeć oraz dopuszczalną zawartość alkoholu w Twoim kraju. Zapisz i zamknij.</string>    
+<string name="information_2">Za każdym kiedy wypijesz drinka, dodaj go do rejestru spożycia. Należy podać rodzaj, ilość i zawartość alkoholu dla każdego napoju. Można również wprowadzić czas konsumpcji, domyślnie jest ustawiony aktualny czas. Dla drinków/koktajli należy wpisać tylko ilość wódki (lub innych destylatów), które zawiara napój.</string>
+<string name="information_3">Aby przyspieszyć ten proces możesz zapisać każdy napój do ulubionych oraz nadać mu nazwę. Napoje zapisane w ulubionych, można dodać do rejestru poprzez pojedyncze kliknięcie.</string>
+<string name="information_4">Tutaj można przejrzeć i zmodyfikować aktualny zapis spożycia. Klikając \"info\" możesz wyswietlić szczegóły napoju i dodać ponownie do rejestru.</string>
+<string name="information_5">Aktualna zawartość alkoholu we krwi jest aktualizowana w czasie rzeczywistym, wraz z okresem czasu potrzebnego, do pełnego wytrzeźwienia, a także do wytrzeźwienia do poziomu legalnej zawartości alkoholu. Wykres pokazuje wizualizację poziomu alkoholu w czasie ostatnich i nadchodzących godzin (etykiety na dole wskazują pełne godziny). Czerwona linia oznacza poziom legalnej zawartości alkoholu. Można wybrać wykres liniowy lub słupkowy.</string>
+<string name="information_6">Można śledzić dzienne spożycie alkoholu, zebrane na podstawie poprzednich zapisów. tyka pokaże całkowite miesięczne oraz średnie dzienne spożycie. Każdy dzień jest reprezentowany jako jeden słupek wykresu, etykiety po lewej stronie wskazują jednostki wypitego alkoholu (1 jednostka = 10 gram czystego alkoholu). Strzałki pozwalają wyświetlić poprzednie miesiące.</string>		
+<string name="information_7">Kolor kropki oraz słupków wykresu reprezentują aktualną zawartość alkoholu. Znaczenie kolorów jak poniżej.</string>
+<string name="information_8">Ta aplikacja nie pokazuje faktycznej zawartości alkoholu we krwi, a jedynie oszacowanie na podstawie wzoru matematycznego. Zawartość alkoholu we krwi zależy od wielu czynników, które nie zostały uwzględnione w użytej formule. Rzeczywista zawartość alkoholu we krwi może różnić się od wartości wskazanych przez aplikację.</string>
+<string-array name="beer_amounts">
+    <item>Bardzo małe</item>
+    <item>Małe</item>
+    <item>Średnie</item>
+    <item>Duże</item>
+    <item>Bardzo duże</item>        
+</string-array>
+<string-array name="units">
+    <item>Metryczny - mililitr (ml)</item>
+    <item>US - uncja płynu US (fl oz)</item>
+    <item>Imperialny - uncja płynu (fl oz)</item>         
+</string-array>  
+<string-array name="drink_types">
+    <item>Piwo</item>
+    <item>Wino</item>
+    <item>Wódka/destylaty</item>
+    <item>Drinki/koktaile</item>        
+</string-array>
+<string-array name="beerml">
+    <item>250</item>
+    <item>330</item>
+    <item>400</item>
+    <item>500</item>
+    <item>660</item>        
+</string-array>
+<string-array name="beermlus">
+    <item>285</item>        
+    <item>375</item>
+    <item>475</item>
+    <item>568</item>
+    <item>660</item>        
+</string-array>
+<string-array name="beermluk">
+    <item>285</item>        
+    <item>375</item>
+    <item>475</item>
+    <item>568</item>
+    <item>660</item>        
+</string-array>     
+<string-array name="vodka_ml">
+    <item>20</item>
+    <item>30</item>
+    <item>40</item>        
+    <item>50</item>        
+</string-array>
+<string-array name="cocktail_amounts">
+    <item>20 ml</item>
+    <item>30 ml</item>
+    <item>40 ml</item>
+    <item>50 ml</item>
+    <item>60 ml</item>
+    <item>70 ml</item>        
+    <item>80 ml</item>        
+</string-array>
+<string-array name="cocktail_ml">
+    <item>20</item>
+    <item>30</item>
+    <item>40</item>
+    <item>50</item>
+    <item>60</item>
+    <item>70</item>        
+    <item>80</item>        
+</string-array>  
+<string-array name="wine_ml">
+    <item>100</item>
+    <item>150</item>        
+    <item>200</item>        
+</string-array>
+<string-array name="vodka_amounts">
+    <item>Bardzo mały kieliszek</item>
+    <item>Mały kieliszek</item>
+    <item>Średni kieliszek</item>        
+    <item>Duży kieliszek</item>        
+</string-array>
+<string-array name="wine_amounts">
+    <item>Mały kieliszek</item>
+    <item>Średni kieliszek</item>        
+    <item>Duży kieliszek</item>        
+</string-array>
+
+<!--
+<string name="legal_level">Legal Level</string>                  
+<string name="invalidInput">Invalid data</string>
+<string name="emptyInput">Wprowadź dane</string>        
+<string name="daily_value">Twój zapis spożycia</string>
+-->
+</resources>

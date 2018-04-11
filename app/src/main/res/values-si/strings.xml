@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">බීම එකතු කරන්න</string>
+<string name="add_favorite">ප්රියතම දැන්වීම් එකතු කරන්න</string>
+<string name="age">ඔබේ වයස</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">සම්මත බීම ඒකක සියලුම සංඛ්යා</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">ලේ මත්පැන් අන්තර්ගත</string>
+<string name="avg_consumption">සාමාන්ය දෛනික පරිභෝජනය</string>
+<string name="bac_graph">මත්පැන් ඔබගේ මට්ටම සටහන</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">රූප සටහන</string>
+<string name="cancel">අවලංගු කරන්න</string>
+<string name="change_time">වෙනස් කාල</string>
+<string name="charts">මත්පැන් ඔබේ වර්තමාන මට්ටමේ</string>
+<string name="clear_all">සියලු පැහැදිලි සහ නව ලියාපදිංචි ආරම්භ</string>
+<!-- Short from Configuration -->
+<string name="config">වින්යාස</string>
+<string name="consumption">ඔබේ පරිභෝජනය</string>
+<string name="consumption_time">පරිභෝජනය වේලාවන්</string>
+<string name="current_alc">මත්පැන් ඔබේ වර්තමාන මට්ටමේ</string>
+<string name="default_name">නම පැහර Set</string>
+<string name="default_percent">පෙරනිමි ප්රතිශතයක්</string>
+<string name="del_item">ඔබ අයිතමය මකා කිරීමට අවශ්යද?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">පරිභෝජනය ලියාපදිංචි කිරීෙම්</string>
+<string name="diary_added">බිම ඔබගේ IP එකතු</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">මාසික සංඛ්යා ලේඛන</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">පරිභෝජනය ඔබේ වත්මන් ලියාපදිංචියේ</string>
+<string name="dont_drive">මත්පැන් පානය කිරීමෙන් පසු පදවන්න නොකරන්න!</string>
+<string name="drink_label">මෙම පානය ලේබලය</string>
+<string name="edit_name">සංස්කරණය කරන්න නම</string>
+<string name="exit">පිටවීම</string>
+<string name="favorites">ප්රියතම දැන්වීම්</string>
+<string name="favorite_hint">ප්රියතම දැන්වීම් සෝදිසි</string>
+<string name="fav_added">බිම ප්රියතම දැන්වීම් එකතු</string>
+<string name="feedback">ඔබගේ අදහස දෙන්න</string>
+<string name="feedback_prompt">ආයුබෝවන්, ඔබ අපි ඔබ වෙනුවෙන් මෙම යෙදුම වැඩි දියුණු විය හැකි නිසා, අපට ඔබේ මතය යැවීමට කැමති?</string>
+<string name="female">කාන්තා</string>
+<string name="fully_sober">ඔබ සම්පූර්ණයෙන්ම මත්බව සිඳුනු වේ</string>
+<string name="go_to_menu">පිළිගෙන සමීප</string>
+<string name="height">ඔබේ උස</string>
+<string name="help">උදව්</string>
+<!-- app being short for application -->
+<string name="help_translate">මෙම යෙදුම පරිවර්තනය උදව්</string>
+<string name="high_calory">(නීති ඉහත) ඉහළ මට්ටමේ</string>
+<string name="info">තොරතුරු</string>
+<string name="information_1">සැකසුම් වෙත ගොස් ඔබේ දත්ත ඇතුල් කරන්න: සිරුරේ බර, ස්ත්රී පුරුෂ හා රුධිර මත්පැන් පානය නීතිමය අන්තර්ගතයට ඔබේ රටේ හෝ පළාතේ සලසාලයි. සුරකින්න හා සමීප.</string>
+<string name="information_2">එක් එක් කාලය, ඔබ බොන්න පරිභෝජනය කරන විට, ඔබ පරිභෝජනය ඔබගේ IP වෙත එක් කළ යුතුය. ඔබ එක් එක් බීම සඳහා මත්පැන් වර්ගය, පරිමාව හා ප්රතිශතයක් සැකසිය හැක. ඔබ ද එය වත්මන් කාලය ලෙස සකසා තිබේ පෙරනිමියෙන් පරිභෝජන කාලය ඇතුල් විය හැකිය. කොක්ටේල් සඳහා, ඔබ විසින් පානය අඩංගු වන හුදෙක් වොඩ්කා ප්රමාණය (හෝ වෙනත් මත්පැන්), ඇතුලත් විය යුතුය.</string>
+<string name="information_3">ක්රියාවලිය ඉක්මන් කිරීම සඳහා, ඔබ අභිමත නමක් යටතේ, ප්රියතමයන් ෆෝල්ඩරය තුළ බීම ඉතිරි කර ගත හැක. බොන්න වතුර ටිකක් ප්රියතම දැන්වීම් දී සුරැකීමෙන් පසු, ඔබ එක් වරක් ක්ලික් කිරීමෙන්, පරිභෝජනය ඔබගේ IP ඇතුලත් කර හැක.</string>
+<string name="information_4">මෙහිදී ඔබට පරිභෝජනය ඔබේ වත්මන් ලියාපදිංචියේ සමාලෝචනය සහ වෙනස් කළ හැක. බොත්තම "\ තොරතුරු" \ මත ක්ලික් කිරීමෙන්, ඔබ තෝරාගත් බීම පිළිබඳ විස්තර සමාලෝචනය සහ නැවත ඔබගේ IP එකතු කිරීමට හැකි වනු ඇත.</string>
+<string name="information_5">මත්පැන් ඔබේ වර්තමාන මට්ටමේ සම්පූර්ණයෙන්ම මත්බව සිඳුනු සහ නීතිමය වශයෙන් ද සන්සුන් ලබා ගැනීමට අවශ්ය කාල සීමාව සමග (ඔබේ රටේ හෝ පළාතේ රියදුරු අතර මත්පැන් නීතිමය මට්ටම අනුව), තත්කාලීන ප්රදර්ශනය හා යාවත්කාලීන විසින් කරනු ඇත. ප්රස්ථාර මෑත අතීතයේ සහ කිහිපයක් ඉදිරියට එන පැය (පතුලේ ලේබල් පූර්ණ පැය න) තුළ, මත්පැන් ඔබගේ අන්තර්ගතයට සංවෙදක. රතු ඉර මත්පැන් නීතිමය මට්ටමින් බවයි. ඔබ රේඛීය ප්රස්ථාර හා බාර්එක සටහන අතර තෝරා ගත හැකිය.</string>
+<string name="information_6">ඔබේ (පසුගිය වාර්තා එකතු) මත්පැන් ඔබගේ දෛනික පරිභෝජනය සොයා හා මුළු සහ සාමාන්ය පරිභෝජනය ලෙස සංඛ්යා ලේඛන සමාලෝචනය කල හැක. එක් එක් දින සටහන එක් බාර් නියෝජනය වේ, වම් පැත්තේ ලේබලය (ඒකක 1 = පිරිසිදු මත්පැන් මිලි ලීටර් 10) මත්පැන් පානය ඒකක බවයි. ඊතල ඔබට වෙනත් මාස සැරිසැරීමට ඉඩ ඇත.</string>
+<string name="information_7">රූප සටහනේ සමීප මත්පැන් සහ බාර්, වර්ණ මට්ටමට පිහිටි තිතක්, ක වර්ණ, මත්පැන් ඔබේ වත්මන් මට්ටම අනුව, වෙනස් කරනු ඇත. වර්ණ අර්ථය පහත විස්තර කර ඇත.</string>
+<string name="information_8">මෙම යෙදුම ඔබගේ සත්ය (නියම) ලේ මත්පැන් පෙළ, නමුත් ගණිතමය සූත්රයකට මත පදනම් වූ ඇස්තමේන්තු ලබා දෙන්නේ නැත. ලේ මත්පැන් අන්තර්ගත සූත්රය ඇතුළත් නොවන සාධක, විවිධාකාර මත රඳා පවතී. ලේ මත්පැන් ඔබේ සැබෑ මට්ටමේ මෙම යෙදුම මගින් සපයන වටිනාකම වෙනස් විය හැක.</string>
+<string name="legal_alc">ඔබේ රටේ / පළාතේ නීති රුධිර මත්පැන් අන්තර්ගත</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">ඔබ නීත්යානුකූලව කළ හැක් සක් වේ</string>
+<string name="legal_time">ඔබ විසින් නීත්යානුකූලව කළ හැක් සක් වනු ඇත</string>
+<!-- chart made of lines -->
+<string name="line_chart">රේඛීය ප්රස්ථාර</string>
+<string name="low_calory">(නීති පහත දක්වා ඇති) අඩු මට්ටමක</string>
+<string name="male">පිරිමි</string>
+<string name="medium_calory">(නීති පමණ) මධ්යම මට්ටමේ</string>
+<string name="menu_title">මෙනුව</string>
+<string name="month">මාසික</string>
+<string name="month_graph_title">මාසික පරිභෝජනය</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">මාසික සංඛ්යා ලේඛන</string>
+<string name="new_record">ඔබ සියලු ඇතුළත් කිරීම් ඉවත් හා නව ලියාපදිංචි ආරම්භ කිරීමට ඔබට අවශ්යද?</string>
+<string name="no_data">තෝරාගත් මාසය සඳහා මෙයට දත්ත</string>
+<string name="num_days">මත්පැන් පරිභෝජනය සමග දින ගණන</string>
+<string name="ok">හරි හරී</string>
+<string name="opinion">ජනමත</string>
+<string name="percent_alcohol">මත්පැන් ප්රතිශතය</string>
+<string name="pick_amount">පරිමාව</string>
+<string name="pick_type">බීම වර්ගය</string>
+<!-- app being short for application -->
+<string name="rate_app">මෙම යෙදුම අගයන්න!</string>
+<string name="save_close">සුරකින්න හා සමීප</string>
+<string name="settings">සැකසුම්</string>
+<string name="sex">ඔබේ ලිංගික</string>
+<string name="sober_time">ඔබ සම්පූර්ණයෙන් ද සන්සුන් වනු ඇත</string>
+<string name="standard_unit">(ඒකකය = පිරිසිදු මත්පැන් 10G)</string>
+<string name="that_is">බව ය</string>
+<string name="total_consumption">මුළු පරිභෝජනය</string>
+<string name="type_name">මෙම පානය ලේබලය</string>
+<string name="unit">පරිමාවෙහි ඒකකය</string>
+<string name="veryhigh_calory">(බොහෝ නීතිමය ඉහත) ඉතා ඉහළ මට්ටමේ</string>
+<string name="warning">අවවාදයයි!</string>
+<string name="weight">ඔබේ බර</string>
+<string name="choose_theme">වර්ණ තෝරන්න</string>
+<string name="wine">වයින්</string>
+<string name="light">දීප්තිමත්</string>
+<string name="dark">අඳුරු</string>
+<string name="promile">එක්-සැතපුම්</string>
+<string name="alc_level">මත්පැන් මට්ටමේ</string>
+<string name="stats">සංඛ්යා ලේඛන</string>
+<string name="def_name">පෙරනිමි නම</string>
+<string name="ad_phrase1">ඔබේ දුරකථන සමග මත්පැන් මට්ටමේ තහවුරු කරන්න.</string>
+<string name="ad_phrase2">ඔබ නීත්යානුකූලව පදවන්න පුළුවන් නම් පරීක්ෂා කරන්න.</string>
+<string name="ad_phrase3">පෙරනිමි නම</string>
+<string-array name="beer_amounts">
+<item>ඉතා කුඩා වීදුරු</item>
+<item>කුඩා වීදුරු</item>
+<item>මධ්ය වීදුරු</item>
+<item>විශාල වීදුරු</item>
+<item>ඉතා විශාල වීදුරු</item>
+</string-array>
+<string-array name="units">
+<item>මෙට්රික් - මිලි ලීටර් (mL)</item>
+<item>පැන් අවුන්සයක් එක්සත් ජනපදයේ (FL දිගුකාලීනව)</item>
+<item>පැන් අවුන්සයක් ඉම්පීරියල් (FL දිගුකාලීනව)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>බියර්</item>
+<item>වයින්</item>
+<item>වොඩ්කා හෝ මත්පැන්</item>
+<item>කොක්ටේල්</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>ඉතා කුඩා වීදුරු</item>
+<item>කුඩා වීදුරු</item>
+<item>මධ්ය වීදුරු</item>
+<item>විශාල වීදුරු</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>කුඩා වීදුරු</item>
+<item>මධ්ය වීදුරු</item>
+<item>විශාල වීදුරු</item>
+</string-array>
+</resources>

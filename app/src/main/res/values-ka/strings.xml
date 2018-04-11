@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">სანიშნეს სასმელი</string>
+<string name="add_favorite">სანიშნეს ჩადება</string>
+<string name="age">თქვენი ასაკი</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">ყველა ნომრები სტანდარტის სასმელი ერთეული</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">შინაარსი ალკოჰოლის სისხლში</string>
+<string name="avg_consumption">საშუალო დღიური მოხმარება</string>
+<string name="bac_graph">ჩარტში თქვენი დონის ალკოჰოლის</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">სქემა</string>
+<string name="cancel">გაუქმება</string>
+<string name="change_time">დროის შეცვლა</string>
+<string name="charts">თქვენი მიმდინარე დონის ალკოჰოლის</string>
+<string name="clear_all">ნათელი ყველა და ახალი რეესტრის</string>
+<!-- Short from Configuration -->
+<string name="config">კონფიგურაცია</string>
+<string name="consumption">თქვენი მოხმარება</string>
+<string name="consumption_time">დრო, მოხმარების</string>
+<string name="current_alc">თქვენი მიმდინარე დონის ალკოჰოლის</string>
+<string name="default_name">მითითებულინაგულისხმევი სახელი</string>
+<string name="default_percent">Default პროცენტული</string>
+<string name="del_item">გინდათ წაშლა?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">რეესტრის მოხმარება</string>
+<string name="diary_added">სასმელი დაემატა თქვენს რეესტრის</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">ყოველთვიური სტატისტიკა</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">თქვენი მიმდინარე რეესტრის მოხმარება</string>
+<string name="dont_drive">არასოდეს მართოს ალკოჰოლის,</string>
+<string name="drink_label">Label სასმელი</string>
+<string name="edit_name">რედაქტირება სახელი</string>
+<string name="exit">Exit</string>
+<string name="favorites">დამატება</string>
+<string name="favorite_hint">ძიება ჩადება</string>
+<string name="fav_added">სასმელი დაემატა დამატება</string>
+<string name="feedback">თქვენი აზრი</string>
+<string name="feedback_prompt">Hello, გსურთ გამოგვიგზავნოთ თქვენი აზრით, ასე, რომ ჩვენ შეიძლება გაუმჯობესდეს ამ განაცხადს, თქვენ?</string>
+<string name="female">ქალი</string>
+<string name="fully_sober">თქვენ ხართ სრულად ფხიზელი</string>
+<string name="go_to_menu">მიიღოს და დახურვა</string>
+<string name="height">თქვენი სიმაღლე</string>
+<string name="help">დახმარება</string>
+<!-- app being short for application -->
+<string name="help_translate">თარგმნე ეს პროგრამა</string>
+<string name="high_calory">მაღალი დონის (ზემოთ იურიდიული)</string>
+<string name="info">ინფორმაცია</string>
+<string name="information_1">წასვლა პარამეტრების და შეიყვანოთ თქვენი მონაცემები: წონა, sex და იურიდიული content ალკოჰოლის სისხლში, ხოლო მართვის თქვენს ქვეყანაში ან პროვინციაში. შენახვა და ახლოს.</string>
+<string name="information_2">ყოველ ჯერზე, როდესაც თქვენ მოიხმარენ სასმელი, თქვენ უნდა დაამატოთ ეს თქვენი რეესტრის მოხმარება. თქვენ შეგიძლიათ დააყენოთ ტიპი, მოცულობა და ალკოჰოლის პროცენტული შემცველობის თითოეული სასმელი. ასევე შეგიძლიათ შეიყვანოთ დრო, მოხმარების, იყოს იგი არის მითითებული, რომ მიმდინარე დრო. კოქტეილები, თქვენ უნდა შევიდეს მხოლოდ თანხის არაყი (ან სხვა ლიქიორებისა), რომელიც შეიცავს ამ სასმელს.</string>
+<string name="information_3">დავაჩქაროთ პროცესი, შეგიძლიათ შეინახოთ სასმელების ჩადება საქაღალდეში, სახელწოდებით არჩევანი. მას შემდეგ, რაც სასმელი შენახული ჩადება, შეგიძლიათ დაამატოთ ეს თქვენი რეესტრის მოხმარება, მხოლოდ ერთი დაჭერით.</string>
+<string name="information_4">აქ თქვენ შეგიძლიათ განიხილოს და შეცვალოს თქვენი მიმდინარე რეესტრის მოხმარება. დაჭერით \ "info \" ღილაკს, თქვენ შეძლებთ განიხილავს დეტალები არჩეული სასმელი და დაამატოთ ეს თქვენი რეესტრის ერთხელ.</string>
+<string name="information_5">თქვენი მიმდინარე დონის ალკოჰოლის მიერ ნაჩვენები და განახლება რეალურ დროში, ერთად დროში საჭიროა მიიღოთ სრულად ფხიზელი და იურიდიულად ფხიზელი (შესაბამისად სამართლებრივი დონის ალკოჰოლის მართვის დროს თქვენს ქვეყანაში ან პროვინცია). სქემა ვიზუალურად თქვენი შინაარსის ალკოჰოლის, უკანასკნელ წარსული და რამდენიმე მომავალი საათი (ეტიკეტები ბოლოში მიუთითებს სრული საათი). წითელი ხაზი მიუთითებს სამართლებრივი დონის ალკოჰოლის. თქვენ შეგიძლიათ აირჩიოთ შორის ხაზის სქემა და ბარი ჩარტში.</string>
+<string name="information_6">თქვენი კვალი თქვენს ყოველდღიურ ალკოჰოლის (შეგროვდა წარსული ჩანაწერები) და განხილვის სტატისტიკა, როგორიცაა საერთო და საშუალო მოხმარება. ყოველ დღე წარმოდგენილია ერთი ბარი გრაფიკი, label მარცხენა მიუთითებს ერთეულების ალკოჰოლის მოხმარება (1 ერთეული = 10 მლ სუფთა სპირტი). Arrows მოგცემთ ნავიგაცია სხვა თვეებში.</string>
+<string name="information_7">ფერი dot, ახლოს მდებარეობს დონის ალკოჰოლის და ფერის ბარები სქემა, იქნება იცვლება, შესაბამისად თქვენი არსებული დონის ალკოჰოლის. მნიშვნელობა ფერები განმარტებულია ქვემოთ.</string>
+<string name="information_8">ეს პროგრამა არ ითვალისწინებს თქვენი ფაქტობრივი (real) დონის ალკოჰოლის სისხლში, მაგრამ შეფასების საფუძველზე მათემატიკური ფორმულა. შინაარსი ალკოჰოლის სისხლში დამოკიდებულია სხვადასხვა ფაქტორზე, რომლებიც არ შედის ფორმულა. თქვენი ფაქტობრივი დონის ალკოჰოლის სისხლში შეიძლება განსხვავდებოდეს ღირებულება მოწოდებული ამ განცხადების.</string>
+<string name="legal_alc">იურიდიული სისხლში ალკოჰოლის შემცველობა თქვენს ქვეყანაში / პროვინცია</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">თქვენ ხართ იურიდიულად ფხიზელი</string>
+<string name="legal_time">თქვენ იქნება იურიდიულად ფხიზელი at</string>
+<!-- chart made of lines -->
+<string name="line_chart">ხაზის სქემა</string>
+<string name="low_calory">დაბალი დონე (ქვემოთ იურიდიული)</string>
+<string name="male">მამრობითი</string>
+<string name="medium_calory">საშუალო დონის (დაახლოებით იურიდიული)</string>
+<string name="menu_title">მენიუ</string>
+<string name="month">თვის</string>
+<string name="month_graph_title">თვიური მოხმარებიდან</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">ყოველთვიური სტატისტიკა</string>
+<string name="new_record">არ გსურთ გარკვევა ყველა მასალა და ახალი რეესტრის?</string>
+<string name="no_data">არ მოიპოვება მონაცემები შერჩეული თვის</string>
+<string name="num_days">დღეთა რიცხვი ალკოჰოლის</string>
+<string name="ok">Okay</string>
+<string name="opinion">აზრი</string>
+<string name="percent_alcohol">ალკოჰოლის პროცენტული შემცველობის</string>
+<string name="pick_amount">მოცულობა</string>
+<string name="pick_type">ტიპის სასმელი</string>
+<!-- app being short for application -->
+<string name="rate_app">შეფასება ამ განაცხადს,</string>
+<string name="save_close">შენახვა და დახურვა</string>
+<string name="settings">პარამეტრები</string>
+<string name="sex">თქვენი sex</string>
+<string name="sober_time">თქვენ სრულად იქნება ფხიზელი at</string>
+<string name="standard_unit">(Unit = 10g სუფთა სპირტი)</string>
+<string name="that_is">რომ არის</string>
+<string name="total_consumption">საერთო მოხმარების</string>
+<string name="type_name">Label სასმელი</string>
+<string name="unit">მოცულობის ერთეულია</string>
+<string name="veryhigh_calory">ძალიან მაღალი დონის (ძალიან ზემოთ იურიდიული)</string>
+<string name="warning">გაფრთხილება!</string>
+<string name="weight">თქვენი წონა</string>
+<string name="choose_theme">აირჩიეთ ფერი</string>
+<string name="wine">ღვინო</string>
+<string name="light">ნათელი</string>
+<string name="dark">მუქი</string>
+<string name="promile">Permile</string>
+<string name="alc_level">დონის ალკოჰოლის</string>
+<string name="stats">სტატისტიკა</string>
+<string name="def_name">რა სახელი</string>
+<string-array name="beer_amounts">
+<item>ძალიან მცირე მინის</item>
+<item>პატარა მინის</item>
+<item>საშუალო მინის</item>
+<item>დიდი მინის</item>
+<item>ძალიან დიდი მინის</item>
+</string-array>
+<string-array name="units">
+<item>მეტრული - milliliters (მლ)</item>
+<item>სითხის უნცია აშშ (fl oz)</item>
+<item>სითხის უნცია Imperial (fl oz)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>ლუდი</item>
+<item>ღვინო</item>
+<item>არყის ან Liquor</item>
+<item>Cocktail</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>ძალიან მცირე მინის</item>
+<item>პატარა მინის</item>
+<item>საშუალო მინის</item>
+<item>დიდი მინის</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>პატარა მინის</item>
+<item>საშუალო მინის</item>
+<item>დიდი მინის</item>
+</string-array>
+</resources>

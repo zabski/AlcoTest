@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Afegir beguda</string>
+<string name="add_favorite">Afegir a favorits</string>
+<string name="age">La seva edat</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">Tots els números en unitats de beguda estàndard</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">Contingut d\'alcohol a la sang</string>
+<string name="avg_consumption">El consum mitjà diari</string>
+<string name="bac_graph">Gràfic del seu nivell d\'alcohol</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">Diagrama</string>
+<string name="cancel">Cancel·la</string>
+<string name="change_time">Canviar temps</string>
+<string name="charts">El seu nivell actual d\'alcohol</string>
+<string name="clear_all">Esborrar tot i començar nou registre</string>
+<!-- Short from Configuration -->
+<string name="config">Configuració</string>
+<string name="consumption">El seu consum</string>
+<string name="consumption_time">Temps de consum</string>
+<string name="current_alc">El seu nivell actual d\'alcohol</string>
+<string name="default_name">S\'estableix en el nom per defecte</string>
+<string name="default_percent">Percentatge predeterminat</string>
+<string name="del_item">Vols eliminar el punt?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">Registre de consum</string>
+<string name="diary_added">Beu afegit al seu registre</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">Estadístiques mensuals</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">El seu registre actual de consum</string>
+<string name="dont_drive">Mai condueixi després d\'haver begut alcohol!</string>
+<string name="drink_label">Etiqueta de la beguda</string>
+<string name="edit_name">Edita nom</string>
+<string name="exit">Sortida</string>
+<string name="favorites">Favorits</string>
+<string name="favorite_hint">Cercar en els favorits</string>
+<string name="fav_added">Beguda afegit a favorits</string>
+<string name="feedback">Donar la seva opinió</string>
+<string name="feedback_prompt">Hola, t\'agradaria que ens enviï la seva opinió, perquè puguem millorar aquesta aplicació per a vostè?</string>
+<string name="female">Femení</string>
+<string name="fully_sober">Vostè és totalment sobri</string>
+<string name="go_to_menu">Acceptar i tancar</string>
+<string name="height">La seva altura</string>
+<string name="help">Ajuda</string>
+<!-- app being short for application -->
+<string name="help_translate">Ajudeu a traduir aquesta aplicació</string>
+<string name="high_calory">Nivell alt (per sobre legal)</string>
+<string name="info">Informació</string>
+<string name="information_1">Anar a la configuració i introdueixi les seves dades: pes, el sexe i el contingut legal d\'alcohol a la sang durant la conducció al seu país o província. Desa i tanca.</string>
+<string name="information_2">Cada vegada, quan es consumeix una beguda, vostè ha de afegir al seu registre de consum. Podeu establir el tipus, volum i percentatge d\'alcohol per cada copa. També podeu introduir el temps de consum, per defecte s\'estableix a l\'hora actual. Per gaudir de còctels, ha d\'introduir la quantitat de vodka (o altres licors), que està contingut en la beguda.</string>
+<string name="information_3">Per accelerar el procés, pot guardar les begudes a la carpeta de favorits, amb un nom que heu triat. Després d\'una beguda es guarda en favorits, el podeu afegir al seu registre de consum, amb només un clic.</string>
+<string name="information_4">Aquí pot revisar i modificar el seu registre actual de consum. En fer clic a \ "informació \" botó, vostè serà capaç de revisar els detalls de la beguda escollida i afegir al seu registre de nou.</string>
+<string name="information_5">El seu nivell actual d\'alcohol per mostrada i actualitzada en temps real, juntament amb període de temps necessari per aconseguir totalment sobri i legalment sobri (segons el nivell legal d\'alcohol durant la conducció del seu país o província). El gràfic visualitza el seu contingut d\'alcohol, durant el passat recent i algunes pròximes hores (les etiquetes a la part inferior indiquen hores completes). La línia vermella indica el nivell legal d\'alcohol. Es pot triar entre la línia gràfica i diagrama de barres.</string>
+<string name="information_6">El teu pot rastrejar el seu consum diari d\'alcohol (obtinguda dels registres anteriors) i les estadístiques de revisió, com ara el consum total i mitjana. Cada dia està representat per una barra de la gràfica, l\'etiqueta de l\'esquerra indiquen unitats d\'alcohol consumida (1 unitat = 10 mil·lilitres d\'alcohol pur). Fletxes li permetrà navegar a altres mesos.</string>
+<string name="information_7">Color del punt, que és a prop del nivell d\'alcohol i colors de barres en el diagrama, canviarà, d\'acord al seu nivell actual d\'alcohol. El significat dels colors s\'explica a continuació.</string>
+<string name="information_8">Aquesta aplicació no proporciona el seu nivell real (real) d\'alcohol a la sang, però una estimació basada en una fórmula matemàtica. Contingut d\'alcohol a la sang depèn de la varietat de factors, que no estan inclosos en la fórmula. El seu nivell actual d\'alcohol a la sang pot ser diferent del valor que ofereix aquesta aplicació.</string>
+<string name="legal_alc">Legal alcohol a la sang contingut al seu país / província</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">Vostè és legalment sobri</string>
+<string name="legal_time">Vostè serà legalment sobri</string>
+<!-- chart made of lines -->
+<string name="line_chart">Gràfic de línies</string>
+<string name="low_calory">Baix nivell (per sota legal)</string>
+<string name="male">Masculí</string>
+<string name="medium_calory">Nivell mitjà (al voltant legal)</string>
+<string name="menu_title">Menú</string>
+<string name="month">Mes</string>
+<string name="month_graph_title">Consum mensual</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">Estadístiques mensuals</string>
+<string name="new_record">Vols esborrar totes les entrades i començar nou registre?</string>
+<string name="no_data">No hi ha dades disponibles per al mes seleccionat</string>
+<string name="num_days">Nombre de dies amb el consum d\'alcohol</string>
+<string name="ok">Bé</string>
+<string name="opinion">Opinió</string>
+<string name="percent_alcohol">Percentatge d\'alcohol</string>
+<string name="pick_amount">Volum</string>
+<string name="pick_type">Tipus de beguda</string>
+<!-- app being short for application -->
+<string name="rate_app">Valoreu aquesta aplicació!</string>
+<string name="save_close">Deseu i tanqueu</string>
+<string name="settings">Ajustos</string>
+<string name="sex">El seu sexe</string>
+<string name="sober_time">Vostè serà totalment sobri</string>
+<string name="standard_unit">(Unitat = 10 grams d\'alcohol pur)</string>
+<string name="that_is">És a dir, en</string>
+<string name="total_consumption">El consum total</string>
+<string name="type_name">Etiqueta de la beguda</string>
+<string name="unit">Unitat de volum</string>
+<string name="veryhigh_calory">Molt alt nivell (molt per sobre legal)</string>
+<string name="warning">Advertència!</string>
+<string name="weight">El seu pes</string>
+<string name="choose_theme">Tria el color</string>
+<string name="wine">Vi</string>
+<string name="light">Brillant</string>
+<string name="dark">Fosc</string>
+<string name="promile">Permile</string>
+<string name="alc_level">Nivell d\'alcohol</string>
+<string name="stats">Estadística</string>
+<string name="def_name">Nom per defecte</string>
+<string-array name="beer_amounts">
+<item>Molt petit vas</item>
+<item>Petit vidre</item>
+<item>Vidre Medi</item>
+<item>Got gran</item>
+<item>Molt got gran</item>
+</string-array>
+<string-array name="units">
+<item>Mètriques - mil·lilitres (ml)</item>
+<item>Unça fluïda nord-americà (fl oz)</item>
+<item>Unça de líquid Imperial (fl oz)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>Cervesa</item>
+<item>Vi</item>
+<item>Vodka o licor</item>
+<item>Còctel</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Molt petit vas</item>
+<item>Petit vidre</item>
+<item>Vidre Medi</item>
+<item>Got gran</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Petit vidre</item>
+<item>Vidre Medi</item>
+<item>Got gran</item>
+</string-array>
+</resources>

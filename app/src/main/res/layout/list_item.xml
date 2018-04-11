@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="0dp"     
+    android:gravity="left|center"
+    android:orientation="horizontal"     
+    >
+    
+    <!-- android:background="@layout/button_click"   -->
+    
+<!-- 
+    android:paddingBottom="@dimen/margin_l"
+    android:paddingLeft="0dp"
+    android:paddingTop="@dimen/margin_l"
+     -->
+
+	<!--
+	android:background="@drawable/list_row"
+	android:background="@layout/menu_item"  
+	android:layout_marginLeft="10dp"
+	android:layout_marginRight="10dp">
+
+<selector>
+ <item android:state_pressed="false" -->	
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="0dp"
+    android:background="@drawable/list_row"
+    android:gravity="left|center"
+    android:orientation="horizontal"
+    android:paddingBottom="@dimen/margin_l"
+    android:paddingLeft="0dp"
+    android:paddingTop="@dimen/margin_l"
+     >	
+
+	<ImageView
+		android:id="@+id/img"
+		android:layout_width="@dimen/row_l"
+		android:layout_height="@dimen/row_l"
+		android:layout_marginLeft="@dimen/row_s"
+		android:layout_marginRight="@dimen/margin_l"
+		 />
+	
+
+<TextView android:id="@+id/title"
+	android:layout_width="wrap_content"
+	android:layout_height="@dimen/row_xl"
+	android:textSize="@dimen/text_l"	
+	android:textAppearance="?android:attr/textAppearanceLarge"
+	android:gravity="left|center_vertical"/>
+	<!-- android:textColor="#ffffff" -->
+</LinearLayout>
+<!-- /item>
+ <item android:state_pressed="true" >	
+<LinearLayout 
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/row_xxl"
+    android:layout_marginTop="0dp"
+    android:background="@drawable/green_lt"    
+    android:gravity="left|center"
+    android:orientation="horizontal"
+    android:paddingBottom="@dimen/margin_l"
+    android:paddingLeft="0dp"
+    android:paddingTop="@dimen/margin_l"
+     >	
+
+	<ImageView
+		android:id="@+id/img"
+		android:layout_width="@dimen/row_xl"
+		android:layout_height="@dimen/row_xl"
+		android:layout_marginLeft="@dimen/row_s"
+		android:layout_marginRight="@dimen/margin_l"
+		 />
+	
+
+<TextView android:id="@+id/title"
+	android:layout_width="wrap_content"
+	android:layout_height="@dimen/row_xl"
+	android:textSize="@dimen/text_l"	
+	android:textAppearance="?android:attr/textAppearanceLarge"
+	android:gravity="left|center_vertical"/>
+</LinearLayout>
+</item>
+</selector-->
+</LinearLayout>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">飲料を追加</string>
+<string name="add_favorite">お気に入りに追加</string>
+<string name="age">あなたの年齢</string>
+<string name="all_units">標準ドリンク単位ですべての数字</string>
+<string name="app_name">血液中のアルコールの含有量</string>
+<string name="avg_consumption">毎日の平均消費量</string>
+<string name="bac_graph">アルコールのあなたのレベルのチャート</string>
+<string name="bar_chart">棒グラフ</string>
+<string name="cancel">キャンセル</string>
+<string name="change_time">変更時間</string>
+<string name="charts">アルコールのあなたの現在のレベル</string>
+<string name="clear_all">すべてをクリアし、新しいレジストリを開始</string>
+<string name="config">設定</string>
+<string name="consumption">あなたの消費量</string>
+<string name="consumption_time">消費の時間</string>
+<string name="current_alc">アルコールのあなたの現在のレベルがある</string>
+<string name="default_name">デフォルト名</string>
+<string name="default_percent">デフォルトのパーセンテージ</string>
+<string name="del_item">あなたがアイテムを削除しますか？</string>
+<string name="diary">消費のレジストリ</string>
+<string name="diary_added">飲料は、あなたのレジストリに追加</string>
+<string name="diary_graph">毎月の統計</string>
+<string name="diary_items">消費のあなたの現在のレジストリ</string>
+<string name="dont_drive">酒を飲んだ後ドライブすることはありません！</string>
+<string name="drink_label">飲料のラベル</string>
+<string name="edit_name">編集名</string>
+<string name="exit">出口</string>
+<string name="favorites">お気に入り</string>
+<string name="favorite_hint">お気に入り内の検索</string>
+<string name="fav_added">飲料はお気に入りに追加</string>
+<string name="feedback">あなたの意見を与える</string>
+<string name="feedback_prompt">こんにちは、あなたは私たちがあなたのために、このアプリケーションを改善することができるように、私たちにいくつかのコメントをつける</string>
+<string name="female">女性</string>
+<string name="fully_sober">あなたは完全に冷静です</string>
+<string name="go_to_menu">受け入れ、閉じ</string>
+<string name="height">あなたの身長</string>
+<string name="help">助け</string>
+<string name="help_translate">このアプリケーションを翻訳に役立つ</string>
+<string name="high_calory">ハイレベル（法定上）</string>
+<string name="info">情報</string>
+<string name="information_1">あなたの国や州では運転中の体重、性別、血液中のアルコールの法的内容：あなたのデータを入力する設定に移動。保存して閉じます。</string>
+<string name="information_2">たびに、あなたが飲料を消費するとき、あなたは消費のレジストリに追加する必要があります。あなたは、各飲料の種類、ボリュームとアルコールの割合を設定することができます。それが現在の時刻に設定され、デフォルトではまた、消費の時間を入力することができます。カクテルでは、飲料に含まれているウォッカ（または他の酒）、のちょうど量を入力する必要があります。</string>
+<string name="information_3">プロセスを早めるために、あなたはあなたの選択の名の下に、お気に入りフォルダ内のドリンクを保存することができます。飲料がお気に入りに保存された後、あなただけの1クリックで、消費のレジストリに追加することができます。</string>
+<string name="information_4">ここでは、見直しと消費のあなたの現在のレジストリを変更することができます。クリックする「情報」ボタンで、あなたは選ばれた飲料の詳細を確認して、もう一度あなたのレジストリに追加することができます。</string>
+<string name="information_5">アルコールのあなたの現在のレベルはによって（あなたの国や州では運転中のアルコールの法的レベルに応じて）表示され、完全に冷静かつ合法的に地味な取得するために必要な時間とともに、リアルタイムで更新されます。チャートは、最近の過去、数時間後、今後の（下部のラベルが完全な時間を示す）中のアルコールのコンテンツを、可視化する。赤い線は、アルコールの法的レベルを示します。あなたは、折れ線グラフと棒グラフから選択することができます。</string>
+<string name="information_6">あなたがそのような合計と平均消費量として（過去の記録から収集）アルコールとレビュー統計のあなたの毎日の消費量を追跡することができます。毎日がチャートの1小節で表され、左側のラベルは、消費されたアルコール（1単位=純アルコール10ミリリットル）の単位を示している。矢印は、あなたが他の月に移動できるようになる。</string>
+<string name="information_7">アルコールや棒グラフの棒の色のレベルに近い位置してドットの色は、アルコールのあなたの現在のレベルに応じて、変化するであろう。色の意味について説明する。</string>
+<string name="information_8">このアプリケーションは、あなたの実際の（本当の）血液中のアルコールのレベルが、数学的な式に基づいて推定を提供していません。血液中のアルコールの含有量は、式に含まれていない様々な要因に依存します。血液中のアルコールのあなたの実際のレベルは、このアプリケーションによって提供される値と異なる場合があります。</string>
+<string name="legal_alc">お住まいの国/地域における血中のアルコールの法的レベル</string>
+<string name="legal_sober">あなたが合法的に冷静である</string>
+<string name="legal_time">あなたは、合法的にしらふになります</string>
+<string name="line_chart">折れ線グラフ</string>
+<string name="low_calory">低レベル（法的下）</string>
+<string name="male">男性</string>
+<string name="medium_calory">中レベル（法的まわり）</string>
+<string name="menu_title">メニュー</string>
+<string name="month">月</string>
+<string name="month_graph_title">月間消費量</string>
+<string name="month_stats">毎月の統計</string>
+<string name="new_record">あなたはすべてのエントリを消去して、新しいレジストリを開始したいですか？</string>
+<string name="no_data">選択した月のために利用可能なデータなし</string>
+<string name="num_days">アルコールの消費日数</string>
+<string name="ok">オーケー</string>
+<string name="opinion">意見</string>
+<string name="percent_alcohol">アルコールの割合</string>
+<string name="promile">パーミル</string>
+
+<string name="pick_amount">ボリュームを選択</string>
+<string name="pick_type">飲料の種類を選択します</string>
+<string name="rate_app">このアプリケーションを評価！</string>
+    <string name="remove_ads">広告を削除</string>
+<string name="save_close">保存して閉じます</string>
+<string name="settings">設定</string>
+<string name="sex">あなたのセックス</string>
+<string name="sober_time">あなたは、完全にしらふになります</string>
+<string name="standard_unit">（単位=純アルコール10グラム）</string>
+<string name="that_is">それがである</string>
+<string name="total_consumption">総消費</string>
+<string name="type_name">飲料のラベル</string>
+<string name="unit">容積単位</string>
+<string name="veryhigh_calory">非常に高いレベル（多くの法的上記）</string>
+<string name="warning">警告！</string>
+<string name="weight">あなたの体重</string>
+<string-array name="beer_amounts">
+<item>非常に小さなガラス</item>
+<item>小さなガラス</item>
+<item>メディアグラス</item>
+<item>大きなガラス</item>
+<item>非常に大きなガラス</item>
+</string-array>
+<string-array name="units">
+<item>メトリック - ミリリットル（ml）の</item>
+<item>液量オンスアメリカン（液量オンス）</item>
+<item>液量オンス帝国（液量オンス）</item>
+</string-array>
+<string-array name="drink_types">
+<item>ビール</item>
+<item>ワイン</item>
+<item>ウォッカやリカー</item>
+<item>カクテル</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>非常に小さなガラス</item>
+<item>小さなガラス</item>
+<item>メディアグラス</item>
+<item>大きなガラス</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>小さなガラス</item>
+<item>メディアグラス</item>
+<item>大きなガラス</item>
+</string-array>
+</resources>

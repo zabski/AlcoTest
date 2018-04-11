@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">اضافه آشامیدنی</string>
+<string name="add_favorite">اضافه کردن به علاقه مندی ها</string>
+<string name="age">سن شما</string>
+<string name="all_units">همه شماره های واحد در نوشیدنی استاندارد</string>
+<string name="app_name">محتوای الکل در خون</string>
+<string name="avg_consumption">مصرف متوسط روزانه</string>
+<string name="bac_graph">نمودار سطح خود را از الکل</string>
+<string name="bar_chart">نمودار میلهای</string>
+<string name="cancel">لغو کردن</string>
+<string name="change_time">زمان تغییر</string>
+<string name="charts">سطح فعلی خود را از الکل</string>
+<string name="clear_all">پاک کردن و شروع به رجیستری جدید</string>
+<string name="config">پیکر بندی</string>
+<string name="consumption">مصرف خود را</string>
+<string name="consumption_time">زمان مصرف</string>
+<string name="current_alc">سطح فعلی خود را از الکل است</string>
+<string name="default_name">نام پیش فرض</string>
+<string name="default_percent">درصد پیش فرض</string>
+<string name="del_item">آیا شما می خواهید به حذف آیتم؟</string>
+<string name="diary">رجیستری مصرف</string>
+<string name="diary_added">محصولات غذایی و آشامیدنی به رجیستری شما اضافه</string>
+<string name="diary_graph">آمار ماهانه</string>
+<string name="diary_items">رجیستری فعلی خود را از مصرف</string>
+<string name="dont_drive">پس از نوشیدن الکل هرگز رانندگی!</string>
+<string name="drink_label">برچسب آشامیدنی</string>
+<string name="edit_name">نام ویرایش</string>
+<string name="exit">خروج</string>
+<string name="favorites">مورد علاقه های شما</string>
+<string name="favorite_hint">جستجو در مورد علاقه های شما</string>
+<string name="fav_added">محصولات غذایی و آشامیدنی به علاقه مندی ها اضافه</string>
+<string name="feedback">به نظر شما</string>
+<string name="feedback_prompt">سلام، می خواهم شما را به ما برخی از نظرات را، به طوری که ما می توانیم این برنامه را برای شما را بهبود بخشد؟</string>
+<string name="female">زن</string>
+<string name="fully_sober">شما به طور کامل هوشیار هستند</string>
+<string name="go_to_menu">شرایط و بستن</string>
+<string name="height">ارتفاع خود را</string>
+<string name="help">کمک</string>
+<string name="help_translate">کمک به ترجمه این نرم افزار</string>
+<string name="high_calory">سطح بالا (بالاتر از حقوقی)</string>
+<string name="info">اطلاعات</string>
+<string name="information_1">برو به تنظیمات را وارد کنید اطلاعات خود را: وزن، جنس و محتوای قانونی الکل در خون در هنگام رانندگی در کشور و یا استان خود را. ذخیر و بستن.</string>
+<string name="information_2">هر بار، زمانی که شما یک نوشیدنی مصرف می کنید، باید آن را به رجیستری شما را از مصرف اضافه کنید. شما می توانید نوع، حجم و درصد الکل برای هر آشامیدنی مجموعه. شما همچنین می توانید زمان مصرف را وارد کنید، به طور پیش فرض آن را به زمان جاری تعیین شده است. برای کوکتل، شما باید فقط مقدار آب میوه (یا دیگر سبز) است، که در نوشیدنی حاوی وارد کنید.</string>
+<string name="information_3">برای تسریع این روند، شما می توانید نوشیدنی را در پوشه مورد علاقه های شما تحت یک نام انتخاب خود را ذخیره کنید. پس از یک نوشیدنی در مورد علاقه های شما ذخیره شده است، شما می توانید آن را به رجیستری شما را از مصرف توسط تنها با یک کلیک اضافه،.</string>
+<string name="information_4">در اینجا شما می توانید بررسی و اصلاح رجیستری فعلی خود را از مصرف. با کلیک روی "اطلاعات" را فشار دهید، شما قادر خواهید بود تا به بررسی جزئیات نوشیدنی انتخاب و آن را به رجیستری اضافه کنید دوباره خواهد بود.</string>
+<string name="information_5">سطح فعلی خود را از الکل های نمایش داده و به روز را در زمان واقعی، همراه با دوره از زمان مورد نیاز برای دریافت به طور کامل هوشیار و از نظر قانونی هوشیار (با توجه به سطح قانونی از الکل در هنگام رانندگی در کشور و یا استان خود را). نمودار تجسم مطالب خود را از الکل، در طول سالهای اخیر و چند ساعت آینده (برچسب در پایین نشان می دهد ساعت کامل). خط قرمز نشان می دهد سطح قانونی از الکل. شما می توانید بین خط نمودار و نمودار را انتخاب کنید.</string>
+<string name="information_6">شما می توانید مصرف روزانه خود را از الکل (جمع آوری شده از سوابق گذشته) و آمار بررسی مصرف کل و متوسط ردیابی. هر روز با یک نوار از نمودار نشان داده شده، برچسب در سمت چپ نشان می دهد واحد الکل مصرف (1 واحد = 10 میلی لیتر از الکل خالص). فلش به شما اجازه به دیگر ماه حرکت.</string>
+<string name="information_7">رنگ نقطه، نزدیک به سطح الکل و رنگ میله در نمودار، تغییر خواهد شد، با توجه به سطح فعلی خود را از الکل است. معنای رنگ ها در زیر توضیح داده شده است.</string>
+<string name="information_8">این نرم افزار هیچ واقعی (واقعی) در سطح خود را از الکل در خون است، اما برآورد بر اساس یک فرمول ریاضی ارائه نمی دهد. محتوای الکل در خون بستگی به عوامل مختلف، که در فرمول گنجانده شده است. سطح واقعی خود را از الکل در خون ممکن است از ارزش ارائه شده توسط این نرم افزار متفاوت است.</string>
+<string name="legal_alc">سطح حقوقی از الکل در خون در کشور / استان شما</string>
+<string name="legal_sober">شما از نظر قانونی هوشیار هستند</string>
+<string name="legal_time">شما به صورت قانونی در هوشیار</string>
+<string name="line_chart">خط نمودار</string>
+<string name="low_calory">سطح پایین (زیر حقوقی)</string>
+<string name="male">نر</string>
+<string name="medium_calory">سطح متوسط (حدود قانونی)</string>
+<string name="menu_title">منو</string>
+<string name="month">ماه</string>
+<string name="month_graph_title">مصرف ماهانه</string>
+<string name="month_stats">آمار ماهانه</string>
+<string name="new_record">آیا شما می خواهید برای پاک کردن مطالب و شروع به رجیستری جدید؟</string>
+<string name="no_data">هیچ داده ای در دسترس برای انتخاب ماه</string>
+<string name="num_days">تعداد روز با مصرف الکل</string>
+<string name="ok">خوب</string>
+<string name="opinion">نظر</string>
+<string name="percent_alcohol">درصد الکل</string>
+<string name="pick_amount">حجم را انتخاب کنید</string>
+<string name="pick_type">نوع نوشیدنی را انتخاب کنید</string>
+<string name="rate_app">رای دادن به این برنامه!</string>
+<string name="save_close">ذخیر و بستن</string>
+<string name="settings">تنظیمات</string>
+<string name="sex">جنس خود</string>
+<string name="sober_time">شما به طور کامل در هوشیار</string>
+<string name="standard_unit">(واحد = 10 گرم الکل خالص)</string>
+<string name="that_is">است که در</string>
+<string name="total_consumption">کل مصرف</string>
+<string name="type_name">برچسب آشامیدنی</string>
+<string name="unit">واحد حجم</string>
+<string name="veryhigh_calory">سطح بسیار بالا (خیلی بالا قانونی)</string>
+<string name="warning">هشدار!</string>
+<string name="weight">وزن شما</string>
+<string-array name="beer_amounts">
+<item>شیشه ای بسیار کوچک</item>
+<item>شیشه ای کوچک</item>
+<item>شیشه ای متوسط</item>
+<item>شیشه ای بزرگ</item>
+<item>شیشه ای بسیار بزرگ</item>
+</string-array>
+<string-array name="units">
+<item>متریک - میلی لیتر (میلی لیتر)</item>
+<item>آمریکا در هر اونس مایع</item>
+<item>هر اونس مایع های امپریالیستی (اونس FL)</item>
+</string-array>
+<string-array name="drink_types">
+<item>آبجو</item>
+<item>شراب</item>
+<item>آب کلم و یا مشروب</item>
+<item>کوکتل</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>شیشه ای بسیار کوچک</item>
+<item>شیشه ای کوچک</item>
+<item>شیشه ای متوسط</item>
+<item>شیشه ای بزرگ</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>شیشه ای کوچک</item>
+<item>شیشه ای متوسط</item>
+<item>شیشه ای بزرگ</item>
+</string-array>
+</resources>

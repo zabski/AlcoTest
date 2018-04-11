@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <!-- One way to define custom colors -->
+    
+    <color name="aero_blue">#7CB9E8</color>
+    <color name="egg_shell">#F0EAD6</color>
+    <color name="black">#000000</color>
+    <!-- 
+    <color name="blue_dk">#7794b6fe</color>
+	<color name="blue_lt">#77c4d5ff</color>
+	<color name="wine">#c2080d</color>
+	--> 
+    <color name="white">#FFFFFF</color>
+    <color name="ewhite">#99E0E0E0</color>
+    <color name="awhite">#99F7F7F7</color>
+    <color name="ecru">#C2B280</color>
+    <color name="denim">#1560BD</color>
+    <color name="azure">#007FFF</color>
+    <color name="baby_blue">#89CFF0</color>
+    <color name="sky_blue">#77B5FE</color>
+    <color name="ash_grey">#B2BEB5</color>
+    <color name="cool_grey">#8C92AC</color>
+    <color name="lt_grey">#AAAAAA</color>
+    <color name="beau_blue">#BCD4E6</color>
+    <color name="forest_green">#228B22</color>
+    <color name="light_green">#90EE90</color>    
+    
+    <color name="gray">#7A7A7A</color>
+    <color name="gray_dk">#333333</color>
+    <color name="gray_ltd">#C0C0C0</color>
+    <color name="gray_lte">#D0D0D0</color>
+    <color name="gray_lt">#E0E0E0</color>
+    <color name="background">#0044AA</color>
+    <color name="bluelight">#449DEF</color>
+    <color name="bluedark">#2F6699</color>
+    <color name="greenlight">#70C656</color>
+    <color name="greendark">#53933F</color>
+    <color name="orangelight">#F3AE1B</color>
+    <color name="orangedark">#BB6008</color>
+    
+    <color name="violet">#FF00FF</color>
+    <color name="blue">#0000FF</color>
+    <color name="green">#00FF00</color>
+    <color name="yellow">#FFFF00</color>
+    <color name="orange">#FF8800</color>
+    <color name="red">#FF0000</color>
+    
+    <color name="info_title">#000000</color>
+    <color name="info_text">@color/black</color>
+    <color name="bkg_lt">#90FFFFFF</color>
+    <color name="bkg_dk">#33555555</color>
+    
+    <color name="wine_dk">#740508</color>
+
+    <color name="darker">#33000000</color>
+    <color name="lighter">#33FFFFFF</color>
+    
+</resources>

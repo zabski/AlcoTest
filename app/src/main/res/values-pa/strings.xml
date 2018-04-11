@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">ਪੀਣ ਨੂੰ ਸ਼ਾਮਲ ਕਰੋ</string>
+<string name="add_favorite">ਮਨਪਸੰਦ ਵਿੱਚ ਜੋੜੋ</string>
+<string name="age">ਤੁਹਾਡੀ ਉਮਰ</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">ਮਿਆਰੀ ਪੀਣ ਨੂੰ ਇਕਾਈ ਵਿੱਚ ਸਾਰੇ ਨੰਬਰ</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">ਖੂਨ ਵਿੱਚ ਸ਼ਰਾਬ ਦੀ ਸਮੱਗਰੀ</string>
+<string name="avg_consumption">ਔਸਤ ਰੋਜ਼ਾਨਾ ਦੀ ਖਪਤ</string>
+<string name="bac_graph">ਸ਼ਰਾਬ ਦੇ ਆਪਣੇ ਪੱਧਰ ਦੀ ਚਾਰਟ</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">ਚਿੱਤਰ</string>
+<string name="cancel">ਰੱਦ ਕਰੋ</string>
+<string name="change_time">Change ਵਾਰ</string>
+<string name="charts">ਸ਼ਰਾਬ ਦੀ ਤੁਹਾਡੀ ਮੌਜੂਦਾ ਪੱਧਰ ਦੇ</string>
+<string name="clear_all">ਸਭ ਨੂੰ ਸਾਫ ਅਤੇ ਨਵ ਰਜਿਸਟਰੀ ਸ਼ੁਰੂ</string>
+<!-- Short from Configuration -->
+<string name="config">ਸੰਰਚਨਾ</string>
+<string name="consumption">ਤੁਹਾਡਾ ਖਪਤ</string>
+<string name="consumption_time">ਖਪਤ ਦੇ ਟਾਈਮ</string>
+<string name="current_alc">ਸ਼ਰਾਬ ਦੀ ਤੁਹਾਡੀ ਮੌਜੂਦਾ ਪੱਧਰ ਦੇ</string>
+<string name="default_name">ਨਾਮ ਨੂੰ ਮੂਲ ਸੈੱਟ ਕਰੋ</string>
+<string name="default_percent">ਮੂਲ ਪ੍ਰਤੀਸ਼ਤਤਾ</string>
+<string name="del_item">ਤੁਹਾਨੂੰ ਇਕਾਈ ਨੂੰ ਹਟਾਉਣਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">ਖਪਤ ਦੀ ਰਜਿਸਟਰੀ</string>
+<string name="diary_added">ਆਪਣੇ ਰਜਿਸਟਰੀ ਨੂੰ ਸ਼ਾਮਿਲ ਪੀਓ</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">ਮਾਸਿਕ ਅੰਕੜੇ</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">ਖਪਤ ਦੇ ਤੁਹਾਡਾ ਮੌਜੂਦਾ ਰਜਿਸਟਰੀ</string>
+<string name="dont_drive">ਸ਼ਰਾਬ ਪੀਣ ਦੇ ਬਾਅਦ ਗੱਡੀ ਕਦੇ ਨਾ!</string>
+<string name="drink_label">ਪੀਣ ਨੂੰ ਦੇ ਲੇਬਲ</string>
+<string name="edit_name">ਸੋਧ ਦਾ ਨਾਮ</string>
+<string name="exit">ਨਿਕਾਸ</string>
+<string name="favorites">ਮਨਪਸੰਦ</string>
+<string name="favorite_hint">ਮਨਪਸੰਦ ਵਿੱਚ ਖੋਜ</string>
+<string name="fav_added">ਪੀਓ ਮਨਪਸੰਦ ਸ਼ਾਮਿਲ ਕੀਤਾ ਗਿਆ ਹੈ</string>
+<string name="feedback">ਤੁਹਾਡੀ ਰਾਏ ਦੇ ਦਿਓ</string>
+<string name="feedback_prompt">ਹੈਲੋ, ਤੁਹਾਨੂੰ ਸਾਨੂੰ ਤੁਹਾਡੇ ਲਈ ਇਸ ਅਰਜ਼ੀ ਨੂੰ ਸੁਧਾਰ ਸਕਦਾ ਹੈ, ਜੋ ਕਿ ਇਸ ਲਈ, ਇਸ ਲਈ ਸਾਨੂੰ ਆਪਣੇ ਰਾਏ ਭੇਜਣ ਲਈ ਚਾਹੁੰਦੇ ਹੋ?</string>
+<string name="female">ਔਰਤ</string>
+<string name="fully_sober">ਤੁਹਾਨੂੰ ਪੂਰੀ ਦੇਣੇ ਹਨ</string>
+<string name="go_to_menu">ਮਨਜ਼ੂਰ ਹੈ ਅਤੇ ਬੰਦ ਕਰੋ</string>
+<string name="height">ਤੁਹਾਡਾ ਉਚਾਈ</string>
+<string name="help">ਮਦਦ ਕਰੋ</string>
+<!-- app being short for application -->
+<string name="help_translate">ਇਸ ਕਾਰਜ ਨੂੰ ਅਨੁਵਾਦ ਕਰਨ</string>
+<string name="high_calory">ਉੱਚ ਪੱਧਰ ਦੇ (ਕਾਨੂੰਨੀ ਉਪਰ)</string>
+<string name="info">ਜਾਣਕਾਰੀ</string>
+<string name="information_1">ਤੁਹਾਡੇ ਦੇਸ਼ ਜ ਸੂਬੇ ਵਿਚ ਗੱਡੀ ਭਾਰ, ਸੈਕਸ ਅਤੇ ਖੂਨ ਵਿੱਚ ਸ਼ਰਾਬ ਦੀ ਕਾਨੂੰਨੀ ਸਮੱਗਰੀ ਨੂੰ: ਸੈਟਿੰਗ ਨੂੰ ਜਾਓ ਅਤੇ ਆਪਣੇ ਡਾਟਾ ਭਰੋ. ਸੰਭਾਲੋ ਅਤੇ ਬੰਦ ਕਰੋ.</string>
+<string name="information_2">ਹਰ ਵਾਰ, ਤੁਹਾਨੂੰ ਇੱਕ ਪੀਣ ਦੀ ਵਰਤਦਾ ਹੈ ਜਦ, ਤੁਹਾਨੂੰ ਖਪਤ ਦੇ ਆਪਣੇ ਰਜਿਸਟਰੀ ਕਰਨ ਲਈ ਇਸ ਨੂੰ ਸ਼ਾਮਿਲ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ. ਤੁਹਾਨੂੰ ਹਰ ਇੱਕ ਪਾਣੀ ਪੀਣ ਲਈ ਕਿਸਮ, ਵਾਲੀਅਮ ਅਤੇ ਸ਼ਰਾਬ ਦੀ ਪ੍ਰਤੀਸ਼ਤਤਾ ਸੈੱਟ ਕਰ ਸਕਦੇ ਹੋ. ਇਹ ਮੌਜੂਦਾ ਵਾਰ ਕਰਨ ਲਈ ਸੈੱਟ ਕੀਤਾ ਗਿਆ ਹੈ, ਮੂਲ ਰੂਪ ਵਿੱਚ ਤੁਹਾਨੂੰ ਇਹ ਵੀ, ਖਪਤ ਦੇ ਵੇਲੇ ਦਰਜ ਕਰ ਸਕਦੇ ਹੋ. ਕਾਕਟੇਲ ਲਈ, ਤੁਹਾਨੂੰ ਪੀਣ ਨੂੰ ਵਿੱਚ ਸ਼ਾਮਿਲ ਹੈ, ਜੋ ਕਿ ਵੋਡਕਾ (ਜ ਹੋਰ liquors), ਦਾ ਸਿਰਫ਼ ਮਾਤਰਾ ਨੂੰ ਦੇਣਾ ਚਾਹੀਦਾ ਹੈ.</string>
+<string name="information_3">ਕਾਰਜ ਨੂੰ ਲਗਈ ਕਰਨ ਲਈ, ਤੁਹਾਨੂੰ ਆਪਣੀ ਪਸੰਦ ਦੀ ਇੱਕ ਨਾਮ ਹੇਠ, ਮਨਪਸੰਦ ਫੋਲਡਰ ਵਿੱਚ ਪੀਣ ਨੂੰ ਬਚਾ ਸਕਦਾ ਹੈ. ਪੀਣ ਦੀ ਮਨਪਸੰਦ ਵਿੱਚ ਸੰਭਾਲਿਆ ਹੈ, ਦੇ ਬਾਅਦ, ਤੁਹਾਨੂੰ ਹੁਣੇ ਹੀ ਇੱਕ ਹੀ ਕਲਿੱਕ ਵਿੱਚ ਦੇ ਕੇ, ਖਪਤ ਦੇ ਆਪਣੇ ਰਜਿਸਟਰੀ ਕਰਨ ਲਈ ਇਸ ਨੂੰ ਸ਼ਾਮਿਲ ਕਰ ਸਕਦੇ ਹੋ.</string>
+<string name="information_4">ਇੱਥੇ ਤੁਹਾਨੂੰ ਦੀ ਸਮੀਖਿਆ ਅਤੇ ਖਪਤ ਦੇ ਆਪਣੇ ਮੌਜੂਦਾ ਰਜਿਸਟਰੀ ਨੂੰ ਤਬਦੀਲ ਕਰ ਸਕਦੇ ਹੋ. ਬਟਨ \ "\ ਜਾਣਕਾਰੀ" ਉਤੇ ਕਲਿਕ ਕਰਕੇ, ਤੁਹਾਨੂੰ ਚੁਣਿਆ ਹੈ ਪੀਣ ਨੂੰ ਦੇ ਵੇਰਵੇ ਦੀ ਸਮੀਖਿਆ ਅਤੇ ਫਿਰ ਆਪਣੇ ਰਜਿਸਟਰੀ ਕਰਨ ਲਈ ਇਸ ਨੂੰ ਸ਼ਾਮਿਲ ਕਰਨ ਦੇ ਯੋਗ ਹੋ ਜਾਵੇਗਾ.</string>
+<string name="information_5">ਸ਼ਰਾਬ ਦੀ ਤੁਹਾਡੀ ਮੌਜੂਦਾ ਪੱਧਰ ਦੇ ਕੇ (ਆਪਣੇ ਦੇਸ਼ ਜ ਸੂਬੇ ਵਿਚ ਗੱਡੀ ਸ਼ਰਾਬ ਦੀ ਕਾਨੂੰਨੀ ਪੱਧਰ \'ਅਨੁਸਾਰ) ਵੇਖਾਏ ਅਤੇ ਪੂਰੀ ਕਾਬੂ ਅਤੇ ਕਾਨੂੰਨੀ ਤੌਰ\' ਤੇ ਕਾਬੂ ਪ੍ਰਾਪਤ ਕਰਨ ਲਈ ਦੀ ਲੋੜ ਵਾਰ ਦੀ ਅਵਧੀ ਦੇ ਨਾਲ-ਨਾਲ, ਰੀਅਲ ਟਾਈਮ ਵਿੱਚ ਅੱਪਡੇਟ ਕੀਤਾ ਜਾਵੇਗਾ. ਚਾਰਟ ਹਾਲ ਹੀ ਬੀਤੇ ਅਤੇ ਆਉਣ ਵਾਲੇ ਕੁਝ ਘੰਟੇ (ਤਲ \'ਤੇ ਲੇਬਲ ਪੂਰੀ ਘੰਟੇ ਦਾ ਸੰਕੇਤ) ਦੇ ਦੌਰਾਨ ਸ਼ਰਾਬ ਦੇ ਆਪਣੇ ਸਮੱਗਰੀ ਨੂੰ, visualizes. Red ਲਾਈਨ ਸ਼ਰਾਬ ਦੇ ਕਾਨੂੰਨੀ ਪੱਧਰ ਦੱਸਦਾ ਹੈ. ਤੁਹਾਨੂੰ ਲਾਈਨ ਚਾਰਟ ਅਤੇ ਬਾਰ ਚਾਰਟ ਵਿਚਕਾਰ ਦੀ ਚੋਣ ਕਰ ਸਕਦੇ ਹੋ.</string>
+<string name="information_6">ਤੁਹਾਡਾ ਅਜਿਹੇ ਕੁੱਲ ਅਤੇ ਔਸਤ ਖਪਤ ਦੇ ਤੌਰ ਤੇ (ਪਿਛਲੇ ਰਿਕਾਰਡ ਦਾ ਤੱਕ ਇਕੱਠੀ) ਸ਼ਰਾਬ ਅਤੇ ਸਮੀਖਿਆ ਦੇ ਅੰਕੜੇ ਦੇ ਆਪਣੇ ਰੋਜ਼ਾਨਾ ਦੀ ਖਪਤ ਟਰੇਸ ਕਰ ਸਕਦੇ ਹੋ. ਹਰ ਦਿਨ, ਚਾਰਟ ਦੇ ਇੱਕ ਪੱਟੀ ਦੁਆਰਾ ਦਰਸਾਇਆ ਗਿਆ ਹੈ, ਖੱਬੇ ਉੱਤੇ ਲੇਬਲ ਖਪਤ ਸ਼ਰਾਬ (1 ਯੂਨਿਟ = ਸ਼ੁੱਧ ਸ਼ਰਾਬ ਦੇ 10 ਿਮਲੀਲੀਟਰ) ਦੀ ਇਕਾਈ ਦੇ ਪਤਾ ਲੱਗਦਾ ਹੈ. ਤੀਰ ਤੁਹਾਨੂੰ ਹੋਰ ਮਹੀਨੇ ਨੂੰ ਖੋਲੋ ਦਿਉ ਜਾਵੇਗਾ.</string>
+<string name="information_7">ਸ਼ਰਾਬ ਅਤੇ ਡਾਇਗਰਾਮ ਵਿੱਚ ਬਾਰ ਦੇ ਰੰਗ ਦੇ ਪੱਧਰ ਦੇ ਨੇੜੇ ਸਥਿਤ ਬਿੰਦੂ, ਦੇ ਰੰਗ, ਸ਼ਰਾਬ ਦੇ ਆਪਣੇ ਮੌਜੂਦਾ ਪੱਧਰ ਦੇ ਅਨੁਸਾਰ, ਨੂੰ ਤਬਦੀਲ ਕੀਤਾ ਜਾਵੇਗਾ. ਰੰਗ ਦੇ ਅਰਥ ਹੇਠ ਸਮਝਾਇਆ ਗਿਆ ਹੈ.</string>
+<string name="information_8">ਇਹ ਕਾਰਜ ਤੁਹਾਡੇ ਅਸਲ (ਅਸਲੀ) ਖੂਨ ਵਿੱਚ ਸ਼ਰਾਬ ਦੇ ਪੱਧਰ ਹੈ, ਪਰ ਇੱਕ ਹਿਸਾਬੀ ਫਾਰਮੂਲੇ ਦੀ \'ਤੇ ਆਧਾਰਿਤ ਇਕ ਅੰਦਾਜ਼ੇ ਮੁਹੱਈਆ ਕਰਦਾ ਹੈ. ਖੂਨ ਵਿੱਚ ਸ਼ਰਾਬ ਦੀ ਸਮੱਗਰੀ ਫਾਰਮੂਲੇ ਵਿੱਚ ਸ਼ਾਮਿਲ ਨਾ ਕੀਤਾ, ਜੋ ਕਿ ਕਾਰਕ, ਦੇ ਕਈ ਕਿਸਮ ਦੇ \'ਤੇ ਨਿਰਭਰ ਕਰਦਾ ਹੈ. ਖੂਨ ਵਿੱਚ ਸ਼ਰਾਬ ਦੇ ਆਪਣੇ ਅਸਲ ਪੱਧਰ ਦੇ ਇਸ ਕਾਰਜ ਨੂੰ ਦੁਆਰਾ ਦਿੱਤਾ ਮੁੱਲ ਵੱਖਰਾ ਹੋ ਸਕਦਾ ਹੈ.</string>
+<string name="legal_alc">ਤੁਹਾਡੇ ਦੇਸ਼ / ਸੂਬੇ ਦੇ ਲੀਗਲ ਬਲੱਡ ਅਲਕੋਹਲ-ਵਸਤੂ</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">ਤੁਹਾਨੂੰ ਕਾਨੂੰਨੀ ਤੌਰ \'ਤੇ ਕਾਬੂ ਰੱਖਣਾ ਹਨ</string>
+<string name="legal_time">ਤੁਹਾਨੂੰ \'ਤੇ ਕਾਨੂੰਨੀ ਤੌਰ\' ਤੇ ਕਾਬੂ ਰੱਖਣਾ ਹੋਵੇਗਾ</string>
+<!-- chart made of lines -->
+<string name="line_chart">ਲਾਈਨ ਚਾਰਟ</string>
+<string name="low_calory">ਘੱਟ ਪੱਧਰ \'(ਕਾਨੂੰਨੀ ਹੇਠ)</string>
+<string name="male">ਮਰਦ</string>
+<string name="medium_calory">ਦਰਮਿਆਨੇ ਪੱਧਰ \'(ਕਾਨੂੰਨੀ ਦੇ ਦੁਆਲੇ)</string>
+<string name="menu_title">ਮੇਨੂ</string>
+<string name="month">ਮਹੀਨਾ</string>
+<string name="month_graph_title">ਮਾਸਿਕ ਖਪਤ</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">ਮਾਸਿਕ ਅੰਕੜੇ</string>
+<string name="new_record">ਤੁਹਾਨੂੰ ਸਭ ਇੰਦਰਾਜ਼ ਨੂੰ ਸਾਫ ਅਤੇ ਨਵ ਰਜਿਸਟਰੀ ਸ਼ੁਰੂ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+<string name="no_data">ਚੁਣੇ ਮਹੀਨੇ ਲਈ ਉਪਲੱਬਧ ਕੋਈ ਡਾਟਾ</string>
+<string name="num_days">ਸ਼ਰਾਬ ਦੀ ਖਪਤ ਦੇ ਨਾਲ ਦਿਨ ਦੀ ਗਿਣਤੀ</string>
+<string name="ok">ਠੀਕ ਹੈ</string>
+<string name="opinion">ਰਾਏ</string>
+<string name="percent_alcohol">ਸ਼ਰਾਬ ਦੀ ਪ੍ਰਤੀਸ਼ਤਤਾ</string>
+<string name="pick_amount">ਵਾਲੀਅਮ</string>
+<string name="pick_type">ਪੀਣ ਨੂੰ ਦੀ ਕਿਸਮ</string>
+<!-- app being short for application -->
+<string name="rate_app">ਇਸ ਕਾਰਜ ਨੂੰ ਦਰਜਾ!</string>
+<string name="save_close">ਸੰਭਾਲੋ ਅਤੇ ਬੰਦ ਕਰੋ</string>
+<string name="settings">ਸੈਟਿੰਗ</string>
+<string name="sex">ਤੁਹਾਡਾ ਸੈਕਸ</string>
+<string name="sober_time">ਤੁਹਾਨੂੰ \'ਤੇ ਪੂਰੀ ਕਾਬੂ ਹੋ ਜਾਵੇਗਾ</string>
+<string name="standard_unit">(ਯੂਨਿਟ = ਸ਼ੁੱਧ ਸ਼ਰਾਬ ਦੇ 10G)</string>
+<string name="that_is">ਹੈ, ਜੋ ਕਿ ਵਿੱਚ ਹੈ</string>
+<string name="total_consumption">ਕੁੱਲ ਖਪਤ</string>
+<string name="type_name">ਪੀਣ ਨੂੰ ਦੇ ਲੇਬਲ</string>
+<string name="unit">ਵਾਲੀਅਮ ਦੇ ਯੂਨਿਟ</string>
+<string name="veryhigh_calory">ਬਹੁਤ ਹੀ ਉੱਚ ਪੱਧਰ ਦਾ (ਇਹ ਕਾਨੂੰਨੀ ਉਪਰ)</string>
+<string name="warning">ਚੇਤਾਵਨੀ!</string>
+<string name="weight">ਤੁਹਾਡਾ ਭਾਰ</string>
+<string name="choose_theme">ਰੰਗ ਚੁਣੋ</string>
+<string name="wine">ਸ਼ਰਾਬ</string>
+<string name="light">ਚਮਕਦਾਰ</string>
+<string name="dark">ਹਨੇਰੇ</string>
+<string name="promile">ਪ੍ਰਤੀ-ਮੀਲ</string>
+<string name="alc_level">ਸ਼ਰਾਬ ਦੇ ਪੱਧਰ</string>
+<string name="stats">ਅੰਕੜੇ</string>
+<string name="def_name">ਨੂੰ ਮੂਲ ਦਾ ਨਾਮ</string>
+<string name="ad_phrase1">ਤੁਹਾਡੇ ਫ਼ੋਨ ਦੇ ਨਾਲ ਸ਼ਰਾਬ ਦੇ ਪੱਧਰ ਨੂੰ ਪੜਤਾਲ ਕਰੋ.</string>
+<string name="ad_phrase2">ਤੁਹਾਨੂੰ ਕਾਨੂੰਨੀ ਤੌਰ ਗੱਡੀ ਕਰ ਸਕਦੇ ਹੋ.</string>
+<string name="ad_phrase3">ਨੂੰ ਮੂਲ ਦਾ ਨਾਮ</string>
+<string-array name="beer_amounts">
+<item>ਬਹੁਤ ਹੀ ਛੋਟੇ ਗਲਾਸ</item>
+<item>ਛੋਟਾ ਗਲਾਸ</item>
+<item>ਦਰਮਿਆਨੇ ਗਲਾਸ</item>
+<item>ਵੱਡੇ ਗਲਾਸ</item>
+<item>ਬਹੁਤ ਹੀ ਵੱਡੇ ਗਲਾਸ</item>
+</string-array>
+<string-array name="units">
+<item>ਮੀਟਰਿਕ - ਿਮਲੀਲੀਟਰ (ਮਿ.ਲੀ.)</item>
+<item>ਤਰਲ ਰੰਚਕ US (FL OZ)</item>
+<item>ਤਰਲ ਰੰਚਕ Imperial (FL OZ)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>ਸ਼ਰਾਬ</item>
+<item>ਸ਼ਰਾਬ</item>
+<item>ਵੋਡਕਾ ਜ ਸ਼ਰਾਬ</item>
+<item>Cocktail</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>ਬਹੁਤ ਹੀ ਛੋਟੇ ਗਲਾਸ</item>
+<item>ਛੋਟਾ ਗਲਾਸ</item>
+<item>ਦਰਮਿਆਨੇ ਗਲਾਸ</item>
+<item>ਵੱਡੇ ਗਲਾਸ</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>ਛੋਟਾ ਗਲਾਸ</item>
+<item>ਦਰਮਿਆਨੇ ਗਲਾਸ</item>
+<item>ਵੱਡੇ ਗਲਾਸ</item>
+</string-array>
+</resources>

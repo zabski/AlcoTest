@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Toevoegen drank</string>
+<string name="add_favorite">Toevoegen aan favorieten</string>
+<string name="age">Je leeftijd</string>
+<string name="all_units">Alle nummers in standaard drankje eenheden</string>
+<string name="app_name">Gehalte aan alcohol in het bloed</string>
+<string name="avg_consumption">Gemiddelde dagelijkse consumptie</string>
+<string name="bac_graph">Grafiek van uw niveau van alcohol</string>
+<string name="bar_chart">Staafdiagram</string>
+<string name="cancel">Annuleren</string>
+<string name="change_time">Wisseltijd</string>
+<string name="charts">Uw huidige niveau van alcohol</string>
+<string name="clear_all">Verwijder alle en start nieuwe register</string>
+<string name="config">Configuratie</string>
+<string name="consumption">Uw verbruik</string>
+<string name="consumption_time">Tijd van het verbruik</string>
+<string name="current_alc">Uw huidige niveau van alcohol is</string>
+<string name="default_name">Set op naam default</string>
+<string name="default_percent">Default percentage</string>
+<string name="del_item">Wilt u verwijderen artikel?</string>
+<string name="diary">Register van de consumptie</string>
+<string name="diary_added">Drank om uw register toegevoegd</string>
+<string name="diary_graph">Maandelijkse statistieken</string>
+<string name="diary_items">Uw huidige register van de consumptie</string>
+<string name="dont_drive">Nooit meer rijden na het drinken van alcohol!</string>
+<string name="drink_label">Label van de drank</string>
+<string name="edit_name">Naam bewerken</string>
+<string name="exit">Afrit</string>
+<string name="favorites">Favorieten</string>
+<string name="favorite_hint">Zoeken in favorieten</string>
+<string name="fav_added">Drank aan favorieten toegevoegd</string>
+<string name="feedback">Geef uw mening</string>
+<string name="feedback_prompt">Hi, wil je ons geven een aantal opmerkingen, zodat we deze applicatie voor u kunnen verbeteren?</string>
+<string name="female">Vrouwelijk</string>
+<string name="fully_sober">Je volledig nuchter</string>
+<string name="go_to_menu">Accepteren en sluit</string>
+<string name="height">Uw lengte</string>
+<string name="help">Helpen</string>
+<string name="help_translate">Helpen vertalen deze toepassing</string>
+<string name="high_calory">Hoog niveau (boven rechts)</string>
+<string name="info">Informatie</string>
+<string name="information_1">Ga naar instellingen om uw gegevens in te voeren: gewicht, geslacht en juridische inhoud van alcohol in het bloed tijdens het rijden in uw land of provincie. Opslaan en sluiten.</string>
+<string name="information_2">Elke keer wanneer u een drank te consumeren, moet u deze toevoegen aan uw register van de consumptie. U kunt het type, het volume en het percentage van alcohol voor elke drank ingesteld. U kunt ook de tijd van de consumptie in te voeren, standaard is ingesteld op de huidige tijd. Voor cocktails, moet je net voldoende wodka (of andere vloeistoffen), die is opgenomen in de drank voeren.</string>
+<string name="information_3">Om het proces te versnellen, kunt u drankjes slaan in de map favorieten, onder een naam van uw keuze. Na een drank wordt opgeslagen in favorieten, kunt u deze toevoegen aan uw register van de consumptie, door slechts een klik.</string>
+<string name="information_4">Hier kunt u bekijken en uw huidige register van de consumptie aan te passen. Door te klikken op "informatie" knop, zult u in staat om de details van de gekozen drank herzien en opnieuw toevoegen aan je register.</string>
+<string name="information_5">Uw huidige niveau van alcohol zal door weergegeven en bijgewerkt in real-time, samen met de tijd die nodig is om volledig nuchter en juridisch nuchter te krijgen (volgens de wettelijke niveau van alcohol tijdens het rijden in uw land of provincie). De grafiek visualiseert uw inhoud van alcohol, tijdens recente verleden en enkele aankomende uren (labels aan de onderkant geven hele uren). Rode lijn geeft juridisch niveau van alcohol. U kunt kiezen tussen lijngrafiek en staafdiagram.</string>
+<string name="information_6">U kunt uw dagelijkse consumptie van alcohol (verzameld uit bestaande gegevens) en de herziening van statistieken te sporen, zoals het totale en het gemiddelde verbruik. Elke dag wordt vertegenwoordigd door een staaf van de grafiek, het etiket aan de linkerzijde duiden eenheden alcohol geconsumeerd (1 eenheid = 10 milliliter pure alcohol). Arrows laat je navigeren naar andere maanden.</string>
+<string name="information_7">Kleur van de stip, gelegen dicht bij het niveau van alcohol en kleuren van staven in het staafdiagram, zal veranderen, afhankelijk van uw huidige niveau van alcohol. De betekenis van kleuren wordt hieronder uitgelegd.</string>
+<string name="information_8">Deze toepassing biedt geen uw werkelijke (reële) niveau van alcohol in het bloed, maar een schatting gebaseerd op een wiskundige formule. Gehalte aan alcohol in het bloed hangt af van verschillende factoren, die niet in de formule. Uw feitelijke alcohol in het bloed kan afwijken van de waarde die door deze toepassing.</string>
+<string name="legal_alc">Wettelijk niveau van alcohol in het bloed in uw land / provincie</string>
+<string name="legal_sober">U wettelijk sober</string>
+<string name="legal_time">U wettelijk nuchter op zijn</string>
+<string name="line_chart">Lijngrafiek</string>
+<string name="low_calory">Laag niveau (hieronder rechts)</string>
+<string name="male">Mannelijk</string>
+<string name="medium_calory">Medium-niveau (rond juridische)</string>
+<string name="menu_title">Menu</string>
+<string name="month">Maand</string>
+<string name="month_graph_title">Maandelijkse verbruik</string>
+<string name="month_stats">Maandelijkse statistieken</string>
+<string name="new_record">Wilt u alle instellingen te wissen en start nieuwe registry?</string>
+<string name="no_data">Geen gegevens beschikbaar voor de geselecteerde maand</string>
+<string name="num_days">Aantal dagen met de consumptie van alcohol</string>
+<string name="ok">Okay</string>
+<string name="opinion">Advies</string>
+<string name="percent_alcohol">Alcoholpercentage</string>
+<string name="pick_amount">Kiezen voor volume</string>
+<string name="pick_type">Kiezen voor soort drank</string>
+<string name="rate_app">Beoordeel deze applicatie!</string>
+<string name="save_close">Opslaan en sluiten</string>
+<string name="settings">Instellingen</string>
+<string name="sex">Je sex</string>
+<string name="sober_time">Zult u volledig nuchter op zijn</string>
+<string name="standard_unit">(eenheid = 10 gram pure alcohol)</string>
+<string name="that_is">Die in</string>
+<string name="total_consumption">Totale verbruik</string>
+<string name="type_name">Label van de drank</string>
+<string name="unit">Volumeëenheid</string>
+<string name="veryhigh_calory">Zeer hoog niveau (veel boven rechts)</string>
+<string name="warning">Waarschuwing!</string>
+<string name="weight">Uw gewicht</string>
+<string-array name="beer_amounts">
+<item>Zeer klein glas</item>
+<item>Klein glas</item>
+<item>Medium glas</item>
+<item>Grote glazen</item>
+<item>Zeer grote glazen</item>
+</string-array>
+<string-array name="units">
+<item>Metrische - milliliter (ml)</item>
+<item>Fluid ounce american (fl oz)</item>
+<item>Fluid ounce imperial (fl oz)</item>
+</string-array>
+<string-array name="drink_types">
+<item>Bier</item>
+<item>Wijn</item>
+<item>Wodka of likeur</item>
+<item>Cocktail</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Zeer klein glas</item>
+<item>Klein glas</item>
+<item>Medium glas</item>
+<item>Grote glazen</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Klein glas</item>
+<item>Medium glas</item>
+<item>Grote glazen</item>
+</string-array>
+</resources>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Içki əlavə et</string>
+<string name="add_favorite">Seçilmişlərə əlavə et</string>
+<string name="age">Sizin yaş</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">Standart içki ədəd bütün nömrələri</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">Qan spirt tərkibi</string>
+<string name="avg_consumption">Orta gündəlik istehlak</string>
+<string name="bac_graph">Spirt səviyyəsi Diaqram</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">Diaqram</string>
+<string name="cancel">Ləğv etmək</string>
+<string name="change_time">Change time</string>
+<string name="charts">Spirt Sizin hazırkı səviyyəsi</string>
+<string name="clear_all">Bütün sil və yeni defteri başlamaq</string>
+<!-- Short from Configuration -->
+<string name="config">Konfiqurasiya</string>
+<string name="consumption">Sizin istehlak</string>
+<string name="consumption_time">Istehlak Time</string>
+<string name="current_alc">Spirt Sizin hazırkı səviyyəsi</string>
+<string name="default_name">Adı default seçin</string>
+<string name="default_percent">Default faiz</string>
+<string name="del_item">Siz maddə silmək istəyirsiniz?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">Istehlak Registry</string>
+<string name="diary_added">Sizin reyestrinin əlavə içmək</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">Aylıq statistika</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">Istehlak Cari qeyd</string>
+<string name="dont_drive">Spirt aldıqdan sonra sürücü Heç vaxt!</string>
+<string name="drink_label">Içki Label</string>
+<string name="edit_name">Edit adı</string>
+<string name="exit">Çıxış</string>
+<string name="favorites">Seçilmişlərə</string>
+<string name="favorite_hint">Seçilmişlərə axtarış</string>
+<string name="fav_added">İçki Seçilmişlərə əlavə</string>
+<string name="feedback">Sizin rəy verin</string>
+<string name="feedback_prompt">Salam, biz sizin üçün bu proqram yaxşılaşdırılması bilər ki, bizə rəy göndərmək istəyirsiniz?</string>
+<string name="female">Qadın</string>
+<string name="fully_sober">Siz tam ayıq</string>
+<string name="go_to_menu">Qəbul və yaxın</string>
+<string name="height">Sizin hündürlüyü</string>
+<string name="help">Kömək</string>
+<!-- app being short for application -->
+<string name="help_translate">Bu proqram tərcümə kömək</string>
+<string name="high_calory">Yüksək səviyyədə (hüquqi yuxarıda)</string>
+<string name="info">Məlumat</string>
+<string name="information_1">Sizin ölkə və ya vilayətində idarə edərkən çəki, cinsi və qan spirt hüquqi məzmun: ayarları gedin və məlumatları daxil edin. Saxla və yaxın.</string>
+<string name="information_2">Hər dəfə bir içki istehlak zaman, istehlak reyestrinin əlavə etməlidir. Siz hər içki üçün növü, həcmi və spirt faiz bilərsiniz. Bu cari vaxt müəyyən edilir default tərəfindən Ayrıca, istehlak zaman daxil edə bilərsiniz. Kokteyl üçün, içki olan araq (və ya digər içkilər), yalnız məbləği daxil olmalıdır.</string>
+<string name="information_3">Prosesi tələsmək, seçdiyiniz bir ad altında Seçilmişlərə qovluq içkilər saxlaya bilərsiniz. Içki Seçilmişlərə saxlanılır sonra, yalnız bir klik ilə, istehlak reyestrinin əlavə edə bilərsiniz.</string>
+<string name="information_4">Burada nəzərdən keçirmək və istehlak cari reyestrinin dəyişə bilərsiniz. Düyməsini \ "\ məlumat" tıklayarak, siz seçilmiş içki detalları yenidən sizin qeyd əlavə edə biləcəklər.</string>
+<string name="information_5">Spirt Sizin hazırkı səviyyəsi ilə (sizin ölkə və ya vilayətində idarə edərkən spirt hüquqi səviyyəsinə görə) göstərilir və tam ayıq və qanuni ayıq almaq üçün lazım vaxt dövrü ilə yanaşı, real vaxt yenilənir olacaq. chart yaxın keçmişdə və bir neçə qarşıdan gələn saat (alt yazıları tam saat göstərir) zamanı spirt content, visualizes. Qırmızı xətt spirt hüquqi səviyyəsini göstərir. Siz line chart və bar chart seçə bilərsiniz.</string>
+<string name="information_6">Sizin belə ümumi və orta istehlak kimi (keçmiş qeydlər toplanmış) spirt və icmal statistika gündəlik istehlak iz bilər. Hər gün chart bir bar ilə təmsil olunur, sol etiket istehlak spirt (1 vahid = saf spirt 10 millilitr) vahidləri göstərir. Oklar digər aylarda gedin imkan verir.</string>
+<string name="information_7">Spirt və diaqram barlar rəng səviyyəsinə yaxın nöqtə, rəng, spirt cari səviyyəsinə uyğun, dəyişdirilməsi olacaq. rəng mənası aşağıda izah olunur.</string>
+<string name="information_8">Bu proqram sizin faktiki (real) qan spirt səviyyəsi, lakin bir riyazi düstur əsasında bir qiymət vermir. Qan spirt məzmun formula daxil olmayan amillər müxtəlif asılıdır. Qan spirt faktiki səviyyəsi bu proqram tərəfindən verilən dəyər fərqlənə bilər.</string>
+<string name="legal_alc">Sizin ölkə / il hüquqi Qan spirt</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">Siz qanuni ayıq</string>
+<string name="legal_time">Siz qanuni ayıq olacaq</string>
+<!-- chart made of lines -->
+<string name="line_chart">Line chart</string>
+<string name="low_calory">Aşağı səviyyədə (hüquqi aşağıda)</string>
+<string name="male">Kişi</string>
+<string name="medium_calory">Orta səviyyəli (hüquqi ətrafında)</string>
+<string name="menu_title">Menyu</string>
+<string name="month">Ay</string>
+<string name="month_graph_title">Aylıq istehlak</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">Aylıq statistika</string>
+<string name="new_record">Bütün entries təmizləmək və yeni defteri başlamaq istəyirsiniz?</string>
+<string name="no_data">Seçilmiş ay üçün heç bir məlumat</string>
+<string name="num_days">Spirt istehlakı ilə günlərin sayı</string>
+<string name="ok">Əvət</string>
+<string name="opinion">Rəy</string>
+<string name="percent_alcohol">Spirt faizi</string>
+<string name="pick_amount">Həcm</string>
+<string name="pick_type">Içki növü</string>
+<!-- app being short for application -->
+<string name="rate_app">Bu proqram dərəcəsi!</string>
+<string name="save_close">Qazanc və yaxın</string>
+<string name="settings">Parametrlər</string>
+<string name="sex">Sizin sex</string>
+<string name="sober_time">Siz tam ayıq olacaq</string>
+<string name="standard_unit">(Vahid = saf spirt 10g)</string>
+<string name="that_is">Ki, edir</string>
+<string name="total_consumption">Ümumi istehlak</string>
+<string name="type_name">Içki Label</string>
+<string name="unit">Həcmi vahidi</string>
+<string name="veryhigh_calory">Çox yüksək səviyyədə (çox hüquqi yuxarıda)</string>
+<string name="warning">Warning!</string>
+<string name="weight">Sizin çəki</string>
+<string name="choose_theme">Rəngi ​​seçin</string>
+<string name="wine">Şərab</string>
+<string name="light">Parlaq</string>
+<string name="dark">Qaranlıq</string>
+<string name="promile">Permile</string>
+<string name="alc_level">Spirt səviyyəsi</string>
+<string name="stats">Statistika</string>
+<string name="def_name">Default adı</string>
+<string-array name="beer_amounts">
+<item>Çox kiçik şüşə</item>
+<item>Kiçik şüşə</item>
+<item>Orta şüşə</item>
+<item>Böyük şüşə</item>
+<item>Çox böyük bir şüşə</item>
+</string-array>
+<string-array name="units">
+<item>Metrik - millilitr (ml)</item>
+<item>Maye unsiya ABŞ (fl oz)</item>
+<item>Maye unsiya Imperial (fl oz)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>Pivə</item>
+<item>Şərab</item>
+<item>Vodka ya Liquor</item>
+<item>Kokteyl</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Çox kiçik şüşə</item>
+<item>Kiçik şüşə</item>
+<item>Orta şüşə</item>
+<item>Böyük şüşə</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Kiçik şüşə</item>
+<item>Orta şüşə</item>
+<item>Böyük şüşə</item>
+</string-array>
+</resources>

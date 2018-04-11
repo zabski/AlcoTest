@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">پینے کا اضافہ کریں</string>
+<string name="add_favorite">پسندیدہ میں شامل کریں</string>
+<string name="age">آپ کی عمر</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">سٹینڈرڈ مشروب اکائیوں میں تمام نمبر</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">خون میں الکحل کی کونٹینٹ</string>
+<string name="avg_consumption">اوسط یومیہ کھپت</string>
+<string name="bac_graph">شراب کی آپ کی سطح کے چارٹ</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">آریھ</string>
+<string name="cancel">منسوخ کریں</string>
+<string name="change_time">تبدیلی وقت</string>
+<string name="charts">شراب کی موجودہ سطح</string>
+<string name="clear_all">تمام کو صاف کریں اور نئی رجسٹری شروع کر دیں</string>
+<!-- Short from Configuration -->
+<string name="config">ترتیب کے</string>
+<string name="consumption">آپ کھپت</string>
+<string name="consumption_time">کی کھپت کا وقت</string>
+<string name="current_alc">شراب کی موجودہ سطح</string>
+<string name="default_name">نام سے طے شدہ کے لئے مقرر</string>
+<string name="default_percent">پہلے سے طے شدہ شرح فیصد</string>
+<string name="del_item">آپ آئٹم کو حذف کرنا چاہتے ہیں؟</string>
+<!-- "Record" meaning registry -->
+<string name="diary">کھپت کی رجسٹری</string>
+<string name="diary_added">آپ کی رجسٹری میں شامل کیا پینا</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">ماہانہ اعداد و شمار</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">کھپت کی موجودہ رجسٹری</string>
+<string name="dont_drive">شراب پینے کے بعد گاڑی چلانے کبھی نہیں!</string>
+<string name="drink_label">پینے کے لیبل</string>
+<string name="edit_name">میں ترمیم کریں نام</string>
+<string name="exit">سے باہر نکلیں</string>
+<string name="favorites">پسندیدہ میں</string>
+<string name="favorite_hint">پسندیدہ میں تلاش کریں</string>
+<string name="fav_added">پینے پسندیدہ میں شامل</string>
+<string name="feedback">اپنی رائے دے</string>
+<string name="feedback_prompt">ہیلو، آپ کو ہم آپ کے لئے اس درخواست کو بہتر بنا سکتے ہیں، تاکہ ہمیں آپ کی رائے بھیجنے کے لئے پسند کریں گے؟</string>
+<string name="female">خواتین</string>
+<string name="fully_sober">آپ مکمل طور پر سادہ ہیں</string>
+<string name="go_to_menu">قبول کرنے اور بند</string>
+<string name="height">آپ کی اونچائی</string>
+<string name="help">مدد کریں</string>
+<!-- app being short for application -->
+<string name="help_translate">اس درخواست کے ترجمہ میں مدد</string>
+<string name="high_calory">اعلی سطح (قانونی اوپر)</string>
+<string name="info">معلومات کے</string>
+<string name="information_1">آپ کے ملک یا صوبے میں ڈرائیونگ کے دوران وزن، جنس اور خون میں الکحل کی قانونی مواد: ترتیبات کو دیکھیں اور آپ کے ڈیٹا میں داخل. محفوظ کریں اور بند.</string>
+<string name="information_2">ہر بار، آپ کو ایک جام بسم، جب آپ کھپت کا آپ کی رجسٹری کو اس میں شامل کرنا چاہئے. آپ کو ہر ایک ڈرنک کے لئے قسم، حجم اور شراب کی فی صد مقرر کر سکتے ہیں. یہ موجودہ وقت مقرر کیا گیا ہے ڈیفالٹ کی طرف سے آپ کو بھی، کھپت کا وقت داخل ہو سکتے ہیں. کاک کے لئے، آپ کے مشروبات میں موجود ہے جس ووڈکا (یا دوسرے شراب)، کی رقم درج کرنا چاہئے.</string>
+<string name="information_3">عمل میں جلدی کرنا، آپ کو آپ کی پسند کا ایک نام کے تحت، پسندیدہ فولڈر میں مشروبات کے محفوظ کر سکتے ہیں. ایک جام پسندیدہ میں محفوظ ہونے کے بعد، آپ کو صرف ایک کلک کی طرف سے، کی کھپت کا آپ کی رجسٹری کو اس میں شامل کر سکتے ہیں.</string>
+<string name="information_4">یہاں آپ کا جائزہ لینے اور کھپت کی موجودہ رجسٹری میں ترمیم کرسکتے ہیں. کے بٹن \ "\ معلومات" پر کلک کرکے، آپ کو منتخب کیا پینے کی تفصیلات کا جائزہ لینے اور اسے دوبارہ آپ کی رجسٹری کو اس میں شامل کرنے کے قابل ہو جائے گا.</string>
+<string name="information_5">شراب کی موجودہ سطح کی طرف سے (آپ کے ملک یا صوبے میں ڈرائیونگ کے دوران شراب کی قانونی سطح کے مطابق) ظاہر کیا اور مکمل طور پر سادہ اور قانونی طور پر سادہ حاصل کرنے کی ضرورت ہے وقت کی مدت کے ساتھ ساتھ، حقیقی وقت میں اپ ڈیٹ کر دیا جائے گا. چارٹ ماضی قریب اور چند آئندہ گھنٹے (نیچے دیئے گئے لیبلز مکمل گھنٹوں ثابت ہے) کے دوران شراب کی آپ کے مواد، visualizes ہے. سرخ لکیر شراب کی قانونی سطح کی طرف اشارہ کرتا. آپ کو لائن چارٹ اور بار چارٹ کے درمیان منتخب کر سکتے ہیں.</string>
+<string name="information_6">آپ اس طرح کل اور اوسط کھپت کے طور پر (ماضی کے ریکارڈ سے جمع) شراب اور جائزے کے اعداد و شمار کی روزانہ کھپت ٹریس کر سکتے ہیں. ہر ایک دن کے چارٹ میں سے ایک بار کی طرف سے ظاہر کیا جاتا ہے، بائیں طرف لیبل بسم شراب (1 یونٹ = خالص شراب کی 10 ملیلیٹر) کے یونٹوں کی طرف اشارہ ہے. تیر آپ کو دوسرے مہینوں پر تشریف لے چل جائے گا.</string>
+<string name="information_7">شراب اور خاکہ میں سلاخوں کے رنگوں کی سطح کے قریب واقع ڈاٹ، کا رنگ، شراب کی موجودہ سطح کے مطابق، تبدیل ہوگی. رنگوں کا معنی ذیل میں بیان کی گئی ہے.</string>
+<string name="information_8">یہ درخواست آپ کی اصل (حقیقی) خون میں الکحل کی سطح، لیکن ایک ریاضیاتی فارمولے پر مبنی ایک تخمینہ فراہم نہیں کرتا. خون میں الکحل کے مواد فارمولے میں شامل نہیں ہیں جو عوامل، کی قسم پر منحصر ہے. خون میں الکحل کی اپنے اصل سطح اس درخواست کی طرف سے فراہم کی قیمت سے مختلف ہو سکتی ہے.</string>
+<string name="legal_alc">آپ کے ملک / صوبے میں قانونی خون شراب مواد</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">آپ قانونی طور پر سادہ ہیں</string>
+<string name="legal_time">تم پر قانونی طور پر سادہ ہو جائے گا</string>
+<!-- chart made of lines -->
+<string name="line_chart">لائن چارٹ</string>
+<string name="low_calory">کم سطح (قانونی نیچے)</string>
+<string name="male">لڑکا</string>
+<string name="medium_calory">درمیانی سطح (قانونی ارد گرد)</string>
+<string name="menu_title">مینو</string>
+<string name="month">مہینہ</string>
+<string name="month_graph_title">ماہانہ کھپت</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">ماہانہ اعداد و شمار</string>
+<string name="new_record">آپ تمام اندراجات کو صاف کرنے اور نئی رجسٹری شروع کرنے کے لئے چاہتے ہیں؟</string>
+<string name="no_data">منتخب ماہ کے لئے کوئی ڈیٹا دستیاب نہیں</string>
+<string name="num_days">شراب کی کھپت دنوں کی تعداد</string>
+<string name="ok">ٹھیک ہے</string>
+<string name="opinion">رائے</string>
+<string name="percent_alcohol">شراب کی فی صد</string>
+<string name="pick_amount">حجم</string>
+<string name="pick_type">پینے کی چیزوں کی قسم</string>
+<!-- app being short for application -->
+<string name="rate_app">اس درخواست میں رائے دیں!</string>
+<string name="save_close">محفوظ کریں اور بند</string>
+<string name="settings">ترتیبات</string>
+<string name="sex">آپ کی جنسی</string>
+<string name="sober_time">تم پر پوری طرح شانت ہو جائے گا</string>
+<string name="standard_unit">(یونٹ = خالص شراب کی 10g)</string>
+<string name="that_is">کہ میں ہے</string>
+<string name="total_consumption">کل کھپت</string>
+<string name="type_name">پینے کے لیبل</string>
+<string name="unit">حجم کی اکائی</string>
+<string name="veryhigh_calory">بہت ہی اعلی سطح (زیادہ قانونی اوپر)</string>
+<string name="warning">انتباہ!</string>
+<string name="weight">آپ کا وزن</string>
+<string name="choose_theme">رنگ منتخب کریں</string>
+<string name="wine">شراب</string>
+<string name="light">روشن</string>
+<string name="dark">اندھیرے</string>
+<string name="promile">فی میل</string>
+<string name="alc_level">الکحل کی سطح</string>
+<string name="stats">شماریات</string>
+<string name="def_name">پہلے سے طے شدہ نام</string>
+<string name="ad_phrase1">آپ کے فون کے ساتھ الکحل کی سطح کی توثیق کریں.</string>
+<string name="ad_phrase2">آپ قانونی طور پر گاڑی چلا سکتے ہیں تو چیک کریں.</string>
+<string name="ad_phrase3">پہلے سے طے شدہ نام</string>
+<string-array name="beer_amounts">
+<item>بہت چھوٹے گلاس</item>
+<item>چھوٹے گلاس</item>
+<item>درمیانے درجے کے گلاس</item>
+<item>بڑے گلاس</item>
+<item>بہت بڑے گلاس</item>
+</string-array>
+<string-array name="units">
+<item>میٹرک - ملیلیٹر (ایم ایل)</item>
+<item>سیال ونس امریکی (FL آانس)</item>
+<item>سیال ونس امپیریل (FL آانس)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>بیئر</item>
+<item>شراب</item>
+<item>شراب یا شراب</item>
+<item>کاک</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>بہت چھوٹے گلاس</item>
+<item>چھوٹے گلاس</item>
+<item>درمیانے درجے کے گلاس</item>
+<item>بڑے گلاس</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>چھوٹے گلاس</item>
+<item>درمیانے درجے کے گلاس</item>
+<item>بڑے گلاس</item>
+</string-array>
+</resources>

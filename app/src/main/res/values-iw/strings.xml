@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">להוסיף משקאות</string>
+<string name="add_favorite">הוסף למועדפים</string>
+<string name="age">הגיל שלך</string>
+<string name="all_units">כל המספרים ביחידות משקה סטנדרטיים</string>
+<string name="app_name">תוכן של אלכוהול בדם</string>
+<string name="avg_consumption">הצריכה יומית ממוצעת</string>
+<string name="bac_graph">תרשים של רמת האלכוהול שלך</string>
+<string name="bar_chart">תרשים בר</string>
+<string name="cancel">לבטל</string>
+<string name="change_time">שינוי זמן</string>
+<string name="charts">הרמה הנוכחית של אלכוהול</string>
+<string name="clear_all">לנקות את כל ולהתחיל רישום חדש</string>
+<string name="config">תצורה</string>
+<string name="consumption">הצריכה שלך</string>
+<string name="consumption_time">זמן הצריכה</string>
+<string name="current_alc">הרמה הנוכחית של אלכוהול היא</string>
+<string name="default_name">סט לברירת מחדל שם</string>
+<string name="default_percent">אחוז ברירת מחדל</string>
+<string name="del_item">אתה רוצה למחוק את פריט?</string>
+<string name="diary">רישום של הצריכה</string>
+<string name="diary_added">משקאות הוסיפו לרישום שלך</string>
+<string name="diary_graph">ירחון לסטטיסטיקה של</string>
+<string name="diary_items">הרישום הנוכחי של הצריכה</string>
+<string name="dont_drive">מעולם לא לנהוג לאחר שתיית אלכוהול!</string>
+<string name="drink_label">תווית של המשקה</string>
+<string name="edit_name">ערוך שם</string>
+<string name="exit">יציאה</string>
+<string name="favorites">מועדפים</string>
+<string name="favorite_hint">חיפוש במועדפים</string>
+<string name="fav_added">משקאות הוסיפו למועדפים</string>
+<string name="feedback">לתת את הדעה שלך</string>
+<string name="feedback_prompt">היי, היית רוצה לתת לנו כמה הערות, כדי שנוכל לשפר את היישום זה בשבילך?</string>
+<string name="female">נקבה</string>
+<string name="fully_sober">אתה פיכח באופן מלא</string>
+<string name="go_to_menu">קיבלתי ולסגור</string>
+<string name="height">הגובה שלך</string>
+<string name="help">לעזור</string>
+<string name="help_translate">לתרגם יישום זה</string>
+<string name="high_calory">רמה גבוהה (מעל משפטי)</string>
+<string name="info">מידע</string>
+<string name="information_1">ללכת להגדרות להזין נתונים שלך: משקל, מין ותוכן משפטי של אלכוהול בדם בעת הנהיגה במחוז של המדינה שלך. שמור וסגור.</string>
+<string name="information_2">בכל פעם, כאשר אתם צורכים משקאות, אתה צריך להוסיף אותו לרישום של הצריכה שלך. באפשרותך להגדיר סוג, היקף ואחוז האלכוהול לכל משקה. ניתן גם להזין זמן הצריכה, כברירת מחדל זה מכוון לזמן נוכחי. לקוקטיילים, אתה צריך להיכנס רק את כמות הוודקה (או משקאות חריפים אחרים), הנמצא במשקאות.</string>
+<string name="information_3">כדי לזרז את התהליך, אתה יכול לשמור את המשקאות בתיקיית מועדפים, תחת שם של הבחירה שלך. לאחר משקה נשמר במועדפים, אתה יכול להוסיף אותו לרישום של הצריכה שלך, על ידי לחיצת כפתור אחת בלבד.</string>
+<string name="information_4">כאן תוכל לסקור ולשנות את הרישום הנוכחי של הצריכה. על ידי כפתור "מידע" לחיצה, תוכל לעיין בפרטים של משקאות נבחרים ולהוסיף אותו לרישום שלך שוב.</string>
+<string name="information_5">הרמה הנוכחית של אלכוהול על ידי מוצג ומתעדכנת בזמן אמת, יחד עם תקופת הזמן הדרוש כדי לקבל מפוכח לחלוטין ומפוכח באופן חוקי (על פי רמה המשפטית של אלכוהול בעת הנהיגה במחוז של המדינה שלך).התרשים מדמיין את התוכן שלך באלכוהול, בעבר הקרוב וכמה שעות הקרובות (תוויות בתחתית מצביעות שעות מלאים). קו אדום מציין רמה משפטית של אלכוהול. אתה יכול לבחור בין תרשים קו ותרשים בר.</string>
+<string name="information_6">אתה יכול לעקוב אחר הצריכה היומית שלך של אלכוהול (שנאסף מהרשומות האחרונות) וסטטיסטיקת סקירה כגון הצריכה כוללת וממוצעות. בכל יום מיוצג על ידי בר אחד של התרשים, תווית בצד השמאל מצביעה על יחידות של אלכוהול שנצרך (יחידה 1 = 10 מיליליטר של אלכוהול טהור). חיצים ייאפשרו לך לנווט לחודשים אחרים.</string>
+<string name="information_7">צבע של הנקודה, ממוקמת קרוב לרמה של אלכוהול וצבעים של ברים בגרף העמודות, יהיה שינוי, בהתאם לרמה הנוכחית של אלכוהול.המשמעות של צבעים מוסברת להלן.</string>
+<string name="information_8">יישום זה אינו מספק את הרמה שלך בפועל (האמיתית) של אלכוהול בדם, אך הערכה מבוססת על נוסחה מתמטית. תוכן של אלכוהול בדם תלוי במגוון גורמים, שאינם כלולים בנוסחא. הרמה שלך בפועל של אלכוהול בדם עשויה להיות שונה מהערך המסופק על ידי יישום זה.</string>
+<string name="legal_alc">הרמה משפטית של אלכוהול בדם במדינה / המחוז שלך</string>
+<string name="legal_sober">אתה פיכח באופן חוקי</string>
+<string name="legal_time">אתה תהיה מפוכח באופן חוקי ב</string>
+<string name="line_chart">תרשים קו</string>
+<string name="low_calory">רמה נמוכה (מתחת משפטי)</string>
+<string name="male">זכר</string>
+<string name="medium_calory">רמה בינונית (בסביבות משפטיות)</string>
+<string name="menu_title">תפריט</string>
+<string name="month">חודש</string>
+<string name="month_graph_title">הצריכה חודשית</string>
+<string name="month_stats">ירחון לסטטיסטיקה של</string>
+<string name="new_record">אתה רוצה לנקות את כל הרשומות ולהתחיל רישום חדש?</string>
+<string name="no_data">אין נתונים זמינים עבור חודש שנבחר</string>
+<string name="num_days">מספר הימים עם צריכת האלכוהול</string>
+<string name="ok">בסדר</string>
+<string name="opinion">דעה</string>
+<string name="percent_alcohol">אחוז האלכוהול</string>
+<string name="pick_amount">לבחור נפח</string>
+<string name="pick_type">לבחור סוג של משקה</string>
+<string name="rate_app">לדרג יישום זה!</string>
+<string name="save_close">לשמור ולסגור</string>
+<string name="settings">הגדרות</string>
+<string name="sex">המין שלך</string>
+<string name="sober_time">אתה תהיה פיכח לחלוטין ב</string>
+<string name="standard_unit">(יחידה = 10 גרם של אלכוהול טהור)</string>
+<string name="that_is">כי הוא ב</string>
+<string name="total_consumption">סך הצריכה</string>
+<string name="type_name">תווית של המשקה</string>
+<string name="unit">יחידת הנפח</string>
+<string name="veryhigh_calory">ברמה גבוהה מאוד (הרבה מעל משפטי)</string>
+<string name="warning">אזהרה!</string>
+<string name="weight">המשקל שלך</string>
+<string-array name="beer_amounts">
+<item>זכוכית קטנה מאוד</item>
+<item>זכוכית קטנה</item>
+<item>זכוכית בינונית</item>
+<item>כוס גדולה</item>
+<item>זכוכית גדולה מאוד</item>
+</string-array>
+<string-array name="units">
+<item>מדד - מיליליטרים (מיליליטר)</item>
+<item>אונקיית נוזל (oz fl) האמריקאי</item>
+<item>אונקיית נוזל (oz fl) הקיסרי</item>
+</string-array>
+<string-array name="drink_types">
+<item>בירה</item>
+<item>יין</item>
+<item>וודקה או משקאות</item>
+<item>קוקטייל</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>זכוכית קטנה מאוד</item>
+<item>זכוכית קטנה</item>
+<item>זכוכית בינונית</item>
+<item>כוס גדולה</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>זכוכית קטנה</item>
+<item>זכוכית בינונית</item>
+<item>כוס גדולה</item>
+</string-array>
+</resources>

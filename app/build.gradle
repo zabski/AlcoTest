@@ -1,0 +1,76 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 25
+    buildToolsVersion '25.0.0'
+
+    defaultConfig {
+        applicationId "com.zmobile.alcotest"
+        minSdkVersion 15
+        targetSdkVersion 25
+        multiDexEnabled true
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+        debug {
+            debuggable true
+        }
+    }
+
+    lintOptions {
+        //checkReleaseBuilds false
+        abortOnError false
+    }
+
+}
+
+repositories {
+    flatDir {
+        dirs 'libs'
+    }
+}
+
+dependencies {
+    //compile 'com.android.support:multidex:1.0.1'
+    //compile 'com.android.support:support-v4:25.2.0'
+    //compile 'com.android.support:appcompat-v7:23.1.1'
+
+    //compile(name: 'AudienceNetwork', ext: 'aar')
+    //compile(name: 'classes', ext: 'jar')
+    compile 'com.facebook.android:audience-network-sdk:4.+'
+    //compile 'com.facebook.android:facebook-android-sdk:4.+'
+    //compile 'com.android.support:recyclerview-v7:23.1.0'
+
+    //compile 'com.google.android.gms:play-services-analytics:9.0.0'
+    //compile 'com.google.android.gms:play-services-ads:9.0.0'
+    //compile 'com.google.android.gms:play-services-appindexing:9.0.0'
+    compile 'com.google.firebase:firebase-core:9.0.0'
+    //compile 'com.google.firebase:firebase-ads:9.0.0'
+    compile 'com.google.android.gms:play-services:+'
+    //compile 'com.google.firebase:firebase-core:+'
+
+    compile 'com.google.http-client:google-http-client-android:1.20.0'
+    compile 'com.google.api-client:google-api-client:1.20.0'
+    compile 'com.amazon.android:mobile-ads:5.+'
+    //compile files('libs/libGoogleAnalyticsServices.jar')
+    //compile files('libs/AudienceNetwork.jar')
+    //compile files('libs/FacebookAdapter.jar')
+    compile files('libs/feedback_v6.jar')
+    compile files('libs/GraphView-3.1.1.jar')
+
+    //compile files('libs/transcommu-android-sdk-v1.jar')
+    //compile files('libs/transcommu-java-sdk-v1.jar')
+    compile project(':zmoblib')
+    //compile 'com.android.support:support-v7:+'
+    //compile 'com.github.mobfox:MobFox-Android-SDK-Core:v1.5.4'
+
+    //compile files('libs/MobFox-Android-SDK-Core-1.5.4.jar')
+    //compile files('libs/MobFox-Android-AdMob-Adapter.jar')
+}
+
+//apply plugin: 'com.google.gms.google-services'

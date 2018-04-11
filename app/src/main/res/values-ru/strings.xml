@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Добавить напиток</string>
+<string name="add_favorite">Добавить в избранное</string>
+<string name="age">Ваш возраст</string>
+<string name="all_units">Данные в единицах стандартных доз = 10 г чистого алк</string>
+<string name="app_name">Содержание алкоголя в крови</string>
+<string name="avg_consumption">Среднесуточное потребление</string>
+<string name="bac_graph">График содержание алкоголя в крови</string>
+<string name="bar_chart">Гистограмма</string>
+<string name="cancel">Отменить</string>
+<string name="change_time">Изменение времени</string>
+<string name="charts">Ваш текущий уровень алкоголя</string>
+<string name="clear_all">Очистить все и начать новый рекорд</string>
+<string name="config">﻿конфигурация</string>
+<string name="consumption">Ваше потребление (единица = 10 г чистого алкоголя)</string>
+<string name="consumption_time">Время потребления напитка</string>
+<string name="current_alc">Ваше текущее содержание алкоголя в крови</string>
+<string name="default_name">Имя по умолчанию</string>
+<string name="default_percent">По умолчанию процентов</string>
+<string name="del_item">Вы хотите удалить элемент?</string>
+<string name="diary">Потребление запись</string>
+<string name="diary_added">Напиток добавлен в записи</string>
+<string name="diary_graph">Месячная статистика</string>
+<string name="diary_items">Ваше текущее потребление запись</string>
+<string name="dont_drive">Никогда не садиться за руль после употребления алкоголя!</string>
+<string name="drink_label">Название напитка</string>
+<string name="edit_name">Изменить название</string>
+<string name="exit">Выход</string>
+<string name="favorites">Избранные</string>
+<string name="favorite_hint">Поиск в Избранное</string>
+<string name="fav_added">Напиток добавил в избранное</string>
+<string name="feedback">Высказать свое мнение</string>
+<string name="feedback_prompt">Привет, вы бы хотели, чтобы дать нам некоторые комментарии, так что мы можем улучшить это приложение для вас?</string>
+<string name="female">Женщина</string>
+<string name="fully_sober">Вы несете полную трезвым</string>
+<string name="go_to_menu">Я принимаю</string>
+<string name="height">Ваш рост</string>
+<string name="help">Помочь</string>
+<string name="help_translate">Помочь перевести это приложение</string>
+<string name="high_calory">Высокий уровень (выше юридическое)</string>
+<string name="info">Информация</string>
+<string name="information_1">Перейдите в настройки, чтобы ввести свои данные: вес, пол и правовое содержание алкоголя в вашей стране или провинции. Сохраните и закройте.</string>
+<string name="information_2">Каждый раз, когда вы выпить, вы должны добавить его в свой потребления записи. Вы можете установить тип, объем и процент алкоголя для каждого напитка. Вы также можете ввести время потребления, по умолчанию он установлен в текущий момент времени. Для коктейлей вы должны ввести только количество водки (или другие ликеры), который содержится в напитке.</string>
+<string name="information_3">Чтобы ускорить процесс, вы можете сохранить напитки в избранное под именем по вашему выбору. После сохранения в избранном, вы можете добавить, выпивает за ваш потребления записи с помощью только одного клика.</string>
+<string name="information_4">Здесь вы можете просмотреть и изменить текущую запись потребления. Нажав \"информация\" кнопку, вы сможете проанализировать данные напиток и добавить его в вашей записи снова.</string>
+<string name="information_5">Ваше текущее Содержание алкоголя в крови воли отображаться и обновляться в режиме реального времени, а также период времени, необходимого, чтобы получить полностью трезвый и юридически трезв (в соответствии с правовой уровень алкоголя во время вождения в вашей стране или провинции). График будет визуализировать ваши содержание алкоголя в последние прошедших и будущих нескольких часов (этикетки на дне указывают полные часов). Красная линия показывает правовой уровень алкоголя. Вы можете переключаться между линией и гистограммы.</string>
+<string name="information_6">Ваш может отслеживать ежедневное потребление алкоголя, собранную из прошлых записей и статистических данных по рассмотрению таких как общая и средний расход. Каждый день представлена ​​одной строке диаграммы, этикетки слева указывают единиц алкоголя потребляли (1 единица = 10 мл чистого алкоголя). Стрелки позволит вам перейти к другим месяцев.</string>
+<string name="information_7">Цвет точки рядом с содержанием алкоголя и цвета баров в гистограммы будут различаться в зависимости от вашего текущего содержание алкоголя в крови. Смысл цветов, как показано ниже.</string>
+<string name="information_8">Это приложение не обеспечивает действительную содержания алкоголя в крови, но оценку на основе математической формулы. Содержание алкоголя в крови зависит от множества факторов, которые не включены в формулу. Фактическая Содержание алкоголя в крови может отличаться от стоимости, предоставленной.</string>
+<string name="legal_alc">Юридический смысл алкоголя в крови в вашей стране / провинции</string>
+<string name="legal_sober">Вы юридически трезвым</string>
+<string name="legal_time">Вы будете (юридически) трезвым на</string>
+<string name="line_chart">Линейный График</string>
+<string name="low_calory">Низкий уровень (ниже юридическое)</string>
+<string name="male">Мужчина</string>
+<string name="medium_calory">Средний уровень (около юридическое)</string>
+<string name="menu_title">Меню</string>
+<string name="month">Месяц</string>
+<string name="month_graph_title">Потребление в течение месяца</string>
+<string name="month_stats">Месячная статистика</string>
+<string name="new_record">Вы хотите, чтобы очистить все и начать новую запись?</string>
+<string name="no_data">Нет данных для выбранного месяца</string>
+<string name="num_days">Число дней с потреблением алкоголя</string>
+<string name="ok">Хорошо</string>
+<string name="opinion">Мнение</string>
+<string name="percent_alcohol">Процент алкоголя</string>
+<string name="promile">Промилле</string>
+<string name="pick_amount">Выберите Объем напитка</string>
+<string name="pick_type">Выберите тип напитка</string>
+<string name="rate_app">Оцените это приложение!</string>
+    <string name="remove_ads">Убрать рекламу</string>
+<string name="save_close">Сохранить и закрыть</string>
+<string name="settings">Настройки</string>
+<string name="sex">Ваш пол</string>
+<string name="sober_time">Вы будете полностью трезвым на</string>
+<string name="standard_unit">(единица = 10 г чистого алкоголя)</string>
+<string name="that_is">То есть в течение</string>
+<string name="total_consumption">Общее потребление</string>
+<string name="type_name">Название напитка</string>
+<string name="unit">Пейте единицу объема</string>
+<string name="veryhigh_calory">Очень высокий уровень (значительно выше юридических)</string>
+<string name="warning">Предупреждение!</string>
+<string name="weight">Ваш вес</string>
+<string name="your_wgt">Ваш вес</string>
+<string-array name="beer_amounts">
+<item>Очень маленький</item>
+<item>Небольшой</item>
+<item>Регулярный</item>
+<item>Большой</item>
+<item>Очень большой</item>
+</string-array>
+<string-array name="units">
+<item>Метрические - миллилитров (мл)</item>
+<item>Жидкая унция США (жидких унций)</item>
+<item>Жидкая унция Империал (жидких унций)</item>
+</string-array>
+<string-array name="drink_types">
+<item>Пиво</item>
+<item>Вино</item>
+<item>Водка / дистилляты</item>
+<item>Коктейли</item>
+</string-array>
+<string-array name="beerml">
+<item>250</item>
+<item>330</item>
+<item>400</item>
+<item>500</item>
+<item>660</item>
+</string-array>
+<string-array name="beermlus">
+<item>285</item>
+<item>375</item>
+<item>475</item>
+<item>568</item>
+<item>660</item>
+</string-array>
+<string-array name="beermluk">
+<item>285</item>
+<item>375</item>
+<item>475</item>
+<item>568</item>
+<item>660</item>
+</string-array>
+<string-array name="vodka_ml">
+<item>20</item>
+<item>30</item>
+<item>40</item>
+<item>50</item>
+</string-array> 
+<string-array name="cocktail_amounts">
+<item>20 мл</item>
+<item>30 мл</item>
+<item>40 мл</item>
+<item>50 мл</item>
+<item>60 мл</item>
+<item>70 мл</item>
+<item>80 мл</item>
+</string-array>
+<string-array name="cocktail_ml">
+<item>20</item>
+<item>30</item>
+<item>40</item>
+<item>50</item>
+<item>60</item>
+<item>70</item>
+<item>80</item>
+</string-array>
+<string-array name="wine_ml">
+<item>100</item>
+<item>150</item>
+<item>200</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Очень маленький стакан</item>
+<item>Небольшой стакан</item>
+<item>Средний стакан</item>
+<item>Большой стакан</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Небольшой бокал</item>
+<item>Средний бокал</item>
+<item>Большой бокал</item>
+</string-array>
+<string name="legal_level">Юридическая Уровень</string>
+<string name="invalidInput">Недопустимые данные</string>
+<string name="emptyInput">Пожалуйста, введите данные</string>
+<string name="daily_value">Ваше недавнее потребление алкоголя</string>
+
+</resources>

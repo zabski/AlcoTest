@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Иловаи шаробе</string>
+<string name="add_favorite">Илова ба мунтахаб</string>
+<string name="age">Сину соли шумо</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">Ҳамаи рақамҳои дар адад нӯшокии стандартӣ</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">Content спиртӣ дар хун</string>
+<string name="avg_consumption">Миёна истеъмоли шабонарўзии</string>
+<string name="bac_graph">Диаграммаи сатҳи худ спиртӣ</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">Диаграмма</string>
+<string name="cancel">Бекор</string>
+<string name="change_time">Тағйири вақт</string>
+<string name="charts">Аз дараҷаи ҷории шумо аз машрубот</string>
+<string name="clear_all">Тоза ҳамаи ва оғози сабти нав</string>
+<!-- Short from Configuration -->
+<string name="config">Насб</string>
+<string name="consumption">Истеъмоли Шумо</string>
+<string name="consumption_time">Вақт аз истеъмоли</string>
+<string name="current_alc">Аз дараҷаи ҷории шумо аз машрубот</string>
+<string name="default_name">Танзими номи аслӣ</string>
+<string name="default_percent">Фоизи Default</string>
+<string name="del_item">Оё шумо мехоҳед, ки ба тоза кардани қисми?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">Феҳристи истеъмоли</string>
+<string name="diary_added">Нӯшиданаш ба феҳристи худ илова</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">Омори ҳармоҳа</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">Феҳристи ҷорӣ намудани истеъмоли</string>
+<string name="dont_drive">Ҳеҷ гоҳ пас аз машруботи спиртӣ менӯшидам меронем!</string>
+<string name="drink_label">Label аз шаробе</string>
+<string name="edit_name">Номи Edit</string>
+<string name="exit">Баромадгоҳ</string>
+<string name="favorites">Favorites</string>
+<string name="favorite_hint">Ҷустуҷӯ дар мунтахаб</string>
+<string name="fav_added">Биёшомед ба мунтахаб илова</string>
+<string name="feedback">Дар баёни андешаи худ</string>
+<string name="feedback_prompt">Салом, мехостам, ки шумо ба мо ирсол фикри Шумо, то ки мо метавонем ин барнома барои шумо беҳтар?</string>
+<string name="female">Занона</string>
+<string name="fully_sober">Шумо пурра ҳушьёр аст</string>
+<string name="go_to_menu">Қабул ва пӯшида</string>
+<string name="height">Баландии Шумо</string>
+<string name="help">Кӯмак</string>
+<!-- app being short for application -->
+<string name="help_translate">Кӯмак тарҷума ин барнома</string>
+<string name="high_calory">Сатҳи баланди (боло ҳуқуқӣ)</string>
+<string name="info">Маълумот</string>
+<string name="information_1">Бирав ба танзимот ва ворид намудани маълумотњо ва шумо: вазн, љинс ва мазмуни ҳуқуқии машрубот дар хун ҳангоми ҳаракат дар кишвар ё вилоят кунед. Захира ва наздик.</string>
+<string name="information_2">Ҳар вақт, вақте ки шумо барои нӯшидан об истеъмол, шумо бояд аз он ба Феҳристи шумо аз истеъмоли илова кунед. Шумо метавонед намуди, ҳаҷми ва фоизи спиртдор барои ҳар як нӯшокии муқаррар карда мешавад. Шумо инчунин метавонед вақти истеъмоли дохил, бо пешфарз ба он аст, ки ба вақти ҷорӣ муқаррар карда мешавад. Барои cocktails, шумо бояд фақат ба маблағи арақ (ё дигар liquors), ки дар як нӯшокии мавҷуд дохил кунед.</string>
+<string name="information_3">Ба шитоб раванди, шумо метавонед нӯшокиҳои дар папкаи мунтахаб зери номи интихоби худ захира кунед. Баъд аз шаробе, дар мунтахаб наҷот, шумо метавонед онро ба Феҳристи шумо аз истеъмоли аз ҷониби танҳо як ангуштзании илова,.</string>
+<string name="information_4">Дар ин ҷо шумо метавонед аз назар гузаронед ва тағйир додани феҳристи ҷорӣ шумо аз истеъмоли. Бо зеркунии тугмаи \ "Info \" ангушт занед, ки шумо метавонед аз назар гузаронед тафсилоти шаробе интихоб ва онро ба феҳристи худ илова боз хоҳад шуд.</string>
+<string name="information_5">Аз дараҷаи ҷории шумо аз машрубот бо намоиш ва таҷдид дар вақти воқеӣ, дар якҷоягӣ бо давраи вақт лозим ба даст пурра ҳушьёр ва қонунӣ ҳушьёр (аз рӯи сатҳи ҳуқуқии спирти ҳангоми ҳаракат дар кишвар ё вилоят шумо). Дар ҷадвали visualizes мундариҷаи худ аз машруботи спиртӣ, дар давоми охир ва чанд соат дарпешистода (тамғакоғазҳо, дар поён нишон соат пурра). Хатти сурх нишон сатҳи ҳуқуқии машрубот. Шумо метавонед дар байни хати диаграмма ва сатри диаграмма, интихоб кунед.</string>
+<string name="information_6">Шумо метавонед истеъмоли ҳаррӯзаи худ спиртӣ (ҷамъоварӣ аз сабти охир) ва омори баррасии монанди истеъмоли умумии миёна ва пайгирӣ. Ҳар рӯз бо яке аз Бар аз диаграмма тасвир, голограммаи оид ба чап нишон адад машруботи спиртӣ истеъмол (1 адад = 10 мл спирти пок). Гаравбандӣ хоҳад бигзор шуморо ба дигар моҳ мурур.</string>
+<string name="information_7">Ранги нуқта, ҷойгир наздик ба сатҳи машрубот ва рангҳои барҳои дар диаграммаи, хоҳад тағйир меёбад, мувофиқи дараҷаи ҷории шумо аз машруботи спиртӣ. Маънои ранг аст, дар поён шарҳ дода шудаанд.</string>
+<string name="information_8">Ин барнома ба таври воќеї (воқеии) сатњи шумо спиртӣ дар хун, вале баҳо асоси формулаи математикӣ таъмин намекунад. Мазмуни машрубот дар хун вобаста ба омилҳои гуногун, ки дар ин формула дохил карда намешаванд. Дараҷаи аслии худ аз машрубот дар хун метавонад аз арзиши пешбининамудаи ин барнома фарқ мекунанд.</string>
+<string name="legal_alc">Ҳуқуқӣ Content Машруботи хун дар кишвари / вилояти кунед</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">Шумо қонунӣ ҳушьёр аст</string>
+<string name="legal_time">Шумо хоҳад қонунӣ дар ҳушьёр</string>
+<!-- chart made of lines -->
+<string name="line_chart">Сатри нақшаи</string>
+<string name="low_calory">Сатњи пасти (дар поён ҳуқуқӣ)</string>
+<string name="male">Мард</string>
+<string name="medium_calory">Сатҳи миёна (дар атрофи ҳуқуқӣ)</string>
+<string name="menu_title">Меню</string>
+<string name="month">Моҳ</string>
+<string name="month_graph_title">Истеъмоли ҳармоҳа</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">Омори ҳармоҳа</string>
+<string name="new_record">Оё шумо мехоҳед, ки ба тоза кардани ҳамаи вурудоти ва оғози сабти нав?</string>
+<string name="no_data">Иттилоот дастрас нест барои оянда интихобшуда</string>
+<string name="num_days">Шумораи рӯзҳое, ки бо истеъмоли машруботи</string>
+<string name="ok">Хуб</string>
+<string name="opinion">Фикр</string>
+<string name="percent_alcohol">Фоизи машрубот</string>
+<string name="pick_amount">Ҳаҷми</string>
+<string name="pick_type">Намуди шаробе</string>
+<!-- app being short for application -->
+<string name="rate_app">Rate ин барнома!</string>
+<string name="save_close">Захира ва пӯшида</string>
+<string name="settings">Танзимот</string>
+<string name="sex">Ҷинси шумо</string>
+<string name="sober_time">Шумо пурра дар ҳушьёр</string>
+<string name="standard_unit">(Воҳиди = 10g машруботи холис)</string>
+<string name="that_is">Ки дар</string>
+<string name="total_consumption">Истеъмоли умумии</string>
+<string name="type_name">Label аз шаробе</string>
+<string name="unit">Воҳиди ҳаҷми</string>
+<string name="veryhigh_calory">Сатҳи хеле баланд аст (хеле боло ҳуқуқӣ)</string>
+<string name="warning">Огоҳӣ!</string>
+<string name="weight">Вазни худ</string>
+<string name="choose_theme">Интихоб ранги</string>
+<string name="wine">Вино</string>
+<string name="light">Равшан</string>
+<string name="dark">Торик</string>
+<string name="promile">Як-мил</string>
+<string name="alc_level">Сатҳи машрубот</string>
+<string name="stats">Омори</string>
+<string name="def_name">Номи пешфарз</string>
+<string name="ad_phrase1">Тафтиши сатҳи машрубот бо телефони худ.</string>
+<string name="ad_phrase2">Тафтиш кунед агар шумо қонунӣ метавонанд биронанд.</string>
+<string name="ad_phrase3">Номи пешфарз</string>
+<string-array name="beer_amounts">
+<item>Шиша хеле хурди</item>
+<item>Шиша хурд</item>
+<item>Шиша миёна</item>
+<item>Шиша калон</item>
+<item>Шиша хеле калон</item>
+</string-array>
+<string-array name="units">
+<item>Метрї - милилитрњо (мл)</item>
+<item>Торро бо моеъи ИМА (Оз FL)</item>
+<item>Торро бо моеъи Заманиа (Оз FL)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>Оби Ҷав</item>
+<item>Вино</item>
+<item>Арақ ё ликьор</item>
+<item>Cocktail</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Шиша хеле хурди</item>
+<item>Шиша хурд</item>
+<item>Шиша миёна</item>
+<item>Шиша калон</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Шиша хурд</item>
+<item>Шиша миёна</item>
+<item>Шиша калон</item>
+</string-array>
+</resources>

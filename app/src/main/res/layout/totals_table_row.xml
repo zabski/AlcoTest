@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- These components will be dynamically created
+and added to the ScrollView -->
+
+	 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	     	android:layout_width="match_parent"
+		    android:layout_height="wrap_content"      	              
+	        android:orientation="horizontal"> 
+
+<!-- TableRow 
+    android:id="@+id/stockQuoteRow"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"    
+    android:padding="0dp">
+    
+ <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"        
+        android:padding="0dp"
+        android:orientation="horizontal"-->                     
+	        
+		    <TextView
+		        android:id="@+id/tvFoodType"
+		        android:layout_width="@dimen/table_l"
+		        android:layout_height="wrap_content"
+		        android:layout_gravity="left"
+		        android:layout_span="2"
+		        
+		        android:gravity="left"		        
+		        android:textSize="@dimen/text_s"
+
+		        android:textIsSelectable="false" />
+		    
+
+		    
+	 <!--LinearLayout
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+	        android:background="@drawable/list_row"
+	        android:padding="0dp"
+	        android:orientation="horizontal"--> 
+		    
+		    
+		    <TextView
+		        android:id="@+id/tvAmount"
+		        android:layout_width="@dimen/table_m"
+		        android:layout_height="wrap_content"
+		        android:layout_span="2"
+		        android:layout_gravity="left"
+		        android:gravity="center"
+		        android:textSize="@dimen/text_s"
+		        android:text="total"
+		        
+		        android:textIsSelectable="false"
+		         />
+		    
+		    <!--android:textColor="@color/black"-->
+		    
+	 <!--LinearLayout
+	     	android:layout_width="match_parent"
+		    android:layout_height="wrap_content"      
+	        android:layout_gravity="right"
+	        android:gravity="right"	        
+	        android:orientation="horizontal"> 
+		    
+			    		
+    
+    </LinearLayout>
+
+</TableRow-->
+
+<TextView
+			    android:id="@+id/tvRDI"			    
+			    android:layout_width="@dimen/table_s"
+		        android:layout_height="wrap_content"
+			    android:layout_gravity="left"			    
+			    android:gravity="right"
+			    android:text="@string/daily_value"
+			    android:textSize="@dimen/text_s"
+			    android:textAppearance="?android:attr/textAppearanceSmall"
+
+			    android:textIsSelectable="false" />
+
+	<!--android:textColor="@color/black"-->
+
+<TextView
+			    android:id="@+id/tvBar"			    
+			    android:layout_width="wrap_content"
+		        android:layout_height="20dp"
+			    android:layout_gravity="left|center_vertical"	
+			    android:layout_marginLeft="5dp"		    
+			    android:gravity="right"
+			    android:text=""
+			    android:background="@color/azure"
+
+			    android:textIsSelectable="false" />
+
+		<!--android:textColor="@color/black"-->
+			    
+</LinearLayout>

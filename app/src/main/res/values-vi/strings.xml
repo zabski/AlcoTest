@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Thêm uống</string>
+<string name="add_favorite">Thêm vào mục yêu thích</string>
+<string name="age">Tuổi của bạn</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">Tất cả các con số trong đơn vị uống chuẩn</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">Nội dung của rượu trong máu</string>
+<string name="avg_consumption">Tiêu thụ trung bình hàng ngày</string>
+<string name="bac_graph">Biểu đồ mức độ của bạn rượu</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">Giản đồ</string>
+<string name="cancel">Hủy bỏ</string>
+<string name="change_time">Thay đổi thời gian</string>
+<string name="charts">Mức độ hiện tại của rượu</string>
+<string name="clear_all">Xóa tất cả và bắt đầu đăng ký mới</string>
+<!-- Short from Configuration -->
+<string name="config">Cấu hình</string>
+<string name="consumption">Tiêu thụ của bạn</string>
+<string name="consumption_time">Thời gian tiêu thụ</string>
+<string name="current_alc">Mức độ hiện tại của rượu</string>
+<string name="default_name">Thiết lập mặc định tên</string>
+<string name="default_percent">Tỷ lệ mặc định</string>
+<string name="del_item">Bạn có muốn xóa?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">Registry tiêu thụ</string>
+<string name="diary_added">Uống thêm vào registry của bạn</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">Số liệu thống kê hàng tháng</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">Registry hiện tại của bạn tiêu thụ</string>
+<string name="dont_drive">Không bao giờ lái xe sau khi uống rượu!</string>
+<string name="drink_label">Label của thức uống</string>
+<string name="edit_name">Sửa tên</string>
+<string name="exit">Lối ra</string>
+<string name="favorites">Favorites</string>
+<string name="favorite_hint">Tìm kiếm trong mục yêu thích</string>
+<string name="fav_added">Uống thêm vào mục yêu thích</string>
+<string name="feedback">Đưa ra ý kiến ​​của bạn</string>
+<string name="feedback_prompt">Xin chào, bạn muốn gửi cho chúng tôi ý kiến ​​của bạn, để chúng tôi có thể cải thiện ứng dụng này cho bạn?</string>
+<string name="female">Nữ</string>
+<string name="fully_sober">Bạn hoàn toàn tỉnh táo</string>
+<string name="go_to_menu">Chấp nhận và đóng</string>
+<string name="height">Chiều cao của bạn</string>
+<string name="help">Giúp</string>
+<!-- app being short for application -->
+<string name="help_translate">Giúp dịch sang ứng dụng này</string>
+<string name="high_calory">Mức cao (trên pháp lý)</string>
+<string name="info">Thông tin</string>
+<string name="information_1">Vào cài đặt và nhập dữ liệu của bạn: trọng lượng, quan hệ tình dục và các nội dung pháp lý của rượu trong máu khi lái xe trong nước hoặc tỉnh bạn. Lưu và đóng.</string>
+<string name="information_2">Mỗi lần, khi bạn tiêu thụ một thức uống, bạn nên thêm nó vào registry của bạn tiêu thụ. Bạn có thể thiết lập loại, khối lượng và tỷ lệ phần trăm của rượu đối với từng uống. Bạn cũng có thể nhập vào thời gian tiêu thụ, theo mặc định nó được thiết lập để thời gian hiện tại. Đối với các loại cocktail, bạn nên nhập vào chỉ là số tiền của vodka (hoặc rượu khác), được chứa trong các thức uống.</string>
+<string name="information_3">Để đẩy nhanh quá trình này, bạn có thể tiết kiệm nước uống trong thư mục yêu thích, dưới một cái tên của sự lựa chọn của bạn. Sau khi uống được lưu trong mục yêu thích, bạn có thể thêm nó vào registry của bạn tiêu thụ, bởi chỉ cần một cú nhấp chuột.</string>
+<string name="information_4">Ở đây bạn có thể xem xét và sửa đổi registry hiện tại của bạn tiêu thụ. Bằng cách nhấn \ "info \" nút, bạn sẽ có thể để xem xét chi tiết của thức uống chọn và thêm nó vào registry của bạn một lần nữa.</string>
+<string name="information_5">Mức độ hiện tại của bạn bằng cách hiển thị rượu sẽ và cập nhật trong thời gian thực, cùng với khoảng thời gian cần thiết để có được đầy đủ tỉnh táo và tỉnh táo một cách hợp pháp (theo mức độ pháp lý của rượu trong khi lái xe trong nước hoặc tỉnh bạn). Biểu đồ hình dung nội dung của bạn trong rượu, trong thời gian qua và vài giờ sắp tới (nhãn ở phía dưới cho thấy đầy đủ giờ). Đường màu đỏ cho thấy mức độ pháp lý của rượu. Bạn có thể lựa chọn giữa biểu đồ đường thẳng và biểu đồ bar.</string>
+<string name="information_6">Bạn có thể theo dõi tiêu thụ hàng ngày của rượu (thu thập từ hồ sơ quá khứ) và thống kê xem xét như tổng và trung bình tiêu thụ. Mỗi ngày được đại diện bởi một thanh biểu đồ, nhãn trên bên trái cho thấy các đơn vị của rượu tiêu thụ (1 đơn vị = 10 ml rượu nguyên chất). Mũi tên sẽ cho phép bạn điều hướng với các tháng khác.</string>
+<string name="information_7">Màu sắc của các dấu chấm, nằm gần với mức của rượu và màu sắc của quầy bar trong sơ đồ, sẽ được thay đổi, theo mức độ hiện tại của rượu. Ý nghĩa của màu sắc được giải thích dưới đây.</string>
+<string name="information_8">Ứng dụng này không cung cấp thực (real) trình độ của bạn của rượu trong máu, nhưng là một ước tính dựa trên một công thức toán học. Nội dung của rượu trong máu phụ thuộc vào nhiều yếu tố, trong đó không bao gồm trong công thức. Mức độ thực tế của rượu trong máu có thể khác với giá trị được cung cấp bởi ứng dụng này.</string>
+<string name="legal_alc">Blood Alcohol Nội dung pháp ở quốc gia / tỉnh bạn</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">Bạn đang tỉnh táo về mặt pháp lý</string>
+<string name="legal_time">Bạn sẽ tỉnh táo một cách hợp pháp tại</string>
+<!-- chart made of lines -->
+<string name="line_chart">Biểu đồ đường</string>
+<string name="low_calory">Mức thấp (dưới pháp lý)</string>
+<string name="male">Nam</string>
+<string name="medium_calory">Mức trung bình (khoảng pháp lý)</string>
+<string name="menu_title">Thực đơn</string>
+<string name="month">Tháng</string>
+<string name="month_graph_title">Tiêu thụ hàng tháng</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">Số liệu thống kê hàng tháng</string>
+<string name="new_record">Bạn có muốn xóa tất cả các mục và bắt đầu đăng ký mới?</string>
+<string name="no_data">Không có dữ liệu có sẵn cho tháng chọn</string>
+<string name="num_days">Số ngày với mức tiêu thụ rượu</string>
+<string name="ok">Được</string>
+<string name="opinion">Ý kiến</string>
+<string name="percent_alcohol">Tỷ lệ phần trăm của rượu</string>
+<string name="pick_amount">Thể tích</string>
+<string name="pick_type">Loại thức uống</string>
+<!-- app being short for application -->
+<string name="rate_app">Xếp hạng ứng dụng này!</string>
+<string name="save_close">Lưu và đóng</string>
+<string name="settings">Cài đặt</string>
+<string name="sex">Quan hệ tình dục của bạn</string>
+<string name="sober_time">Bạn sẽ hoàn toàn tỉnh táo ở</string>
+<string name="standard_unit">(Đơn vị = 10g cồn nguyên chất)</string>
+<string name="that_is">Đó là trong</string>
+<string name="total_consumption">Tổng tiêu thụ</string>
+<string name="type_name">Label của thức uống</string>
+<string name="unit">Đơn vị khối lượng</string>
+<string name="veryhigh_calory">Mức rất cao (cao hơn nhiều so pháp lý)</string>
+<string name="warning">Cảnh báo!</string>
+<string name="weight">Cân nặng của bạn</string>
+<string name="choose_theme">Chọn màu sắc</string>
+<string name="wine">Rượu</string>
+<string name="light">Sáng</string>
+<string name="dark">Tối</string>
+<string name="promile">Mỗi dặm</string>
+<string name="alc_level">Mức độ của rượu</string>
+<string name="stats">Thống kê</string>
+<string name="def_name">Tên mặc định</string>
+<string name="ad_phrase1">Xác nhận mức độ của rượu với điện thoại của bạn.</string>
+<string name="ad_phrase2">Kiểm tra xem bạn có thể lái xe một cách hợp pháp.</string>
+<string name="ad_phrase3">Tên mặc định</string>
+<string-array name="beer_amounts">
+<item>Kính rất nhỏ</item>
+<item>Kính nhỏ</item>
+<item>Kính trung bình</item>
+<item>Kính lớn</item>
+<item>Kính rất lớn</item>
+</string-array>
+<string-array name="units">
+<item>Metric - mililít (ml)</item>
+<item>Ounce chất lỏng Mỹ (fl oz)</item>
+<item>Ounce chất lỏng Imperial (fl oz)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>Bia</item>
+<item>Rượu</item>
+<item>Vodka hoặc rượu</item>
+<item>Cốc-tai</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Kính rất nhỏ</item>
+<item>Kính nhỏ</item>
+<item>Kính trung bình</item>
+<item>Kính lớn</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Kính nhỏ</item>
+<item>Kính trung bình</item>
+<item>Kính lớn</item>
+</string-array>
+</resources>

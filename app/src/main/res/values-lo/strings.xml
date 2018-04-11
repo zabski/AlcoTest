@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">ຕື່ມ​ການ​ເຄື່ອງ​ດື່ມ</string>
+<string name="add_favorite">ຕື່ມ​ການ​ໃຫ້​ຫຼິ້ນ</string>
+<string name="age">ອາ​ຍຸ​ສູງ​ສຸດ​ຂອງ​ທ່ານ</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">ຈໍາ​ນວນ​ທັງ​ຫມົດ​ຢູ່​ໃນ​ຫນ່ວຍ​ເຄື່ອງ​ດື່ມ​ມາດ​ຕະ​ຖານ</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">ເນື້ອ​ໃນ​ຂອງ​ເຫຼົ້າ​ໃນ​ເລືອດ</string>
+<string name="avg_consumption">ການ​ບໍ​ລິ​ໂພກ​ສະ​ເລ່ຍ​ປະ​ຈໍາ</string>
+<string name="bac_graph">ໃນ​ຕາ​ຕະ​ລາງ​ຂອງ​ການ​ລະ​ດັບ​ຂອງ​ທ່ານ​ຂອງ​ເຫຼົ້າ</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">ແຜນ​ວາດ</string>
+<string name="cancel">ຍົກ​ເລີກ​ການ</string>
+<string name="change_time">ທີ່​ໃຊ້​ເວ​ລາ​ການ​ປ່ຽນ​ແປງ</string>
+<string name="charts">ໃນ​ລະ​ດັບ​ປະ​ຈຸ​ບັນ​ຂອງ​ທ່ານ​ເຫຼົ້າ</string>
+<string name="clear_all">ອະ​ນາ​ໄມ​ທັງ​ຫມົດ​ແລະ​ເລີ່ມ​ຕົ້ນ​ການ​ຈົດ​ທະ​ບຽນ​ໃຫມ່</string>
+<!-- Short from Configuration -->
+<string name="config">ການ​ຕັ້ງ​ຄ່າ</string>
+<string name="consumption">ການ​ບໍ​ລິ​ໂພກ​ຂອງ​ທ່ານ</string>
+<string name="consumption_time">ທີ່​ໃຊ້​ເວ​ລາ​ຂອງ​ການ​ບໍ​ລິ​ໂພກ</string>
+<string name="current_alc">ໃນ​ລະ​ດັບ​ປະ​ຈຸ​ບັນ​ຂອງ​ທ່ານ​ເຫຼົ້າ</string>
+<string name="default_name">ຕັ້ງ​ຄ່າ​ໃຫ້​ເປັນ​ຊື່</string>
+<string name="default_percent">ອັດ​ຕາ​ສ່ວນ​ມາດ​ຕະ​ຖານ</string>
+<string name="del_item">ທ່ານ​ຕ້ອງ​ການ​ລຶບ​ລາຍ​ການ​?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">ຈົດ​ທະ​ບຽນ​ຂອງ​ການ​ບໍ​ລິ​ໂພກ</string>
+<string name="diary_added">ດື່ມ​ເພີ່ມ​ການ​ຈົດ​ທະ​ບຽນ​ຂອງ​ທ່ານ</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">ສະ​ຖິ​ຕິ​ປະ​ຈໍາ​ເດືອນ</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">ການ​ຈົດ​ທະ​ບຽນ​ໃນ​ປະ​ຈຸ​ບັນ​ຂອງ​ທ່ານ​ການ​ບໍ​ລິ​ໂພກ</string>
+<string name="dont_drive">ບໍ່​ເຄີຍ​ຂັບ​ຫຼັງ​ຈາກ​ດື່ມ​ເຫຼົ້າ​!</string>
+<string name="drink_label">Label ຂອງ​ການ​ດື່ມ</string>
+<string name="edit_name">ຊື່​ການ​ແກ້​ໄຂ</string>
+<string name="exit">ການ​ທ່ອງ​ທ່ຽວ</string>
+<string name="favorites">Favorites</string>
+<string name="favorite_hint">ຄົ້ນ​ຫາ​ໃນ​ໂປດ</string>
+<string name="fav_added">ເຄື່ອງ​ດື່ມ​ເພີ່ມ​ຫຼິ້ນ</string>
+<string name="feedback">ໃຫ້​ຄວາມ​ຄິດ​ເຫັນ​ຂອງ​ທ່ານ</string>
+<string name="feedback_prompt">ສະ​ບາຍ​ດີ​, ທ່ານ​ຕ້ອງ​ການ​ທີ່​ຈະ​ສົ່ງ​ໃຫ້​ພວກ​ເຮົາ​ມີ​ຄວາມ​ຄິດ​ເຫັນ​ຂອງ​ທ່ານ​, ດັ່ງ​ນັ້ນ​ພວກ​ເຮົາ​ສາ​ມາດ​ປັບ​ປຸງ​ຄໍາ​ຮ້ອງ​ສະ​ຫມັກ​ສໍາ​ລັບ​ທ່ານ​ນີ້​?</string>
+<string name="female">ແມ່​ຍິງ</string>
+<string name="fully_sober">ທ່ານ​ມີ sober ຢ່າງ​ເຕັມ​ສ່ວນ</string>
+<string name="go_to_menu">ຍອມ​ຮັບ​ແລະ​ປິດ</string>
+<string name="height">ລະ​ດັບ​ຄວາມ​ສູງ​ຂອງ​ທ່ານ</string>
+<string name="help">ຊ່ວຍ​ເຫຼືອ</string>
+<!-- app being short for application -->
+<string name="help_translate">ຊ່ວຍ​ເຫຼືອ​ແປ​ຄໍາ​ຮ້ອງ​ສະ​ຫມັກ​ນີ້</string>
+<string name="high_calory">ໃນ​ລະ​ດັບ​ສູງ (ຂ້າງ​ເທິງ​ດ້ານ​ກົດ​ຫມາຍ​)</string>
+<string name="info">ຂໍ້​ມູນ​ຂ່າວ​ສານ</string>
+<string name="information_1">ໄປ​ການ​ຕັ້ງ​ຄ່າ​ແລະ​ປ້ອນ​ຂໍ້​ມູນ​ຂອງ​ທ່ານ​: ນ​້​ໍ​າ​, ການ​ຮ່ວມ​ເພດ​ແລະ​ເນື້ອ​ຫາ​ທາງ​ດ້ານ​ກົດ​ຫມາຍ​ຂອງ​ເຫຼົ້າ​ໃນ​ເລືອດ​ໃນ​ຂະ​ນະ​ທີ່​ຂັບ​ລົດ​ຢູ່​ໃນ​ປະ​ເທດ​ຫລື​ແຂວງ​​​ຂອງ​ທ່ານ​. ບັນ​ທຶກ​ແລະ​ປິດ​.</string>
+<string name="information_2">ທີ່​ໃຊ້​ເວ​ລາ​ແຕ່​ລະ​ຄົນ​, ໃນ​ເວ​ລາ​ທີ່​ທ່ານ​ບໍ​ລິ​ໂພກ​ເຄື່ອງ​ດື່ມ​, ທ່ານ​ຄວນ​ຈະ​ຕື່ມ​ໃຫ້​ຈິດ​ຂອງ​ທ່ານ​ບໍ​ລິ​ໂພກ​. ທ່ານ​ສາ​ມາດ​ກໍາ​ນົດ​ປະ​ເພດ​, ປະ​ລິ​ມານ​ແລະ​ອັດ​ຕາ​ສ່ວນ​ຂອງ​ເຫຼົ້າ​ສໍາ​ລັບ​ເຄື່ອງ​ດື່ມ​ແຕ່​ລະ​ຄົນ​. ນອກ​ນັ້ນ​ທ່ານ​ຍັງ​ສາ​ມາດ​ເຂົ້າ​ທີ່​ໃຊ້​ເວ​ລາ​ຂອງ​ການ​ບໍ​ລິ​ໂພກ​, ໂດຍ​ເລີ່ມ​ຕົ້ນ​ມັນ​ຈະ​ໃຊ້​ເວ​ລາ​ປະ​ຈຸ​ບັນ​. ສໍາ​ລັບ​ການ cocktails​, ທ່ານ​ຄວນ​ເຂົ້າ​ພຽງ​ແຕ່​ຈໍາ​ນວນ​ເງິນ​ຂອງ vodka (ຫຼື​ເຫຼົ້າ​ອື່ນໆ​)​, ​​ຊຶ່ງ​ບັນ​ຈຸ​ຢູ່​ໃນ​ເຄື່ອງ​ດື່ມ​ໄດ້​.</string>
+<string name="information_3">ເພື່ອ​ເລັ່ງ​ຂະ​ບວນ​ການ​, ທ່ານ​ສາ​ມາດ​ຊ່ວຍ​ປະ​ຢັດ​ເຄື່ອງ​ດື່ມ​ໃນ​ໂຟ​ເດີ​ໂປດ​, ພາຍ​ໃຕ້​ຊື່​ຂອງ​ການ​ເລືອກ​ຂອງ​ທ່ານ​. ຫຼັງ​ຈາກ​ເຄື່ອງ​ດື່ມ​ແມ່ນ​ໄດ້​ບັນ​ທຶກ​ໄວ້​ໃນ favorite​, ທ່ານ​ສາ​ມາດ​ເພີ່ມ​ການ​ຈົດ​ທະ​ບຽນ​ຂອງ​ທ່ານ​ການ​ບໍ​ລິ​ໂພກ​, ໂດຍ​ພຽງ​ແຕ່​ຫນຶ່ງ​ຄລິກ​.</string>
+<string name="information_4">ໃນ​ທີ່​ນີ້​ທ່ານ​ສາ​ມາດ​ກວດ​ສອບ​ແລະ​ແກ້​ໄຂ​ຈິດ​ປັດ​ຈຸ​ບັນ​ການ​ບໍ​ລິ​ໂພກ​. ໂດຍ​ການ​ຄລິກ \ "ຂໍ້​ມູນ \​" ປຸ່ມ​, ທ່ານ​ຈະ​ສາ​ມາດ​ກວດ​ສອບ​ລາຍ​ລະ​ອຽດ​ຂອງ​ເຄື່ອງ​ດື່ມ​ທີ່​ໄດ້​ຮັບ​ຄັດ​ເລືອກ​ແລະ​ເພີ່ມ​ມັນ​ກັບ​ການ​ຈົດ​ທະ​ບຽນ​ຂອງ​ທ່ານ​ອີກ​ເທື່ອ​ຫນຶ່ງ​.</string>
+<string name="information_5">ໃນ​ລະ​ດັບ​ປະ​ຈຸ​ບັນ​ຂອງ​ທ່ານ​ແອນ​ກໍ​ຮໍ​ຈະ​ສະ​ແດງ​ແລະ​ການ​ປັບ​ປຸງ​ໃນ​ທີ່​ໃຊ້​ເວ​ລາ​ທີ່​ແທ້​ຈິງ​, ຄຽງ​ຄູ່​ກັບ​ການ​ໄລ​ຍະ​ເວ​ລາ​ຂອງ​ການ​ທີ່​ໃຊ້​ເວ​ລາ​ຈໍາ​ເປັນ​ເພື່ອ​ໃຫ້​ໄດ້​ຮັບ​ຢ່າງ​ເຕັມ​ສ່ວນ sober ແລະ sober ຕາມ​ກົດ​ຫມາຍ (ຕາມ​ລະ​ດັບ​ທາງ​ດ້ານ​ກົດ​ຫມາຍ​ຂອງ​ເຫຼົ້າ​ໃນ​ຂະ​ນະ​ທີ່​ຂັບ​ລົດ​ຢູ່​ໃນ​ປະ​ເທດ​ຫຼື​ແຂວງ​​​ຂອງ​ທ່ານ​)​. ອັນ​ດັບ​ໄດ​ເນື້ອ​ໃນ​ຂອງ​ເຫຼົ້າ​ຂອງ​ທ່ານ​, ໃນ​ໄລ​ຍະ​ທີ່​ຜ່ານ​ມາ​ບໍ່​ດົນ​ມາ​ນີ້​ແລະ​ຊົ່ວ​ໂມງ​ບໍ່​ຫຼາຍ​ປານ​ໃດ​ທີ່​ຈະ​ເກີດ​ຂຶ້ນ (ປ້າຍ​ຢູ່​ທາງ​ລຸ່ມ​ໄດ້​ຊີ້​ຊົ່ວ​ໂມງ​ເຕັມ​)​. ເສັ້ນ​ສີ​ແດງ​ສະ​ແດງ​ເຖິງ​ລະ​ດັບ​ທາງ​ດ້ານ​ກົດ​ຫມາຍ​ຂອງ​ເຫຼົ້າ​. ທ່ານ​ສາ​ມາດ​ເລືອກ​ລະ​ຫວ່າງ​ແຜນ​ການ​ແລະ​ອັນ​ດັບ​ບາ​.</string>
+<string name="information_6">ທ່ານ​ສາ​ມາດ​ຕິດ​ຕາມ​ການ​ບໍ​ລິ​ໂພກ​ປະ​ຈໍາ​ວັນ​ຂອງ​ທ່ານ​ຂອງ​ເຫຼົ້າ (ເກັບ​ກໍາ​ຂໍ້​ມູນ​ຈາກ​ບັນ​ທຶກ​ທີ່​ຜ່ານ​ມາ​) ແລະ​ສະ​ຖິ​ຕິ​ການ​ທົບ​ທວນ​ຄືນ​ເຊັ່ນ​ຈໍາ​ນວນ​ທັງ​ຫມົດ​ແລະ​ໂດຍ​ສະ​ເລ່ຍ​ບໍ​ລິ​ໂພກ​. ໃນ​ແຕ່​ລະ​ມື້​ແມ່ນ​ເປັນ​ຕົວ​ແທນ​ໂດຍ​ທະ​ນາຍ​ຄວາມ​ຂອງ​ຕາ​ຕະ​ລາງ​, ປ້າຍ​ສຸດ​ເບື້ອງ​ຊ້າຍ​ຊີ້​ບອກ​ຫົວ​ຫນ່ວຍ​ຂອງ​ການ​ບໍ​ລິ​ໂພກ​ເຫຼົ້າ (1 ຫນ່ວຍ​ບໍ​ລິ​ການ 10 ມິ​ລີ​ລີດ​ຂອງ​ເຫຼົ້າ​ບໍ​ລິ​ສຸດ​)​. ຕ້ອງ​ການ​ຂາຍ​ຈະ​ຊ່ວຍ​ໃຫ້​ທ່ານ​ທ່ອງ​ໄປ​ຫາ​ເດືອນ​ອື່ນໆ​.</string>
+<string name="information_7">ສີ​ຂອງ dot​, ທີ່​ຕັ້ງ​ຢູ່​ໃກ້​ກັບ​ລະ​ດັບ​ຂອງ​ເຫຼົ້າ​ແລະ​ສີ​ສັນ​ຂອງ bars ໃນ​ແຜນ​ວາດ​, ຈະ​ໄດ້​ຮັບ​ການ​ປ່ຽນ​ແປງ​, ຕາມ​ລະ​ດັບ​ປະ​ຈຸ​ບັນ​ຂອງ​ທ່ານ​ຂອງ​ເຫຼົ້າ​. ຄວາມ​ຫມາຍ​ຂອງ​ສີ​ທີ່​ໄດ້​ອະ​ທິ​ບາຍ​ຂ້າງ​ລຸ່ມ​ນີ້​.</string>
+<string name="information_8">ຄໍາ​ຮ້ອງ​ສະ​ຫມັກ​ນີ້​ບໍ່​ໄດ້​ໃຫ້​ການ​ຕົວ​ຈິງ​ລະ​ດັບ​ຂອງ​ທ່ານ (ທີ່​ແທ້​ຈິງ​) ຂອງ​ເຫຼົ້າ​ໃນ​ເລືອດ​, ແຕ່​ການ​ຄາດ​ຄະ​ເນ​ໂດຍ​ອີງ​ໃສ່​ສູດ​ຢຸ່ນ​ເປັນ​. ເນື້ອ​ໃນ​ຂອງ​ເຫຼົ້າ​ໃນ​ເລືອດ​ແມ່ນ​ຂຶ້ນ​ກັບ​ຫຼາຍ​ປັດ​ໄຈ​ທີ່​ບໍ່​ໄດ້​ລວມ​ຢູ່​ໃນ​ສູດ​ໄດ້​. ລະ​ດັບ​ຕົວ​ຈິງ​ຂອງ​ທ່ານ​ຂອງ​ເຫຼົ້າ​ໃນ​ເລືອດ​ອາດ​ຈະ​ແຕກ​ຕ່າງ​ຈາກ​ມູນ​ຄ່າ​ສະ​ຫນອງ​ໃຫ້​ໂດຍ​ຄໍາ​ຮ້ອງ​ສະ​ຫມັກ​ນີ້​.</string>
+<string name="legal_alc">ເນື້ອ​ໃນ​ເຫຼົ້າ​ເລືອດ​ກົດ​ຫມາຍ​ຢູ່​ໃນ​ປະ​ເທດ / ແຂວງ​​​ຂອງ​ທ່ານ</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">ທ່ານ​ມີ sober ຕາມ​ກົດ​ຫມາຍ</string>
+<string name="legal_time">ທ່ານ​ຈະ sober ຕາມ​ກົດ​ຫມາຍ​ຢູ່</string>
+<!-- chart made of lines -->
+<string name="line_chart">ອັນ​ດັບ Line</string>
+<string name="low_calory">ໃນ​ລະ​ດັບ​ຕ​່​ໍາ (ດ້ານ​ຮ່າງ​ກົດ​ຫມາຍ​)</string>
+<string name="male">ຜູ້​ຊາຍ</string>
+<string name="medium_calory">ລະ​ດັບ​ປານ​ກາງ (ປະ​ມານ​ທາງ​ດ້ານ​ກົດ​ຫມາຍ​)</string>
+<string name="menu_title">ເມ​ນູ</string>
+<string name="month">ເດືອນ</string>
+<string name="month_graph_title">ການ​ບໍ​ລິ​ໂພກ​ປະ​ຈໍາ​ເດືອນ</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">ສະ​ຖິ​ຕິ​ປະ​ຈໍາ​ເດືອນ</string>
+<string name="new_record">ທ່ານ​ຕ້ອງ​ການ​ເພື່ອ​ອະ​ນາ​ໄມ​ຍະ​ການ​ທັງ​ຫມົດ​ແລະ​ການ​ເລີ່ມ​ຕົ້ນ​ການ​ຈົດ​ທະ​ບຽນ​ໃຫມ່​?</string>
+<string name="no_data">ບໍ່​ມີ​ຂໍ້​ມູນ​ສໍາ​ລັບ​ເດືອນ​ທີ່​ເລືອກ</string>
+<string name="num_days">ຈໍາ​ນວນ​ມື້​ທີ່​ມີ​ການ​ບໍ​ລິ​ໂພກ​ເຫຼົ້າ</string>
+<string name="ok">Okay</string>
+<string name="opinion">ຄວາມ​ຄິດ​ເຫັນ</string>
+<string name="percent_alcohol">ອັດ​ຕາ​ສ່ວນ​ຂອງ​ເຫຼົ້າ</string>
+<string name="pick_amount">ປະ​ລິ​ມານ​ການ</string>
+<string name="pick_type">ປະ​ເພດ​ຂອງ​ເຄື່ອງ​ດື່ມ</string>
+<!-- app being short for application -->
+<string name="rate_app">ອັດ​ຕາ​ການ​ຄໍາ​ຮ້ອງ​ສະ​ຫມັກ​ນີ້​!</string>
+<string name="save_close">ບັນ​ທຶກ​ແລະ​ປິດ</string>
+<string name="settings">ການ​ຕັ້ງ​ຄ່າ</string>
+<string name="sex">ການ​ຮ່ວມ​ເພດ​ຂອງ​ທ່ານ</string>
+<string name="sober_time">ທ່ານ​ຈະ​ຢ່າງ​ເຕັມ​ສ່ວນ​ທີ່ sober</string>
+<string name="standard_unit">(ຫນ່ວຍ​ບໍ​ລິ​ການ = 10g ຂອງ​ເຫຼົ້າ​ບໍ​ລິ​ສຸດ​)</string>
+<string name="that_is">ທີ່​ເປັນ​ຢູ່​ໃນ</string>
+<string name="total_consumption">ການ​ບໍ​ລິ​ໂພກ​ທັງ​ຫມົດ</string>
+<string name="type_name">Label ຂອງ​ການ​ດື່ມ</string>
+<string name="unit">ຫນ່ວຍ​ບໍ​ລິ​ການ​ຂອງ​ປະ​ລິ​ມານ</string>
+<string name="veryhigh_calory">ໃນ​ລະ​ດັບ​ທີ່​ສູງ​ຫຼາຍ (ຫຼາຍ​ຂ້າງ​ເທິງ​ນີ້​ກົດ​ຫມາຍ​)</string>
+<string name="warning">ການ​ເຕືອນ​ໄພ​!</string>
+<string name="weight">ນ​້​ໍາ​ຫນັກ​ຂອງ​ທ່ານ</string>
+<string name="choose_theme">ເລືອກ​ສີ</string>
+<string name="wine">ເຫລົ້າ​ທີ່​ເຮັດ​ຈາກ</string>
+<string name="light">ສົດ​ໃສ</string>
+<string name="dark">ຊ​້​ໍ​າ</string>
+<string name="promile">ຕໍ່​ໄມ</string>
+<string name="alc_level">ໃນ​ລະ​ດັບ​ຂອງ​ເຫຼົ້າ</string>
+<string name="stats">ສະ​ຖິ​ຕິ</string>
+<string name="def_name">ຖານ</string>
+<string name="ad_phrase1">ກວດ​ສອບ​ໃນ​ລະ​ດັບ​ຂອງ​ເຫຼົ້າ​ກັບ​ໂທລະ​ສັບ​ຂອງ​ທ່ານ​.</string>
+<string name="ad_phrase2">ກວດ​ສອບ​ການ​ຖ້າ​ຫາກ​ວ່າ​ທ່ານ​ຕາມ​ກົດ​ຫມາຍ​ສາ​ມາດ​ຂັບ​.</string>
+<string name="ad_phrase3">ຖານ</string>
+<string-array name="beer_amounts">
+<item>ແກ້ວ​ຂະ​ຫນາດ​ນ້ອຍ​ຫຼາຍ</item>
+<item>ແກ້ວ​ຂະ​ຫນາດ​ນ້ອຍ</item>
+<item>ແກ້ວ​ຂະ​ຫນາດ​ກາງ</item>
+<item>ແກ້ວ​ຂະ​ຫນາດ​ໃຫຍ່</item>
+<item>ແກ້ວ​ຂະ​ຫນາດ​ໃຫຍ່​ຫຼາຍ</item>
+</string-array>
+<string-array name="units">
+<item>Metric - ມິ​ລີ​ລີດ (ml​)</item>
+<item>ນ​້​ໍ​າ​ອອນ US (oz fl​)</item>
+<item>ນ​້​ໍ​າ​ອອນ Imperial (oz fl​)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>ເບຍ</item>
+<item>ເຫລົ້າ​ທີ່​ເຮັດ​ຈາກ</item>
+<item>Vodka ຫຼື​ເຫຼົ້າ</item>
+<item>Cocktail</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>ແກ້ວ​ຂະ​ຫນາດ​ນ້ອຍ​ຫຼາຍ</item>
+<item>ແກ້ວ​ຂະ​ຫນາດ​ນ້ອຍ</item>
+<item>ແກ້ວ​ຂະ​ຫນາດ​ກາງ</item>
+<item>ແກ້ວ​ຂະ​ຫນາດ​ໃຫຍ່</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>ແກ້ວ​ຂະ​ຫນາດ​ນ້ອຍ</item>
+<item>ແກ້ວ​ຂະ​ຫນາດ​ກາງ</item>
+<item>ແກ້ວ​ຂະ​ຫນາດ​ໃຫຍ່</item>
+</string-array>
+</resources>

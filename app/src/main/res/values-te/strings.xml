@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">పానీయం జోడించండి</string>
+<string name="add_favorite">ఇష్టమైన జోడించండి</string>
+<string name="age">మీ వయస్సు</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">ప్రామాణిక పానీయం యూనిట్లలో అన్ని సంఖ్యలు</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">రక్తంలో మద్యం కంటెంట్</string>
+<string name="avg_consumption">సగటు రోజువారీ వినియోగం</string>
+<string name="bac_graph">మద్యం మీ స్థాయి చార్ట్</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">రేఖాచిత్రం</string>
+<string name="cancel">రద్దు</string>
+<string name="change_time">మార్చు సమయం</string>
+<string name="charts">మద్యం మీ ప్రస్తుత స్థాయి</string>
+<string name="clear_all">అన్ని క్లియర్ మరియు కొత్త రిజిస్ట్రీ మొదలు</string>
+<!-- Short from Configuration -->
+<string name="config">ఆకృతీకరణ</string>
+<string name="consumption">మీ వినియోగం</string>
+<string name="consumption_time">వినియోగ సమయం</string>
+<string name="current_alc">మద్యం మీ ప్రస్తుత స్థాయి</string>
+<string name="default_name">పేరు అమర్చబడుతుందిడిఫాల్ట్</string>
+<string name="default_percent">డిఫాల్ట్ శాతం</string>
+<string name="del_item">మీరు అంశాన్ని తొలగించాలని అనుకుంటున్నారా?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">వినియోగ రిజిస్ట్రీ</string>
+<string name="diary_added">మీ రిజిస్ట్రీలో జత పానీయం</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">మంత్లీ గణాంకాలు</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">వినియోగం యొక్క మీ ప్రస్తుత రిజిస్ట్రీ</string>
+<string name="dont_drive">మద్యం తాగే తర్వాత నడపడం ఎప్పుడూ!</string>
+<string name="drink_label">పానీయం లేబుల్</string>
+<string name="edit_name">పేరును సవరించు</string>
+<string name="exit">నిష్క్రమించు</string>
+<string name="favorites">ఇష్టాంశాలు</string>
+<string name="favorite_hint">ఇష్టమైన శోధన</string>
+<string name="fav_added">పానీయం ఇష్టాలకు జోడించబడింది</string>
+<string name="feedback">మీ అభిప్రాయం ఇవ్వండి</string>
+<string name="feedback_prompt">హలో, మీరు మేము మీరు ఈ అప్లికేషన్ పెరుగుతుంది కనుక, మీ అభిప్రాయాన్ని మాకు పంపాలనుకున్న?</string>
+<string name="female">పురుషుడు</string>
+<string name="fully_sober">మీరు పూర్తిగా తెలివిగా ఉంటాయి</string>
+<string name="go_to_menu">అంగీకరించు మరియు మూసివేసి</string>
+<string name="height">మీ ఎత్తు</string>
+<string name="help">సహాయం</string>
+<!-- app being short for application -->
+<string name="help_translate">ఈ అప్లికేషన్ అనువదించడానికి సహాయం</string>
+<string name="high_calory">అధిక స్థాయి (చట్టపరమైన పైన)</string>
+<string name="info">సమాచారం</string>
+<string name="information_1">మీ దేశం లేదా ప్రాంతం లో డ్రైవింగ్ అయితే బరువు, సెక్స్ మరియు రక్తంలో మద్యం చట్టపరమైన కంటెంట్: సెట్టింగ్లను మార్చు కు వెళ్ళండి మరియు మీ డేటాను ఎంటర్. సేవ్ మరియు దగ్గరగా.</string>
+<string name="information_2">ప్రతి సమయం, మీరు ఒక పానీయం తినే సమయంలో, మీరు వినియోగ మీ రిజిస్ట్రీ జోడించడానికి ఉండాలి. మీరు ప్రతి పానీయం కోసం రకం, పరిమాణం మరియు మద్యం శాతం సెట్ చేయవచ్చు. ప్రస్తుత సమయం సెట్ అప్రమేయంగా మీరు కూడా వినియోగం సమయాన్ని నమోదు చేయవచ్చు. కాక్టెయిల్స్ను కోసం, మీరు పానీయం ఉన్న వోడ్కా (లేదా ఇతర మద్యాల), కేవలం మొత్తం ఎంటర్ చేయాలి.</string>
+<string name="information_3">ప్రక్రియ త్వరితం చేయడానికి, మీరు మీ ఎంపిక ఒక పేరుతో ఇష్టమైన ఫోల్డర్ లో పానీయాలు సేవ్ చేయవచ్చు. ఒక పానీయం ఇష్టమైన సేవ్ తరువాత, మీరు కేవలం ఒక క్లిక్ ద్వారా వినియోగం మీ రిజిస్ట్రీ జోడించవచ్చు.</string>
+<string name="information_4">ఇక్కడ మీరు సమీక్షించి వినియోగం యొక్క మీ ప్రస్తుత రిజిస్ట్రీ సవరించవచ్చు. బటన్ \ "\ సమాచారం" క్లిక్ చేయడం ద్వారా, మీరు ఎంచుకున్న పానీయం వివరాలు సమీక్షించి మళ్ళీ మీ రిజిస్ట్రీ జోడించడానికి చెయ్యగలరు.</string>
+<string name="information_5">మద్యం మీ ప్రస్తుత స్థాయి (మీ దేశం లేదా ప్రావిన్స్ లో డ్రైవింగ్ అయితే మద్యం చట్టపరమైన స్థాయి ప్రకారం) ప్రదర్శించబడుతుంది మరియు పూర్తిగా తెలివిగా మరియు చట్టబద్ధంగా తెలివిగా పొందడానికి అవసరమైన కాలం పాటు, నిజ సమయంలో నవీకరించబడింది ఉంటుంది. చార్ట్ ఇటీవల కాలంలో మరియు కొన్ని రాబోయే గంటల (లేబుళ్ళు క్రింద పూర్తి గంటల సూచిస్తున్నాయి) సమయంలో మద్యం మీ కంటెంట్, visualizes. రెడ్ లైన్ మద్యం చట్టపరమైన స్థాయి సూచిస్తుంది. మీరు లైన్ చార్ట్ మరియు బార్ చార్ట్ మధ్య ఎంచుకోవచ్చు.</string>
+<string name="information_6">మీ అంత మొత్తం మరియు సగటు వినియోగం (గత రికార్డుల నుండి సేకరించిన) మద్యం మరియు సమీక్ష గణాంకాలు యొక్క మీ రోజువారీ వినియోగం కనుగొనవచ్చు. ప్రతి రోజు చార్ట్ ఒకటి బార్ ప్రాతినిధ్యం వహిస్తుంది, ఎడమ లేబుల్ మద్యం (1 యూనిట్ = స్వచ్ఛమైన మద్యం 10 మిల్లిలీటర్ల) యొక్క యూనిట్లలో సూచిస్తున్నాయి. బాణాలు మీరు ఇతర నెలల నావిగేట్ అనుమతిస్తుంది.</string>
+<string name="information_7">మద్యం మరియు రేఖాచిత్రం బార్లు రంగులు స్థాయిలో దగ్గరగా ఉన్న డాట్, రంగు, మద్యం మీ ప్రస్తుత స్థాయి ప్రకారం, మారుతున్న చేయబడుతుంది. రంగులు యొక్క అర్థం క్రింద వివరించారు.</string>
+<string name="information_8">ఈ అప్లికేషన్ మీ వాస్తవ (నిజ) రక్తంలో మద్యం స్థాయిలో, కానీ ఒక గణిత సూత్రం ఆధారంగా ఒక అంచనా అందించడం లేదు. రక్తంలో మద్యం కంటెంట్ సూత్రం లో చేర్చని కారణాలను, వివిధ ఆధారపడి ఉంటుంది. రక్తంలో మద్యం మీ అసలు స్థాయి ఈ అప్లికేషన్ ద్వారా అందించిన విలువ బట్టి.</string>
+<string name="legal_alc">మీ దేశం / ప్రాంతం లో లీగల్ బ్లడ్ ఆల్కహాల్ కంటెంట్</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">మీరు చట్టబద్ధంగా తెలివిగా ఉంటాయి</string>
+<string name="legal_time">మీరు వద్ద చట్టబద్ధంగా తెలివిగా ఉంటుంది</string>
+<!-- chart made of lines -->
+<string name="line_chart">లైన్ చార్ట్</string>
+<string name="low_calory">తక్కువ స్థాయి (చట్టపరమైన క్రింద)</string>
+<string name="male">పురుషుడు</string>
+<string name="medium_calory">మీడియం స్థాయి (చట్టపరమైన చుట్టూ)</string>
+<string name="menu_title">మెనూ</string>
+<string name="month">నెల</string>
+<string name="month_graph_title">మంత్లీ వినియోగం</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">మంత్లీ గణాంకాలు</string>
+<string name="new_record">మీరు అన్ని ఎంట్రీలను క్లియర్ మరియు కొత్త రిజిస్ట్రీ మొదలు పెట్టమంటారా?</string>
+<string name="no_data">ఎంచుకున్న నెల డేటా అందుబాటులో లేదు</string>
+<string name="num_days">మద్యం వినియోగం రోజుల సంఖ్య</string>
+<string name="ok">సరే</string>
+<string name="opinion">అభిప్రాయం</string>
+<string name="percent_alcohol">మద్యం శాతం</string>
+<string name="pick_amount">వాల్యూమ్</string>
+<string name="pick_type">పానీయం రకం</string>
+<!-- app being short for application -->
+<string name="rate_app">ఈ అప్లికేషన్ రేటు!</string>
+<string name="save_close">సేవ్ మరియు మూసివేయి</string>
+<string name="settings">సెట్టింగులు</string>
+<string name="sex">మీ సెక్స్</string>
+<string name="sober_time">మీరు పూర్తిగా తెలివిగా ఉంటుంది</string>
+<string name="standard_unit">(యూనిట్ = స్వచ్ఛమైన మద్యం 10G)</string>
+<string name="that_is">ఆ ఉంది</string>
+<string name="total_consumption">మొత్తం వినియోగం</string>
+<string name="type_name">పానీయం లేబుల్</string>
+<string name="unit">వాల్యూమ్ యొక్క యూనిట్</string>
+<string name="veryhigh_calory">చాలా అధిక స్థాయి (ఎక్కువ చట్టపరమైన పైన)</string>
+<string name="warning">హెచ్చరిక!</string>
+<string name="weight">మీ బరువు</string>
+<string name="choose_theme">రంగును ఎంచుకోండి</string>
+<string name="wine">వైన్</string>
+<string name="light">ప్రకాశవంతమైన</string>
+<string name="dark">కృష్ణ</string>
+<string name="promile">ప్రతి మైలు</string>
+<string name="alc_level">మద్యం స్థాయి</string>
+<string name="stats">గణాంకాలు</string>
+<string name="def_name">అప్రమేయ పేరు</string>
+<string name="ad_phrase1">మీ ఫోన్ తో మద్యం స్థాయిలో ధృవీకరించండి.</string>
+<string name="ad_phrase2">మీరు చట్టబద్ధంగా డ్రైవ్ ఉంటే తనిఖీ.</string>
+<string name="ad_phrase3">అప్రమేయ పేరు</string>
+<string-array name="beer_amounts">
+<item>చాలా చిన్న గాజు</item>
+<item>చిన్న గాజు</item>
+<item>మీడియం గాజు</item>
+<item>పెద్ద గాజు</item>
+<item>చాలా పెద్ద గాజు</item>
+</string-array>
+<string-array name="units">
+<item>మెట్రిక్ - మిల్లిలీటర్ల (ఎంఎల్)</item>
+<item>సివంగి సంయుక్త (FL oz)</item>
+<item>సివంగి ఇంపీరియల్ (FL oz)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>బీర్</item>
+<item>వైన్</item>
+<item>వోడ్కా లేదా మద్యపాన</item>
+<item>కాక్టెయిల్</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>చాలా చిన్న గాజు</item>
+<item>చిన్న గాజు</item>
+<item>మీడియం గాజు</item>
+<item>పెద్ద గాజు</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>చిన్న గాజు</item>
+<item>మీడియం గాజు</item>
+<item>పెద్ద గాజు</item>
+</string-array>
+</resources>

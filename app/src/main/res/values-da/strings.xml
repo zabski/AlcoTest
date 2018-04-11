@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Tilføje drik</string>
+<string name="add_favorite">Tilføj til favoritter</string>
+<string name="age">Din alder</string>
+<string name="all_units">Alle numre i Genstand enheder</string>
+<string name="app_name">Indhold af alkohol i blodet</string>
+<string name="avg_consumption">Gennemsnitlige daglige forbrug</string>
+<string name="bac_graph">Diagram af dit niveau af alkohol</string>
+<string name="bar_chart">Søjlediagram</string>
+<string name="cancel">Afbestille</string>
+<string name="change_time">Skift tid</string>
+<string name="charts">Dit nuværende niveau af alkohol</string>
+<string name="clear_all">Rydde alt og start ny administrator</string>
+<string name="config">Konfiguration</string>
+<string name="consumption">Dit forbrug</string>
+<string name="consumption_time">Tid af forbruget</string>
+<string name="current_alc">Dit nuværende niveau af alkohol er</string>
+<string name="default_name">Standard navn</string>
+<string name="default_percent">Standard procent</string>
+<string name="del_item">Ønsker du at slette genstand?</string>
+<string name="diary">Register over forbrug</string>
+<string name="diary_added">Drik tilføjet til din registreringsdatabasen</string>
+<string name="diary_graph">Månedlige statistikker</string>
+<string name="diary_items">Din nuværende register over forbrug</string>
+<string name="dont_drive">Aldrig køre efter at have drukket alkohol!</string>
+<string name="drink_label">Etiket af drikkevaren</string>
+<string name="edit_name">Rediger navn</string>
+<string name="exit">Frakørsel</string>
+<string name="favorites">Favoritter</string>
+<string name="favorite_hint">Søg i favoritter</string>
+<string name="fav_added">Drik tilføjet til favoritter</string>
+<string name="feedback">Giv din mening</string>
+<string name="feedback_prompt">Hej, vil du gerne give os nogle kommentarer, så vi kan forbedre denne ansøgning for dig?</string>
+<string name="female">Kvinde</string>
+<string name="fully_sober">Du er fuldt ædru</string>
+<string name="go_to_menu">Acceptere og lukke</string>
+<string name="height">Din højde</string>
+<string name="help">Hjælpe</string>
+<string name="help_translate">Hjælpe med at oversætte dette program</string>
+<string name="high_calory">Højt niveau (over lovlig)</string>
+<string name="info">Information</string>
+<string name="information_1">Gå til indstillinger for at indtaste dine data: vægt, køn og juridiske indhold af alkohol i blodet, når man kører i dit land eller provins. Gem og luk.</string>
+<string name="information_2">Hver gang, når du forbruge en drik, skal du føje den til din registreringsdatabasen forbrug. Du kan indstille art, mængde og alkoholprocent for hver drik. Du kan også indtaste tid i forbruget, som standard er indstillet til aktuel tid. For cocktails, skal du blot indtaste mængden af vodka (eller andre væsker), som er indeholdt i drikken.</string>
+<string name="information_3">Til at fremskynde processen, kan du gemme drikkevarer i favoritter mappe, under et navn efter eget valg. Efter en drik er gemt i favoritter, kan du føje den til din registreringsdatabasen i forbruget, ved blot et enkelt klik.</string>
+<string name="information_4">Her kan du gennemse og ændre din nuværende register over forbruget. Ved at klikke på knappen "information", vil du være i stand til at gennemgå detaljerne i valgte drik og føje den til din registreringsdatabasen igen.</string>
+<string name="information_5">Dit nuværende niveau af alkohol vil med vises og opdateres i realtid, sammen med tid er nødvendig for at få fuldt ædru og juridisk sober (ifølge juridiske niveau af alkohol, mens man kører i dit land eller provins). Diagrammet visualiserer dit indhold af alkohol, under de seneste fortid og få kommende timer (etiketter nederst angive hele timer). Rød linje angiver juridiske niveau af alkohol. Du kan vælge mellem kurvediagram og søjlediagram.</string>
+<string name="information_6">Du kan spore dit daglige forbrug af alkohol (indsamlet fra tidligere records) og anmeldelse statistik såsom total og gennemsnitlige forbrug. Hver dag er repræsenteret ved en bar af diagrammet, etiketten på venstre angiver enheder af alkohol indtages (1 enhed = 10 milliliter ren alkohol). Pilene vil lade dig navigere til andre måneder.</string>
+<string name="information_7">Farve på prikken, beliggende tæt på niveauet af alkohol og farver af barer i søjlediagram, vil ændre sig, i henhold til din nuværende niveau af alkohol. Betydningen af farver er forklaret nedenfor.</string>
+<string name="information_8">Dette program giver ikke din faktiske (reelle) indhold af alkohol i blodet, men et skøn baseret på en matematisk formel. Indholdet af alkohol i blodet afhænger af mange forskellige faktorer, som ikke er inkluderet i formlen. Din faktiske indhold af alkohol i blodet kan afvige fra den værdi, som denne ansøgning.</string>
+<string name="legal_alc">Juridisk niveau af alkohol i blodet i dit land / provins</string>
+<string name="legal_sober">Du er juridisk ædru</string>
+<string name="legal_time">Vil du være juridisk ædru på</string>
+<string name="line_chart">Kurvediagram</string>
+<string name="low_calory">Lavt niveau (under juridisk)</string>
+<string name="male">Mand</string>
+<string name="medium_calory">Medium niveau (omkring lovlig)</string>
+<string name="menu_title">Menu</string>
+<string name="month">Måned</string>
+<string name="month_graph_title">Månedlige forbrug</string>
+<string name="month_stats">Månedlige statistikker</string>
+<string name="new_record">Ønsker du at slette alle poster og begynde ny administrator?</string>
+<string name="no_data">Ingen tilgængelige data for valgte måned</string>
+<string name="num_days">Antallet af dage med indtagelse af alkohol</string>
+<string name="ok">Okay,</string>
+<string name="opinion">Mening</string>
+<string name="percent_alcohol">Alkoholprocent</string>
+<string name="pick_amount">Vælg lydstyrke</string>
+<string name="pick_type">Vælge type drikkevare</string>
+<string name="rate_app">Bedømme denne ansøgning!</string>
+<string name="save_close">Gemme og lukke</string>
+<string name="settings">Indstillinger</string>
+<string name="sex">Dit køn</string>
+<string name="sober_time">Du vil være helt ædru på</string>
+<string name="standard_unit">(enhed = 10 gram ren alkohol)</string>
+<string name="that_is">Der er i</string>
+<string name="total_consumption">Samlede forbrug</string>
+<string name="type_name">Etiket af drikkevaren</string>
+<string name="unit">Volumenenhed</string>
+<string name="veryhigh_calory">Meget højt niveau (meget over lovlig)</string>
+<string name="warning">ADVARSEL!</string>
+<string name="weight">Din vægt</string>
+<string-array name="beer_amounts">
+<item>Meget lille glas</item>
+<item>Lille glas</item>
+<item>Medium glas</item>
+<item>Stort glas</item>
+<item>Meget stort glas</item>
+</string-array>
+<string-array name="units">
+<item>Metriske - milliliter (ml)</item>
+<item>Fluid ounce american (fl oz)</item>
+<item>Fluid ounce imperial (fl oz)</item>
+</string-array>
+<string-array name="drink_types">
+<item>Øl</item>
+<item>Vin</item>
+<item>Vodka eller spiritus</item>
+<item>Cocktail</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Meget lille glas</item>
+<item>Lille glas</item>
+<item>Medium glas</item>
+<item>Stort glas</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Lille glas</item>
+<item>Medium glas</item>
+<item>Stort glas</item>
+</string-array>
+</resources>

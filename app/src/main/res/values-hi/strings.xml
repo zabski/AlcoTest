@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">पेय जोड़ना</string>
+<string name="add_favorite">पसंदीदा में जोड़</string>
+<string name="age">आपकी उम्र</string>
+<string name="all_units">मानक पेय इकाइयों में सभी नंबरों</string>
+<string name="app_name">रक्त में अल्कोहल की सामग्री</string>
+<string name="avg_consumption">औसत दैनिक खपत</string>
+<string name="bac_graph">शराब के अपने स्तर का चार्ट</string>
+<string name="bar_chart">बार चार्ट</string>
+<string name="cancel">रद्द करना</string>
+<string name="change_time">परिवर्तन समय</string>
+<string name="charts">शराब के अपने वर्तमान स्तर</string>
+<string name="clear_all">सभी साफ़ करें और नए रजिस्ट्री शुरू</string>
+<string name="config">विन्यास</string>
+<string name="consumption">अपनी खपत</string>
+<string name="consumption_time">खपत का समय</string>
+<string name="current_alc">शराब के अपने वर्तमान स्तर है</string>
+<string name="default_name">नाम डिफ़ॉल्ट सेट</string>
+<string name="default_percent">डिफ़ॉल्ट प्रतिशत</string>
+<string name="del_item">आप आइटम को हटाना चाहते हैं?</string>
+<string name="diary">खपत की रजिस्ट्री</string>
+<string name="diary_added">पेय अपने रजिस्ट्री करने के लिए जोड़ा</string>
+<string name="diary_graph">मासिक आंकड़े</string>
+<string name="diary_items">खपत के अपने वर्तमान रजिस्ट्री</string>
+<string name="dont_drive">शराब पीने के बाद ड्राइव कभी नहीं!</string>
+<string name="drink_label">पेय का लेबल</string>
+<string name="edit_name">संपादित नाम</string>
+<string name="exit">बाहर जाएं</string>
+<string name="favorites">पसंदीदा</string>
+<string name="favorite_hint">पसंदीदा में खोज</string>
+<string name="fav_added">पेय पसंदीदा में जोड़ा</string>
+<string name="feedback">अपनी राय दे</string>
+<string name="feedback_prompt">हाय, आप हम आप के लिए इस आवेदन में सुधार कर सकते हैं, ताकि हमें कुछ टिप्पणी देने के लिए करना चाहते हैं?</string>
+<string name="female">महिला</string>
+<string name="fully_sober">आप पूरी तरह से शांत कर रहे हैं</string>
+<string name="go_to_menu">स्वीकार करते हैं और बंद</string>
+<string name="height">अपनी ऊंचाई</string>
+<string name="help">मदद</string>
+<string name="help_translate">इस आवेदन के अनुवाद में मदद</string>
+<string name="high_calory">उच्च स्तर (कानूनी ऊपर)</string>
+<string name="info">सूचना</string>
+<string name="information_1">अपने देश या प्रांत में ड्राइविंग करते समय वजन, सेक्स और रक्त में अल्कोहल की कानूनी सामग्री: अपने डेटा दर्ज करने के लिए सेटिंग्स में जाओ. सहेजें और बंद करें.</string>
+<string name="information_2">हर बार जब आप एक पेय का उपभोग करते हैं, तो आप खपत की अपनी रजिस्ट्री के लिए यह जोड़ना चाहिए. आप प्रत्येक पेय के लिए प्रकार, मात्रा और शराब का प्रतिशत निर्धारित कर सकते हैं. यह वर्तमान समय पर सेट है डिफ़ॉल्ट रूप से आप भी खपत के समय प्रवेश कर सकते हैं. कॉकटेल के लिए, आप पेय में निहित है जो वोदका (या अन्य शराब), की बस राशि में प्रवेश करना चाहिए.</string>
+<string name="information_3">प्रक्रिया तेज करने के लिए, आप अपनी पसंद का एक नाम के तहत, पसंदीदा फ़ोल्डर में पेय बचा सकता है. एक पेय पसंदीदा में सहेजे जाने के बाद, आप बस एक क्लिक के द्वारा, खपत के लिए अपने रजिस्ट्री में जोड़ सकते हैं.</string>
+<string name="information_4">यहाँ आप की समीक्षा करने और खपत के अपने वर्तमान रजिस्ट्री को संशोधित कर सकते हैं. क्लिक "सूचना" बटन करके, आप चुना पेय के विवरण की समीक्षा करने और फिर अपने रजिस्ट्री में जोड़ने के लिए सक्षम हो जाएगा.</string>
+<string name="information_5">शराब के अपने वर्तमान स्तर से (अपने देश या प्रांत में ड्राइविंग करते समय शराब की कानूनी स्तर के अनुसार) प्रदर्शित और पूरी तरह से शांत है और कानूनी तौर पर शांत प्राप्त करने के लिए आवश्यक समय की अवधि के साथ, वास्तविक समय में नवीनीकृत होगा. चार्ट हाल के अतीत और कुछ आगामी घंटे (तल पर लेबल पूर्ण घंटे से संकेत मिलता है) के दौरान शराब की अपनी सामग्री, visualizes. लाल रेखा शराब की कानूनी स्तर को दर्शाता है. आप लाइन चार्ट और बार चार्ट के बीच चयन कर सकते हैं.</string>
+<string name="information_6">आप इस तरह के कुल और औसत खपत के रूप में (पिछले रिकॉर्ड से एकत्र) शराब और समीक्षा आँकड़े के अपने दैनिक खपत का पता लगा सकते हैं. प्रत्येक दिन चार्ट की एक पट्टी का प्रतिनिधित्व करती है, बाईं तरफ लेबल भस्म शराब (1 इकाई = शुद्ध शराब की 10 मिलीलीटर) की इकाइयों से संकेत मिलता है. तीर आप अन्य महीनों के लिए नेविगेट करने देगा.</string>
+<string name="information_7">शराब और बार चार्ट में सलाखों के रंग के स्तर के करीब स्थित डॉट के रंग, शराब के अपने वर्तमान स्तर के अनुसार, बदल जाएगा. रंगों के अर्थ नीचे समझाया गया है.</string>
+<string name="information_8">इस एप्लिकेशन को अपने वास्तविक (रियल) रक्त में अल्कोहल का स्तर है, लेकिन एक गणितीय सूत्र पर आधारित एक अनुमान प्रदान नहीं करता है. रक्त में अल्कोहल की सामग्री सूत्र में शामिल नहीं हैं जो कारकों की किस्म पर निर्भर करता है. रक्त में अल्कोहल के अपने वास्तविक स्तर इस आवेदन के द्वारा प्रदान की गई मूल्य से भिन्न हो सकती है.</string>
+<string name="legal_alc">अपने देश / प्रांत में रक्त में अल्कोहल की कानूनी स्तर</string>
+<string name="legal_sober">आप कानूनी तौर पर शांत हैं</string>
+<string name="legal_time">आप पर कानूनी तौर पर शांत हो जाएगा</string>
+<string name="line_chart">लाइन चार्ट</string>
+<string name="low_calory">निम्न स्तर (कानूनी नीचे)</string>
+<string name="male">नर</string>
+<string name="medium_calory">मध्यम स्तर (कानूनी आसपास)</string>
+<string name="menu_title">मेन्यू</string>
+<string name="month">माह</string>
+<string name="month_graph_title">मासिक खपत</string>
+<string name="month_stats">मासिक आंकड़े</string>
+<string name="new_record">आप सभी प्रविष्टियों स्पष्ट और नई रजिस्ट्री शुरू करने के लिए करना चाहते हैं?</string>
+<string name="no_data">चयनित माह के लिए कोई डेटा उपलब्ध नहीं</string>
+<string name="num_days">शराब की खपत के साथ दिनों की संख्या</string>
+<string name="ok">ठीक है</string>
+<string name="opinion">राय</string>
+<string name="percent_alcohol">शराब का प्रतिशत</string>
+
+<string name="pick_amount">मात्रा का चयन</string>
+<string name="pick_type">पेय के प्रकार का चयन</string>
+<string name="rate_app">इस आवेदन दर!</string>
+    <string name="remove_ads">विज्ञापन हटाएँ</string>
+<string name="save_close">सहेजें और बंद करें</string>
+<string name="settings">सेटिंग्स</string>
+<string name="sex">अपने सेक्स</string>
+<string name="sober_time">आप पर पूरी तरह से शांत हो जाएगा</string>
+<string name="standard_unit">(इकाई = शुद्ध शराब की 10 ग्राम)</string>
+<string name="that_is">उस में है</string>
+<string name="total_consumption">कुल खपत</string>
+<string name="type_name">पेय का लेबल</string>
+<string name="unit">मात्रा की इकाई</string>
+<string name="veryhigh_calory">बहुत उच्च स्तर (ज्यादा कानूनी ऊपर)</string>
+<string name="warning">चेतावनी!</string>
+<string name="weight">अपने वजन</string>
+<string-array name="beer_amounts">
+<item>बहुत छोटा गिलास</item>
+<item>छोटे गिलास</item>
+<item>मध्यम गिलास</item>
+<item>बड़े गिलास</item>
+<item>बहुत बड़ा गिलास</item>
+</string-array>
+<string-array name="units">
+<item>मीट्रिक - मिलीलीटर (एमएल)</item>
+<item>द्रव औंस अमेरिकी (FL ऑउंस)</item>
+<item>द्रव औंस शाही (FL ऑउंस)</item>
+</string-array>
+<string-array name="drink_types">
+<item>बीयर</item>
+<item>वाइन</item>
+<item>वोदका या शराब</item>
+<item>कॉकटेल</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>बहुत छोटा गिलास</item>
+<item>छोटे गिलास</item>
+<item>मध्यम गिलास</item>
+<item>बड़े गिलास</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>छोटे गिलास</item>
+<item>मध्यम गिलास</item>
+<item>बड़े गिलास</item>
+</string-array>
+</resources>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">បន្ថែម​ភេសជ្ជៈ</string>
+<string name="add_favorite">បន្ថែម​ទៅ​ចំ​នូ​ល​ចិត្ត</string>
+<string name="age">អាយុ​របស់​អ្នក</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">លេខ​ទាំងអស់​នៅ​ក្នុង​អង្គភាព​ភេសជ្ជៈ​ស្តង់​ដា</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">មាតិកា​នៃ​ជាតិ​អាល់កុល​ក្នុង​ឈាម</string>
+<string name="avg_consumption">ការ​ប្រើ​ប្រាស់​ប្រចាំ​ថ្ងៃ​ជា​មធ្យម</string>
+<string name="bac_graph">តារាង​នៃ​កម្រិត​ជាតិ​ស្រវឹង​របស់​អ្នក</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">ដ្យាក្រាម</string>
+<string name="cancel">បោះបង់</string>
+<string name="change_time">ការ​ផ្លាស់​ប្តូ​រ​ពេល​វេលា</string>
+<string name="charts">កម្រិត​នៃ​ជាតិ​អាល់កុល​បច្ចុប្បន្ន​របស់​អ្នក</string>
+<string name="clear_all">ជម្រះ​ទាំង​អស់​ហើយ​ចាប់​ផ្តើ​ម​បញ្ជី​ឈ្មោះ​ថ្មី</string>
+<!-- Short from Configuration -->
+<string name="config">ការ​កំណត់​រចនា​សម្ព័ន្ធ</string>
+<string name="consumption">ការ​ប្រើ​ប្រាស់​របស់​អ្នក</string>
+<string name="consumption_time">ពេលវេលា​នៃ​ការ​ប្រើ​ប្រាស់</string>
+<string name="current_alc">កម្រិត​នៃ​ជាតិ​អាល់កុល​បច្ចុប្បន្ន​របស់​អ្នក</string>
+<string name="default_name">លំនាំ​ដើម​កំណត់​ទៅ​ឈ្មោះ</string>
+<string name="default_percent">ភាគរយ​លំនាំ​ដើម</string>
+<string name="del_item">តើ​អ្នក​ចង់​លុប​ធាតុ​?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">បញ្ជី​ឈ្មោះ​នៃ​ការ​ប្រើ​ប្រាស់</string>
+<string name="diary_added">ផឹក​បន្ថែម​ទៅ​ក្នុង​បញ្ជី​ឈ្មោះ​របស់​អ្នក</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">ស្ថិតិ​ប្រចាំខែ</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">បញ្ជី​ឈ្មោះ​នៃ​ការ​ប្រើ​ប្រាស់​បច្ចុប្បន្ន​របស់​អ្នក</string>
+<string name="dont_drive">មិន​ដែល​ជំរុញ​បន្ទាប់​ពី​ផឹក​ជាតិ​អាល់កុល​!</string>
+<string name="drink_label">ស្លាក​នៃ​ភេសជ្ជៈ​នេះ</string>
+<string name="edit_name">ឈ្មោះ​អ្នក​កែសម្រួល</string>
+<string name="exit">ការ​ចាក​ចេញ</string>
+<string name="favorites">ចំ​នូ​ល​ចិត្ត</string>
+<string name="favorite_hint">ស្វែងរក​ក្នុង​ចិត្ត</string>
+<string name="fav_added">ភេសជ្ជៈ​បន្ថែម​ទៅ​ចំ​នូ​ល​ចិត្ត</string>
+<string name="feedback">សូម​ផ្តល់​មតិ​របស់​អ្នក</string>
+<string name="feedback_prompt">ជំរាបសួរ​នឹង​អ្នក​ចង់​ផ្ញើ​មក​យើង​គំនិត​របស់​អ្នក​ដូច្នេះ​យើង​អាច​កែ​លម្អ​កម្មវិធី​សម្រាប់​អ្នក​នេះ​?</string>
+<string name="female">ស្ត្រី</string>
+<string name="fully_sober">អ្នក​គឺ​ជា​អ្នក​ដឹងខ្លួន​យ៉ាង​ពេញលេញ</string>
+<string name="go_to_menu">ទទួល​យក​និង​បិទ</string>
+<string name="height">កម្ពស់​របស់​អ្នក</string>
+<string name="help">ជួយ</string>
+<!-- app being short for application -->
+<string name="help_translate">ជួយ​ប​ក​ប្រែ​កម្មវិធី​នេះ</string>
+<string name="high_calory">កម្រិត​ខ្ពស់ (នៅ​ខាងលើ​ផ្នែក​ច្បាប់​)</string>
+<string name="info">ព​ត៌​មាន</string>
+<string name="information_1">សូម​ចូល​ទៅ​កាន់​ការ​កំណត់​និង​ការ​បញ្ចូល​ទិន្នន័យ​របស់​អ្នក​: ទម្ងន់​, ភេទ​និង​មាតិកា​ផ្នែក​ច្បាប់​នៃ​ជាតិ​អាល់កុល​ក្នុង​ឈាម​ខណៈ​ពេល​បើកបរ​ក្នុង​ប្រទេស​ឬ​ខេត្ត​របស់​អ្នក​។ រក្សា​ទុក​និង​បិទ​។</string>
+<string name="information_2">រាល់​ពេល​នៅ​ពេល​ដែល​អ្នក​ទទួល​ទាន​ភេសជ្ជៈ​មួយ​ដែល​អ្នក​គួរ​តែ​បន្ថែម​វា​ទៅ​បញ្ជី​ឈ្មោះ​របស់​អ្នក​ប្រើ​ប្រាស់​។ អ្នក​អាច​កំណត់​ប្រភេទ​ទំហំ​និង​ភាគរយ​នៃ​ការ​សេព​គ្រឿង​ស្រវឹង​សម្រាប់​ភេសជ្ជៈ​គ្នា​។ អ្នក​ក៏​អាច​បញ្ចូល​ពេល​វេលា​នៃ​ការ​ប្រើ​ប្រាស់​តាម​លំនាំដើម​វា​ត្រូវ​បាន​កំណត់​ទៅ​ពេល​បច្ចុប្បន្ន​។ សម្រាប់​ការ​ក្រឡុក​អ្នក​គួរ​តែ​ចូល​ទៅ​គ្រាន់​តែ​ជា​ចំនួន​ទឹកប្រាក់​នៃ vodka (ឬ​ស្រា​ផ្សេង​ទៀត​) ដែល​មាន​នៅ​ក្នុង​ភេសជ្ជៈ​នោះ​ទេ​។</string>
+<string name="information_3">ដើម្បី​ពន្លឿន​ដំណើរ​ការ​នេះ​អ្នក​អាច​រក្សា​ទុក​ភេសជ្ជៈ​នៅ​ក្នុង​ថត​ចិត្ត​ស្ថិត​នៅ​ក្រោម​ឈ្មោះ​នៃ​ជម្រើស​របស់​អ្នក​។ បន្ទាប់​ពី​ផឹក​មួយ​ដែល​ត្រូវ​បាន​រក្សា​ទុក​នៅ​ក្នុង​ចិត្ត​អ្នក​អាច​បន្ថែម​វា​ទៅ​បញ្ជី​ឈ្មោះ​របស់​អ្នក​ប្រើ​ប្រាស់​ដោយ​គ្រាន់​តែ​ចុច​មួយ​។</string>
+<string name="information_4">នៅ​ទីនេះ​អ្នក​អាច​ពិនិត្យ​មើល​ឡើងវិញ​និង​កែប្រែ​បញ្ជី​ឈ្មោះ​នៃ​ការ​ប្រើ​ប្រាស់​បច្ចុប្បន្ន​របស់​អ្នក​។ ដោយ​ចុច \ "ព័ត៌មាន \​" ប៊ូតុង​នោះ​អ្នក​នឹង​អាច​ដើម្បី​ពិនិត្យ​សេចក្ដី​លម្អិត​នៃ​ភេសជ្ជៈ​ដែល​បាន​ជ្រើស​និង​បន្ថែម​វា​ទៅ​បញ្ជី​ឈ្មោះ​របស់​អ្នក​ម្តង​ទៀត​។</string>
+<string name="information_5">កម្រិត​នៃ​ជាតិ​អាល់កុល​បច្ចុប្បន្ន​របស់​អ្នក​នឹង​បង្ហាញ​ដោយ​និង​បាន​ធ្វើ​ឱ្យ​ទាន់​សម័យ​ក្នុង​ពេល​វេលា​ពិត​ប្រាកដ​រួម​នឹង​រយៈ​ពេល​នៃ​ការ​ពេល​វេលា​ដែល​ត្រូវ​ការ​ដើម្បី​ទទួល​បាន​យ៉ាង​ពេញលេញ​និង​ការ​ដឹងខ្លួន​ដឹងខ្លួន​ស្របច្បាប់ (នេះ​បើ​យោង​តាម​កម្រិត​ច្បាប់​នៃ​ការ​សេព​គ្រឿង​ស្រវឹង​ពេល​បើកបរ​ក្នុង​ប្រទេស​ឬ​ខេត្ត​របស់​អ្នក​) ។ តារាង​មើល​ឃើញ​មាតិកា​នៃ​ជាតិ​អាល់កុល​របស់​អ្នក​ក្នុង​អំឡុង​ពេល​កន្លង​មក​ថ្មី​នេះ​និង​នា​ពេល​ខាង​មុខ​ពេល​ពីរ​បី​ម៉ោង (ស្លាក​នៅ​ខាងក្រោម​បង្ហាញ​ពី​ម៉ោង​ពេញ​) ។ បន្ទាត់​ពណ៌​ក្រហម​បង្ហាញ​ថា​កម្រិត​ស្រប​ច្បាប់​នៃ​គ្រឿង​ស្រវឹង​។ អ្នក​អាច​ជ្រើស​រវាង​គំនូស​បន្ទាត់​និង​គំនូស​តាង​របារ​។</string>
+<string name="information_6">អ្នក​អាច​តាមដាន​ការ​ប្រើ​ប្រាស់​ប្រចាំ​ថ្ងៃ​របស់​អ្នក​នៃ​គ្រឿង​ស្រវឹង (ដែល​ប្រមូល​បាន​ពី​ការ​កត់ត្រា​កន្លង​មក​) និង​ស្ថិតិ​ពិនិត្យ​ឡើងវិញ​ដូច​ជា​ការ​ប្រើ​ប្រាស់​សរុប​និង​មធ្យម​។ ជា​រៀង​រាល់​ថ្ងៃ​គឺ​ត្រូវ​បាន​តំណាង​ដោយ​របារ​មួយ​នៃ​តារាង​ស្លាក​នៅ​ខាង​ឆ្វេង​បង្ហាញ​ពី​គ្រឿង​ប្រើ​ប្រាស់​គ្រឿង​ស្រវឹង (1 ឯកតា = 10 មី​លី​លីត្រ​នៃ​ស្រា​សុទ្ធ​) ។ ព្រួញ​នឹង​អនុញ្ញាត​ឱ្យ​អ្នក​រុករក​ទៅ​ខែ​ផ្សេង​ទៀត​។</string>
+<string name="information_7">ពណ៌​នៃ​ចំណុច​នេះ​មាន​ទីតាំង​ស្ថិតនៅ​ជិត​ស្និទ្ធ​ទៅ​នឹង​កម្រិត​នៃ​ការ​សេព​គ្រឿង​ស្រវឹង​និង​ពណ៌​របារ​ក្នុង​ដ្យាក្រាម​នេះ​នឹង​ត្រូវ​បាន​ផ្លាស់​ប្តូ​រ​នេះ​បើ​យោង​តាម​កម្រិត​នៃ​ជាតិ​អាល់កុល​បច្ចុប្បន្ន​របស់​អ្នក​។ អត្ថន័យ​នៃ​ពណ៌​នេះ​ត្រូវ​បាន​ពន្យល់​ដូច​ខាង​ក្រោម​។</string>
+<string name="information_8">កម្មវិធី​នេះ​មិន​បាន​ផ្តល់​នូវ​កម្រិត​ពិត​ប្រាកដ​របស់​អ្នក (ពិត​) នៃ​ជាតិ​អាល់កុល​ក្នុង​ឈាម​នោះ​ទេ​ប៉ុន្តែ​ការ​ប៉ាន់ស្មាន​ដែល​មាន​មូលដ្ឋាន​លើ​រូបមន្ត​គណិតវិទ្យា​មួយ​។ មាតិកា​នៃ​ជាតិ​អាល់កុល​ក្នុង​ឈាម​អាស្រ័យ​លើ​ភាព​ខុស​គ្នា​នៃ​កត្តា​ដែល​មិន​ត្រូវ​បាន​រួម​បញ្ចូល​ក្នុង​រូបមន្ត​។ កម្រិត​ពិត​ប្រាកដ​របស់​អ្នក​នៃ​ជាតិ​អាល់កុល​ក្នុង​ឈាម​អាច​មាន​ភាព​ខុសគ្នា​ពី​តម្លៃ​ដែល​បាន​ផ្ដល់​ដោយ​កម្មវិធី​នេះ​។</string>
+<string name="legal_alc">មាតិកា​អាល់កុល​ក្នុង​ឈាម​ផ្នែក​ច្បាប់​នៅ​ក្នុង​ប្រទេស​របស់​អ្នក​ខេត្ត /</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">អ្នក​គឺ​ជា​អ្នក​ដឹងខ្លួន​ដោយ​ស្រប​ច្បាប់</string>
+<string name="legal_time">អ្នក​នឹង​ដឹងខ្លួន​ដោយ​ស្រប​ច្បាប់​នៅ</string>
+<!-- chart made of lines -->
+<string name="line_chart">គំនូស​បន្ទាត់</string>
+<string name="low_calory">កម្រិត​ទាប (ខាងក្រោម​ផ្នែក​ច្បាប់​)</string>
+<string name="male">បុរស</string>
+<string name="medium_calory">កម្រិត​មធ្យម (នៅ​ជុំវិញ​ផ្នែក​ច្បាប់​)</string>
+<string name="menu_title">ម៉ឺនុយ</string>
+<string name="month">ខែ</string>
+<string name="month_graph_title">ការ​ប្រើ​ប្រាស់​ប្រចាំ​ខែ</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">ស្ថិតិ​ប្រចាំខែ</string>
+<string name="new_record">តើ​អ្នក​ចង់​ជម្រះ​ធាតុ​ទាំង​អស់​ហើយ​ចាប់​ផ្តើ​ម​ចុះបញ្ជី​ថ្មី​?</string>
+<string name="no_data">មិន​មាន​ទិន្នន័យ​ដែល​អាច​ប្រើ​បាន​សម្រាប់​ខែ​ដែល​បាន​ជ្រើសរើស</string>
+<string name="num_days">ចំនួន​ថ្ងៃ​ជាមួយ​នឹង​ការ​ប្រើ​ប្រាស់​គ្រឿង​ស្រវឹង</string>
+<string name="ok">មិន​អី​ទេ</string>
+<string name="opinion">មតិ</string>
+<string name="percent_alcohol">ភាគរយ​នៃ​ការ​សេព​គ្រឿង​ស្រវឹង</string>
+<string name="pick_amount">ទំហំ</string>
+<string name="pick_type">ប្រភេទ​នៃ​ភេសជ្ជៈ</string>
+<!-- app being short for application -->
+<string name="rate_app">អត្រា​កម្មវិធី​នេះ​!</string>
+<string name="save_close">រក្សា​ទុក​និង​បិទ</string>
+<string name="settings">ការ​កំណត់</string>
+<string name="sex">ការ​រួម​ភេទ​របស់​អ្នក</string>
+<string name="sober_time">អ្នក​នឹង​ដឹងខ្លួន​យ៉ាង​ពេញលេញ​នៅ</string>
+<string name="standard_unit">(ឯកតា = 10g នៃ​ជាតិ​អាល់កុល​សុទ្ធ​)</string>
+<string name="that_is">ដែល​នៅ​ក្នុង</string>
+<string name="total_consumption">ការ​ប្រើ​ប្រាស់​សរុប</string>
+<string name="type_name">ស្លាក​នៃ​ភេសជ្ជៈ​នេះ</string>
+<string name="unit">អង្គភាព​នៃ​ទំហំ</string>
+<string name="veryhigh_calory">កម្រិត​ខ្ពស់​ណាស់ (ច្រើន​នៅ​ខាង​លើ​ផ្នែក​ច្បាប់​)</string>
+<string name="warning">ការ​ព្រមាន​!</string>
+<string name="weight">ទំ​ង​ន់​របស់​អ្នក</string>
+<string name="choose_theme">ជ្រើស​ពណ៌</string>
+<string name="wine">ស្រា</string>
+<string name="light">ភ្លឺ</string>
+<string name="dark">ងងឹត</string>
+<string name="promile">ក្នុង​មួយ​ម៉ែ​ល</string>
+<string name="alc_level">កម្រិត​នៃ​ការ​សេព​គ្រឿង​ស្រវឹង</string>
+<string name="stats">ស្ថិតិ</string>
+<string name="def_name">ឈ្មោះ​លំនាំដើម</string>
+<string name="ad_phrase1">ផ្ទៀងផ្ទាត់​កម្រិត​នៃ​ការ​សេព​គ្រឿង​ស្រវឹង​ជា​មួយ​ទូរស័ព្ទ​របស់​អ្នក​។</string>
+<string name="ad_phrase2">សូម​ពិនិត្យ​មើល​ថា​តើ​អ្នក​អាច​បើកបរ​បាន​ដោយ​ស្រប​ច្បាប់​។</string>
+<string name="ad_phrase3">ឈ្មោះ​លំនាំដើម</string>
+<string-array name="beer_amounts">
+<item>កញ្ចក់​តូច​ខ្លាំង​ណាស់</item>
+<item>កញ្ចក់​តូច</item>
+<item>កញ្ចក់​មធ្យម</item>
+<item>កញ្ចក់​ធំ</item>
+<item>កញ្ចក់​ទំហំ​ធំ​ខ្លាំង​ណាស់</item>
+</string-array>
+<string-array name="units">
+<item>កាល - មី​លី​លីត្រ (មី​លី​លីត្រ​)</item>
+<item>សារធាតុ​រាវ​អោន​អាមេរិក (ស៍​ឆ្លុះ​)</item>
+<item>សារធាតុ​រាវ​អោន​ចក្រពត្តិ (ន​ស៍​ឆ្លុះ​)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>ស្រាបៀ​រ</item>
+<item>ស្រា</item>
+<item>Vodka ឬ​ស្រា</item>
+<item>ស្រា​ក្រឡុក</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>កញ្ចក់​តូច​ខ្លាំង​ណាស់</item>
+<item>កញ្ចក់​តូច</item>
+<item>កញ្ចក់​មធ្យម</item>
+<item>កញ្ចក់​ធំ</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>កញ្ចក់​តូច</item>
+<item>កញ្ចក់​មធ្យម</item>
+<item>កញ្ចក់​ធំ</item>
+</string-array>
+</resources>

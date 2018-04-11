@@ -1,0 +1,220 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:ads="http://schemas.android.com/apk/res-auto"
+	xmlns:ads2="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:mm="http://millennialmedia.com/android/schema"
+        android:id="@+id/layout1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+         >
+
+	<!--xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"-->
+    
+	<LinearLayout
+        android:id="@+id/fav_layout2"
+        android:layout_marginLeft="0dp"
+		android:layout_marginRight="0dp"
+        android:layout_marginTop="@dimen/margin_xs"
+        android:layout_marginBottom="@dimen/margin_xs"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="@dimen/margin_xs"
+        android:orientation="horizontal" >
+        
+	    <!-- 	    
+	    android:layout_weight="24"
+	     android:background="@layout/layout_src"       -->
+        <AutoCompleteTextView
+            android:id="@+id/fav_autocomplete"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="right"
+            android:layout_marginBottom="0dp"
+            android:layout_marginLeft="0dp"
+            android:layout_marginTop="0dp"
+            android:hint="@string/favorite_hint"
+            android:lines="1"
+            android:maxLines="1"
+            android:minLines="1"
+            android:paddingLeft="@dimen/margin_m"
+            android:singleLine="true"
+            android:text=""
+            
+            android:textSize="@dimen/text_l" >
+            
+           <requestFocus />
+            
+        </AutoCompleteTextView>
+
+        <!-- android:background="@layout/edit_text_fav" -->
+
+        
+     </LinearLayout>
+
+        <!-- android:ems Defines the text size based off of the 
+        specified point size 
+        
+        android:layout_weight Defines how much of the containing
+        area is taken up by this component. Because there is no
+        other component by setting it for 1 that means it takes 
+        up all available space. If you had 2 components and set 
+        one at 2 and the other at one, the first would take up
+        2/3rds of the space and the second would get the last 1/3rd-->
+
+        <!-- android:layout_span Defines how many columns 
+        this component should take up in the table row 
+        
+        android:gravity Defines if a component is centered
+        right or left justified and more. Look here for all
+        available options 
+        http://developer.android.com/reference/android/view/Gravity.html
+        >
+       
+    </TableRow-->
+
+        <!-- A ScrollView is a scrollable box that contains
+        other components that can be added dynamically. The
+        ScrollView allows the user to scroll through components
+        that can't fit on the users screen -->
+        
+        
+        <ScrollView
+            android:id="@+id/fav_ScrollView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:color="@color/denim"
+            android:layout_below="@id/fav_layout2"
+            android:layout_span="2"
+            android:padding="0dp" >
+
+            <!-- android:stretchColumns Defines that you want 
+            this component to expand in width to fit any extra 
+            space -->
+            
+              <LinearLayout
+		        android:id="@+id/fav_layoutScroll"
+		        android:layout_width="match_parent"
+		        android:layout_height="wrap_content"
+		        android:layout_marginBottom="@dimen/row_xl"
+
+		        android:orientation="horizontal" >
+            
+	           <TableLayout
+	                android:id="@+id/fav_tableLayout"
+	                android:layout_width="match_parent"
+	                android:layout_height="wrap_content"
+
+	                android:padding="0dp"
+	                 >
+	                 
+	                 <TableRow
+					        android:id="@+id/fav_tableRow3"
+					        android:layout_width="match_parent"
+					        android:layout_height="wrap_content">					       
+
+    					</TableRow>
+
+                   <LinearLayout
+                       android:id="@+id/statusBar"
+                       android:layout_height="25dp"
+                       android:layout_width="fill_parent"
+                       android:orientation="horizontal"
+                       android:layout_alignParentBottom="true">
+                       <TextView
+                           android:id="@+id/status"
+                           android:padding="2dp"
+                           android:textAlignment="center"
+                           android:layout_width="wrap_content"
+                           android:layout_height="wrap_content"
+                           android:gravity="left" />
+                   </LinearLayout>
+
+	            </TableLayout>	  
+	            
+	                  <!-- Button
+				          android:id="@+id/deleteStocksButton"
+				          android:layout_width="wrap_content"
+				          android:layout_height="wrap_content"
+				          android:text="@string/delete_all_symbols"
+				          android:background="@layout/round"
+				          android:padding="10dp"
+				          android:layout_span="2" 
+				          android:layout_weight="1" /-->
+
+	            </LinearLayout>
+
+        </ScrollView>
+        
+    <!-- com.google.ads.AdView android:id="@+id/fav_adView2"
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"           
+           android:layout_marginTop="0dp"	                 
+           ads:adUnitId="ca-app-pub-4402674240600002/7924223770"
+           ads:adSize="SMART_BANNER"
+           ads:testDevices="TEST_EMULATOR, TEST_DEVICE_ID"
+           ads:loadAdOnCreate="true"/-->                 
+
+    <!-- /TableRow>
+
+    <TableRow
+        android:id="@+id/tableRow3"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" -->
+    <!--  /TableRow> 
+
+</TableLayout-->
+
+
+	<!--com.google.android.gms.ads.NativeExpressAdView
+		android:id="@+id/adViewExpress"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:layout_centerHorizontal="true"
+		android:layout_alignParentBottom="true"
+		android:layout_gravity="center_horizontal"
+		android:visibility="gone"
+		ads:adSize="320x100"
+		ads:adUnitId="@string/admob_express_small_id">
+	</com.google.android.gms.ads.NativeExpressAdView-->
+
+	<!-- android:layout_below="@id/fav_ScrollView"  --> 
+
+    <Button
+            android:id="@+id/bClearAllFavs"
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/row_xxl"
+            android:layout_marginRight="1dp"
+            android:layout_marginTop="2dp"  
+            android:textSize="@dimen/text_l"                     
+            android:text="@string/clear_all"
+            android:visibility="gone" />
+
+	<!--ads:adSize="FULL_BANNER"-->
+
+	<com.google.android.gms.ads.AdView
+		xmlns:ads="http://schemas.android.com/apk/res-auto"
+		android:id="@+id/adView"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:visibility="visible"
+		ads:adUnitId="ca-app-pub-4402674240600002/7924223770"
+
+		ads:adSize="SMART_BANNER"/>
+
+	<!--FrameLayout
+		android:id="@+id/native_ad_container_end"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true"
+		android:background="@color/bkg_lt"
+		android:orientation="vertical"
+		android:visibility="visible"
+		>
+	</FrameLayout-->
+
+	<include layout="@layout/ads_incl_fb_banner"/>
+
+	<include layout="@layout/ads_incl_amazon_banner"/>
+</LinearLayout>

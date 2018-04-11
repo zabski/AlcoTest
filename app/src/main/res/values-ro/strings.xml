@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Adauga băutură</string>
+<string name="add_favorite">Adauga la favorite</string>
+<string name="age">De vârsta ta</string>
+<string name="all_units">Toate numerele din unitățile de băuturi standard,</string>
+<string name="app_name">Conținut de alcool în sânge</string>
+<string name="avg_consumption">Consumul mediu zilnic</string>
+<string name="bac_graph">Graficul de nivelul de alcool</string>
+<string name="bar_chart">Bar grafic</string>
+<string name="cancel">Anula</string>
+<string name="change_time">Timp schimbare</string>
+<string name="charts">Nivelul actual de alcool</string>
+<string name="clear_all">Șterge toate și să înceapă noul registru</string>
+<string name="config">Configurație</string>
+<string name="consumption">Consumul de</string>
+<string name="consumption_time">Timp de consum</string>
+<string name="current_alc">Nivelul actual de alcool este</string>
+<string name="default_name">Numele implicit</string>
+<string name="default_percent">Procent prestabilit</string>
+<string name="del_item">Nu doriți să ștergeți articol?</string>
+<string name="diary">Registru de consum</string>
+<string name="diary_added">Băutură adăugat la registru</string>
+<string name="diary_graph">Statistici lunare</string>
+<string name="diary_items">Registru actual de consum</string>
+<string name="dont_drive">Nu conduce după consumul de alcool!</string>
+<string name="drink_label">Etichetă a băuturii</string>
+<string name="edit_name">Edita numele</string>
+<string name="exit">Ieșire</string>
+<string name="favorites">Favorite</string>
+<string name="favorite_hint">Căutare în favorite</string>
+<string name="fav_added">Băutură adăugat la favorite</string>
+<string name="feedback">Da părerea ta</string>
+<string name="feedback_prompt">Salut, ai vrea să ne dea unele comentarii, astfel încât să putem îmbunătăți această aplicație pentru tine?</string>
+<string name="female">Femeie</string>
+<string name="fully_sober">Esti complet treaz</string>
+<string name="go_to_menu">Acceptă și închideți</string>
+<string name="height">Înălțimea dumneavoastră</string>
+<string name="help">Ajutor</string>
+<string name="help_translate">Ajuta traduce aceasta cerere</string>
+<string name="high_calory">Nivel ridicat (de mai sus juridică)</string>
+<string name="info">Informații</string>
+<string name="information_1">Du-te la setările să introduceți datele dumneavoastră: greutate, sex și conținut legal de alcool în sânge în timp ce conduceți în țara sau provincia dumneavoastră. Salvează și închide.</string>
+<string name="information_2">De fiecare dată, atunci când consuma o băutură, ar trebui să-l adăugați la al tău registru de consum. Puteți seta tipul, volumul și procentul de alcool pentru fiecare băutură. Puteți introduce, de asemenea, timp de consum, implicit este setat la ora actuală. Pentru cocktail-uri, trebuie să introduceți doar cantitatea de vodca (sau alte băuturi), care este conținut în băutura.</string>
+<string name="information_3">Pentru a grăbi procesul, puteți salva băuturi în dosar favorite, sub un nume la alegere. După o băutură este salvat în favorite, puteti adauga la al tău registru de consum, cu doar un singur clic.</string>
+<string name="information_4">Aici puteți revedea și modifica registry actual de consum. Prin clic pe butonul "informații", va fi capabil de a revizui detaliile de băutură ales și adăugați-l la al tău registru din nou.</string>
+<string name="information_5">Nivelul actual de alcool va afisate de și actualizat în timp real, impreuna cu perioada de timp necesară pentru a obține pe deplin treaz și sobru punct de vedere juridic (în funcție de nivelul legal de alcool în timp ce conduceți în țara sau provincia dumneavoastră). Graficul de vizualizează conținutul de alcool, în timpul dribleze recent și câteva ore viitoare (etichete în partea de jos indica ore pline). Linia roșie indică nivelul legal de alcool. Puteți alege între linia de diagramă și graficul de bare.</string>
+<string name="information_6">Puteți urmări consumul zilnic de alcool (colectate de la înregistrări anterioare) și statisticile de atac, cum ar fi consumul totale si mediu. Fiecare zi este reprezentată de o bară a diagramei, eticheta de pe partea stângă indică unități de alcool consumate (1 unitate = 10 mililitri de alcool pur). Săgeți vă va permite să navigați la alte luni.</string>
+<string name="information_7">Culoare a punctului, situat în apropiere de nivelul de alcool și culori de baruri din graficul de bare, se va schimba, în funcție de nivelul actual de alcool. Semnificația culorilor este explicată mai jos.</string>
+<string name="information_8">Această aplicație nu oferă nivelul actual (real) de alcool în sânge, dar o estimare bazată pe o formulă matematică. Conținut de alcool în sânge depinde de mai mulți factori, care nu sunt incluse în formula. Nivelul tău actual de alcool în sânge poate fi diferită de valoarea oferită de această aplicație.</string>
+<string name="legal_alc">Nivelul legal de alcool în sânge în țara dumneavoastră / provincie</string>
+<string name="legal_sober">Esti treaz din punct de vedere</string>
+<string name="legal_time">Va fi treaz punct de vedere juridic la</string>
+<string name="line_chart">Line grafic</string>
+<string name="low_calory">Nivel scăzut (de mai jos juridică)</string>
+<string name="male">Masculin</string>
+<string name="medium_calory">Nivel mediu (în jurul juridică)</string>
+<string name="menu_title">Meniu</string>
+<string name="month">Lună</string>
+<string name="month_graph_title">Consum lunar</string>
+<string name="month_stats">Statistici lunare</string>
+<string name="new_record">Vrei să îndepărteze toate intrările și începe noul registru?</string>
+<string name="no_data">Nu există date pentru luna selectata</string>
+<string name="num_days">Numărul de zile cu un consum de alcool</string>
+<string name="ok">Bine</string>
+<string name="opinion">Opinie</string>
+<string name="percent_alcohol">Procent de alcool</string>
+<string name="pick_amount">Alege volum</string>
+<string name="pick_type">Alege tipul de băutură</string>
+<string name="rate_app">A evalua această aplicație!</string>
+<string name="save_close">Salvați și închideți</string>
+<string name="settings">Setări</string>
+<string name="sex">Sex tău</string>
+<string name="sober_time">Va fi pe deplin treaz la</string>
+<string name="standard_unit">(unitate = 10 de grame de alcool pur)</string>
+<string name="that_is">Care este în</string>
+<string name="total_consumption">Consumul total</string>
+<string name="type_name">Etichetă a băuturii</string>
+<string name="unit">Unitatea de volum</string>
+<string name="veryhigh_calory">Nivel foarte ridicat (mult mai sus juridică)</string>
+<string name="warning">Avertizare!</string>
+<string name="weight">Greutatea</string>
+<string-array name="beer_amounts">
+<item>De sticlă foarte mic</item>
+<item>Pahar mic</item>
+<item>De sticlă mediu</item>
+<item>Pahar mare</item>
+<item>De sticlă foarte mare</item>
+</string-array>
+<string-array name="units">
+<item>Metrice - mililitri (ml)</item>
+<item>Fl oz american (fl oz)</item>
+<item>Fl oz imperial (fl oz)</item>
+</string-array>
+<string-array name="drink_types">
+<item>Bere</item>
+<item>Vin</item>
+<item>Vodca sau lichior</item>
+<item>Cocktail</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>De sticlă foarte mic</item>
+<item>Pahar mic</item>
+<item>De sticlă mediu</item>
+<item>Pahar mare</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Pahar mic</item>
+<item>De sticlă mediu</item>
+<item>Pahar mare</item>
+</string-array>
+</resources>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Kuongeza kunywa</string>
+<string name="add_favorite">Kuongeza favorites</string>
+<string name="age">Umri wako</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">Namba zote katika kiwango vitengo kunywa</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">Maudhui ya pombe katika damu</string>
+<string name="avg_consumption">Wastani wa matumizi ya kila siku</string>
+<string name="bac_graph">Chati ya ngazi yako ya pombe</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">Mchoro</string>
+<string name="cancel">Kufuta</string>
+<string name="change_time">Change wakati</string>
+<string name="charts">Ngazi yako ya sasa ya pombe</string>
+<string name="clear_all">Wazi yote na kuanza Usajili mpya</string>
+<!-- Short from Configuration -->
+<string name="config">Configuration</string>
+<string name="consumption">Matumizi yako</string>
+<string name="consumption_time">Wakati wa matumizi</string>
+<string name="current_alc">Ngazi yako ya sasa ya pombe</string>
+<string name="default_name">Kuweka default jina</string>
+<string name="default_percent">Asilimia Default</string>
+<string name="del_item">Je, unataka kufuta kipengele?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">Msajili wa matumizi</string>
+<string name="diary_added">Kunywa aliongeza kwa usajili wako</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">Takwimu ya mwezi</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">Usajili yako ya sasa ya matumizi ya</string>
+<string name="dont_drive">Kamwe gari baada ya kunywa pombe!</string>
+<string name="drink_label">Studio ya kunywa</string>
+<string name="edit_name">Edit jina</string>
+<string name="exit">Toka</string>
+<string name="favorites">Favorites</string>
+<string name="favorite_hint">Search katika favorites</string>
+<string name="fav_added">Drink aliongeza kwa favorites</string>
+<string name="feedback">Kutoa maoni yako</string>
+<string name="feedback_prompt">Hello, ungependa tutumie maoni yako, ili tuweze kuboresha hii ya maombi kwa ajili yenu?</string>
+<string name="female">Kike</string>
+<string name="fully_sober">Wewe ni kikamilifu kiasi</string>
+<string name="go_to_menu">Kukubali na karibu</string>
+<string name="height">Urefu wako</string>
+<string name="help">Msaada</string>
+<!-- app being short for application -->
+<string name="help_translate">Kusaidia kutafsiri programu hii</string>
+<string name="high_calory">Ngazi ya juu (juu ya kisheria)</string>
+<string name="info">Habari</string>
+<string name="information_1">Kwenda mazingira na kuingia data yako: uzito, jinsia na maudhui ya sheria ya pombe katika damu wakati wa kuendesha gari katika nchi yako au jimbo. Ila na karibu.</string>
+<string name="information_2">Kila mara, wakati wewe hutumia kunywa, unapaswa kuongeza kwa usajili wako wa matumizi. Unaweza kuweka aina, kiasi na asilimia ya pombe kwa kila kinywaji. Unaweza pia kuingia wakati wa matumizi, by default ni kuweka wakati wa sasa. Kwa Visa, unapaswa kuingia tu ya kiasi cha vodka (au liquors nyingine), ambayo ni zilizomo katika vinywaji.</string>
+<string name="information_3">Ili kuharakisha mchakato, unaweza kuokoa vinywaji katika favorites folder, chini ya jina la uchaguzi wako. Baada ya kunywa ni kuokolewa katika favorites, unaweza kuongeza kwa usajili wako ya matumizi, kwa click moja tu.</string>
+<string name="information_4">Hapa unaweza kupitia na kurekebisha Usajili yako ya sasa ya matumizi ya. Kwa kubonyeza \ "info \" kifungo, utakuwa na uwezo wa mapitio ya maelezo ya kunywa waliochaguliwa na kuongeza kuwa kwa usajili wako tena.</string>
+<string name="information_5">Ngazi yako ya sasa ya pombe na kuonyeshwa na updated katika muda halisi, pamoja na kipindi cha muda zinahitajika ili kupata kikamilifu kiasi na kisheria kiasi (kwa mujibu wa kiwango cha kisheria wa pombe wakati wa kuendesha gari katika nchi yako au jimbo). chati kwa macho maudhui yako ya pombe, wakati wa kipindi cha hivi karibuni na saa chache ujao (maandiko chini zinaonyesha masaa kamili). Red line inaonyesha kiwango cha sheria ya pombe. Unaweza kuchagua kati ya line chati na bar chati.</string>
+<string name="information_6">Wako anaweza kuwaeleza matumizi yako ya kila siku ya pombe (zilizokusanywa kutoka kumbukumbu za zamani) na mapitio takwimu kama vile matumizi ya jumla na ya wastani. Kila siku ni kuwakilishwa na bar moja ya chati, studio ya kushoto zinaonyesha vitengo ya pombe zinazotumiwa (1 kitengo = 10 milliliters ya pombe safi). Mishale basi wewe navigate kwa miezi mengine.</string>
+<string name="information_7">Michezo ya dot, iko karibu na ngazi ya pombe na rangi ya baa katika mchoro, itakuwa kubadilika, kulingana na kiwango yako ya sasa ya pombe. maana ya rangi ni alielezea chini.</string>
+<string name="information_8">Maombi Hii haitoi halisi yako (halisi) kiwango cha pombe katika damu, lakini kukadiria kulingana na formula hisabati. Maudhui ya pombe katika damu inategemea sababu mbalimbali, ambayo ni pamoja na katika formula. Ngazi yako halisi ya pombe katika damu yanatofautiana na thamani zinazotolewa na programu hii.</string>
+<string name="legal_alc">Kisheria damu Pombe Content katika nchi yako / mkoa</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">Wewe ni kisheria kiasi</string>
+<string name="legal_time">Utakuwa kisheria kiasi katika</string>
+<!-- chart made of lines -->
+<string name="line_chart">Line chati</string>
+<string name="low_calory">Kiwango cha chini (chini ya kisheria)</string>
+<string name="male">Kiume</string>
+<string name="medium_calory">Ngazi ya kati (karibu kisheria)</string>
+<string name="menu_title">Menu</string>
+<string name="month">Mwezi</string>
+<string name="month_graph_title">Matumizi ya kila mwezi</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">Takwimu ya mwezi</string>
+<string name="new_record">Je, unataka wazi entries wote na kuanza Usajili mpya?</string>
+<string name="no_data">Hakuna data za kutosha kwa ajili ya kuchaguliwa mwezi</string>
+<string name="num_days">Idadi ya siku na matumizi ya pombe</string>
+<string name="ok">Okay</string>
+<string name="opinion">Maoni</string>
+<string name="percent_alcohol">Asilimia ya pombe</string>
+<string name="pick_amount">Kiasi</string>
+<string name="pick_type">Aina ya kunywa</string>
+<!-- app being short for application -->
+<string name="rate_app">Kiwango programu hii!</string>
+<string name="save_close">Ila na karibu</string>
+<string name="settings">Mipangilio</string>
+<string name="sex">Ngono yako</string>
+<string name="sober_time">Utakuwa kikamilifu kiasi katika</string>
+<string name="standard_unit">(Kitengo = 10g ya pombe safi)</string>
+<string name="that_is">Yaani katika</string>
+<string name="total_consumption">Jumla ya matumizi</string>
+<string name="type_name">Studio ya kunywa</string>
+<string name="unit">Unit ya kiasi</string>
+<string name="veryhigh_calory">Kiwango cha juu sana (kiasi juu ya kisheria)</string>
+<string name="warning">Onyo!</string>
+<string name="weight">Uzito wako</string>
+<string name="choose_theme">Kuchagua rangi</string>
+<string name="wine">Mvinyo</string>
+<string name="light">Mkali</string>
+<string name="dark">Giza</string>
+<string name="promile">Permile</string>
+<string name="alc_level">Ngazi ya pombe</string>
+<string name="stats">Takwimu</string>
+<string name="def_name">Jina default</string>
+<string-array name="beer_amounts">
+<item>Kioo ndogo sana</item>
+<item>Glasi ndogo</item>
+<item>Medium kioo</item>
+<item>Kioo kubwa</item>
+<item>Kioo kubwa sana</item>
+</string-array>
+<string-array name="units">
+<item>Metric - milliliters (ml)</item>
+<item>Ounce maji Marekani (fl oz)</item>
+<item>Ounce maji Imperial (fl oz)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>Beer</item>
+<item>Mvinyo</item>
+<item>Vodka au Liquor</item>
+<item>Cocktail</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Kioo ndogo sana</item>
+<item>Glasi ndogo</item>
+<item>Medium kioo</item>
+<item>Kioo kubwa</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Glasi ndogo</item>
+<item>Medium kioo</item>
+<item>Kioo kubwa</item>
+</string-array>
+</resources>

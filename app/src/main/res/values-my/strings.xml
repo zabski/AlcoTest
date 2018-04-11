@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">သောက်စရာ Add</string>
+<string name="add_favorite">အကြိုက်ဆုံးမှ Add</string>
+<string name="age">သင့်အသက်</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">စံမသောက်ယူနစ်အတွက်အားလုံးနံပါတ်များ</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">သွေးထဲတွင်အရက်၏ content</string>
+<string name="avg_consumption">ပျမ်းမျှအားဖြင့်နေ့စဉ်စားသုံးမှု</string>
+<string name="bac_graph">အရက်၏သင့်အဆင့် chart</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">ပုံ</string>
+<string name="cancel">Cancel</string>
+<string name="change_time">ပြောင်းလဲမှုအချိန်</string>
+<string name="charts">အရက်၏သင့်ရဲ့လက်ရှိအဆင့်</string>
+<string name="clear_all">အားလုံးရှင်းလင်းပါနှင့်အသစ် registry ကိုစတင်</string>
+<!-- Short from Configuration -->
+<string name="config">Configuration ကို</string>
+<string name="consumption">သင့်ရဲ့စားသုံးမှု</string>
+<string name="consumption_time">စားသုံးမှုအချိန်</string>
+<string name="current_alc">အရက်၏သင့်ရဲ့လက်ရှိအဆင့်</string>
+<string name="default_name">နာမကို default အား set</string>
+<string name="default_percent">Default အနေနဲ့ရာခိုင်နှုန်း</string>
+<string name="del_item">သင်တဲ့ item ကိုပယ်ဖျက်လိုပါသလား?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">စားသုံးမှုက registry</string>
+<string name="diary_added">မသောက်သင့် Registry ကိုထည့်သွင်းရန်</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">လစဉ်စာရင်းဇယားများ</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">စားသုံးမှုသင့်ရဲ့လက်ရှိ Registry ကို</string>
+<string name="dont_drive">အရက်သောက်သုံးပြီးနောက်ကားမောင်းဘယ်တော့မှ!</string>
+<string name="drink_label">သွန်းလောင်း၏ Label</string>
+<string name="edit_name">Edit ကိုနာမကို</string>
+<string name="exit">ထွက်ပေါက်</string>
+<string name="favorites">အနှစ်သက်ဆုံး</string>
+<string name="favorite_hint">အကြိုက်ဆုံးအတွက်ရှာရန်</string>
+<string name="fav_added">သောက်စရာအကြိုက်ဆုံးကိုထည့်သွင်း</string>
+<string name="feedback">သင့်ရဲ့ထင်မြင်ချက်ပေးပါ</string>
+<string name="feedback_prompt">Hello, သင်ငါတို့သည်သင်တို့အဘို့ဤလျှောက်လွှာကိုတိုးတက်နိုင်အောင်, ကျွန်တော်တို့ကိုသင့်ရဲ့ထင်မြင်ချက်ကိုပေးပို့ဖို့လိုပါသလဲ?</string>
+<string name="female">မိန်းမ</string>
+<string name="fully_sober">သင်သည်အပြည့်အဝသမ္မာသတိရှိကြလော့များမှာ</string>
+<string name="go_to_menu">Accept နှင့်နီးကပ်စွာ</string>
+<string name="height">သင့်ရဲ့အမြင့်</string>
+<string name="help">ကူညီကြပါ</string>
+<!-- app being short for application -->
+<string name="help_translate">ဤလျှောက်လွှာကိုဘာသာပြန်ဆိုကိုကူညီပါ</string>
+<string name="high_calory">(ဥပဒေရေးရာအထက်) အဆင့်မြင့်</string>
+<string name="info">ပြန်ကြားရေး</string>
+<string name="information_1">Setting ကိုကိုသွားပြီးသင့်ရဲ့ဒေတာတွေကိုမဝင်ရ: အလေးချိန်, လိင်နှင့်သွေးထဲတွင်အရက်၏ဥပဒေရေးရာ content တွေကိုသင့်နိုင်ငံသို့မဟုတ်ပြည်နယ်အတွက်ကားမောင်းနေစဉ်။ Save and နီးကပ်။</string>
+<string name="information_2">တစ်ခုချင်းစီကိုအချိန်, သင်ကမသောက်လောင်ပါတဲ့အခါစားသုံးမှုကိုသင့် Registry ကိုထည့်သင့်ပါသည်။ တစ်ဦးခြင်းစီကိုသောက်အရက်အမျိုးအစား, Volume နဲ့ရာခိုင်နှုန်းသတ်မှတ်နိုင်သည်။ သင်သည်လည်းလက်ရှိအချိန်သတ်မှတ်ထားပုံမှန်အားဖြင့်စားသုံးမှု၏အချိန်ဝင်နိုင်ပါသည်။ ကော့တေး, သင်သွန်းလောင်းတွင်ပါရှိသောသောရုံဗော့ဒ်ကာငွေပမာဏ (သို့မဟုတ်အခြားအရက်), မဝင်ရသင့်သည်။</string>
+<string name="information_3">ဖြစ်စဉ်ကိုပြီးအောင်ကြိုးစားအားထုတ်လိုလိုပဲသင့်ရဲ့ရွေးချယ်မှု၏အမည်ကိုအောက်မှာအကြိုက်ဆုံး folder ထဲမှာအချိုရည်ကိုကယ်တင်နိုင်သည်။ သောက်စရာအကြိုက်ဆုံး၌ကယ်တင်ခြင်းသို့ရောက်ပြီးနောက်, သင့် click တစ်ချက်အားဖြင့်စားသုံးမှုကိုသင့် Registry ကိုကထည့်သွင်းနိုင်ပါတယ်။</string>
+<string name="information_4">ဒီနေရာတွင်စားသုံးမှုသင့်ရဲ့လက်ရှိ Registry ကိုပြန်လည်သုံးသပ်ရန်နှင့်ပြုပြင်နိုင်တယ်။ ခလုတ် "\ info" \ နှိပ်ခြင်းအားဖြင့်, သင်တို့ကိုရွေးကောက်သောက်အသေးစိတ်အချက်အလက်များကိုပြန်လည်သုံးသပ်ရန်နှင့်နောက်တဖန်အသင့် Registry ကိုထည့်နိုင်ဖြစ်လိမ့်မည်။</string>
+<string name="information_5">အရက်၏သင့်ရဲ့လက်ရှိအဆင့်အပြည့်အဝသမ္မာသတိရှိကြလော့နှင့်တရားဝင်သမ္မာသတိရှိကြလော့ရရှိရန်လိုအပ်သောအချိန်ကာလနှင့်အတူ (သင့်တိုင်းပြည်သို့မဟုတ်ပြည်နယ်အတွက်ကားမောင်းနေစဉ်အရက်၏ဥပဒေရေးရာအဆင့်အတိုင်း), လက်ငင်းပြသ updated by မည်။ ဇယားကိုမကြာသေးခင်အတိတ်နှင့်အနည်းငယ်မယ့်နာရီ (အောက်ခြေမှာတံဆိပ်များအပြည့်အဝနာရီကိုရည်ညွှန်းသည်) အတွင်း, အရက်၏သင့်ရဲ့အကြောင်းအရာတွေကို visualizes ။ Red အလိုင်းအရက်၏ဥပဒေရေးရာအဆင့်ဖော်ပြသည်။ သင်သည်လိုင်းဇယားနှင့်ဘားတန်းကိုဇယားအကြားရွေးချယ်နိုင်ပါသည်။</string>
+<string name="information_6">သင်၏ (အတိတ်မှတ်တမ်းများမှကောက်ခံသည့်) အရက်ကိုသင်နေ့စဉ်စားသုံးမှုခြေရာပြန်ထိုကဲ့သို့သောစုစုပေါင်းပျှမ်းမျှနှင့်စားသုံးမှုအဖြစ်စာရင်းဇယားများကြည့်နိုင်သည်။ နေ့ရက်တိုင်းဇယား၏တစ်ဘားကကိုယ်စားပြုသည်ကိုဘယ်ဘက်လေဘယ်လ်အမှတ်အသား (1 ယူနစ် = စင်ကြယ်သောအရက်၏ 10 milliliters) အရက်၏ယူနစ်ကိုလောင်ဖော်ပြသည်။ မြှားတို့ကိုသင်သည်အခြားလ navigate လွှတ်လိမ့်မည်။</string>
+<string name="information_7">ထိုပုံတွင်အနီးကပ်အရက်နှင့်အရက်ဆိုင်များ၏အဆင်းအရောင်အဆင့်အထိတည်ရှိပြီး, dot ၏အရောငျ, အရက်၏သင့်ရဲ့လက်ရှိအဆင့်အတိုင်း, ပြောင်းလဲနေတဲ့လိမ့်မည်။ အရောင်အဆင်း၏အဓိပ္ပါယ်ကိုအောက်မှာရှင်းပြထားတယ်။</string>
+<string name="information_8">ဒီ application ကိုသင့်ရဲ့တကယ့် (အစစ်အမှန်) သွေးထဲတွင်အရက်၏အဆင့်, ဒါပေမယ့်သင်္ချာပုံသေနည်းပေါ်အခြေခံသည့်ခန့်မှန်းတွက်ချက်နိုင်မပေးပါဘူး။ သွေးထဲတွင်အရက်၏ content ဖော်မြူလာတွင်ထည့်သွင်းမထားတဲ့အချက်အမျိုးမျိုးပေါ်မူတည်ပါသည်။ သွေးထဲတွင်အရက်ကိုသင်အမှန်တကယ်အဆင့်ဤ application များကပေးအပ်တန်ဖိုးကွာခြားနိုင်ပါသည်။</string>
+<string name="legal_alc">သင်၏ပြည် / ပြည်နယ်အတွက်ဥပဒေရေးရာသွေးအရက်အကြောင်းအရာ</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">သင်သည်တရားဝင်သမ္မာသတိရှိကြလော့များမှာ</string>
+<string name="legal_time">သင်သည်မှာတရားဝင်သမ္မာသတိရှိကြလော့ဖြစ်လိမ့်မည်</string>
+<!-- chart made of lines -->
+<string name="line_chart">လိုင်းဇယား</string>
+<string name="low_calory">(ဥပဒေရေးရာအောက်ပုံ) နိမ့်ကျတဲ့အဆင့်</string>
+<string name="male">အထီး</string>
+<string name="medium_calory">(ဥပဒေရေးရာန်းကျင်) အလယ်အလတ်အဆင့်</string>
+<string name="menu_title">Menu ကို</string>
+<string name="month">လ</string>
+<string name="month_graph_title">လစဉ်စားသုံးမှု</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">လစဉ်စာရင်းဇယားများ</string>
+<string name="new_record">သင်တို့ရှိသမျှသည် entries တွေကိုရှင်းပေးနှင့်အသစ် registry ကိုဖွင့်ဖို့လိုသလား</string>
+<string name="no_data">ရွေးချယ်ထားသောလအတွက်မရှိနိုင်ပါဒေတာ</string>
+<string name="num_days">အရက်၏စားသုံးမှုနှင့်အတူနေ့ရက်များ၏နံပါတ်</string>
+<string name="ok">Okay</string>
+<string name="opinion">သဘော</string>
+<string name="percent_alcohol">အရက်၏ရာခိုင်နှုန်း</string>
+<string name="pick_amount">Volume \'</string>
+<string name="pick_type">သောက်စရာအမျိုးအစား</string>
+<!-- app being short for application -->
+<string name="rate_app">ဒီ application ကကောဘယ်လောက်ရှိသလဲ!</string>
+<string name="save_close">Save and နီးကပ်စွာ</string>
+<string name="settings">Settings များ</string>
+<string name="sex">သင့်ရဲ့လိင်</string>
+<string name="sober_time">သင်အပြည့်အဝသမ္မာသတိရှိကြလော့ဖြစ်လိမ့်မည်</string>
+<string name="standard_unit">(ယူနစ် = စင်ကြယ်သောအရက်၏ 10g)</string>
+<string name="that_is">ထိုသို့ဖြစ်</string>
+<string name="total_consumption">Total ကုမ္ပဏီစားသုံးမှု</string>
+<string name="type_name">သွန်းလောင်း၏ Label</string>
+<string name="unit">Volume ရဲ့ယူနစ်</string>
+<string name="veryhigh_calory">(အများကြီးဥပဒေရေးရာအထက်) အလွန်မြင့်မားသည့်အဆင့်</string>
+<string name="warning">သတိပေးချက်!</string>
+<string name="weight">သင့်ရဲ့ခန္ဓာကိုယ်အလေးချိန်</string>
+<string name="choose_theme">အရောင်ကိုရွေးပါ</string>
+<string name="wine">ဝိုင်</string>
+<string name="light">ပြောင်လက်တောက်ပသော</string>
+<string name="dark">မှောင်မိုက်</string>
+<string name="promile">Per-မိုင်</string>
+<string name="alc_level">အရက်၏အဆင့်</string>
+<string name="stats">စာရင်းအင်း</string>
+<string name="def_name">Default အနေနဲ့အမည်ကို</string>
+<string name="ad_phrase1">သင့်ဖုန်းဖြင့်အရက်၏အဆင့် Verify ။</string>
+<string name="ad_phrase2">သင်တရားဝင်မောင်းနှင်နိုင်မယ်ဆိုရင်ကိုစစ်ဆေးပါ။</string>
+<string name="ad_phrase3">Default အနေနဲ့အမည်ကို</string>
+<string-array name="beer_amounts">
+<item>အလွန်သေးငယ်တဲ့ဖန်ခွက်</item>
+<item>အသေးစားဖန်ခွက်</item>
+<item>အလတ်စားဖန်ခွက်</item>
+<item>ကြီးမားတဲ့ဖန်ခွက်</item>
+<item>အလွန်ကြီးမားတဲ့ဖန်ခွက်</item>
+</string-array>
+<string-array name="units">
+<item>မက်ထရစ် - milliliters (ml)</item>
+<item>အရည်အောင်စကိုအမေရိကန် (FL oz)</item>
+<item>အရည်အောင်စမှာ Imperial (FL oz)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>ဘီယာ</item>
+<item>ဝိုင်</item>
+<item>ဗော့ဒ်ကာသို့မဟုတ်ယာမ</item>
+<item>ကော့တေးလ်</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>အလွန်သေးငယ်တဲ့ဖန်ခွက်</item>
+<item>အသေးစားဖန်ခွက်</item>
+<item>အလတ်စားဖန်ခွက်</item>
+<item>ကြီးမားတဲ့ဖန်ခွက်</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>အသေးစားဖန်ခွက်</item>
+<item>အလတ်စားဖန်ခွက်</item>
+<item>ကြီးမားတဲ့ဖန်ခွက်</item>
+</string-array>
+</resources>

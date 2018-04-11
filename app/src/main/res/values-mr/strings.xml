@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">पेय जोडा</string>
+<string name="add_favorite">आवडते जोडा</string>
+<string name="age">आपले वय</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">मानक पेय युनिट सर्व संख्या</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">रक्त दारू सामग्री</string>
+<string name="avg_consumption">सरासरी दररोज वापर</string>
+<string name="bac_graph">दारू आपल्या स्तर चार्ट</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">आकृती</string>
+<string name="cancel">रद्द करा</string>
+<string name="change_time">बदला वेळ</string>
+<string name="charts">दारू आपली चालू पातळी</string>
+<string name="clear_all">सर्व साफ करा आणि नवीन नोंदणी सुरू</string>
+<!-- Short from Configuration -->
+<string name="config">कॉन्फिगरेशन</string>
+<string name="consumption">आपले वापर</string>
+<string name="consumption_time">वापर वेळ</string>
+<string name="current_alc">दारू आपली चालू पातळी</string>
+<string name="default_name">नाव डीफॉल्ट सेट</string>
+<string name="default_percent">डीफॉल्ट टक्केवारी</string>
+<string name="del_item">आपण आयटम हटवू इच्छिता का?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">वापर नोंदणी</string>
+<string name="diary_added">आपली नोंदणी जोडले पेय</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">मासिक आकडेवारी</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">वापर आपल्या वर्तमान रेजिस्ट्री</string>
+<string name="dont_drive">दारू पिण्याचे नंतर ड्राइव्ह नका!</string>
+<string name="drink_label">पेय लेबल</string>
+<string name="edit_name">नाव संपादित करा</string>
+<string name="exit">बाहेर पडा</string>
+<string name="favorites">आवडते</string>
+<string name="favorite_hint">आवडी शोधा</string>
+<string name="fav_added">प्या आवडी जोडले</string>
+<string name="feedback">आपले मत द्या</string>
+<string name="feedback_prompt">हॅलो, आम्ही आपल्याला या अनुप्रयोग सुधारण्यासाठी शकते की, आम्हाला आपले मत पाठवू इच्छितो?</string>
+<string name="female">महिला</string>
+<string name="fully_sober">आपण पूर्णपणे विचारी आहेत</string>
+<string name="go_to_menu">स्वीकारा आणि बंद</string>
+<string name="height">आपले उंची</string>
+<string name="help">मदत</string>
+<!-- app being short for application -->
+<string name="help_translate">हा अनुप्रयोग अनुवाद मदत</string>
+<string name="high_calory">उच्च पातळी (कायदेशीर वर)</string>
+<string name="info">माहिती</string>
+<string name="information_1">आपल्या देशात किंवा प्रांत मध्ये वाहनचालक करताना वजन, लिंग, रक्त दारू कायदेशीर सामग्री: सेटिंग्ज वर जा आणि आपला डेटा प्रविष्ट करा. जतन करा आणि बंद.</string>
+<string name="information_2">प्रत्येक वेळी आपण एक पेय वापर करणारे जेव्हा, आपण वापर आपल्या रेजिस्ट्री ते जमा करावी. आपण प्रत्येक पेय टाइप करा वॉल्यूम आणि दारू टक्केवारी सेट करू शकता. ते वर्तमान वेळ वर सेट केले आहे मुलभूतरित्या आपण, वापर वेळ प्रविष्ट करू शकता. Cocktails, आपण पेय मध्ये समाविष्ट आहे, जे राय धान्यापासून तयार केलेले (किंवा इतर मद्यनिर्मितीमध्ये), फक्त रक्कम प्रविष्ट केले पाहिजे.</string>
+<string name="information_3">प्रक्रिया त्वरेने करण्यासाठी, आपण आपल्या पसंतीच्या नाव अंतर्गत, आवडी फोल्डर मध्ये पेय सेव्ह करू शकता. एक पेय आवडी मध्ये जतन केल्यानंतर, आपण फक्त एक क्लिक करून, वापर आपल्या नोंदणी करण्यासाठी जोडू शकता.</string>
+<string name="information_4">येथे आपण पुनरावलोकन आणि वापर आपल्या वर्तमान रेजिस्ट्री संपादीत करू शकता. बटण \ "\ माहिती" वर क्लिक करून आपण निवडलेल्या पेय तपशील पुनरावलोकन करा आणि पुन्हा आपल्या रेजिस्ट्री जोडण्यासाठी सक्षम असेल.</string>
+<string name="information_5">मद्य आपले वर्तमान पातळीवर करून (आपल्या देशात किंवा प्रांत मध्ये वाहनचालक करताना दारू कायदेशीर पातळीवर त्यानुसार) प्रदर्शित आणि पूर्णपणे विचारी आणि कायदेशीर विचारी मिळविण्यासाठी आवश्यक वेळ कालावधी व, रिअल टाइम मध्ये सुधारित होईल. चार्ट गेल्या आणि काही आगामी तास (लेबले तळाशी पूर्ण तास सूचित) दरम्यान मद्य आपली सामग्री करते. लाल ओळ दारू कायदेशीर स्तर सूचित. आपण ओळ चार्ट आणि बार चार्ट निवडू शकतात.</string>
+<string name="information_6">आपले अशा एकूण सरासरी आणि वापर म्हणून (गेल्या रेकॉर्ड गोळा) दारू आणि आढावा आकडेवारी आपल्या दैनंदिन वापर रेखाटता येतो. प्रत्येक दिवस चार्ट एक बार प्रस्तुत केले जाते, डावीकडे लेबल सेवन अल्कोहोल (1 युनिट = शुद्ध अल्कोहोल 10 milliliters) युनिट सूचित करतात. बाण आणखी महिने नेव्हिगेट असेल.</string>
+<string name="information_7">दारू आणि आकृती बार रंग च्या पातळीवर बंद स्थित एकूण, रंग, मद्य आपल्या वर्तमान पातळीवर त्यानुसार बदलत जाईल. रंग अर्थ खाली स्पष्ट आहे.</string>
+<string name="information_8">हा अनुप्रयोग आपल्या प्रत्यक्ष (खर्या) रक्त दारू पातळी, पण एक गणिती सूत्र आधारित अंदाज पुरवत नाही. रक्त दारू सामग्री सूत्र मध्ये समाविष्ट नसलेल्या घटक, विविध अवलंबून असते. रक्त दारू आपल्या प्रत्यक्ष पातळी या अनुप्रयोग द्वारे प्रदान मूल्य वेगळी असू शकतात.</string>
+<string name="legal_alc">आपल्या देशात / प्रांतात कायदेशीर रक्त दारू सामग्री</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">आपण कायदेशीर विचारी आहेत</string>
+<string name="legal_time">आपण कायदेशीर विचारी असेल</string>
+<!-- chart made of lines -->
+<string name="line_chart">लाइन चार्ट</string>
+<string name="low_calory">पातळी कमी (कायदेशीर खाली)</string>
+<string name="male">नर</string>
+<string name="medium_calory">मध्यम पातळी (कायदेशीर सुमारे)</string>
+<string name="menu_title">मेनू</string>
+<string name="month">महिना</string>
+<string name="month_graph_title">मासिक वापर</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">मासिक आकडेवारी</string>
+<string name="new_record">आपण सर्व नोंदी साफ करा आणि नवीन नोंदणी सुरू करायचे?</string>
+<string name="no_data">निवडलेले महिन्यात डेटा उपलब्ध नाही</string>
+<string name="num_days">दारू वापर दिवस क्रमांक</string>
+<string name="ok">ठीक आहे</string>
+<string name="opinion">मत</string>
+<string name="percent_alcohol">दारू टक्केवारी</string>
+<string name="pick_amount">खंड</string>
+<string name="pick_type">पेय प्रकार</string>
+<!-- app being short for application -->
+<string name="rate_app">हा अनुप्रयोग रेट करा!</string>
+<string name="save_close">जतन करा आणि बंद</string>
+<string name="settings">सेटिंग्ज</string>
+<string name="sex">आपले लिंग</string>
+<string name="sober_time">आपण पूर्णपणे विचारी असेल</string>
+<string name="standard_unit">(युनिट = शुद्ध अल्कोहोल च्या 10)</string>
+<string name="that_is">की आहे</string>
+<string name="total_consumption">एकूण वापर</string>
+<string name="type_name">पेय लेबल</string>
+<string name="unit">खंड युनिट</string>
+<string name="veryhigh_calory">अतिशय उच्च पातळी (किती कायदेशीर वरील)</string>
+<string name="warning">सावधान!</string>
+<string name="weight">आपले वजन</string>
+<string name="choose_theme">रंग निवडा</string>
+<string name="wine">वाइन</string>
+<string name="light">तेजस्वी</string>
+<string name="dark">गडद</string>
+<string name="promile">प्रति-मैलाचे</string>
+<string name="alc_level">दारू पातळी</string>
+<string name="stats">आकडेवारी</string>
+<string name="def_name">डीफॉल्ट नाव</string>
+<string name="ad_phrase1">आपल्या फोनवर दारू पातळी सत्यापित करा.</string>
+<string name="ad_phrase2">आपण कायदेशीर काढू शकेल का ते तपासा.</string>
+<string name="ad_phrase3">डीफॉल्ट नाव</string>
+<string-array name="beer_amounts">
+<item>खूप लहान काच</item>
+<item>लहान काच</item>
+<item>मध्यम काच</item>
+<item>मोठ्या काचेच्या</item>
+<item>खूप मोठ्या काचेच्या</item>
+</string-array>
+<string-array name="units">
+<item>मेट्रिक - milliliters (मिली)</item>
+<item>द्रवपदार्थ पौंड अमेरिका (फ्लोरिडा औंस)</item>
+<item>द्रवपदार्थ पौंड शाही (फ्लोरिडा औंस)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>बिअर</item>
+<item>वाईन</item>
+<item>राय धान्यापासून तयार केलेले मद्य किंवा मादक पेय</item>
+<item>मिश्र मादक पेय</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>खूप लहान काच</item>
+<item>लहान काच</item>
+<item>मध्यम काच</item>
+<item>मोठ्या काचेच्या</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>लहान काच</item>
+<item>मध्यम काच</item>
+<item>मोठ्या काचेच्या</item>
+</string-array>
+</resources>

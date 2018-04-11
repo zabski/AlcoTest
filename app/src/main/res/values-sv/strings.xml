@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Lägg dryck</string>
+<string name="add_favorite">Lägg till i favoriter</string>
+<string name="age">Din ålder</string>
+<string name="all_units">Alla nummer i vanliga drinkheter</string>
+<string name="app_name">Innehållet av alkohol i blod</string>
+<string name="avg_consumption">Genomsnittlig daglig konsumtion</string>
+<string name="bac_graph">Diagram över din nivå av alkohol</string>
+<string name="bar_chart">Stapeldiagram</string>
+<string name="cancel">Avboka</string>
+<string name="change_time">Förändring tid</string>
+<string name="charts">Din nuvarande nivå av alkohol</string>
+<string name="clear_all">Rensa allt och börja ett nytt register</string>
+<string name="config">Konfiguration</string>
+<string name="consumption">Din förbrukning</string>
+<string name="consumption_time">Tidpunkten för konsumtion</string>
+<string name="current_alc">Din nuvarande nivå av alkohol är</string>
+<string name="default_name">Standardnamn</string>
+<string name="default_percent">Standard procentandel</string>
+<string name="del_item">Vill du ta bort föremål?</string>
+<string name="diary">Register över förbrukning</string>
+<string name="diary_added">Dryck läggs till registret</string>
+<string name="diary_graph">Månadsstatistik</string>
+<string name="diary_items">Din nuvarande register över förbrukning</string>
+<string name="dont_drive">Aldrig köra efter att ha druckit alkohol!</string>
+<string name="drink_label">Etikett av drycken</string>
+<string name="edit_name">Redigera namn</string>
+<string name="exit">Utgång</string>
+<string name="favorites">Favoriter</string>
+<string name="favorite_hint">Sökning i favoriter</string>
+<string name="fav_added">Dryck läggas till i favoriter</string>
+<string name="feedback">Ge din åsikt</string>
+<string name="feedback_prompt">Hej, vill du ge oss några kommentarer, så att vi kan förbättra det här programmet för dig?</string>
+<string name="female">Kvinna</string>
+<string name="fully_sober">Du är helt nykter</string>
+<string name="go_to_menu">Acceptera och stänga</string>
+<string name="height">Din längd</string>
+<string name="help">Hjälpa</string>
+<string name="help_translate">Hjälpa till att översätta denna ansökan</string>
+<string name="high_calory">Hög nivå (över lagligt)</string>
+<string name="info">Informationen</string>
+<string name="information_1">Gå till inställningar för att skriva in dina uppgifter: vikt, kön och juridiskt innehåll av alkohol i blodet när man kör i ditt land eller provins. Spara och stäng.</string>
+<string name="information_2">Varje gång, när du konsumerar en dryck, bör du lägga till den i ditt register av konsumtionen. Du kan ställa in typ, volym och andel av alkohol för varje dryck. Du kan även ange tidpunkten för konsumtionen, som standard är inställd på aktuell tid. För cocktails, ska du skriva in precis hur mycket vodka (eller andra vätskor), som ingår i drycken.</string>
+<string name="information_3">För att påskynda processen kan du spara drinkar i favoritmappen, under ett valfritt namn. Efter en dryck sparas i favoriter, kan du lägga till den i registret över förbrukning, med bara ett klick.</string>
+<string name="information_4">Här kan du granska och ändra din nuvarande register över förbrukningen. Genom att klicka på "information" -knappen, kommer du att kunna gå igenom för vald dryck och lägga till den i registret igen.</string>
+<string name="information_5">Din nuvarande nivån av alkohol kommer med visas och uppdateras i realtid, tillsammans med tid behövs för att få fullt nykter och juridiskt nykter (enligt lagliga gränsen för alkohol vid körning i ditt land eller provins). Diagrammet visualiserar innehållet av alkohol, under senaste tiden och några kommande timmar (etiketter längst ner visar hela timmar). Röd linje visar lagliga gränsen för alkohol. Du kan välja mellan linjediagram och stapeldiagram.</string>
+<string name="information_6">Du kan spåra din dagliga konsumtion av alkohol (samlats in från tidigare historik) och granska statistik såsom total och genomsnittlig förbrukning. Varje dag representeras av en bar i diagrammet, etikett till vänster visar enheter alkohol konsumeras (1 enhet = 10 ml ren alkohol). Pilar låter dig navigera till andra månader.</string>
+<string name="information_7">Färg på pricken, ligger nära nivån av alkohol och färger av barer i stapeldiagram, kommer att förändras, beroende på din nuvarande nivå av alkohol. Innebörden av färger förklaras nedan.</string>
+<string name="information_8">Denna ansökan ger inte din faktiska (verkliga) nivå av alkohol i blodet, men en uppskattning baserad på en matematisk formel. Innehållet av alkohol i blodet är beroende av olika faktorer, som inte är inkluderade i formeln. Din faktiska nivån på alkohol i blodet kan avvika från det värde som denna ansökan.</string>
+<string name="legal_alc">Rättslig nivå av alkohol i blodet i ditt land / region</string>
+<string name="legal_sober">Du är juridiskt nykter</string>
+<string name="legal_time">Du kommer att vara juridiskt nykter på</string>
+<string name="line_chart">Linjediagram</string>
+<string name="low_calory">Låg nivå (under juridisk)</string>
+<string name="male">Man</string>
+<string name="medium_calory">Medelhög nivå (runt lagligt)</string>
+<string name="menu_title">Meny</string>
+<string name="month">Månad</string>
+<string name="month_graph_title">Månatliga förbrukningen</string>
+<string name="month_stats">Månadsstatistik</string>
+<string name="new_record">Vill du ta bort alla poster och börja nya registret?</string>
+<string name="no_data">Ingen information tillgänglig för vald månad uppgifter</string>
+<string name="num_days">Antalet dagar med alkoholkonsumtion</string>
+<string name="ok">Okay</string>
+<string name="opinion">Yttrande</string>
+<string name="percent_alcohol">Procentandel av alkohol</string>
+<string name="pick_amount">Välja volym</string>
+<string name="pick_type">Välj typ av dryck</string>
+<string name="rate_app">Betygsätta denna ansökan!</string>
+<string name="save_close">Spara och stäng</string>
+<string name="settings">Inställningar</string>
+<string name="sex">Ditt kön</string>
+<string name="sober_time">Du kommer att vara helt nykter på</string>
+<string name="standard_unit">(enhet = 10 gram ren alkohol)</string>
+<string name="that_is">Som är i</string>
+<string name="total_consumption">Totala konsumtionen</string>
+<string name="type_name">Etikett av drycken</string>
+<string name="unit">Volymenhet</string>
+<string name="veryhigh_calory">Mycket hög nivå (mycket över laglig)</string>
+<string name="warning">Varning!</string>
+<string name="weight">Din vikt</string>
+<string-array name="beer_amounts">
+<item>Mycket litet glas</item>
+<item>Litet glas</item>
+<item>Mediet glas</item>
+<item>Stort glas</item>
+<item>Mycket stort glas</item>
+</string-array>
+<string-array name="units">
+<item>Metriska - milliliter (ml)</item>
+<item>Fluid ounce amerikansk (fl oz)</item>
+<item>Fluid ounce imperial (fl oz)</item>
+</string-array>
+<string-array name="drink_types">
+<item>Öl</item>
+<item>Vin</item>
+<item>Vodka eller sprit</item>
+<item>Cocktail</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Mycket litet glas</item>
+<item>Litet glas</item>
+<item>Mediet glas</item>
+<item>Stort glas</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Litet glas</item>
+<item>Mediet glas</item>
+<item>Stort glas</item>
+</string-array>
+</resources>

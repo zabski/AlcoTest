@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Уух нэмнэ</string>
+<string name="add_favorite">Дуртай нэмэх</string>
+<string name="age">Таны нас</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">Стандарт ундаа нэгжийн бүх тоо</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">Цусан дахь согтууруулах ундааны агуулга</string>
+<string name="avg_consumption">Дундаж өдөр тутмын хэрэглээ</string>
+<string name="bac_graph">Архи, согтууруулах ундаа таны түвшинг диаграмм</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">Диаграмм</string>
+<string name="cancel">Болих</string>
+<string name="change_time">Өөрчлөлтийн цаг</string>
+<string name="charts">Архи, согтууруулах ундаа Таны одоогийн түвшин</string>
+<string name="clear_all">Бүх арилгах, шинэ бүртгэл эхэлнэ</string>
+<!-- Short from Configuration -->
+<string name="config">Тохиргоо</string>
+<string name="consumption">Таны хэрэглээ</string>
+<string name="consumption_time">Хэрэглээний цаг</string>
+<string name="current_alc">Архи, согтууруулах ундаа Таны одоогийн түвшин</string>
+<string name="default_name">Нэр анхдагч нь чансаанд</string>
+<string name="default_percent">Стандарт хувь</string>
+<string name="del_item">Та зүйлийг устгахыг хүсэж байна уу?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">Хэрэглээний Бүртгэл</string>
+<string name="diary_added">Таны бүртгэлд нэмж УУХ</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">Сарын статистик</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">Хэрэглээний Таны одоогийн бүртгэл</string>
+<string name="dont_drive">Архи, согтууруулах ундаа уусны дараа жолоодох хэзээ ч бүү!</string>
+<string name="drink_label">Ундаа Label</string>
+<string name="edit_name">Засварлах нэр</string>
+<string name="exit">Гарах</string>
+<string name="favorites">Таалагдсан</string>
+<string name="favorite_hint">Дуртай хайх</string>
+<string name="fav_added">Drink дуртай нэмэх</string>
+<string name="feedback">Өөрийн саналаа өгнө үү</string>
+<string name="feedback_prompt">Сайн байна уу, Та бид та нарын төлөө энэ програмыг сайжруулж чадаж байна, бидэнд та нарын санаа бодлыг илгээх хүсэж байна вэ?</string>
+<string name="female">Эмэгтэй</string>
+<string name="fully_sober">Та бүрэн хэрсүү байна</string>
+<string name="go_to_menu">Хүлээн зөвшөөрч хаах</string>
+<string name="height">Таны өндөр</string>
+<string name="help">Тусал</string>
+<!-- app being short for application -->
+<string name="help_translate">Энэ програм нь орчуулахад туслах</string>
+<string name="high_calory">Өндөр түвшний (хуулийн дээш)</string>
+<string name="info">Мэдээлэл</string>
+<string name="information_1">Таны улс, аймгийн жолоодож байхдаа жин, хүйс, цусан дахь согтууруулах ундааны хууль эрх зүйн агуулга: тохиргоо руу явж, өөрийн мэдээллийг оруулна уу. Хадгалах, ойр дотно.</string>
+<string name="information_2">Бүр нь цаг хугацаа, та ундаа хэрэглэдэг бол та хэрэглээний өөрийн бүртгэлд нэмэх хэрэгтэй. Та бүрийн уух төрөл, хэмжээ, архи эзлэх хувийг тогтоож болно. Энэ нь одоогийн хугацаагаар тохируулагдсан нь анхдагчаар Та мөн хэрэглэх хугацааг оруулж болно. Коктейль нь, уух агуулагдаж байдаг архи (эсвэл бусад согтууруулах ундаа), зөвхөн хэмжээ оруулах ёстой.</string>
+<string name="information_3">Явцыг хурдасгана тулд та өөрийн сонгосон нэрээр, дуртай хавтсанд ундаа хадгалж болно. Ундаан дуртай аврагдсан дараа та нэг л дараад гэхэд хэрэглээний таны бүртгэлд нэмэх болно.</string>
+<string name="information_4">Энд та хянаж, хэрэглээний одоогийн бүртгэлийг өөрчилж болно. Товч \ "\ мэдээллийг" дарж та сонгосон ундаа нарийвчлан хянаж, дахин өөрийн бүртгэлд нэмэх боломжтой болно.</string>
+<string name="information_5">Архи, согтууруулах ундаа Таны одоогийн түвшин тус (өөрийн улс, аймгийн жолоодож байхдаа архи, согтууруулах ундаа хууль эрх зүйн түвшинд дагуу) гарч, бүрэн хэрсүү, мөн хууль ёсоор хэрсүү авах шаардлагатай хугацаанд хамт, бодит цаг хугацаанд нь шинэчлэгдсэн юм. зураг сүүлийн үед, цөөхөн ирэх цаг (шошго нь доод хэсэгт нь бүрэн цагийн харуулж байна) үед архи, согтууруулах ундаа таны агуулга, санаан дээр суурилсан. Улаан шугам нь архи, согтууруулах ундаа хууль эрх зүйн түвшинд байгааг харуулж байна. Та шугам график ба бар графикийн сонголт хийж болно.</string>
+<string name="information_6">Таны ийм нийт болон дундаж хэрэглээ (сүүлийн бүртгэл цуглуулсан) архи, согтууруулах ундаа болон хянах статистик таны өдөр тутмын хэрэглээг харах боломжтой болно. Өдөр бүр графикийн нэг бар төлөөлж байгаа, зүүн талд шошго хэрэглэж архи, согтууруулах ундаа (1 нэгж = цэвэр архи, согтууруулах ундаа нь 10 мл) -ийн нэгж харуулж байна. Сумнууд та бусад сар дарна зөвшөөрөх болно.</string>
+<string name="information_7">Архи, диаграм дахь баар өнгө түвшинд ойрхон орших цэг, өнгө, архи, согтууруулах ундаа нь таны одоогийн түвшинд дагуу өөрчлөгдөж болно. өнгөний утгыг доор тайлбарласан байгаа.</string>
+<string name="information_8">Энэ програм өөрийн жинхэнэ (бодит) цусан дахь согтууруулах ундааны хэмжээг, харин математик томъёогоор тулгуурласан тооцоо гаргаж байна. Цусан дахь согтууруулах ундааны Агуулга томъёонд орсон биш юм хүчин зүйл, янз бүрийн хамаарна. Цусан дахь согтууруулах ундааны Таны бодит түвшин энэ мэдүүлэг өгсөн утгаас өөр байж болно.</string>
+<string name="legal_alc">Таны улс / аймгийн Хууль зүйн Цусны Архи агуулга</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">Та хууль ёсоор хэрсүү байна</string>
+<string name="legal_time">Та үед хууль ёсны дагуу хэрсүү байх болно</string>
+<!-- chart made of lines -->
+<string name="line_chart">Шугам зураг</string>
+<string name="low_calory">Доод түвшний (хуулийн доош)</string>
+<string name="male">Эр</string>
+<string name="medium_calory">Дунд шатны (хуулийн эргэн тойронд)</string>
+<string name="menu_title">Цэс</string>
+<string name="month">Сараар</string>
+<string name="month_graph_title">Сарын хэрэглээ</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">Сарын статистик</string>
+<string name="new_record">Бүх оруулгуудыг цэвэрлэх, шинэ бүртгэл эхлэх хүсэж байна уу?</string>
+<string name="no_data">Сонгосон сарын ашиглах боломжтой ямар ч мэдээлэл</string>
+<string name="num_days">Архи, согтууруулах ундаа хэрэглэх нь өдрийн тоо</string>
+<string name="ok">За</string>
+<string name="opinion">Санал</string>
+<string name="percent_alcohol">Архи, согтууруулах ундаа хувь</string>
+<string name="pick_amount">Хэмжээ</string>
+<string name="pick_type">Уух төрөл</string>
+<!-- app being short for application -->
+<string name="rate_app">Энэ програмыг үнэлэх!</string>
+<string name="save_close">Хадгалаад хаах</string>
+<string name="settings">Тохиргоо</string>
+<string name="sex">Таны секс</string>
+<string name="sober_time">Та үед бүрэн хэрсүү байх болно</string>
+<string name="standard_unit">(Нэгж = цэвэр архи, согтууруулах ундаа 10g)</string>
+<string name="that_is">Гэж байна</string>
+<string name="total_consumption">Нийт хэрэглээ</string>
+<string name="type_name">Ундаа Label</string>
+<string name="unit">Эзлэхүүний нэгж</string>
+<string name="veryhigh_calory">Маш өндөр түвшин (их хууль эрх зүйн дээш)</string>
+<string name="warning">Анхаар!</string>
+<string name="weight">Таны биеийн жин</string>
+<string name="choose_theme">Өнгөө сонгоно уу</string>
+<string name="wine">Дарс</string>
+<string name="light">Тод</string>
+<string name="dark">Харанхуй</string>
+<string name="promile">Нэг миль</string>
+<string name="alc_level">Архи, согтууруулах ундаа түвшин</string>
+<string name="stats">Статистик мэдээ</string>
+<string name="def_name">Анхдагч нэр</string>
+<string name="ad_phrase1">Таны утаснаас нь архи, согтууруулах ундаа түвшинг шалгана.</string>
+<string name="ad_phrase2">Хэрэв та хууль ёсоор жолоодож чаддаг бол шалга.</string>
+<string name="ad_phrase3">Анхдагч нэр</string>
+<string-array name="beer_amounts">
+<item>Маш жижиг шилэн</item>
+<item>Жижиг шил</item>
+<item>Дунд зэргийн шил</item>
+<item>Том шилэн</item>
+<item>Маш том шилэн</item>
+</string-array>
+<string-array name="units">
+<item>Метр - мл (мл)</item>
+<item>АНУ-ын шингэн унци (FL унц)</item>
+<item>Шингэн унци эзэн хааны (FL унц)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>Beer</item>
+<item>Wine</item>
+<item>Архи, эсвэл Liquor</item>
+<item>Cocktail</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Маш жижиг шилэн</item>
+<item>Жижиг шил</item>
+<item>Дунд зэргийн шил</item>
+<item>Том шилэн</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Жижиг шил</item>
+<item>Дунд зэргийн шил</item>
+<item>Том шилэн</item>
+</string-array>
+</resources>

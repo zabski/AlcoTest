@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+<string name="add_drink">Voeg drink</string>
+<string name="add_favorite">Voeg by gunstelinge</string>
+<string name="age">Jou ouderdom</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">Alle getalle in standaard drankie eenhede</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">Inhoud van alkohol in die bloed</string>
+<string name="avg_consumption">Gemiddelde daaglikse verbruik</string>
+<string name="bac_graph">Grafiek van jou vlak van alkohol</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">Diagram</string>
+<string name="cancel">Kanselleer</string>
+<string name="change_time">Verandering tyd</string>
+<string name="charts">Jou huidige vlak van alkohol</string>
+<string name="clear_all">Duidelik al en begin nuwe register</string>
+<!-- Short from Configuration -->
+<string name="config">Opset</string>
+<string name="consumption">Jou verbruik</string>
+<string name="consumption_time">Tyd van verbruik</string>
+<string name="current_alc">Jou huidige vlak van alkohol</string>
+
+<string name="default_percent">Default persentasie</string>
+<string name="del_item">Wil jy item uitvee?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">Register van verbruik</string>
+<string name="diary_added">Drink by jou register</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">Maandelikse statistieke</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">Jou huidige register van verbruik</string>
+<string name="dont_drive">Nooit ry na die drink van alkohol!</string>
+<string name="drink_label">Etiket van die drankie</string>
+<string name="edit_name">Redigeer naam</string>
+<string name="exit">Uitgang</string>
+<string name="favorites">Gunstelinge</string>
+<string name="favorite_hint">Soek in gunstelinge</string>
+<string name="fav_added">Drink bygevoeg gunstelinge</string>
+<string name="feedback">Gee jou mening</string>
+<string name="feedback_prompt">Hello, sou jy graag om ons te stuur jou mening, sodat ons kan hierdie aansoek vir jou verbeter?</string>
+<string name="female">Vroulike</string>
+<string name="fully_sober">Jy is ten volle nugter</string>
+<string name="go_to_menu">Aanvaar en sluit</string>
+<string name="height">Jou hoogte</string>
+<string name="help">Help</string>
+<!-- app being short for application -->
+<!--string name="help_translate">Help met die vertaling van hierdie aansoek</string-->
+<string name="high_calory">Hoë vlak (bo regs)</string>
+<string name="info">Inligting</string>
+<string name="information_1">Gaan na instellings en gee jou data: gewig, geslag en wetlike inhoud van alkohol in die bloed terwyl jy ry in jou land of provinsie. Spaar en naby.</string>
+<string name="information_2">Elke keer wanneer jy verbruik \'n drankie, jy moet dit aan jou register van verbruik voeg. Jy kan tipe, volume en die persentasie van alkohol vir elke drink. Jy kan ook die tyd van verbruik, by verstek dit is ingestel op die huidige tyd. Vir byeenkomste, moet jy voer net die bedrag van die vodka (of ander drank), wat vervat is in die drink.</string>
+<string name="information_3">Om die proses te bespoedig, kan jy drankies red in gunstelinge gids, onder \'n naam van jou keuse. Na \'n drankie is gered in gunstelinge, kan jy dit by jou register van verbruik, met net een kliek.</string>
+<string name="information_4">Hier kan jy lees en jou huidige register van verbruik verander. Deur op \ "info \" knoppie, sal jy in staat wees om die besonderhede van die gekose drink te hersien en voeg dit weer aan jou register.</string>
+<string name="information_5">Jou huidige vlak van alkohol sal deur vertoon en opgedateer in real-time, saam met tyd nodig ten volle nugter en nugter te kry (volgens wetlike vlak van alkohol terwyl jy ry in jou land of provinsie). Die grafiek visualiseert jou inhoud van alkohol tydens die onlangse verlede en \'n paar opkomende uur (etikette aan die onderkant dui volle uur). Rooi lyn dui wetlike vlak van alkohol. Jy kan kies tussen lyn grafiek en bar grafiek.</string>
+<string name="information_6">Jou kan opspoor jou daaglikse verbruik van alkohol (versamel uit die verlede rekords) en hersiening statistieke, soos die totale en gemiddelde verbruik. Elke dag is verteenwoordig deur een bar van die grafiek, etiket aan die linkerkant dui eenhede van alkohol (1 eenheid = 10 ml suiwer alkohol). Arrows sal laat jy na ander maande.</string>
+<string name="information_7">Kleur van die dot, geleë naby die vlak van alkohol en kleure van bars in die diagram, sal verander, volgens jou huidige vlak van alkohol. Die betekenis van kleure word hieronder verduidelik.</string>
+<string name="information_8">Hierdie aansoek verskaf nie jou werklike (ware) vlak van alkohol in die bloed, maar \'n skatting gebaseer op \'n wiskundige formule. Inhoud van alkohol in die bloed is afhanklik van verskeie faktore, wat nie ingesluit is in die formule. Jou werklike vlak van alkohol in die bloed, mag verskil van die waarde wat deur hierdie aansoek.</string>
+<string name="legal_alc">Wetlike alcoholpromillage in jou land / provinsie</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">Jy is nugter</string>
+<string name="legal_time">Jy sal nugter wees by</string>
+<!-- chart made of lines -->
+<string name="line_chart">Line grafiek</string>
+<string name="low_calory">Lae vlak (onder regs)</string>
+<string name="male">Manlike</string>
+<string name="medium_calory">Medium vlak (ongeveer wetlike)</string>
+<string name="menu_title">Menu</string>
+<string name="month">Maand</string>
+<string name="month_graph_title">Maandelikse verbruik</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">Maandelikse statistieke</string>
+<string name="new_record">Wil jy al die inskrywings te maak en begin nuwe register?</string>
+<string name="no_data">Geen inligting beskikbaar vir geselekteerde maand</string>
+<string name="num_days">Aantal dae met die gebruik van alkohol</string>
+<string name="ok">Goed</string>
+<string name="opinion">Mening</string>
+<string name="percent_alcohol">Persentasie van alkohol</string>
+<string name="pick_amount">Volume</string>
+<string name="pick_type">Soort drank</string>
+<!-- app being short for application -->
+<string name="rate_app">Gradeer hierdie aansoek!</string>
+<string name="save_close">Stoor en maak</string>
+<string name="settings">Instellings</string>
+<string name="sex">Jou seks</string>
+<string name="sober_time">Jy sal ten volle nugter wees by</string>
+<string name="standard_unit">(Eenheid = 10g suiwer alkohol)</string>
+<string name="that_is">Dit is in</string>
+<string name="total_consumption">Totale verbruik</string>
+<string name="type_name">Etiket van die drankie</string>
+<string name="unit">Eenheid van volume</string>
+<string name="veryhigh_calory">Baie hoë vlak (baie bogenoemde wetlike)</string>
+<string name="warning">Waarskuwing!</string>
+<string name="weight">Jou gewig</string>
+<string name="choose_theme">Kies kleur</string>
+<string name="wine">Wyn</string>
+<string name="light">Helder</string>
+<string name="dark">Donker</string>
+<string name="promile">Permile</string>
+<string name="alc_level">Vlak van alkohol</string>
+
+<string name="default_name">Standaard naam</string>
+<string-array name="beer_amounts">
+<item>Baie klein glas</item>
+<item>Klein glas</item>
+<item>Medium glas</item>
+<item>Groot glas</item>
+<item>Baie groot glas</item>
+</string-array>
+<string-array name="units">
+<item>Metrieke - milliliter (ml)</item>
+<item>Vloeistof gram VSA (gr oz)</item>
+<item>Vloeistof gram Imperial (gr oz)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>Beer</item>
+<item>Wyn</item>
+<item>Vodka of Liquor</item>
+<item>Cocktail</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Baie klein glas</item>
+<item>Klein glas</item>
+<item>Medium glas</item>
+<item>Groot glas</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Klein glas</item>
+<item>Medium glas</item>
+<item>Groot glas</item>
+</string-array>
+</resources>

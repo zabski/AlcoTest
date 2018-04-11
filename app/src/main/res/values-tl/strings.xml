@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Magdagdag ng inumin</string>
+<string name="add_favorite">Idagdag sa mga paborito</string>
+<string name="age">Ang iyong edad</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">Ang lahat ng mga numero sa mga karaniwang mga yunit ng inumin</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">Nilalaman ng alak sa dugo</string>
+<string name="avg_consumption">Average na araw-araw na pagkonsumo</string>
+<string name="bac_graph">Tsart ng iyong antas ng alak</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">Banghay</string>
+<string name="cancel">Kanselahin</string>
+<string name="change_time">Baguhin ang oras</string>
+<string name="charts">Ang iyong kasalukuyang antas ng alak</string>
+<string name="clear_all">I-clear ang lahat at magsimula ng bagong mga registry</string>
+<!-- Short from Configuration -->
+<string name="config">Configuration</string>
+<string name="consumption">Ang iyong pagkonsumo</string>
+<string name="consumption_time">Oras ng pag-inom</string>
+<string name="current_alc">Ang iyong kasalukuyang antas ng alak</string>
+<string name="default_name">I-set sa default na pangalan</string>
+<string name="default_percent">Default na porsyento</string>
+<string name="del_item">Gusto mo bang tanggalin ang item na ito?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">Pagrerehistro ng pag-inom</string>
+<string name="diary_added">Uminom ng idinagdag sa iyong registry</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">Buwanang mga istatistika</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">Ang iyong kasalukuyang registry ng pag-inom</string>
+<string name="dont_drive">Huwag kailanman magmaneho pagkatapos ng pag-inom ng alak!</string>
+<string name="drink_label">Label ng inumin</string>
+<string name="edit_name">I-edit ang pangalan</string>
+<string name="exit">Labasan</string>
+<string name="favorites">Mga Paborito</string>
+<string name="favorite_hint">Hanapin sa mga paborito</string>
+<string name="fav_added">Idinagdag Drink sa mga paborito</string>
+<string name="feedback">Bigyan ang iyong opinyon</string>
+<string name="feedback_prompt">Kamusta, gusto mong ipadala sa amin ang iyong opinyon, sa gayon ay maaari naming mapabuti ang application na ito para sa iyo?</string>
+<string name="female">Babae</string>
+<string name="fully_sober">Ikaw ay ganap na matino</string>
+<string name="go_to_menu">Tanggapin at isara</string>
+<string name="height">Ang iyong taas</string>
+<string name="help">Tulong</string>
+<!-- app being short for application -->
+<string name="help_translate">Tulungan isalin ang application na ito</string>
+<string name="high_calory">Mataas na antas (sa itaas legal)</string>
+<string name="info">Impormasyon</string>
+<string name="information_1">Pumunta sa mga setting at ipasok ang iyong data: timbang, kasarian at mga legal na nilalaman ng alak sa dugo habang nagmamaneho sa iyong bansa o lalawigan. I-save at isara.</string>
+<string name="information_2">Sa bawat oras, kapag ubusin mo ang pag-inom, dapat mong idagdag ito sa iyong registry ng pag-inom. Maaari mong itakda ang uri, dami at porsyento ng alak para sa bawat inumin. Maaari mo ring ipasok ang oras ng pag-inom, sa pamamagitan ng default na ito ay nakatakda sa kasalukuyang oras. Para sa mga cocktail, dapat mong ipasok lamang ang halaga ng bodka (o iba pang mga alak), na siyang nakapaloob sa mga inumin.</string>
+<string name="information_3">Upang mag-apura ang proseso, maaari mong i-save ang mga inumin sa folder paborito, sa ilalim ng pangalan na iyong gusto. Matapos ang pag-inom ay naka-save sa mga paborito, maaari mong idagdag ito sa iyong registry ng pag-inom, sa pamamagitan ng isang click.</string>
+<string name="information_4">Dito ay maaari mong suriin at baguhin ang iyong kasalukuyang registry ng pag-inom. Sa pamamagitan ng pag-click sa \ "info \" na button, magagawa mong upang suriin ang mga detalye ng napiling inumin at idagdag muli ito sa iyong registry.</string>
+<string name="information_5">Ang iyong kasalukuyang antas ng alak ay sa pamamagitan ng ipinapakita at na-update sa real time, kasama ang panahon na kailangan upang makakuha ng ganap na matino at legal matino (ayon sa legal na antas ng alak habang nagmamaneho sa iyong bansa o lalawigan). Ang tsart visualizes iyong nilalaman ng alak, sa panahon ng kamakailang nakaraan at ilang paparating na oras (mga label sa ibaba ipahiwatig buong oras). Red linya ang mga legal na antas ng alak. Maaari kang pumili sa pagitan ng chart ng linya at bar chart.</string>
+<string name="information_6">Ang iyong Maaari trace ang iyong araw-araw na pagkonsumo ng alak (na nakolekta mula sa mga nakaraang mga talaan) at mga istatistika pagsusuri tulad ng kabuuang at average na pagkonsumo. Ang bawat araw ay kinakatawan ng isang bar ng tsart, label sa kaliwang ipahiwatig yunit ng natupok alak (1 unit = 10 milliliters ng purong alak). Mga arrow hahayaan kang mag-navigate sa iba pang mga buwan.</string>
+<string name="information_7">Kulay ng tuldok, na matatagpuan malapit sa antas ng alak at mga kulay ng bar sa diagram, ay nagbabago, ayon sa iyong kasalukuyang antas ng alak. Ang kahulugan ng mga kulay ay ipinaliwanag sa ibaba.</string>
+<string name="information_8">Ang application na ito ay hindi nagbibigay ng iyong aktwal na (tunay) na antas ng alkohol sa dugo, ngunit isang pagtatantya batay sa isang pormula sa matematika. Nilalaman ng alak sa dugo ay depende sa iba\'t ibang mga kadahilanan, na kung saan ay hindi kasama sa mga formula. Ang iyong aktwal na antas ng alkohol sa dugo ay maaaring naiiba mula sa halaga na ibinigay sa pamamagitan ng application na ito.</string>
+<string name="legal_alc">Legal na Dugo Alcohol Nilalaman sa iyong bansa / lalawigan</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">Ikaw ay legal na matino</string>
+<string name="legal_time">Ikaw ang legal na matino sa</string>
+<!-- chart made of lines -->
+<string name="line_chart">Chart ng linya</string>
+<string name="low_calory">Mababa ang antas (sa ibaba legal)</string>
+<string name="male">Lalaki</string>
+<string name="medium_calory">Ang daluyan ng antas (sa buong legal)</string>
+<string name="menu_title">Menu</string>
+<string name="month">Buwan</string>
+<string name="month_graph_title">Buwanang pagkonsumo</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">Buwanang mga istatistika</string>
+<string name="new_record">Gusto mo bang i-clear ang lahat ng mga entry at simulan ang bagong registry?</string>
+<string name="no_data">Walang magagamit para sa napiling buwan data</string>
+<string name="num_days">Bilang ng mga araw sa pagkonsumo ng alak</string>
+<string name="ok">Ayos</string>
+<string name="opinion">Palagay</string>
+<string name="percent_alcohol">Porsyento ng alak</string>
+<string name="pick_amount">Dami</string>
+<string name="pick_type">Uri ng inumin</string>
+<!-- app being short for application -->
+<string name="rate_app">I-rate ang application na ito!</string>
+<string name="save_close">I-save at isara</string>
+<string name="settings">Mga Setting</string>
+<string name="sex">Ang iyong kasarian</string>
+<string name="sober_time">Ikaw ay ganap na matino sa</string>
+<string name="standard_unit">(Yunit = 10g ng purong alak)</string>
+<string name="that_is">Na nasa</string>
+<string name="total_consumption">Kabuuang pagkonsumo</string>
+<string name="type_name">Label ng inumin</string>
+<string name="unit">Unit ng lakas ng tunog</string>
+<string name="veryhigh_calory">Napakataas na antas (magkano sa itaas legal)</string>
+<string name="warning">Babala!</string>
+<string name="weight">Ang iyong timbang</string>
+<string name="choose_theme">Pumili ng Kulay</string>
+<string name="wine">Alak</string>
+<string name="light">Maliwanag</string>
+<string name="dark">Madilim</string>
+<string name="promile">Per-milya</string>
+<string name="alc_level">Antas ng alak</string>
+<string name="stats">Istatistika</string>
+<string name="def_name">Default na pangalan</string>
+<string name="ad_phrase1">I-verify ang antas ng alkohol sa iyong telepono.</string>
+<string name="ad_phrase2">Tingnan kung maaari kang legal na humimok.</string>
+<string name="ad_phrase3">Default na pangalan</string>
+<string-array name="beer_amounts">
+<item>Napakaliit na salamin</item>
+<item>Maliit na salamin</item>
+<item>Katamtamang salamin</item>
+<item>Malaking salamin</item>
+<item>Napakalaking salamin</item>
+</string-array>
+<string-array name="units">
+<item>Sukatan - milliliters (ML)</item>
+<item>Likido onsa US (FL oz)</item>
+<item>Likido onsa Imperial (FL oz)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>Serbesa</item>
+<item>Alak</item>
+<item>Vodka o Alak</item>
+<item>Kaktel</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Napakaliit na salamin</item>
+<item>Maliit na salamin</item>
+<item>Katamtamang salamin</item>
+<item>Malaking salamin</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Maliit na salamin</item>
+<item>Katamtamang salamin</item>
+<item>Malaking salamin</item>
+</string-array>
+</resources>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Pievienot dzēriens</string>
+<string name="add_favorite">Pievienot pie favorītiem</string>
+<string name="age">Jūsu vecums</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">Visi standarta dzēriens vienībās numuri</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">Alkohola koncentrācija asinīs</string>
+<string name="avg_consumption">Vidējais dienas patēriņš</string>
+<string name="bac_graph">Shēma jūsu līmeņa alkohola</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">Diagramma</string>
+<string name="cancel">Atcelt</string>
+<string name="change_time">Mainīt laiku</string>
+<string name="charts">Jūsu pašreizējais līmenis alkohola</string>
+<string name="clear_all">Notīrīt visu un sākt jaunu reģistra</string>
+<!-- Short from Configuration -->
+<string name="config">Konfigurācija</string>
+<string name="consumption">Jūsu patēriņš</string>
+<string name="consumption_time">Patēriņa brīdis</string>
+<string name="current_alc">Jūsu pašreizējais līmenis alkohola</string>
+<string name="default_name">Iestatīts uz noklusējuma nosaukuma</string>
+<string name="default_percent">Default procentos</string>
+<string name="del_item">Vai vēlaties dzēst preci?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">Reģistra patēriņa</string>
+<string name="diary_added">Dzert pievieno savu reģistru</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">Mēneša statistika</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">Jūsu pašreizējā reģistra patēriņa</string>
+<string name="dont_drive">Nekad nebrauciet pēc alkohola lietošanas!</string>
+<string name="drink_label">Label dzēriena</string>
+<string name="edit_name">Rediģēt nosaukums</string>
+<string name="exit">Izeja</string>
+<string name="favorites">Favorīti</string>
+<string name="favorite_hint">Meklēt izlasē</string>
+<string name="fav_added">Dzēriens pievienots favorītiem</string>
+<string name="feedback">Dodiet savu viedokli</string>
+<string name="feedback_prompt">Sveiki, vai jūs vēlētos, lai nosūtītu mums savu viedokli, lai mēs varētu uzlabot šo pieteikumu par jums?</string>
+<string name="female">Sieviete</string>
+<string name="fully_sober">Jūs esat pilnībā prātīgs</string>
+<string name="go_to_menu">Pieņemt un aizvērt</string>
+<string name="height">Jūsu augstums</string>
+<string name="help">Palīdzēt</string>
+<!-- app being short for application -->
+<string name="help_translate">Palīdzēt tulkot šo pieteikumu</string>
+<string name="high_calory">Augsts (virs juridiska)</string>
+<string name="info">Informācija</string>
+<string name="information_1">Iet uz iestatījumiem un ievadiet datus: svaru, dzimumu un juridisko saturu alkohola asinīs, braucot savā valstī vai provinces. Saglabāt un aizvērt.</string>
+<string name="information_2">Katru reizi, kad tu patērē dzert, jums vajadzētu pievienot savam reģistra patēriņu. Jūs varat uzstādīt veidu, apjomu un spirta saturu katram dzērienam. Jūs varat arī ievadīt laiku patēriņa, pēc noklusējuma tas ir iestatīts uz pašreizējo laiku. Kokteiļi, jāievada tikai summu degvīna (vai citu šķidrumus), kas ir iekļauts dzērienu.</string>
+<string name="information_3">Paātrināt procesu, jūs varat saglabāt dzērienus favorītiem mapi, ar nosaukumu, pēc jūsu izvēles. Pēc tam, kad dzēriens ir saglabāts izlasē, jūs varat to pievienot jūsu reģistru patēriņu, tikai par vienu klikšķi.</string>
+<string name="information_4">Šeit jūs varat apskatīt un mainīt savu pašreizējo reģistru patēriņa. Noklikšķinot \ "INFO \" pogu, jums būs iespēja pārbaudīt datus par izvēlētā dzēriena un pievienot to jūsu reģistru vēlreiz.</string>
+<string name="information_5">Jūsu pašreizējā alkohola līmenis būs par un atjaunina reālā laikā, kā arī ar laiku kas vajadzīgs, lai iegūtu pilnīgi prātīgs un juridiski prātīgs (pēc juridiskās līmenim alkohola braucot savā valstī vai province). Diagramma vizualizē savu saturu alkohola, nesenā pagātnē un dažu gaidāmajiem stundām (uzlīmes apakšā norādīt pilnu stundu) laikā. Sarkanā līnija norāda tiesību aktus par alkohola. Jūs varat izvēlēties starp līniju diagrammas un joslu diagrammā.</string>
+<string name="information_6">Jūsu var izsekot jūsu ikdienas alkohola patēriņu (iegūta no iepriekšējiem ierakstiem) un pārskatīšanas statistiku, piemēram, kopējo un vidējo patēriņu. Katra diena ir pārstāv viens joslā diagrammas, etiķetes kreisajā pusē norāda vienības patērētā alkohola (1 vienība = 10 mililitru tīra spirta). Bultas ļaus jums pārvietoties uz citiem mēnešiem.</string>
+<string name="information_7">Krāsa dot, kas atrodas tuvu līmenim alkohola un krāsas bāros diagrammas, tiks mainās, atkarībā no jūsu pašreizējo līmeni alkohola. Krāsu nozīme ir izskaidrota zemāk.</string>
+<string name="information_8">Šis pieteikums nenodrošina savu faktisko (reālo) no alkohola līmenis asinīs, bet aplēses, pamatojoties uz matemātisku formulu. Alkohola koncentrācija asinīs ir atkarīga no dažādiem faktoriem, kas nav iekļauti formulā. Jūsu faktiskā alkohola līmenis asinīs var atšķirties no vērtības, ko šajā pieteikumā sniegto.</string>
+<string name="legal_alc">Juridiskā alkohola koncentrāciju asinīs, ka jūsu valstī / provincē</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">Jūs esat juridiski prātīgs</string>
+<string name="legal_time">Jums būs juridiski prātīgs at</string>
+<!-- chart made of lines -->
+<string name="line_chart">Līniju diagramma</string>
+<string name="low_calory">Zems (zem juridiska)</string>
+<string name="male">Vīrietis</string>
+<string name="medium_calory">Vidēja līmeņa (ap juridiska)</string>
+<string name="menu_title">Ēdienkarte</string>
+<string name="month">Mēnesis</string>
+<string name="month_graph_title">Mēneša patēriņš</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">Mēneša statistika</string>
+<string name="new_record">Vai jūs vēlaties, lai notīrītu visus ierakstus un sākt jaunu reģistra?</string>
+<string name="no_data">Nav pieejami dati par izvēlētā mēneša</string>
+<string name="num_days">Dienu skaits ar alkohola lietošanu</string>
+<string name="ok">Labi</string>
+<string name="opinion">Domas</string>
+<string name="percent_alcohol">Alkohola procents</string>
+<string name="pick_amount">Tilpums</string>
+<string name="pick_type">Dzēriena veids</string>
+<!-- app being short for application -->
+<string name="rate_app">Novērtēt šo pieteikumu!</string>
+<string name="save_close">Saglabāt un aizvērt</string>
+<string name="settings">Settings</string>
+<string name="sex">Jūsu dzimums</string>
+<string name="sober_time">Jums būs pilnībā prātīgs at</string>
+<string name="standard_unit">(Vienība = 10.g tīra spirta)</string>
+<string name="that_is">Kas ir</string>
+<string name="total_consumption">Kopējais patēriņš</string>
+<string name="type_name">Label dzēriena</string>
+<string name="unit">Vienību apjoma</string>
+<string name="veryhigh_calory">Ļoti augsts līmenis (daudz augstāk juridiska)</string>
+<string name="warning">Uzmanību!</string>
+<string name="weight">Jūsu svars</string>
+<string name="choose_theme">Izvēlies krāsu</string>
+<string name="wine">Vīns</string>
+<string name="light">Spilgti</string>
+<string name="dark">Tumšs</string>
+<string name="promile">Permile</string>
+<string name="alc_level">Alkohola līmenis</string>
+<string name="stats">Statistika</string>
+<string name="def_name">Noklusējuma nosaukums</string>
+<string-array name="beer_amounts">
+<item>Ļoti mazas stikla</item>
+<item>Mazas stikla</item>
+<item>Medium stikls</item>
+<item>Liels stikls</item>
+<item>Ļoti liels stikls</item>
+</string-array>
+<string-array name="units">
+<item>Metriskās - mililitriem (ml)</item>
+<item>Šķidruma unces ASV (fl oz)</item>
+<item>Šķidruma unces Imperial (fl oz)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>Alus</item>
+<item>Vīns</item>
+<item>Degvīns vai Alkoholiskie dzērieni</item>
+<item>Kokteilis</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Ļoti mazas stikla</item>
+<item>Mazas stikla</item>
+<item>Medium stikls</item>
+<item>Liels stikls</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Mazas stikla</item>
+<item>Medium stikls</item>
+<item>Liels stikls</item>
+</string-array>
+</resources>

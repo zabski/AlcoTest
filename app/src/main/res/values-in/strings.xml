@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Menambahkan minuman</string>
+<string name="add_favorite">Tambahkan ke favorit</string>
+<string name="age">Usia Anda</string>
+<string name="all_units">Semua nomor dalam satuan minuman standar</string>
+<string name="app_name">Kandungan alkohol dalam darah</string>
+<string name="avg_consumption">Konsumsi rata-rata harian</string>
+<string name="bac_graph">Grafik tingkat Anda alkohol</string>
+<string name="bar_chart">Bar chart</string>
+<string name="cancel">Membatalkan</string>
+<string name="change_time">Waktu perubahan</string>
+<string name="charts">Tingkat Anda saat alkohol</string>
+<string name="clear_all">Menghapus semua dan mulai registry baru</string>
+<string name="config">Konfigurasi</string>
+<string name="consumption">Konsumsi Anda</string>
+<string name="consumption_time">Saat dikonsumsi</string>
+<string name="current_alc">Tingkat saat ini alkohol</string>
+<string name="default_name">Kumpulan ke default nama</string>
+<string name="default_percent">Persentase standar</string>
+<string name="del_item">Semua akan manghapus item?</string>
+<string name="diary">Registry konsumsi</string>
+<string name="diary_added">Minuman ditambahkan ke registri Anda</string>
+<string name="diary_graph">Statistik bulanan</string>
+<string name="diary_items">Registri Anda saat ini konsumsi</string>
+<string name="dont_drive">Tidak pernah mengemudi setelah minum alkohol!</string>
+<string name="drink_label">Label minuman</string>
+<string name="edit_name">Sunting nama</string>
+<string name="exit">Keluar</string>
+<string name="favorites">Favorit</string>
+<string name="favorite_hint">Pencarian favorit</string>
+<string name="fav_added">Minuman ditambahkan ke favorit</string>
+<string name="feedback">Memberikan pendapat Anda</string>
+<string name="feedback_prompt">Halo, apakah Anda ingin memberikan beberapa komentar, sehingga kita dapat meningkatkan aplikasi ini untuk Anda?</string>
+<string name="female">Perempuan</string>
+<string name="fully_sober">Anda sepenuhnya sadar</string>
+<string name="go_to_menu">Menerima dan menutup</string>
+<string name="height">Tinggi badan Anda</string>
+<string name="help">Membantu</string>
+<string name="help_translate">Membantu menerjemahkan aplikasi ini</string>
+<string name="high_calory">Tingkat tinggi (di atas hukum)</string>
+<string name="info">Informasi</string>
+<string name="information_1">Pergi ke pengaturan untuk memasukkan data Anda: berat badan, jenis kelamin dan isi hukum alkohol dalam darah saat mengemudi di negara atau provinsi. Simpan dan tutup.</string>
+<string name="information_2">Setiap kali, ketika Anda mengkonsumsi minuman, Anda harus menambahkannya ke registri Anda konsumsi. Anda dapat mengatur jenis, volume dan persentase alkohol untuk setiap minuman. Anda juga dapat memasukkan waktu konsumsi, secara default sudah diatur untuk waktu sekarang. Untuk koktail, Anda harus memasukkan hanya jumlah vodka (atau minuman keras lainnya), yang terkandung dalam minuman.</string>
+<string name="information_3">Untuk mempercepat proses, Anda dapat menyimpan minuman dalam folder favorit, di bawah nama pilihan Anda. Setelah minuman disimpan dalam favorit, Anda dapat menambahkannya ke registri Anda konsumsi, dengan hanya satu kali klik.</string>
+<string name="information_4">Di sini Anda dapat meninjau dan mengubah registri Anda saat ini konsumsi. Dengan mengklik "informasi" tombol, Anda akan dapat melihat rincian dari minuman dipilih dan menambahkannya ke registri Anda lagi.</string>
+<string name="information_5">Tingkat saat Anda alkohol oleh akan ditampilkan dan diperbarui secara real time, serta periode waktu yang diperlukan untuk mendapatkan sepenuhnya sadar dan secara hukum mabuk (sesuai dengan tingkat hukum alkohol saat mengemudi di negara atau provinsi). Grafik visualisasi konten Anda alkohol, selama masa lalu dan beberapa jam mendatang (label di bagian bawah menunjukkan jam penuh). Garis merah menunjukkan tingkat hukum alkohol. Anda dapat memilih antara grafik garis dan bar chart.</string>
+<string name="information_6">Anda dapat melacak konsumsi sehari-hari Anda alkohol (dikumpulkan dari catatan masa lalu) dan ulasan statistik seperti konsumsi total dan rata-rata. Setiap hari diwakili oleh satu bar grafik, label di sebelah kiri menunjukkan unit alkohol yang dikonsumsi (1 unit = 10 mililiter alkohol murni). Panah akan membiarkan Anda menavigasi ke bulan lainnya.</string>
+<string name="information_7">Warna dot, terletak dekat dengan tingkat alkohol dan warna dari bar di bar chart, akan berubah, sesuai dengan tingkat Anda saat alkohol. Arti warna dijelaskan di bawah ini.</string>
+<string name="information_8">Aplikasi ini tidak menyediakan aktual (nyata) tingkat alkohol dalam darah, tetapi perkiraan berdasarkan rumus matematika. Kandungan alkohol dalam darah tergantung pada berbagai faktor, yang tidak termasuk dalam formula. Tingkat sebenarnya alkohol dalam darah mungkin berbeda dari nilai yang diberikan oleh aplikasi ini.</string>
+<string name="legal_alc">Tingkat hukum alkohol dalam darah di negara / provinsi</string>
+<string name="legal_sober">Anda secara hukum mabuk</string>
+<string name="legal_time">Anda akan secara hukum mabuk di</string>
+<string name="line_chart">Line chart</string>
+<string name="low_calory">Tingkat rendah (di bawah hukum)</string>
+<string name="male">Laki-laki</string>
+<string name="medium_calory">Tingkat menengah (sekitar hukum)</string>
+<string name="menu_title">Menu</string>
+<string name="month">Bulan</string>
+<string name="month_graph_title">Konsumsi bulanan</string>
+<string name="month_stats">Statistik bulanan</string>
+<string name="new_record">Semua ingin menghapus semua entri registry dan mulai baru?</string>
+<string name="no_data">Data tidak tersedia untuk bulan yang dipilih</string>
+<string name="num_days">Jumlah hari dengan konsumsi alkohol</string>
+<string name="ok">Oke</string>
+<string name="opinion">Pendapat</string>
+<string name="percent_alcohol">Persentase alkohol</string>
+<string name="pick_amount">Memilih Volume</string>
+<string name="pick_type">Memilih jenis minuman</string>
+<string name="rate_app">Menilai aplikasi ini!</string>
+<string name="save_close">Menyimpan dan menutup</string>
+<string name="settings">Pengaturan</string>
+<string name="sex">Seks Anda</string>
+<string name="sober_time">Anda akan sepenuhnya sadar pada</string>
+<string name="standard_unit">(unit = 10 gram alkohol murni)</string>
+<string name="that_is">Yang ada di</string>
+<string name="total_consumption">Total konsumsi</string>
+<string name="type_name">Label minuman</string>
+<string name="unit">Satuan volume</string>
+<string name="veryhigh_calory">Tingkat yang sangat tinggi (jauh di atas hukum)</string>
+<string name="warning">Peringatan!</string>
+<string name="weight">Berat badan Anda</string>
+<string-array name="beer_amounts">
+<item>Kaca yang sangat kecil</item>
+<item>Gelas kecil</item>
+<item>Kaca menengah</item>
+<item>Kaca besar</item>
+<item>Kaca sangat besar</item>
+</string-array>
+<string-array name="units">
+<item>Metrik - mililiter (ml)</item>
+<item>Ons cairan Amerika (fl oz)</item>
+<item>Ons cairan kekaisaran (fl oz)</item>
+</string-array>
+<string-array name="drink_types">
+<item>Bir</item>
+<item>Anggur</item>
+<item>Vodka atau minuman keras</item>
+<item>Koktil</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Kaca yang sangat kecil</item>
+<item>Gelas kecil</item>
+<item>Kaca menengah</item>
+<item>Kaca besar</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Gelas kecil</item>
+<item>Kaca menengah</item>
+<item>Kaca besar</item>
+</string-array>
+</resources>

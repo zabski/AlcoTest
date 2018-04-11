@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Добави напитка</string>
+<string name="add_favorite">Добави към любими</string>
+<string name="age">Вашата възраст</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">Всички номера в стандартни напитки единици</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">Съдържание на алкохол в кръвта</string>
+<string name="avg_consumption">Средна дневна консумация</string>
+<string name="bac_graph">Графика на вашето ниво на алкохол</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">Диаграма</string>
+<string name="cancel">Отказ</string>
+<string name="change_time">Промяна на времето</string>
+<string name="charts">Текущата ви ниво на алкохол</string>
+<string name="clear_all">Изчистване на всички и да започне нов регистър</string>
+<!-- Short from Configuration -->
+<string name="config">Configuration</string>
+<string name="consumption">Вашият консумация</string>
+<string name="consumption_time">Време за консумация</string>
+<string name="current_alc">Текущата ви ниво на алкохол</string>
+<string name="default_name">Зададено по подразбиране име</string>
+<string name="default_percent">Процент Default</string>
+<string name="del_item">Смятате ли, че искате да изтриете елемент?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">Регистър на потреблението</string>
+<string name="diary_added">Алкохол добавен в системния регистър</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">Месечна статистика</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">Текущата ви регистър на потреблението</string>
+<string name="dont_drive">Никога не шофирайте след употреба на алкохол!</string>
+<string name="drink_label">Етикет на напитката</string>
+<string name="edit_name">Редактиране име</string>
+<string name="exit">Изход</string>
+<string name="favorites">Бележник</string>
+<string name="favorite_hint">Търсене в любими</string>
+<string name="fav_added">Drink добави към любими</string>
+<string name="feedback">Дайте вашето мнение</string>
+<string name="feedback_prompt">Здравейте, бихте искали да ни изпратите вашето мнение, така че можем да подобрим това приложение за вас?</string>
+<string name="female">Женски</string>
+<string name="fully_sober">Вие сте напълно трезвен</string>
+<string name="go_to_menu">Приеми и затвори</string>
+<string name="height">Вашият височина</string>
+<string name="help">Помощ</string>
+<!-- app being short for application -->
+<string name="help_translate">Помогнете за превода на това приложение</string>
+<string name="high_calory">Високо ниво (по-горе правна)</string>
+<string name="info">Информация</string>
+<string name="information_1">Отидете на Настройки и въведете данни: тегло, пол и правно съдържание на алкохол в кръвта при шофиране във вашата страна или област. Запиши и затвори.</string>
+<string name="information_2">Всеки път, когато се консумират напитка, трябва да го добавите в своя регистър на потреблението. Можете да зададете вида, обема и процент алкохол за всяка напитка. Можете също така да въведете време на консумация, по подразбиране тя е настроена за текущото време. За коктейли, трябва да влиза само количеството на водка (или други течности), който се съдържа в напитката.</string>
+<string name="information_3">За да ускори процеса, можете да спестите напитки в папка любими, по име по ваш избор. След едно питие е записан в любими, можете да го добавите в своя регистър на потреблението, като само с едно кликване.</string>
+<string name="information_4">Тук можете да разгледате и променяте текущата си регистър на потреблението. Като кликнете \ "Информация \", Вие ще можете да прегледате подробности за мача питие и да го добавите в своя регистър отново.</string>
+<string name="information_5">Текущата ви ниво на алкохол, като ще показва и актуализира в реално време, както и период от време, нужен, за да получите напълно трезвен и законно трезвен време (в зависимост от правната ниво на алкохол по време на шофиране във вашата страна или провинция). Графиката визуализира съдържанието си на алкохол, по време на неотдавнашното минало и няколко предстоящи часа (етикети на дъното показват пълните часа). Червената линия показва юридическо ниво на алкохол. Можете да избирате между линейна диаграма и хистограма.</string>
+<string name="information_6">Вие може да се проследи дневния си консумация на алкохол (събрани от последните записи) и преглед на статистическите данни, като общата и средната консумация. Всеки ден се представлява от един бар на графиката, етикет в ляво посочи единици алкохол консумират (1 единица = 10 мл чист алкохол). Arrows ще ви позволи да преминете към други месеци.</string>
+<string name="information_7">Цвят на точката, разположена в близост до ниво на алкохол и цветове на барове в схемата, ще се променя, в зависимост от текущото си ниво на алкохол. Значението на цветовете е обяснено по-долу.</string>
+<string name="information_8">Това приложение не дава истинската си (реално) ниво на алкохол в кръвта, но оценяването се основава на математическа формула. Съдържание на алкохол в кръвта зависи от различни фактори, които не са включени във формулата. Вие действително ниво на алкохол в кръвта може да се различава от стойността, предоставена от това приложение.</string>
+<string name="legal_alc">Правна Blood Alcohol Content във вашата страна / област</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">Вие сте законно трезвен</string>
+<string name="legal_time">Ще бъде правно трезвен</string>
+<!-- chart made of lines -->
+<string name="line_chart">Line чарт</string>
+<string name="low_calory">Ниско ниво (по-долу правно)</string>
+<string name="male">Мъжки</string>
+<string name="medium_calory">Средно ниво (около юридическо)</string>
+<string name="menu_title">Меню</string>
+<string name="month">Месец</string>
+<string name="month_graph_title">Месечно потребление</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">Месечна статистика</string>
+<string name="new_record">Искате ли да изчистите всички записи и да започне нов регистър?</string>
+<string name="no_data">Няма данни за избрания месец данни</string>
+<string name="num_days">Брой дни с консумация на алкохол</string>
+<string name="ok">Добре</string>
+<string name="opinion">Мнение</string>
+<string name="percent_alcohol">Процент на алкохол</string>
+<string name="pick_amount">Обем</string>
+<string name="pick_type">Вид напитка</string>
+<!-- app being short for application -->
+<string name="rate_app">Оценете тази молба!</string>
+<string name="save_close">Запиши и затвори</string>
+<string name="settings">Settings</string>
+<string name="sex">Вашият пол</string>
+<string name="sober_time">Вие ще бъдете напълно трезвен</string>
+<string name="standard_unit">(Единица = 10 г чист алкохол)</string>
+<string name="that_is">Че е</string>
+<string name="total_consumption">Общо потребление</string>
+<string name="type_name">Етикет на напитката</string>
+<string name="unit">Единица обем</string>
+<string name="veryhigh_calory">Много високо ниво (много по-горе правна)</string>
+<string name="warning">Внимание!</string>
+<string name="weight">Вашето тегло</string>
+<string name="choose_theme">Изберете цвят</string>
+<string name="wine">Вино</string>
+<string name="light">Светъл</string>
+<string name="dark">Тъмен</string>
+<string name="promile">Permile</string>
+<string name="alc_level">Ниво на алкохол</string>
+<string name="stats">Статистика</string>
+<string name="def_name">Име по подразбиране</string>
+<string-array name="beer_amounts">
+<item>Много малка чаша</item>
+<item>Малки стъклени</item>
+<item>Medium стъкло</item>
+<item>Голям стъкло</item>
+<item>Много голяма чаша</item>
+</string-array>
+<string-array name="units">
+<item>Метрични - милилитра (мл)</item>
+<item>Течност унция САЩ (ет унция)</item>
+<item>Течност унция Imperial (ет унция)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>Бира</item>
+<item>Вино</item>
+<item>Водка или Liquor</item>
+<item>Коктейл</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Много малка чаша</item>
+<item>Малки стъклени</item>
+<item>Medium стъкло</item>
+<item>Голям стъкло</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Малки стъклени</item>
+<item>Medium стъкло</item>
+<item>Голям стъкло</item>
+</string-array>
+</resources>

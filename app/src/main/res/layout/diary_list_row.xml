@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- These components will be dynamically created
+and added to the ScrollView -->
+
+<!-- TableRow 
+    android:id="@+id/stockQuoteRow"
+    android:layout_width="match_parent"
+    android:layout_height="55dp"
+    android:background="@android:color/transparent"
+    android:padding="@dimen/activity_horizontal_margin" -->
+    
+   <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"        
+        
+        android:paddingBottom="1px"        
+        android:orientation="horizontal" >     
+
+   <LinearLayout 
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"  
+        android:paddingLeft="@dimen/margin_l"      
+        android:background="@drawable/list_row"
+        android:orientation="horizontal" >  
+        
+       <!-- android:background="@drawable/list_row"
+       android:background="@color/lt_grey"
+        android:background="?android:attr/windowBackground"
+        android:textAppearance="?android:attr/textAppearanceSmall"	
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        -->
+        
+        <ImageView
+	        android:id="@+id/diaryImg"
+	        android:layout_width="@dimen/row_m"
+	        android:layout_height="@dimen/row_m"
+	        android:layout_gravity="center_vertical"
+	        android:layout_marginLeft="5dp"
+	        android:layout_marginRight="5dp"	        
+	        android:src="@drawable/beer" />
+        
+	    <LinearLayout
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"	        	        
+	        android:layout_weight="8"
+	      	android:layout_gravity="center_vertical"
+	        android:gravity="center_vertical"	
+	        android:orientation="vertical" >
+	        
+		    <TextView
+		        android:id="@+id/tvDiaryName"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_gravity="left"
+		        android:layout_span="2"		        
+		        android:gravity="left"		        
+		        android:text="Title"
+		        
+		        android:textSize="@dimen/text_m"
+		        		        
+		        android:textIsSelectable="false" />
+		    
+		    <!-- TextView
+		        android:id="@+id/tvDiaryServing"
+		        android:layout_width="wrap_content"
+		        android:layout_height="wrap_content"
+		        android:layout_span="2"
+		        android:layout_gravity="left"
+		        android:gravity="left"
+		        android:textSize="@dimen/text_s"
+		        android:text="Address"		        
+		        
+		        android:textIsSelectable="true"
+		        android:visibility="gone" /-->
+		    
+			<TextView
+			    android:id="@+id/tvDiaryUnits"
+			    android:layout_width="wrap_content"
+			    android:layout_height="wrap_content"
+			    android:layout_gravity="left"
+			    android:layout_span="2"
+			    android:gravity="left"
+			    android:text="Address"
+			    android:textSize="@dimen/text_s"
+			    		    
+			    android:textIsSelectable="false" />
+		    
+		    </LinearLayout>
+    
+	    <ImageButton
+	        android:id="@+id/foodInfoButton"
+	        style="?android:attr/buttonStyleSmall"
+	        android:layout_width="@dimen/row_xl"
+	        android:layout_height="@dimen/row_xl"	        
+	        android:padding="@dimen/margin_l"
+	        android:text=""
+	        android:scaleType="fitCenter"
+	        android:src="@drawable/info_128"
+	        android:textSize="@dimen/text_s"
+	         />    
+	    
+	    
+        <ImageButton
+	        android:id="@+id/btDelDiary"
+	        style="?android:attr/buttonStyleSmall"
+	        android:layout_width="@dimen/row_xl" 
+	        android:layout_height="@dimen/row_xl"  
+	        android:src="@drawable/delete_64"
+	        android:textSize="@dimen/text_s"	        
+	        android:padding="@dimen/margin_l"	        	        
+	        android:scaleType="fitCenter"
+	        android:visibility="visible" />
+
+    <!-- Button
+        android:id="@+id/quoteFromWebButton"
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:background="@android:color/transparent"
+        android:text="@string/go_to_website" /-->
+        
+        <TextView
+       	    android:id="@+id/idFood"
+       	    android:layout_width="wrap_content"
+       	    android:layout_height="wrap_content"
+       	    
+       	    android:layout_gravity="right"
+       	    android:text=""
+       	    
+       	    android:textIsSelectable="false"
+       	    android:visibility="gone" />        
+    
+        <TextView
+       	    android:id="@+id/idDiaryEntry"
+       	    android:layout_width="wrap_content"
+       	    android:layout_height="wrap_content"       	    
+       	    android:layout_gravity="right"
+       	    android:text="x"
+
+       	    android:textIsSelectable="false"
+       	    android:visibility="gone" />
+
+	   <!--android:textColor="@color/black"-->
+    
+    </LinearLayout>
+
+   </LinearLayout>
+<!-- /TableRow-->

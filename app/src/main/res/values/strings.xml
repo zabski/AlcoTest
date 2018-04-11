@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:ignore="MissingTranslation">
+ <integer name="log">0</integer>
+ <string name="alc_level">Level of alcohol</string>
+ <string name="admob_app_id">ca-app-pub-4402674240600002~2053780578</string>
+ <string name="admob_inter_id">ca-app-pub-4402674240600002/3354423372</string>
+ <string name="admob_inter_id1">ca-app-pub-4402674240600002/5545457772</string>
+ <string name="admob_inter_id2">ca-app-pub-4402674240600002/6413668577</string>
+ <string name="admob_banner_1">ca-app-pub-4402674240600002/3912826573</string>
+ <string name="admob_banner_bmi">ca-app-pub-4402674240600002/9415738578</string>
+ <!--string name="admob_native_id">ca-app-pub-4402674240600002/9771423379</string-->
+ <!--string name="admob_native_id">ca-app-pub-4402674240600002/7006415773</string-->
+ <string name="admob_native_id">ca-app-pub-4402674240600002/6008543776</string>
+ <string name="ad_express_large_id"> ca-app-pub-4402674240600002/7006415773</string>
+ <string name="admob_express_small_id"> ca-app-pub-4402674240600002/9771423379</string>
+ <string name="ad_express_grid_id">ca-app-pub-4402674240600002/3162495371</string>
+ <!--string name="ad_unit_id"> ca-app-pub-3940256099942544/1072772517</string-->
+ <integer name="ads">5</integer>
+ <integer name="fb_ads">1</integer>
+ <string name="facebook_banner_id">1692636140952789_1699823466900723</string>
+ <string name="facebook_native_id">1692636140952789_1715960295287040</string>
+ <string name="facebook_inter_id">1692636140952789_1695648090651594</string>
+ <string name="facebook_app_id">1692636140952789</string>
+ <string name="amazon_app_id">282292b786374185acc6205be1066aae</string>
+ <string name="mobfox_hash">12ef86d5eb556993ef95abc73a32026f</string>
+ <string name="remove_ads_item">alcotest_remove_ads</string>
+ <string name="icon_desc">Ad icon</string>
+ <string name="image_desc">Ad image</string>
+<!-- Below are descriptions and should be translated in regular indicative form -->
+<!-- Below are partial (not full) sentences, are will be completed inside the app -->
+<!-- Below are UI action options, and should be in imperative form -->
+<string name="add_drink">Add Drink</string>
+<string name="add_favorite">Add to Favorites</string>
+<string name="age">Your age</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">All numbers in Standard Drink Units</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">Blood Alcohol Content</string>
+<string name="avg_consumption">Average Daily Consumption</string>
+<string name="bac_graph">Chart of your Blood Alcohol Content</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">Bar Chart</string>
+<string name="cancel">Cancel</string>
+<string name="change_time">Change Time</string>
+<string name="charts">Your current alcohol level</string>
+<string name="clear_all">Clear All and Start new record</string>
+<!-- Short from Configuration -->
+<string name="config">Config.</string>
+<string name="consumption">Your consumption</string>
+<string name="consumption_time">Time of Consumption</string>
+<string name="current_alc">Your current alcohol level is</string>
+<string name="default_name">Default name</string>
+<string name="default_percent">Default percentage</string>
+<string name="del_item">Do you want to delete item?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">Record of Consumption</string>
+<string name="diary_added">Drink added to your record</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">Monthly statistics</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">Your current drinking record</string>
+<string name="dont_drive">Never drive after drinking alcohol!</string>
+<string name="drink_label">Drink\'s Label</string>	
+<string name="edit_name">Edit name</string>
+<string name="exit">Exit</string>
+<string name="favorites">Favorites</string>	  
+<string name="favorite_hint">Search in Favorites</string>
+<string name="fav_added">Drink added to favorites</string> 
+<string name="feedback">Give your feedback</string>
+<string name="feedback_prompt">Hey, would you like to give us some feedback so that we can improve your experience?</string>
+<string name="female">Female</string> 
+<string name="fully_sober">You are fully sober</string>
+<string name="go_to_menu">Accept and Close</string> 
+<string name="height">Your height</string>
+<string name="help">Help</string>
+<!-- app being short for application -->
+<string name="high_calory">high level (above legal)</string>
+<string name="info">Information</string>
+<string name="information_1">Go to settings to enter your data: weight, sex and legal content of alcohol in blood while driving in your country or province. Save and close.</string>
+<string name="information_2">Each time you have a drink, you should add it to your consumption record. You can set type, volume and percentage of alcohol for each drink. You can also enter time of consumption, by default it is set to current time. For cocktails you should enter just the amount of vodka (or other liquors) that is contained in the drink.</string>
+<string name="information_3">To speed up the process you can save drinks to favorites under name of your choice. Once saved in favorites, you can add drinks to your consumption record with just one click.</string>
+<string name="information_4">Here you can review and modify your current consumption record. By clicking \"info\" button you will be able to review drink\'s data and add it to your record again.</string>
+<string name="information_5">Your current Blood Alcohol Content will by displayed and updated in real time, along with period of time needed to get fully sober and legally sober (according to legal level of alcohol while driving in your country or province). The chart will visualize your content of alcohol during recent past and upcoming few hours (labels at the bottom indicate full hours). Red line indicates legal level of alcohol. You can switch between line and bar chart.</string>
+<string name="information_6">Your can track your daily consumption of alcohol, collected from past records and review statistics such as total and average consumption. Each day is represented by one bar of the chart, label on the left indicate units of alcohol consumed (1 unit = 10ml of pure alcohol). Arrows will let you navigate to other months.</string>		
+<string name="information_7">Color of the dot next to alcohol content and colors of bars in the bar chart will differ according to your current blood alcohol content. The meaning of colors is as below.</string>
+<string name="information_8">This application does not provide your actual Blood Alcohol Content but an estimation based on a mathematical formula. Content of alcohol in blood depends on variety of factors that are not included in the formula. Your actual Blood Alcohol Content may differ from the value provided.</string>
+<string name="legal_alc">Legal Blood Alcohol Content in your country/province</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">You are legally sober</string>
+<string name="legal_time">You will be legally sober at</string>
+<!-- chart made of lines -->
+<string name="line_chart">Line Chart</string>
+<string name="low_calory">low level (below legal)</string>
+<string name="male">Male</string>
+<string name="medium_calory">medium level (around legal)</string>
+<string name="menu_title">Menu</string>
+<string name="month">Month</string>
+<string name="month_graph_title">Monthly consumption</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">Monthly statistics</string>
+<string name="new_record">Do you want to clear all entries and start new record?</string>
+<string name="no_data">No data available for this month</string>
+<string name="num_days">Number of days with alcohol consumption</string>
+<string name="ok">OK</string>
+<string name="opinion">Opinion</string>
+<string name="percent_alcohol">Percentage of alcohol</string> 
+<string name="pick_amount">Choose volume</string>
+<string name="pick_type">Choose drink type</string> 
+<!-- app being short for application -->
+<string name="rate_app">Rate this app!</string>
+ <string name="remove_ads">Remove Ads</string>
+<string name="save_close">Save and Close</string>
+<string name="settings">Settings</string>
+<string name="sex">Your sex</string>
+<string name="sober_time">You will be fully sober at</string>
+<string name="standard_unit">(unit = 10g of pure alcohol)</string> 
+<string name="that_is">that is in</string>
+<string name="total_consumption">Total Consumption</string>
+<string name="type_name">Type drink\'s label</string>
+<string name="unit">Unit of volume</string>
+<string name="veryhigh_calory">very high level (much above legal)</string>
+<string name="warning">Warning!</string>
+<string name="weight">Your weight</string>
+<string name="choose_theme">Choose theme</string>
+<string name="wine">wine</string>
+<string name="light">bright</string>
+<string name="dark">dark</string>
+
+<string name="promile">per mille</string>
+<string-array name="beer_amounts">
+ <item>Extra small glass</item>
+ <item>Small glass</item>
+ <item>Regular glass</item>
+ <item>Large glass</item>
+ <item>Extra Large glass</item>
+</string-array>
+<string-array name="units">
+ <item>metric - milliliters (ml)</item>
+ <item>fluid ounce US (fl oz)</item>
+ <item>fluid ounce Imperial (fl oz)</item>  
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+ <item>Beer</item>
+ <item>Wine</item>
+ <item>Vodka/Liquor</item>
+ <item>Cocktail</item> 
+</string-array>
+<string-array name="beerml">
+ <item>250</item>
+ <item>330</item>
+ <item>400</item>
+ <item>500</item>
+ <item>660</item> 
+</string-array>
+<string-array name="beermlus">
+ <item>285</item> 
+ <item>375</item>
+ <item>475</item>
+ <item>568</item>
+ <item>660</item> 
+</string-array>
+<string-array name="beermluk">
+ <item>285</item> 
+ <item>375</item>
+ <item>475</item>
+ <item>568</item>
+ <item>660</item> 
+</string-array>
+<string-array name="vodka_ml">
+ <item>20</item>
+ <item>30</item>
+ <item>40</item> 
+ <item>50</item> 
+</string-array> 
+<string-array name="cocktail_amounts">
+ <item>20 ml</item>
+ <item>30 ml</item>
+ <item>40 ml</item>
+ <item>50 ml</item>
+ <item>60 ml</item>
+ <item>70 ml</item> 
+ <item>80 ml</item> 
+</string-array>
+<string-array name="cocktail_ml">
+ <item>20</item>
+ <item>30</item>
+ <item>40</item>
+ <item>50</item>
+ <item>60</item>
+ <item>70</item> 
+ <item>80</item> 
+</string-array>
+<string-array name="wine_ml">
+ <item>100</item>
+ <item>150</item> 
+ <item>200</item> 
+</string-array>
+<string-array name="vodka_amounts">
+ <item>Extra Small glass</item>
+ <item>Small glass</item>
+ <item>Medium glass</item> 
+ <item>Large glass</item>
+</string-array>
+<string-array name="wine_amounts">
+ <item>Small glass</item>
+ <item>Medium glass</item> 
+ <item>Large glass</item> 
+</string-array>
+
+<string name="legal_level">Legal Level</string>
+<string name="invalidInput">Invalid data</string>
+<string name="emptyInput">Please enter data</string>
+<string name="daily_value">Your recent consumption</string>
+ <string name="ad_phrase1"></string>
+ <string name="ad_phrase2"></string>
+ <string name="ad_phrase3"></string>
+ <string name="def_name">Default name</string>
+ <string name="stats">Statistics</string>
+ <string name="your_wgt">Your weight</string>
+ <string name="help_translate">Help translate this app!</string>
+</resources>

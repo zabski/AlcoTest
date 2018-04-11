@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Ավելացնել խմել</string>
+<string name="add_favorite">Էջանշան դնել</string>
+<string name="age">Ձեր տարիքը</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">Բոլոր համարները ստանդարտ ըմպելիք միավորներով</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">Բովանդակությունը ալկոհոլի արյան մեջ</string>
+<string name="avg_consumption">Միջին օրական սպառումը</string>
+<string name="bac_graph">Կառուցվածքը ձեր մակարդակով ալկոհոլի</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">Դիագրամ</string>
+<string name="cancel">Վերացնել</string>
+<string name="change_time">Փոխել ժամանակը</string>
+<string name="charts">Ձեր ներկայիս մակարդակը ալկոհոլի</string>
+<string name="clear_all">Մաքրել բոլորը եւ սկսել նոր ռեեստրից</string>
+<!-- Short from Configuration -->
+<string name="config">Տեսիլ</string>
+<string name="consumption">Ձեր սպառումը</string>
+<string name="consumption_time">Ժամանակը սպառման</string>
+<string name="current_alc">Ձեր ներկայիս մակարդակը ալկոհոլի</string>
+<string name="default_name">Սահմանել դեֆոլտի անունը</string>
+<string name="default_percent">Default տոկոսային</string>
+<string name="del_item">Ցանկանում եք ջնջել իրը.</string>
+<!-- "Record" meaning registry -->
+<string name="diary">Ռեեստրի սպառման</string>
+<string name="diary_added">Խմել ավելացված է ձեր ռեգիստրում</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">Ամսական վիճակագրություն</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">Ձեր ընթացիկ ռեեստրի սպառման</string>
+<string name="dont_drive">Երբեք վարել հետո խմելու ալկոհոլի!</string>
+<string name="drink_label">Label է խմել</string>
+<string name="edit_name">Խմբագրել անունը</string>
+<string name="exit">Ելք</string>
+<string name="favorites">Ընտրվածներ</string>
+<string name="favorite_hint">Որոնել դնել</string>
+<string name="fav_added">Խմեք ավելացվել դնել</string>
+<string name="feedback">Տվեք ձեր կարծիքը</string>
+<string name="feedback_prompt">Բարեւ, ցանկանում եք ուղարկել մեզ Ձեր կարծիքը, այնպես որ մենք կարող ենք բարելավել այս ծրագիրը ձեզ համար.</string>
+<string name="female">Իգական</string>
+<string name="fully_sober">Դուք կարող եք լիովին սթափ</string>
+<string name="go_to_menu">Ընդունել եւ փակել</string>
+<string name="height">Ձեր բարձրություն</string>
+<string name="help">Օգնություն</string>
+<!-- app being short for application -->
+<string name="help_translate">Օգնել թարգմանել այս ծրագիրը</string>
+<string name="high_calory">Բարձր մակարդակի (վերեւում իրավական)</string>
+<string name="info">Տեղեկատվություն</string>
+<string name="information_1">Գնալ պարամետրերը եւ մուտքագրեք Ձեր տվյալները: քաշը, սեռից եւ իրավական բովանդակության ալկոհոլի արյան վարելիս Ձեր երկրում կամ մարզում. Պահպանել եւ մոտ.</string>
+<string name="information_2">Ամեն անգամ, երբ դուք սպառում խմել, ապա դուք պետք է ավելացնել այն Ձեր ռեգիստրի սպառման. Դուք կարող եք սահմանել տեսակը, ծավալը եւ տոկոսային ալկոհոլի յուրաքանչյուր խմել. Դուք նաեւ կարող եք մուտք գործել ժամանակը սպառման, ըստ default այն սահմանվել է ընթացիկ ժամանակ. Կոկտեյլների, դուք պետք է մուտք գործել միայն այն գումարը օղի (կամ այլ liquors), որը պարունակվում է խմել.</string>
+<string name="information_3">Արագացնելու այդ գործընթացը, դուք կարող եք պահել խմիչք էջանշանները թղթապանակում, տակ անունով ձեր ընտրությամբ. Հետո մի ըմպելիք պահպանված դնել, Դուք կարող եք ավելացնել այն Ձեր ռեեստրում սպառման, միայն մեկ սեղմումով.</string>
+<string name="information_4">Այստեղ դուք կարող եք վերանայել եւ փոփոխել ձեր ընթացիկ ռեեստր սպառման. Սեղմելով \ "info \" կոճակը, դուք կկարողանաք վերանայել մանրամասները ընտրված խմել եւ ավելացնել այն Ձեր ռեեստրում կրկին.</string>
+<string name="information_5">Ձեր ընթացիկ մակարդակը ալկոհոլի պիտի ցուցադրվում եւ թարմացվել է իրական ժամանակում, հետ ժամանակահատվածում անհրաժեշտ է ստանալ լիարժեք սթափ եւ օրինական սթափ (ըստ իրավական հարթություն ալկոհոլի վարելիս Ձեր երկրում կամ գավառի). Աղյուսակում visualizes ձեր բովանդակությունը ալկոհոլի, ընթացքում վերջին անցյալում եւ մի քանի առաջիկա ժամերին (պիտակների ներքեւի մասում ցույց են տալիս, ամբողջական ժամ): Կարմիր գիծը ցույց է տալիս իրավական մակարդակը ալկոհոլի. Դուք կարող եք ընտրել միջեւ գծի աղյուսակը եւ բար աղյուսակում.</string>
+<string name="information_6">Դուք կարող եք հետեւել ձեր ամենօրյա սպառման ալկոհոլի (հավաքված վերջին գրառումների) եւ վերանայման վիճակագրության, ինչպիսիք են ընդհանուր եւ միջին սպառման. Ամեն օր, որը ներկայացված է մեկ բար աղյուսակում, պիտակի վրա ձախ կողմում ցույց է տալիս միավորների ալկոհոլի (1 միավոր = 10 milliliters մաքուր ալկոհոլի). Ռադիո թույլ կտա Ձեզ նավարկելու այլ ամիսների ընթացքում.</string>
+<string name="information_7">Գույնը dot, գտնվում է մոտ մակարդակի ալկոհոլի եւ գույներով ճաղերի դիագրամ, պետք է փոխվում, ըստ Ձեր ներկա մակարդակի ալկոհոլի. Իմաստը գույներով բացատրվում է ստորեւ:</string>
+<string name="information_8">Այս ծրագիրը չի տրամադրել ձեր փաստացի (իրական) մակարդակը ալկոհոլի արյան, այլեւ գնահատական ​​հիման վրա մաթեմատիկական բանաձեւով. Բովանդակությունը ալկոհոլի արյան մեջ է կախված տարբեր գործոններից, որոնք չեն ընդգրկված բանաձեւով. Ձեր փաստացի մակարդակը ալկոհոլի արյան մեջ կարող է տարբերվել արժեքի սույն դիմումը.</string>
+<string name="legal_alc">Իրավական արյան մեջ ալկոհոլի պարունակության ձեր երկրում / մարզում</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">Դուք կարող եք իրավաբանորեն սթափ</string>
+<string name="legal_time">Դուք պետք է իրավաբանորեն սթափ ժամը</string>
+<!-- chart made of lines -->
+<string name="line_chart">Line աղյուսակը</string>
+<string name="low_calory">Ցածր մակարդակը (ցածր իրավական)</string>
+<string name="male">Արական</string>
+<string name="medium_calory">Միջին մակարդակը (շուրջ իրավական)</string>
+<string name="menu_title">Մենյու</string>
+<string name="month">Ամիս</string>
+<string name="month_graph_title">Ամսական սպառումը</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">Ամսական վիճակագրություն</string>
+<string name="new_record">Ցանկանում եք մաքրել բոլոր գրառումները եւ սկսել նոր ռեեստրի.</string>
+<string name="no_data">Տվյալներ չկան մատչելի ընտրված ամսվա</string>
+<string name="num_days">Միավորների քան-օրյա սպառման ալկոհոլի</string>
+<string name="ok">Okay</string>
+<string name="opinion">Կարծիք</string>
+<string name="percent_alcohol">Տոկոսը ալկոհոլի</string>
+<string name="pick_amount">Ծավալ</string>
+<string name="pick_type">Տեսակ խմիչքը</string>
+<!-- app being short for application -->
+<string name="rate_app">Գնահատեք այս ծրագիրը.</string>
+<string name="save_close">Պահպանել եւ փակել</string>
+<string name="settings">Կառավարում</string>
+<string name="sex">Ձեր սեռը</string>
+<string name="sober_time">Դուք պետք է լիովին սթափ ժամը</string>
+<string name="standard_unit">(Միավոր = 10g մաքուր ալկոհոլի)</string>
+<string name="that_is">Որ է</string>
+<string name="total_consumption">Ընդհանուր սպառումը</string>
+<string name="type_name">Label է խմել</string>
+<string name="unit">Unit ծավալը</string>
+<string name="veryhigh_calory">Շատ բարձր մակարդակ (շատ բարձր իրավաբանական)</string>
+<string name="warning">Զգուշացում.</string>
+<string name="weight">Ձեր քաշը</string>
+<string name="choose_theme">Ընտրեք գույնը</string>
+<string name="wine">Գինի</string>
+<string name="light">Պայծառ</string>
+<string name="dark">Մութ</string>
+<string name="promile">Permile</string>
+<string name="alc_level">Մակարդակ ալկոհոլի</string>
+<string name="stats">Վիճակագրություն</string>
+<string name="def_name">Default անունը</string>
+<string-array name="beer_amounts">
+<item>Շատ փոքր ապակի</item>
+<item>Փոքր ապակի</item>
+<item>Միջին ապակի</item>
+<item>Խոշոր ապակի</item>
+<item>Շատ մեծ ապակի</item>
+</string-array>
+<string-array name="units">
+<item>Մետրային - milliliters (մլ)</item>
+<item>Հեղուկ ունցիա ԱՄՆ (FL ունց)</item>
+<item>Հեղուկ ունցիա Imperial (FL ունց)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>Գարեջուր</item>
+<item>Գինի</item>
+<item>Օղի կամ Liquor</item>
+<item>Կոկտեյլ</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Շատ փոքր ապակի</item>
+<item>Փոքր ապակի</item>
+<item>Միջին ապակի</item>
+<item>Խոշոր ապակի</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Փոքր ապակի</item>
+<item>Միջին ապակի</item>
+<item>Խոշոր ապակի</item>
+</string-array>
+</resources>

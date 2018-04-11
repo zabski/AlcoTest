@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">Lisa jook</string>
+<string name="add_favorite">Lisa sõprade</string>
+<string name="age">Teie vanus</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">Kõik numbrid standard jook üksused</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">Sisu alkoholi veres</string>
+<string name="avg_consumption">Keskmine päevane tarbimine</string>
+<string name="bac_graph">Chart oma taset alkoholi</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">Skeem</string>
+<string name="cancel">Tühistama</string>
+<string name="change_time">Muuda aeg</string>
+<string name="charts">Sinu praegune tase alkoholi</string>
+<string name="clear_all">Puhasta kõik ja alustada uue registri</string>
+<!-- Short from Configuration -->
+<string name="config">Konfiguratsioon</string>
+<string name="consumption">Sinu tarbimist</string>
+<string name="consumption_time">Aeg tarbimise</string>
+<string name="current_alc">Sinu praegune tase alkoholi</string>
+<string name="default_name">Vaikimisi nimi</string>
+<string name="default_percent">Vaikimisi protsendi</string>
+<string name="del_item">Kas te soovite kustutada objekt?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">Registry tarbimise</string>
+<string name="diary_added">Jooma lisada oma registri</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">Igakuine statistika</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">Sinu praegune registri tarbimise</string>
+<string name="dont_drive">Ärge sõitke pärast alkoholi joomist!</string>
+<string name="drink_label">Label joogi</string>
+<string name="edit_name">Muuda nime</string>
+<string name="exit">Väljapääs</string>
+<string name="favorites">Lemmikud</string>
+<string name="favorite_hint">Otsi nimekirja</string>
+<string name="fav_added">Joomine lisatud lemmikutesse</string>
+<string name="feedback">Andke oma arvamus</string>
+<string name="feedback_prompt">Tere, soovite saada meile oma arvamus, et saaksime parandada selle rakenduse jaoks?</string>
+<string name="female">Naine</string>
+<string name="fully_sober">Olete täiesti kaine</string>
+<string name="go_to_menu">Nõus ja sule</string>
+<string name="height">Teie kõrgus</string>
+<string name="help">Aitama</string>
+<!-- app being short for application -->
+<string name="help_translate">Aidake tõlkida see rakendus</string>
+<string name="high_calory">Kõrge (üle õiguslik)</string>
+<string name="info">Informatsioon</string>
+<string name="information_1">Mine seaded ja sisestage oma andmed: kaal, sugu ja juriidilised alkoholisisaldust veres sõidu ajal oma riigis või maakond. Salvesta ja sule.</string>
+<string name="information_2">Iga kord, kui te tarbima juua, siis tuleb lisada see oma registri tarbimisest. Saate määrata liigi, mahu ja alkoholisisalduse iga juua. Võite ka sisestada tarbimise aeg, vaikimisi on seatud praegune aeg. Sest kokteile, tuleb sisestada lihtsalt summa viina (või muud vedelikud), mis sisaldub juua.</string>
+<string name="information_3">Et kiirendada protsessi, siis saad säästa jookide lemmikute kausta nimetuse all oma valik. Pärast jook on salvestatud lemmikuid, saate selle lisada oma registri tarbimist, vaid ühe klõpsuga.</string>
+<string name="information_4">Siin saate üle vaadata ja muuta oma praeguse registri tarbimisest. Klõpsates \ "info \" nuppu, on sul võimalik vaadata üksikasjad valitud juua ja lisada see oma registri uuesti.</string>
+<string name="information_5">Sinu praegune tase alkohol, mida näidatakse ja uuendatakse reaalajas koos aega vaja, et saada täielikult kaine ja legaalselt kaine (vastavalt õigusaktidega sätestatud alkoholi sõidu ajal oma riigis või maakond). Graafik visualiseerib teie Alkoholi ajal lähiminevikus ja mõni tulemas tundi (siltide allosas näitavad täis tundi). Red joon näitab õiguslikul tasandil alkoholi. Võite valida joondiagrammi ja tulpdiagramm.</string>
+<string name="information_6">Sinu saaksid jälgida oma igapäevast alkoholi tarbimist (kogutud varasema) ja läbivaatamine statistika, nagu kokku ja keskmine kütusekulu. Iga päev on esindatud ühe baari skeem, sildil vasakul näitavad ühikut alkoholi tarbida (1 ühik = 10 ml puhast alkoholi). Nooled võimaldab teil liikuda teistesse kuud.</string>
+<string name="information_7">Värv dot, mis asub tase alkoholi ja värvid baarid skeemil, siis muutuvad vastavalt oma praegust taset alkoholi. Tähenduses värvid on selgitatud allpool.</string>
+<string name="information_8">See rakendus ei paku oma tegeliku (reaalse) tase alkoholi veres, kuid hinnang põhineb matemaatilise valemi. Alkoholisisaldust veres sõltub mitmesugustest teguritest, mis ei sisaldu valemiga. Teie tegelik tase alkoholi veres võib erineda väärtus, mida see rakendus.</string>
+<string name="legal_alc">Juriidiline vere alkoholisisalduse teie riigis / maakond</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">Olete õiguslikult kaine</string>
+<string name="legal_time">Sul on õiguslikult kaine</string>
+<!-- chart made of lines -->
+<string name="line_chart">Joondiagramm</string>
+<string name="low_calory">Madal (alla õiguslik)</string>
+<string name="male">Mees</string>
+<string name="medium_calory">Keskmise taseme (umbes juriidilise)</string>
+<string name="menu_title">Menüü</string>
+<string name="month">Kuu</string>
+<string name="month_graph_title">Kuu tarbimine</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">Igakuine statistika</string>
+<string name="new_record">Kas soovid kustutada kõik kirjed ja alustada uut register?</string>
+<string name="no_data">Andmed ei ole kättesaadavad valitud kuul</string>
+<string name="num_days">Päevade arv alkoholitarvitamine</string>
+<string name="ok">Korras</string>
+<string name="opinion">Arvamus</string>
+<string name="percent_alcohol">Protsent alkoholi</string>
+<string name="pick_amount">Maht</string>
+<string name="pick_type">Tüüpi jook</string>
+<!-- app being short for application -->
+<string name="rate_app">Hinda seda rakendust!</string>
+<string name="save_close">Salvesta ja sule</string>
+<string name="settings">Seaded</string>
+<string name="sex">Teie sugu</string>
+<string name="sober_time">Sul on täiesti kaine</string>
+<string name="standard_unit">(Ühik = 10g puhast alkoholi)</string>
+<string name="that_is">Mis on</string>
+<string name="total_consumption">Kogutarbimine</string>
+<string name="type_name">Label joogi</string>
+<string name="unit">Ruumalaühikus</string>
+<string name="veryhigh_calory">Väga kõrge (palju ületanud seadusega)</string>
+<string name="warning">Hoiatus!</string>
+<string name="weight">Teie kaal</string>
+<string name="choose_theme">Vali värv</string>
+<string name="wine">Vein</string>
+<string name="light">Hele</string>
+<string name="dark">Tume</string>
+<string name="promile">Permile</string>
+<string name="alc_level">Tase alkoholi</string>
+<string name="stats">Statistika</string>
+<string name="def_name">Vaikimisi nimi</string>
+<string-array name="beer_amounts">
+<item>Väga väike klaas</item>
+<item>Väike klaas</item>
+<item>Keskmise klaas</item>
+<item>Suur klaas</item>
+<item>Väga suur klaas</item>
+</string-array>
+<string-array name="units">
+<item>Metric - milliliitri (ml)</item>
+<item>Nesteunssi USA (fl oz)</item>
+<item>Nesteunssi Imperial (fl oz)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>Õlu</item>
+<item>Vein</item>
+<item>Vodka või Alkohol</item>
+<item>Kokteil</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>Väga väike klaas</item>
+<item>Väike klaas</item>
+<item>Keskmise klaas</item>
+<item>Suur klaas</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>Väike klaas</item>
+<item>Keskmise klaas</item>
+<item>Suur klaas</item>
+</string-array>
+</resources>

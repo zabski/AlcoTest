@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">添加饮料</string>
+<string name="add_favorite">添加到收藏夹</string>
+<string name="age">你的年龄</string>
+<string name="all_units">在标准的饮料单位的所有号码</string>
+<string name="app_name">血液中的酒精含量</string>
+<string name="avg_consumption">日均消费</string>
+<string name="bac_graph">图你的酒精水平</string>
+<string name="bar_chart">条图</string>
+<string name="cancel">取消</string>
+<string name="change_time">更改时间</string>
+<string name="charts">您当前的酒精水平</string>
+<string name="clear_all">清除所有，并开始新的注册表</string>
+<string name="config">组态</string>
+<string name="consumption">你的消费</string>
+<string name="consumption_time">消耗的时间</string>
+<string name="current_alc">您当前的酒精水平</string>
+<string name="default_name">默认的名字</string>
+<string name="default_percent">默认百分比</string>
+<string name="del_item">你要删除的项目？</string>
+<string name="diary">消费注册表</string>
+<string name="diary_added">饮料添加到您的注册表</string>
+<string name="diary_graph">月度统计</string>
+<string name="diary_items">您当前的消费注册表</string>
+<string name="dont_drive">从未驾驶饮酒后！</string>
+<string name="drink_label">饮料的标签</string>
+<string name="edit_name">编辑姓名</string>
+<string name="exit">出口</string>
+<string name="favorites">收藏</string>
+<string name="favorite_hint">在收藏夹中搜索</string>
+<string name="fav_added">饮料添加到收藏夹</string>
+<string name="feedback">发表您的意见</string>
+<string name="feedback_prompt">你好，你想给我们一些意见，这样我们就可以改善这个应用程序吗？</string>
+<string name="female">女</string>
+<string name="fully_sober">你完全清醒</string>
+<string name="go_to_menu">接受并关闭</string>
+<string name="height">你的身高</string>
+<string name="help">帮助</string>
+<string name="help_translate">帮忙翻译这个应用程序</string>
+<string name="high_calory">高水平（高于法律）</string>
+<string name="info">信息</string>
+<string name="information_1">去设置输入数据：体重，性别和血液中的酒精含量合法驾驶时您所在国家或省。保存并关闭。</string>
+<string name="information_2">每一次，当你消耗的饮料，你应该把它添加到你的消费注册表。您可以设置的类型，数量和酒精的比例为每种饮料。你也可以输入消耗的时间，默认被设置为当前时间。用于鸡尾酒，则应输入伏特加酒（或其它酒类），它被包含在饮料的只是量。</string>
+<string name="information_3">为了加快这一进程，你可以保存饮料的收藏夹文件夹，在你选择的名称。之后的饮料被保存在收藏夹中，您可以将它添加到你的消费注册表，只需一按。</string>
+<string name="information_4">在这里你可以查看和修改当前的消费注册表。通过点击“信息”按钮，你就可以查看所选饮料的详细信息，并将其重新添加到您的注册表。</string>
+<string name="information_5">您当前的酒精水平（根据酒精的法律层面，而驾驶在您的国家或地区）所显示，并实时更新，随着需要得到完全的清醒和冷静的合法时间段。图表可视化内容的酒精，最近和即将到来的几个小时（在底部标签表示充分小时）期间。红线表示的酒精法律层面。您可以折线图和柱状图之间做出选择。</string>
+<string name="information_6">你可以跟踪你的日常饮酒（从过去的记录中收集）和审查的统计数据，如总的平均功耗。每天由图表中的一个栏中所示，在左侧标签标明酒精消耗（1单位=10毫升纯酒精）的单位。箭头让你浏览到其他月份。</string>
+<string name="information_7">点，靠近酒精和条形图条颜色级别的颜色，会改变，根据您当前的酒精水平。颜色的含义进行说明。</string>
+<string name="information_8">此应用程序不提供您的实际（真实）的水平在血液中的酒精，但基于一个数学公式的估算。血液中的酒精含量取决于多种因素，其中不包括在式。实际在血液中的酒精水平可能与此应用程序所提供的价值。</string>
+<string name="legal_alc">酒精在血液中的法律水平在您的国家/省</string>
+<string name="legal_sober">你是清醒的合法</string>
+<string name="legal_time">你会在法律上的清醒</string>
+<string name="line_chart">折线图</string>
+<string name="low_calory">低水平（低于法定）</string>
+<string name="male">男性</string>
+<string name="medium_calory">中等水平（大约法人）</string>
+<string name="menu_title">菜单</string>
+<string name="month">月</string>
+<string name="month_graph_title">每月消费</string>
+<string name="month_stats">月度统计</string>
+<string name="new_record">你想清除所有条目，并开始新的注册表？</string>
+<string name="no_data">没有可供选择的月数据</string>
+<string name="num_days">天与食用酒精数</string>
+<string name="ok">好</string>
+<string name="opinion">意见</string>
+<string name="percent_alcohol">酒精百分比</string>
+<string name="promile">千分比</string>
+
+<string name="pick_amount">选择体积</string>
+<string name="pick_type">选择饮料的种类</string>
+<string name="rate_app">评论这个应用程序！</string>
+    <string name="remove_ads">移除广告</string>
+<string name="save_close">保存并关闭</string>
+<string name="settings">设置</string>
+<string name="sex">您的性别</string>
+<string name="sober_time">你会完全清醒的</string>
+<string name="standard_unit">（单位= 10克纯酒精）</string>
+<string name="that_is">这是</string>
+<string name="total_consumption">总消费量</string>
+<string name="type_name">饮料的标签</string>
+<string name="unit">单位体积的</string>
+<string name="veryhigh_calory">非常高的水平（远高于法律）</string>
+<string name="warning">警告！</string>
+<string name="weight">你的体重</string>
+<string-array name="beer_amounts">
+<item>非常小的玻璃</item>
+<item>小杯</item>
+<item>中型玻璃</item>
+<item>大玻璃</item>
+<item>非常大的玻璃</item>
+</string-array>
+<string-array name="units">
+<item>度量 - 毫升（ml）</item>
+<item>液体盎司美国（盎司）</item>
+<item>液体盎司帝国（盎司）</item>
+</string-array>
+<string-array name="drink_types">
+<item>啤酒</item>
+<item>葡萄酒</item>
+<item>伏特加酒或</item>
+<item>鸡尾酒</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>非常小的玻璃</item>
+<item>小杯</item>
+<item>中型玻璃</item>
+<item>大玻璃</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>小杯</item>
+<item>中型玻璃</item>
+<item>大玻璃</item>
+</string-array>
+</resources>

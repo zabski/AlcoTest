@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">પીણું ઉમેરો</string>
+<string name="add_favorite">મનપસંદ ઉમેરો</string>
+<string name="age">તમારી ઉંમર</string>
+<!-- Standard Drink Unit is equal to 10g of pure alcohol -->
+<string name="all_units">પ્રમાણભૂત પીણું એકમો ઑફ તમામ નંબરો</string>
+<!-- This is an official name for value of content of alcohol in blood, may be specific for some countries -->
+<string name="app_name">લોહીમાં દારૂના સામગ્રી</string>
+<string name="avg_consumption">સરેરાશ દૈનિક વપરાશ</string>
+<string name="bac_graph">દારૂ તમારા સ્તર ના ચાર્ટ</string>
+<!-- kind of chart made of bars -->
+<string name="bar_chart">રેખાકૃતિ</string>
+<string name="cancel">રદ કરો</string>
+<string name="change_time">ફેરફાર વખત</string>
+<string name="charts">દારૂના તમારી વર્તમાન સ્તર</string>
+<string name="clear_all">બધા સાફ અને નવા રજિસ્ટ્રી શરૂ</string>
+<!-- Short from Configuration -->
+<string name="config">રૂપરેખાંકન</string>
+<string name="consumption">તમારા વપરાશ</string>
+<string name="consumption_time">વપરાશના સમય</string>
+<string name="current_alc">દારૂના તમારી વર્તમાન સ્તર</string>
+<string name="default_name">નામ મૂળભૂત સુયોજિત</string>
+<string name="default_percent">મૂળભૂત ટકાવારી</string>
+<string name="del_item">તમે વસ્તુ કાઢી નાખવા માંગો છો?</string>
+<!-- "Record" meaning registry -->
+<string name="diary">વપરાશના રજીસ્ટ્રી</string>
+<string name="diary_added">તમારા રજિસ્ટ્રી માં ઉમેરી પીણું</string>
+<!-- Meaning" statistics for the given month -->
+<string name="diary_graph">માસિક આંકડા</string>
+<!-- "Record" meaning registry -->
+<string name="diary_items">વપરાશના તમારી વર્તમાન રજિસ્ટ્રી</string>
+<string name="dont_drive">દારૂ પીધા પછી વાહન ક્યારેય!</string>
+<string name="drink_label">આ પીણું લેબલ</string>
+<string name="edit_name">ફેરફાર કરો નામ</string>
+<string name="exit">બહાર નીકળો</string>
+<string name="favorites">મનપસંદ</string>
+<string name="favorite_hint">મનપસંદ શોધ</string>
+<string name="fav_added">પીણું મનપસંદમાં ઉમેર્યું</string>
+<string name="feedback">તમારા અભિપ્રાય આપો</string>
+<string name="feedback_prompt">હેલો, તમે અમે તમારા માટે આ એપ્લિકેશન સુધારવા શકે, જેથી અમને તમારી અભિપ્રાય મોકલવા માંગો છો?</string>
+<string name="female">સ્ત્રી</string>
+<string name="fully_sober">તમે સંપૂર્ણપણે સ્વસ્થ છે</string>
+<string name="go_to_menu">સ્વીકારી અને બંધ</string>
+<string name="height">તમારી ઊંચાઇ</string>
+<string name="help">મદદ</string>
+<!-- app being short for application -->
+<string name="help_translate">આ એપ્લિકેશન અનુવાદિત મદદ</string>
+<string name="high_calory">ઊંચા સ્તર (કાનૂની ઉપર)</string>
+<string name="info">જાણકારી</string>
+<string name="information_1">તમારી દેશ અથવા પ્રાંતમાં જ્યારે ડ્રાઇવિંગ વજન, સેક્સ અને લોહીમાં દારૂના કાનૂની સામગ્રી: સેટિંગ્સ પર જાઓ અને તમારા ડેટા દાખલ કરો. સાચવો અને બંધ.</string>
+<string name="information_2">દરેક વખતે, તમે એક પીણું વપરાશ ત્યારે તમે વપરાશ તમારા રજિસ્ટ્રી ઉમેરી કરીશું. તમે દરેક પીણું માટે પ્રકાર, વોલ્યુમ અને દારૂના ટકાવારી સુયોજિત કરી શકો છો. તે વર્તમાન સમય માટે સુયોજિત થયેલ મૂળભૂત રીતે તમે પણ વપરાશ સમય દાખલ કરી શકો છો. કોકટેલપણ માટે, તમે પીણું માં સમાયેલ છે, જે વોડકા (અથવા અન્ય દારૂ), માત્ર જથ્થો દાખલ કરીશું.</string>
+<string name="information_3">પ્રક્રિયા ઉતાવળ માટે, તમે તમારી પસંદગીની એક નામ હેઠળ, મનપસંદ ફોલ્ડરમાં પીણાં બચાવી શકો છો. એક પીણું ફેવરિટ સાચવવામાં આવે છે પછી, તમે માત્ર એક ક્લિક દ્વારા, વપરાશના તમારા રજિસ્ટ્રી ઉમેરી શકો છો.</string>
+<string name="information_4">અહીં તમે રીવ્યુ કરો અને વપરાશના તમારી વર્તમાન રજિસ્ટ્રી સંશોધિત કરી શકો છો. બટન \ "\ માહિતી" પર ક્લિક કરીને તમે પસંદ પીણું વિગતો સમીક્ષા અને ફરીથી તમારા રજિસ્ટ્રી ઉમેરી કરવાનો પ્રયત્ન કરશે.</string>
+<string name="information_5">દારૂના તમારી વર્તમાન સ્તર દ્વારા (તમારી દેશ અથવા પ્રાંતમાં જ્યારે ડ્રાઇવિંગ દારૂના કાનૂની સ્તર અનુસાર) પ્રદર્શિત અને સંપૂર્ણપણે સ્વસ્થ અને કાનૂની રીતે સ્વસ્થ મેળવવા માટે જરૂરી સમય ગાળા સાથે વાસ્તવિક સમય માં અપડેટ કરશે. ચાર્ટ તાજેતરના ભૂતકાળ અને થોડા આગામી કલાકની (નીચે લેબલ્સ પૂર્ણ કલાક દર્શાવવા) દરમિયાન દારૂના તમારી સામગ્રી, visualizes. લાલ લીટી દારૂના કાનૂની સ્તર સૂચવે છે. તમે વાક્ય ચાર્ટ અને બાર ચાર્ટ વચ્ચે પસંદ કરી શકો છો.</string>
+<string name="information_6">તમારા આવા કુલ અને એવરેજ વપરાશ તરીકે (છેલ્લા રેકોર્ડ પાસેથી એકત્ર) દારૂ અને સમીક્ષા આંકડા તમારી દૈનિક વપરાશ ટ્રેસ કરી શકો છો. દરરોજ ચાર્ટ એક બાર દ્વારા રજૂ થાય છે, ડાબી પર લેબલ છેલ્લામાં દારૂ (1 એકમ = શુદ્ધ દારૂના 10 milliliters) ના એકમો સૂચવે છે. તીર તમે અન્ય મહિના શોધખોળ દો આવશે.</string>
+<string name="information_7">દારૂ અને આકૃતિ માં બારના રંગો સ્તર નજીક સ્થિત ડોટ, ના રંગ, દારૂના તમારી વર્તમાન સ્તર અનુસાર બદલાતી આવશે. રંગો અર્થ નીચે સમજાવાયેલ છે.</string>
+<string name="information_8">આ એપ્લિકેશન તમારા વાસ્તવિક (વાસ્તવિક) લોહીમાં દારૂના સ્તર, પરંતુ ગાણિતિક સૂત્ર પર આધારિત અંદાજ પૂરું પાડતું નથી. લોહીમાં દારૂના સામગ્રી સૂત્ર સમાવેશ નથી જે પરિબળો વિવિધ પર આધાર રાખે છે. લોહીમાં દારૂના તમારી વાસ્તવિક સ્તર આ એપ્લિકેશન દ્વારા પૂરી કિંમત અલગ પડી શકે.</string>
+<string name="legal_alc">તમારા દેશ / પ્રાંત કાનૂની બ્લડ આલ્કોહોલ સામગ્રી</string>
+<!-- "legally" meaning according to the law -->
+<string name="legal_sober">તમે કાયદેસર રીતે સ્વસ્થ છે</string>
+<string name="legal_time">તમે ઓછામાં કાનૂની રીતે સ્વસ્થ થઈ જશે</string>
+<!-- chart made of lines -->
+<string name="line_chart">રેખા ચાર્ટ</string>
+<string name="low_calory">નીચા સ્તર (કાનૂની નીચે)</string>
+<string name="male">પુરુષ</string>
+<string name="medium_calory">મધ્યમ સ્તર (કાનૂની આસપાસ)</string>
+<string name="menu_title">મેનુ</string>
+<string name="month">મહિનો</string>
+<string name="month_graph_title">માસિક વપરાશ</string>
+<!-- Meaning" statistics for the given month -->
+<string name="month_stats">માસિક આંકડા</string>
+<string name="new_record">તમે બધા પ્રવેશો સાફ અને નવા રજિસ્ટ્રી શરૂ કરવા માંગો છો?</string>
+<string name="no_data">પસંદ કરેલ મહિના માટે ઉપલબ્ધ કોઈ માહિતી</string>
+<string name="num_days">દારૂના સેવનથી સાથે દિવસો સંખ્યા</string>
+<string name="ok">ઠીક</string>
+<string name="opinion">અભિપ્રાય</string>
+<string name="percent_alcohol">દારૂના ટકાવારી</string>
+<string name="pick_amount">વોલ્યુમ</string>
+<string name="pick_type">પીણું પ્રકાર</string>
+<!-- app being short for application -->
+<string name="rate_app">આ એપ્લિકેશન દર!</string>
+<string name="save_close">સાચવો અને બંધ કરો</string>
+<string name="settings">સેટિંગ્સ</string>
+<string name="sex">તમારી સેક્સ</string>
+<string name="sober_time">તમે ઓછામાં સંપૂર્ણપણે સ્વસ્થ થઈ જશે</string>
+<string name="standard_unit">(યુનિટ = શુદ્ધ દારૂના 10g)</string>
+<string name="that_is">કે છે</string>
+<string name="total_consumption">કુલ વપરાશમાં</string>
+<string name="type_name">આ પીણું લેબલ</string>
+<string name="unit">વોલ્યુમની યુનિટ</string>
+<string name="veryhigh_calory">ખૂબ ઊંચા સ્તર (ઘણી કાનૂની ઉપર)</string>
+<string name="warning">ચેતવણી!</string>
+<string name="weight">તમારું વજન</string>
+<string name="choose_theme">રંગ પસંદ</string>
+<string name="wine">વાઇન</string>
+<string name="light">તેજસ્વી</string>
+<string name="dark">શ્યામ</string>
+<string name="promile">દીઠ-માઇલ</string>
+<string name="alc_level">દારૂના સ્તર</string>
+<string name="stats">આંકડા</string>
+<string name="def_name">મૂળભૂત નામ</string>
+<string name="ad_phrase1">તમારા ફોન સાથે દારૂના સ્તર ચકાસવા.</string>
+<string name="ad_phrase2">તમે કાયદેસર રીતે વાહન કરી શકો છો તે ચકાસવા.</string>
+<string name="ad_phrase3">મૂળભૂત નામ</string>
+<string-array name="beer_amounts">
+<item>અત્યંત નાના કાચના</item>
+<item>નાના કાચના</item>
+<item>મધ્યમ ગ્લાસ</item>
+<item>મોટો ગ્લાસ</item>
+<item>ખૂબ મોટા કાચ</item>
+</string-array>
+<string-array name="units">
+<item>મેટ્રિક - milliliters (મી)</item>
+<item>પ્રવાહી ઔંસ યુએસ (FL ઔંસ)</item>
+<item>પ્રવાહી ઔંસ શાહી (FL ઔંસ)</item>
+</string-array>
+<!-- "Liquor" meaning any spirits (high alcoholic drink) -->
+<string-array name="drink_types">
+<item>બીયર</item>
+<item>વાઇન</item>
+<item>વોડકા કે લિકર</item>
+<item>કોકટેલ</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>અત્યંત નાના કાચના</item>
+<item>નાના કાચના</item>
+<item>મધ્યમ ગ્લાસ</item>
+<item>મોટો ગ્લાસ</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>નાના કાચના</item>
+<item>મધ્યમ ગ્લાસ</item>
+<item>મોટો ગ્લાસ</item>
+</string-array>
+</resources>

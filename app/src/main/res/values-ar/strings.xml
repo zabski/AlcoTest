@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="add_drink">إضافة المشروبات</string>
+<string name="add_favorite">أضف إلى المفضلة</string>
+<string name="age">عمرك</string>
+<string name="all_units">جميع الأرقام القياسية في وحدات الشراب</string>
+<string name="app_name">محتوى الكحول في الدم</string>
+<string name="avg_consumption">متوسط الاستهلاك اليومي</string>
+<string name="bac_graph">الرسم البياني لمستواك الكحول</string>
+<string name="bar_chart">شريط الرسم البياني</string>
+<string name="cancel">إلغاء</string>
+<string name="change_time">زمن التغيير</string>
+<string name="charts">المستوى الحالي من الكحول</string>
+<string name="clear_all">مسح كافة والبدء في تسجيل جديد</string>
+<string name="config">ترتيب</string>
+<string name="consumption">الاستهلاك الخاص</string>
+<string name="consumption_time">وقت الاستهلاك</string>
+<string name="current_alc">المستوى الحالي من الكحول</string>
+<string name="default_name">الاسم الافتراضي</string>
+<string name="default_percent">نسبة الافتراضي</string>
+<string name="del_item">هل تريد حذف البند؟</string>
+<string name="diary">التسجيل للاستهلاك</string>
+<string name="diary_added">وأضاف شراب أن السجل الخاص بك</string>
+<string name="diary_graph">الإحصائيات الشهرية</string>
+<string name="diary_items">التسجيل الحالي من الاستهلاك</string>
+<string name="dont_drive">لم تدفع بعد شرب الكحول!</string>
+<string name="drink_label">تسمية المشروبات</string>
+<string name="edit_name">اسم التحرير</string>
+<string name="exit">خروج</string>
+<string name="favorites">المفضلة</string>
+<string name="favorite_hint">البحث في المفضلة</string>
+<string name="fav_added">وأضاف المشروبات إلى المفضلة</string>
+<string name="feedback">تعطي رأيك</string>
+<string name="feedback_prompt">مرحبا، تريد أن تعطينا بعض التعليقات، حتى نتمكن من تحسين هذا التطبيق بالنسبة لك؟</string>
+<string name="female">أنثى</string>
+<string name="fully_sober">كنت واعية تماما</string>
+<string name="go_to_menu">استعرض وإغلاق</string>
+<string name="height">طولك</string>
+<string name="help">مساعدة</string>
+<string name="help_translate">المساعدة في ترجمة هذا التطبيق</string>
+<string name="high_calory">مستوى عال (فوق قانونية)</string>
+<string name="info">معلومات</string>
+<string name="information_1">انتقل إلى إعدادات إدخال البيانات الخاصة بك: الوزن والجنس والمحتوى القانوني للكحول في الدم أثناء القيادة في بلدك أو المحافظة. حفظ وإغلاق.</string>
+<string name="information_2">في كل مرة، عندما تستهلك المشروبات، يجب إضافته إلى السجل الخاص بك من الاستهلاك. يمكنك ان تحدد نوع وحجم ونسبة من الكحول لكل المشروبات. يمكنك أيضا إدخال وقت الاستهلاك، بشكل افتراضي يتم تعيين إلى الوقت الحالي. المولوتوف، يجب إدخال مجرد كمية من الفودكا (أو المشروبات الأخرى)، الذي يرد في المشروبات.</string>
+<string name="information_3">لتسريع هذه العملية، يمكنك حفظ المشروبات في مجلد المفضلة، تحت اسم من اختيارك. بعد حفظ المشروبات في المفضلة، يمكنك إضافته إلى السجل الخاص بك للاستهلاك، وذلك بنقرة واحدة فقط.</string>
+<string name="information_4">هنا يمكنك مراجعة وتعديل السجل الحالي من الاستهلاك. بالنقر على زر "معلومات"، سوف تكون قادرة على استعراض تفاصيل المشروبات المختارة وإضافته إلى السجل الخاص بك مرة أخرى.</string>
+<string name="information_5">وسوف يتم عرض بواسطة مستواك الحالي من الكحول وتحديثها في الوقت الحقيقي، جنبا إلى جنب مع فترة من الوقت اللازم للحصول على واقعية تماما واقعية من الناحية القانونية (وفقا لمستوى القانوني الكحول أثناء القيادة في بلدك أو المقاطعة). الرسم البياني يتصور المحتوى الخاص بك من الكحول، خلال الماضي القريب وبضع ساعات القادمة (تسميات في أسفل تشير إلى ساعات كاملة). الخط الأحمر يشير الصعيد القانوني للكحول. يمكنك الاختيار بين خط الرسم البياني والرسم البياني بار.</string>
+<string name="information_6">يمكنك تتبع الاستهلاك اليومي من الكحول (جمعت من سجلات الماضي) وإحصاءات مراجعة مثل الاستهلاك الكلي ومتوسط. يتم تمثيل كل يوم من خلال شريط واحد على الرسم البياني، والتسمية على اليسار تشير وحدة من الكحول المستهلكة (1 وحدة = 10 مل من الكحول النقي). سوف تتيح لك السهام انتقل إلى أشهر أخرى.</string>
+<string name="information_7">لون نقطة، وتقع بالقرب من مستوى الكحول والألوان من الحانات في الرسم البياني بار، وسيتم تغيير، وفقا لمستوى الحالي من الكحول. ويفسر معنى الألوان أدناه.</string>
+<string name="information_8">هذا التطبيق لا تقدم مستواك الفعلي (الحقيقي) من الكحول في الدم، ولكن تقدير على أساس صيغة رياضية. محتوى الكحول في الدم يعتمد على مجموعة من العوامل، والتي لم يتم تضمينها في الصيغة. المستوى الفعلي للكحول في الدم قد تختلف عن القيمة التي يقدمها هذا التطبيق.</string>
+<string name="legal_alc">المستوى القانوني الكحول في الدم في البلد / الإقليم</string>
+<string name="legal_sober">كنت الرصين قانونيا</string>
+<string name="legal_time">سوف تكون واقعية من الناحية القانونية في</string>
+<string name="line_chart">خط الرسم البياني</string>
+<string name="low_calory">مستوى منخفض (أقل القانونية)</string>
+<string name="male">ذكر</string>
+<string name="medium_calory">مستوى متوسط (حوالي القانونية)</string>
+<string name="menu_title">قائمة الطعام</string>
+<string name="month">شهر</string>
+<string name="month_graph_title">الاستهلاك الشهري</string>
+<string name="month_stats">الإحصائيات الشهرية</string>
+<string name="new_record">هل تريد مسح جميع مداخل وبدء التسجيل الجديد؟</string>
+<string name="no_data">لا توجد بيانات متاحة للاختيار الشهر</string>
+<string name="num_days">عدد الأيام مع استهلاك الكحول</string>
+<string name="ok">حسنا</string>
+<string name="opinion">رأي</string>
+<string name="percent_alcohol">نسبة من الكحول</string>
+<string name="promile">نسبة ألفية</string>
+
+<string name="pick_amount">اختيار حجم</string>
+<string name="pick_type">اختيار نوع من المشروبات</string>
+<string name="rate_app">معدل هذا التطبيق!</string>
+    <string name="remove_ads">ازالة الاعلانات</string>
+<string name="save_close">حفظ وإغلاق</string>
+<string name="settings">الإعدادات</string>
+<string name="sex">جنسك</string>
+<string name="sober_time">سوف تكون واقعية تماما في</string>
+<string name="standard_unit">(الوحدة = 10 غراما من الكحول النقي)</string>
+<string name="that_is">هذا هو في</string>
+<string name="total_consumption">الاستهلاك الكلي</string>
+<string name="type_name">تسمية المشروبات</string>
+<string name="unit">وحدة من حجم</string>
+<string name="veryhigh_calory">مستوى عال جدا (أعلى بكثير القانونية)</string>
+<string name="warning">تحذير!</string>
+<string name="weight">وزنك</string>
+<string-array name="beer_amounts">
+<item>كوب صغير جدا</item>
+<item>كوب صغير</item>
+<item>الزجاج المتوسط</item>
+<item>كوب كبير</item>
+<item>كوب كبير جدا</item>
+</string-array>
+<string-array name="units">
+<item>متري - ملليلتر (مل)</item>
+<item>أونصة سائلة الأمريكية (فلوريدا أوقية)</item>
+<item>أونصة سائلة الإمبراطورية (فلوريدا أوقية)</item>
+</string-array>
+<string-array name="drink_types">
+<item>بيرة</item>
+<item>نبيذ</item>
+<item>الفودكا أو الخمور</item>
+<item>كوكتيل</item>
+</string-array>
+<string-array name="vodka_amounts">
+<item>كوب صغير جدا</item>
+<item>كوب صغير</item>
+<item>الزجاج المتوسط</item>
+<item>كوب كبير</item>
+</string-array>
+<string-array name="wine_amounts">
+<item>كوب صغير</item>
+<item>الزجاج المتوسط</item>
+<item>كوب كبير</item>
+</string-array>
+</resources>
